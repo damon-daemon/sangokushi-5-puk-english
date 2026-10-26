@@ -1,0 +1,552 @@
+@39000
+I am {C3}! Come, let's duel!
+
+@39000.1
+{C2} am {C3}{C45}! Now, come at me{C35}!
+
+@39000.2
+My name is {C3}. Anyone confident in their skill, I'll take you on!
+
+@39000.3
+My name is {C3}. Anyone, come at me!
+
+@39000.4
+{C3} is here! Now, a fair duel{C39}!
+
+@39000.5
+Don't you know {C3}? If you don't value your life, come at me{C35}!
+
+@39000.6
+Will anyone dare to face {C3}?
+
+@39000.7
+{C3} is here! Whoever thinks they're the best, come at me{C35}!
+
+@39000.8
+I am {C3}. I'd like a bout with you.
+
+@39000.9
+Facing {C3}... {C7} are unlucky{C50}{C56}.
+
+@39000.10
+My name is {C3}. Anyone who wants to die, come at me{C35}!
+
+@39000.11
+{C65} Fighting {C3}... Curse your bad luck.
+
+@39000.12
+{C3} is here! Rest easy{C40}, I'll at least give you a grave{C55}.
+
+@39000.13
+My name is {C3}! I'll cut down anyone who stands in my way!
+
+@39000.14
+I am {C3}! I won't say one at a time; two, three, as many as you like, come at me!
+
+@39000.15
+I am {C3}! Only those ready to die, come at me!
+
+@39001
+True heir of the Zhang style, {C3}, is here!
+
+@39002
+True heir of the Guan style, {C3}, is here!
+
+@39003
+True heir of the Zhao style, {C3}, is here!
+
+@39004
+True heir of the Gan style, Gan Xingba, is here!
+
+@39005
+I am {C3}! Here I come!
+
+@39005.1
+{C2} am {C3}! Here I come!
+
+@39005.2
+A worthy opponent{C37}. {C3} will take you on!
+
+@39005.3
+So {C11} are the famed {v02}{C47}? {C3} will take you on!
+
+@39005.4
+Just the rival I hoped for! My name is {C3}. Here I come{C55}!
+
+@39005.5
+A fine general! Take {C3}'s blade!
+
+@39005.6
+Let me test how good you really are.
+
+@39005.7
+I'll teach you that you're no match for {C3}{C48}.
+
+@39005.8
+Don't make me laugh! Won't you regret facing {C3}?
+
+@39005.9
+Against {C3}, how long will that bravado last{C52}? Here I come{C55}!
+
+@39005.10
+Save the big talk until you've beaten {C3}.
+
+@39005.11
+You don't know your place. I'll cut you down!
+
+@39005.12
+Well said! I'll finish this at once.
+
+@39005.13
+Oh, interesting. I've long wanted a bout with {C7}.
+
+@39005.14
+It's always the weak ones who talk big. Come{C35}!
+
+@39005.15
+Enough talk. Come at me quickly!
+
+@39005.16
+Ten seconds. I'll finish you in ten seconds. Come{C35}!
+
+@39005.17
+All talk, it seems{C50}{C56}. You blowhard!
+
+@39005.18
+The weakest dogs bark loudest. {C3}, here I come!
+
+@39005.19
+My name is {C3}. I'll praise your nerve, but don't cry later.
+
+@39006
+Ugh, this killing intent... No ordinary foe. I must give it everything...
+
+@39006.1
+What fighting spirit! I can feel it from here.
+
+@39006.2
+Wh-what, are my eyes playing tricks? They look huge{C48}.
+
+@39006.3
+That stance, that face... they've been through plenty of carnage. I must get serious...
+
+@39007
+Old fool! This is no place for you.
+
+@39007.1
+The old should step aside quietly... I won't hold back.
+
+@39007.2
+You should have retired quietly... I'll send you off.
+
+@39007.3
+The old fools' era is over. Go quietly to the next world!
+
+@39007.4
+Old fool, why hasten your own death?
+
+@39008
+Cheeky, for a woman. I'll show you!
+
+@39008.1
+This is no place for a woman or child! You'll regret this.
+
+@39008.2
+I'd rather not cut down a woman, but it can't be helped.
+
+@39008.3
+A woman on the battlefield... In better times she'd live happily at home. How sad.
+
+@39009
+Heh, a whelp... I'll brush you aside with ease.
+
+@39009.1
+A naive greenhorn... Watch, here I come.
+
+@39009.2
+Brat! Challenging {C3} is ten years too soon!
+
+@39009.3
+I'll show you the spearwork of a veteran!
+
+@39009.4
+Whelp! You're a frog in a well!
+
+@39011
+What! It's {v02}! To think we'd meet like this...
+
+@39011.1
+{v02}, if you fall to my blade, you'll have no regrets.
+
+@39011.2
+Whoever wins, no regrets{C45}. Here I come{C55}!
+
+@39011.3
+It pains me to cut down my own child, but forgive me; it's fate.
+
+@39011.4
+What I feared has come true... My child, here I come!
+
+@39012
+Father or not, I won't hold back. Here I come!
+
+@39012.1
+Nothing anyone says will change things{C57} now. Father, prepare yourself!
+
+@39012.2
+At last this day has come... Father, you were my goal and my rival.
+
+@39013
+You're the one I never wanted to fight.
+
+@39013.1
+It seems we were always fated to meet like this{C50}{C56}.
+
+@39013.2
+How ironic fate is...
+
+@39015
+Long time no see, {v02}. Remember your elder brother?
+
+@39015.1
+{v02}... To think I'd have to fight you.
+
+@39015.2
+Long time no see, my {C13}. I never thought we'd meet like this.
+
+@39015.3
+The perfect place for us two to fight. Here I come, my {C13}!
+
+@39016
+Little one, I won't hold back. Prepare yourself.
+
+@39016.1
+I've heard about you, {C14}! But can you beat me?
+
+@39016.2
+You look well, {C14}... Here I come!
+
+@39016.3
+It seems this was an unavoidable fate. Here I come!
+
+@39017
+{v02}, long time no see. Do you remember me?
+
+@39017.1
+So it's you... You're my sibling, but I won't hold back.
+
+@39017.2
+{v02}, is that you? Why did it come to this...
+
+@39017.3
+Telling you to surrender is pointless, isn't it? At least I'll lay you to rest myself.
+
+@39018
+Long time no see, little one. Let me show you my skill.
+
+@39018.1
+Meeting in a place like this... Maybe this is our fate.
+
+@39018.2
+It's you, {C14}... Why, why!
+
+@39019
+I've no use for the weak.
+
+@39019.1
+Hone your skills and come back{C35}!
+
+@39019.2
+Challenging me? Ten years too soon.
+
+@39019.3
+Losers, begone{C39}!
+
+@39019.4
+Is there no one who can entertain me{C36}?
+
+@39019.5
+It's not that {C11} are weak. I'm just too strong.
+
+@39019.6
+Heh, is that all?
+
+@39019.7
+Now you know the gap in our skill.
+
+@39019.8
+Is this all the strength {C11} have?
+
+@39019.9
+Your weakness disappoints me{C48}.
+
+@39019.10
+Against someone like this I can't show my full strength{C57}.
+
+@39019.11
+I'm not even trying yet{C55}.
+
+@39019.12
+Weak! Far too weak!
+
+@39019.13
+You need more training, it seems{C44}.
+
+@39019.14
+You! Are you mocking me{C41}?
+
+@39019.15
+A pity. You disappoint me{C55}.
+
+@39019.16
+Challenging me with that skill? Ridiculous!
+
+@39019.17
+My name is {C3}, the strongest general!
+
+@39019.18
+Hmph, hopeless{C57}.
+
+@39019.19
+I knew how it would end from the start{C55}.
+
+@39019.20
+Not much, for all your big talk{C50}.
+
+@39019.21
+You picked the wrong opponent{C50}{C56}.
+
+@39019.22
+Learn this! There's always someone better!
+
+@39019.23
+"A match for ten thousand" was coined for me.
+
+@39019.24
+Know yourself better.
+
+@39019.25
+I am the ever-victorious {C3}!
+
+@39019.26
+Know your place! Come back later{C35}!
+
+@39019.27
+You will never forget fighting me.
+
+@39019.28
+The ground suits {C11} better than a saddle{C45}.
+
+@39019.29
+This is no place for the weak.
+
+@39019.30
+The outcome was decided before the fight{C45}.
+
+@39019.31
+Your moves look frozen to me.
+
+@39019.32
+The likes of {C11} can't defeat me{C57}.
+
+@39019.33
+I'll always accept a challenge{C55}.
+
+@39019.34
+Want another go? It'll end the same.
+
+@39019.35
+Isn't there anyone stronger?
+
+@39019.36
+Your bad luck was meeting me{C45}.
+
+@39019.37
+Be honored you got to fight me.
+
+@39019.38
+{C0} am a genius{C45}! {C65}
+
+@39019.39
+This seems to be the limit of your skill{C50}{C56}.
+
+@39019.40
+I look forward to our next meeting{C55}.
+
+@39019.41
+Your strength is only this much after all.
+
+@39019.42
+With skill like that, you did well to get this far.
+
+@39019.43
+Bah, nothing but small fry. How dull.
+
+@39019.44
+Entering the tournament with that skill... Don't take the martial arts tournament lightly!
+
+@39019.45
+Now you know your own weakness.
+
+@39019.46
+Heh, the title this time will be mine, {C3}'s.
+
+@39019.47
+The fruit of daily training...
+
+@39019.48
+Hone your skill before the next tournament.
+
+@39019.49
+Going well! The title this time is mine.
+
+@39019.50
+Your strength is only this much. Entering this tournament with such skill, did you come here to die?
+
+@39019.51
+{v02}, I'll remember that name.
+
+@39020
+You still can't beat me, it seems.
+
+@39020.1
+Still just a child{C44}.
+
+@39020.2
+I can't lose to something like this{C57}.
+
+@39020.3
+Greenhorn! As a parent I'm ashamed{C53}.
+
+@39020.4
+You turned your blade on your parent with that? Your daily training is lacking!
+
+@39020.5
+{C65} Greenhorn! Come back later{C35}!
+
+@39021
+You're no longer a match for me.
+
+@39021.1
+The old you could have dodged that... You've grown old{C50}{C56}.
+
+@39021.2
+It seems even you can't beat age{C50}{C56}.
+
+@39021.3
+At last, I've surpassed you...
+
+@39021.4
+Haven't you fought enough{C32}? It's time to retire and enjoy{C19} your later years.
+
+@39022
+Looks like you still need much more practice.
+
+@39022.1
+I won't lose in the real match either.
+
+@39022.2
+That was a good match. I look forward to facing you in the real thing.
+
+@39022.3
+Heh, this isn't even practice.
+
+@39022.4
+How about it? I'll face you as many times as you like!
+
+@39022.5
+Well, that was a decent warm-up{C52}.
+
+@39023
+Let's settle this in the real match.
+
+@39023.1
+Let's spar again.
+
+@39023.2
+This is going nowhere. Let's take a break.
+
+@39023.3
+Let's call this one a draw.
+
+@39023.4
+We could settle it here, but let's decide the winner in the real match.
+
+@39024
+Shall we settle it in the next match?
+
+@39024.1
+We've been dead even so far, but next time the winner will be {C3}!
+
+@39024.2
+To give me this much trouble, you are quite good.
+
+@39024.3
+Failing to finish me off was your undoing.
+
+@39024.4
+I was only going easy just now. This time I'm serious.
+
+@39024.5
+I won't make such a blunder again!
+
+@39025.1
+The fruit of daily training...
+
+@39025.3
+I look forward to our next meeting{C55}.
+
+@39025.4
+The ground suits {C11} better than a saddle{C45}.
+
+@39025.5
+Be honored you got to fight me.
+
+@39025.6
+Isn't there anyone stronger?
+
+@39025.7
+My name is {C3}, the strongest general!
+
+@39025.8
+Hmph, hopeless{C57}.
+
+@39025.9
+I knew how it would end from the start{C55}.
+
+@39025.10
+Not much, for all your big talk{C50}.
+
+@39025.11
+You picked the wrong opponent{C50}{C56}.
+
+@39025.12
+Learn this! There's always someone better!
+
+@39025.13
+"A match for ten thousand" was coined for me.
+
+@39025.14
+Know yourself better.
+
+@39025.15
+I am the ever-victorious {C3}!
+
+@39025.16
+Know your place! Come back later{C35}!
+
+@39025.17
+Easy win!
+
+@39026
+Ugh, we struck each other at once.
+
+@39026.1
+Tch, if I had been in top form, I would have won...
+
+@39026.2
+Tch, so close...
+
+@39026.3
+If only that blow had landed...
+

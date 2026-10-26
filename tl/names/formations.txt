@@ -1,0 +1,14 @@
+# formations: id<TAB>English (tools/names.py; Japanese: script/names/formations.txt)
+0	None
+1	Wedge
+2	Hook
+3	Winnow
+4	Crane
+5	Scales
+6	Crescent
+7	Arrow
+8	Yoke
+9	Snake
+10	Circle
+11	Geese
+12	Water

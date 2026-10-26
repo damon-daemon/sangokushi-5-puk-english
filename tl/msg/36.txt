@@ -1,0 +1,546 @@
+@36000
+No city can carry this out.
+
+@36001
+Ah, this will see us through for now. Thank you very much.
+
+@36001.1
+Th-thank you very much. (But where will I find food to buy, even with money...?)
+
+@36001.2
+Thank you very much. (Money's nice, but it won't fill my belly.)
+
+@36001.3
+So much... Thank you very much. *Grumble*... Oh, I'm hungry.
+
+@36002
+Oh, how wonderful! A proper meal at last!
+
+@36002.1
+Not locusts, I hope... Phew, it isn't. Thank goodness. I gratefully accept.
+
+@36002.2
+Ah, food... The food I saw in my dreams!
+
+@36003
+Locusts have ravaged our fields, and this is the result. Lord {v01}, please help us...
+
+@36003.1
+Look at these fields! The locusts have eaten them bare. Please, send us aid.
+
+@36003.2
+The locusts ruined everything and we have nothing to eat. Lord {v01}, food, please...
+
+@36004
+Thank you very much. Now we can rebuild our broken homes.
+
+@36004.1
+Thank you very much. I'll use this money to start restoring the town right away.
+
+@36004.2
+Everyone, look how much we got! Let's start the repairs right away. Let's do our best!
+
+@36005
+Our food was washed away too, so we were in trouble. Thank you very much.
+
+@36005.1
+We'd all been sharing food with those who lost their homes, so this is a real help.
+
+@36005.2
+Ah, thank you for the meal. Um... if possible, could you also pay for rebuilding the town?
+
+@36006
+Thank you very much. Now we can put our strength into rebuilding.
+
+@36006.1
+If only this had come before the disaster... But there's no use looking back...
+
+@36006.2
+Oh, the embankment is going up before our eyes! Now we're safe from typhoons and floods.
+
+@36007
+The typhoon blew our roofs away and we have nowhere to live. Even temporary shelter would do...
+
+@36007.1
+The typhoon ruined the crops. What are we to do now? Can't something be done?
+
+@36007.2
+The typhoon damaged homes and rebuilding the town is hard. Lord {v01}, please send aid...
+
+@36008
+Now we can buy medicine. Thank you very much.
+
+@36008.1
+Thank you very much. I'll use this money to take my mother to a doctor right away.
+
+@36008.2
+Ah, money... I'll go to the apothecary right now.
+
+@36009
+With proper nourishment we'll soon recover from our illness. Thank you very much.
+
+@36009.1
+If we eat well and build our strength, we'll soon get better. I can't thank you enough.
+
+@36009.2
+Oh, there are even medicinal herbs in the food... With these we'll surely recover.
+
+@36010
+Disease is spreading through the town and people are dying. Lord {v01}, please help us...
+
+@36010.1
+The plague has me... *cough* Ah, my eyes are dimming. Am I going to die too...?
+
+@36010.2
+We're sick but have no money for medicine. Everyone just waits to die. The town is like hell.
+
+@36011
+Thank you very m... (Ah, I'm so hungry I'm dizzy... I'm going to faint...)
+
+@36011.1
+I'm grateful, but if possible, could we have food too... Er, only if possible!
+
+@36011.2
+Thank you very much. But would anyone sell food in a famine like this?
+
+@36012
+So much food... I'll hand it out to everyone right away. They'll be overjoyed!
+
+@36012.1
+Ah, food... Is this a dream? Ow! It's not a dream!
+
+@36012.2
+So much for us, who couldn't even pay our taxes... I'll never forget this kindness.
+
+@36013
+The bad harvest left us like this. All the food we have left is this seed rice...
+
+@36013.1
+Look at everyone's faces! The harvest failed, there's nothing to eat, and we grow thinner by the day.
+
+@36013.2
+Lord {v01}, please, please give us food... or the babies will die.
+
+@36014
+The flood has drowned our fields and we're at our wits' end. Lord {v01}, please help us.
+
+@36014.1
+The river burst its banks and swallowed our homes. What are we to do...?
+
+@36014.2
+My child is missing in the flood. Lord {v01}, please find my child.
+
+@36015
+Everyone, please bear with it. We suffer just as you do.
+
+@36015.1
+It's because we lack the strength that you must endure this. Forgive us, and hold on.
+
+@36015.2
+I'm sorry. But I haven't forgotten your hardship. I'll find a way, I promise.
+
+@36016
+Oh, you'll take us in? We'll be sure to earn glory!
+
+@36016.1
+Thank you very much. We'll work for you with our lives.
+
+@36016.2
+We're honored that you'd accept nobodies like us!
+
+@36017
+Spare troops in {v14} are now %lu.
+
+@36018
+Then please take %lu gold instead.
+
+@36018.1
+Then would you at least use this %lu gold as war funds?
+
+@36018.2
+I see... This %lu gold was pooled by our band. Please use it for the good of the world.
+
+@36019
+It can't be helped. Then please accept %lu food instead.
+
+@36019.1
+I see... Then take this... The townsfolk pooled this %lu food.
+
+@36019.2
+What a shame... Here is %lu food. It isn't much, but please take it.
+
+@36020
+Is that so? Well, nothing for it. Let's go home.
+
+@36020.1
+You don't understand our resolve... What a shame.
+
+@36020.2
+We all trained in the martial arts for this day... Was it all for nothing?
+
+@36020.3
+It can't be helped. We all pray for your good fortune in battle, so do your best.
+
+@36021
+Lord {v01}'s fame has reached our village too. Please let us join as volunteers!
+
+@36021.1
+We formed a volunteer army to be of use to the world. Please take us under your command.
+
+@36021.2
+Townsfolk formed a volunteer army to help Lord {v01}. Please let us fight with you.
+
+@36022
+Bandits often raid the town, and the townsfolk are at their wits' end. Here too is someone who suffered from them...
+
+@36023
+Bandits have kidnapped my wife! Lord {v01}, please get her back!
+
+@36023.1
+Bandits are ravaging the town and we're at our wits' end. Lord {v01}, please punish them!
+
+@36023.2
+Those bandits killed my brother... Lord {v01}, please avenge him!
+
+@36024
+%u bandits say they'll help our army. Good news.
+
+@36024.1
+Persuaded by me, %u bandits were moved by our cause and say they'll help us.
+
+@36024.2
+%u bandits said they want to fight alongside us, so we brought them.
+
+@36025
+%u bandits answered my persuasion and say they'll fight with us for the good of the world.
+
+@36026
+Forgive me. Those savages were never going to listen to reason...
+
+@36026.1
+It's no good. They attacked me without warning, and look at this...
+
+@36026.2
+Talking got us nowhere. They shot arrows at us without warning. Look at this wound!
+
+@36027
+No good... They were never the sort to settle things by talking.
+
+@36028
+It took a little effort, but they're dealt with. Here is their leader's head.
+
+@36028.1
+Child's play for me. I tossed them about like rag dolls!
+
+@36028.2
+They were just a rabble. Once the tide turned, they scattered like baby spiders.
+
+@36029
+That taught them! This is what happens to bandits who face me{C45}.
+
+@36030
+How careless of me... They sensed our coming and had already made ready.
+
+@36030.1
+There was a fearsome brute among them, and this is the result... A blunder... Urgh!
+
+@36030.2
+For bandits, they knew their tactics. As you can see, they beat us back.
+
+@36031
+This can't be... I underestimated them as mere bandits. I can't face the people.
+
+@36032
+The bandits withdrew quietly, but the people are very displeased that it was settled with money.
+
+@36033
+We tried to settle it with money, and in the end the bandits grew angry and said they won't stop raiding the town. It is the worst outcome. The people are all furious.
+
+@36034
+The people are all deeply unhappy with a ruler who turns a blind eye to the bandits' crimes.
+
+@36035
+The talks succeeded, but the people are whispering that we may have been in league with the bandits.
+
+@36036
+The talks failed, and the people are all unhappy, saying we were too soft.
+
+@36037
+{v01}, who defeated the bandits, is hailed as a hero in town, and their valor is spreading to nearby lands.
+
+@36038
+Lord {v01}, who defeated the bandits, is hailed as a hero in town, and their valor is spreading to nearby lands.
+
+@36039
+The townsfolk seem to visit {v01}, wounded fighting the bandits, every day.
+
+@36040
+The townsfolk seem to visit Lord {v01}, wounded fighting the bandits, every day.
+
+@36041
+Lord {v01} seems unpopular with the people. Shall we give them food to win them over?
+
+@36042
+Lord {v01}'s fine rule seems to be strongly supported by the people. Shall we try giving them food?
+
+@36043
+Say, does Lord {v01} ever think about us common folk?
+
+@36043.1
+I wish Lord {v01} would think more about us common folk.
+
+@36043.2
+I had such hopes for Lord {v01}, but you never think of us at all...
+
+@36043.3
+Lord {v01} doesn't understand our suffering one bit.
+
+@36043.4
+It's always us common folk who suffer from war. Lord {v01} doesn't get it.
+
+@36043.5
+The wars have ruined our homes and fields, and still they take our taxes...
+
+@36043.6
+The taxes are so harsh. No matter how hard I work, life never gets easier.
+
+@36044
+I'm sure Lord {v01} will build a land where we can live in peace.
+
+@36044.1
+You know, I think Lord {v01} might be the one to set this chaotic age right.
+
+@36044.2
+Lord {v01} puts us common folk first. That one will go down in history as a great ruler.
+
+@36045
+Nothing grows on land like this. If only they'd clear the forest...
+
+@36045.1
+Such cramped land... What are we supposed to grow on this?
+
+@36045.2
+If they filled in that marsh, we'd have vast farmland.
+
+@36046
+Every typhoon, the river floods and our fields and homes suffer... Ah...
+
+@36046.1
+I wish they'd do some flood control work. I worry about heavy rain.
+
+@36046.2
+Lord {v01} gives no thought to disasters at all. I worry about typhoons.
+
+@36047
+The town is going to ruin, and Lord {v01} won't lift a finger for commerce...
+
+@36047.1
+I wish they'd at least fix the roads. At this rate the town will just keep declining.
+
+@36047.2
+This town is such a hard place to live. I wish they'd do something about it.
+
+@36048
+Is this castle all right? Look, there's a hole right here.
+
+@36048.1
+Hey, hey, this wall is crumbling. I'm worried.
+
+@36048.2
+This castle looks ready to collapse. Doesn't Lord {v01} care?
+
+@36049
+They don't understand how we feel at all.
+
+@36049.1
+Why won't you listen to us? Isn't a nation nothing without its people?
+
+@36049.2
+Think of us a little! War and taxes... what are we living for?
+
+@36049.3
+No ruler who ignored the people has ever lasted. You too will surely...
+
+@36050
+The floods and typhoons have left the town in this wretched state... Even if we wanted to rebuild, where would we find the money...
+
+@36050.1
+It's the worst... Because of the floods and typhoons we lost our homes and fields... Ah, what a disaster.
+
+@36050.2
+The floods and typhoons took everything from us. We can barely survive today. Please help us.
+
+@36051
+Could you make do with this for now? I'm sorry.
+
+@36052
+There's no end if I listen to every word the people say.
+
+@36053
+Make do with this, will you? It's the best I can do right now.
+
+@36054
+This is no time for that. Giving gold and rice is the best I can do.
+
+@36055
+Just leave a town like that alone.
+
+@36056
+Lord {v01}, please help us. With these endless wars we can't even buy decent clothes.
+
+@36056.1
+Please have mercy... I want to buy medicine for my sick child, but I have no money...
+
+@36056.2
+Ah, my feet hurt... I need sandals, but if I buy them I can't buy food...
+
+@36056.3
+What's this? No money even for firewood? How will we get through the winter...
+
+@36056.4
+Oh, what to do... My daughter is getting married and I can't give her anything.
+
+@36057
+Even with this much... We'd only fight each other over so little money.
+
+@36059
+At last we can live a normal life. Thank you very much.
+
+@36060
+To give us so much... Look, everyone is so happy.
+
+@36061
+What a person! Haven't they a shred of mercy?
+
+@36062
+Ah, I'm so hungry... My eyes are so dim I can't see a thing...
+
+@36062.1
+Our food has finally run out. All that's left is next year's seed rice... Ah...
+
+@36062.2
+Lord {v01}, some food... Never mind me, but please, my child...
+
+@36062.3
+Ah, I want porridge... I want porridge... I want porridge...
+
+@36062.4
+Someone, food, please... I haven't eaten anything in three days.
+
+@36063
+Even with this... We'd only have an ugly fight over so little food...
+
+@36064
+Ah, I can picture my children's happy faces. Thank you very much.
+
+@36065
+With this much, we needn't fear hunger. Daddy's coming home...
+
+@36066
+How can I ever thank you? The whole town is overjoyed.
+
+@36067
+Does Lord {v01} mean to fob us off with this...?
+
+@36068
+What is this? Has Lord {v01} abandoned us?
+
+@36069
+A spokesman for the people has come.
+
+@36070
+How much will you give?
+
+@36071
+The people seem sad.
+
+@36072
+The people seem pleased.
+
+@36073
+The people are grieving.
+
+@36074
+Lord {v01}, listen closely. Hear that? The voices of the people...
+
+@36075
+The residents of {v14} seem to have something to say.
+
+@36076
+The people are appalled at Lord {v01}'s management.
+
+@36077
+The people are stunned.
+
+@36078
+So true. I'm thinking of moving to the next town.
+
+@36078.1
+Hey, hey, careful what you say. You never know who's listening.
+
+@36078.2
+I agree. I'd like to remind them a nation is nothing without its people.
+
+@36079
+Yes, yes, that's right.
+
+@36079.1
+You think so too? Yes, that one will save us.
+
+@36079.2
+I think so too. Lord {v01} is our hope.
+
+@36080
+Right? I wish they'd develop the land too.
+
+@36080.1
+That's right. But Lord {v01} doesn't seem to understand at all.
+
+@36080.2
+It's true, and yet Lord {v01} does nothing for domestic affairs.
+
+@36081
+I think so too. If a typhoon comes, the fields are done for.
+
+@36081.1
+Exactly. If they tax us even when disasters ruin the crops, they should improve flood control.
+
+@36081.2
+I don't get Lord {v01}. Why won't they improve flood control?
+
+@36082
+Exactly. Lord {v01} doesn't understand how we feel.
+
+@36082.1
+I wish they'd put more effort into domestic affairs and boost commerce.
+
+@36082.2
+I think so too. This town is unbearable to live in.
+
+@36083
+What will they do if an enemy invades from another realm?
+
+@36083.1
+With a castle like this, we're finished if the enemy comes. Many more will die...
+
+@36083.2
+Lord {v01} has no intention of protecting us.
+
+@36084
+Eh, from Lord {v01}, for us? Thank you so much.
+
+@36084.1
+Th-thank you very much. (Did they hear what we said earlier?)
+
+@36084.2
+Thank you very much. What a feast today!
+
+@36085
+It's nice to get food, but what are we supposed to do with so little?
+
+@36085.1
+Is this all? What is Lord {v01} thinking?
+
+@36085.2
+I'd heard Lord {v01} was a person of great generosity... Was it only a rumor?
+

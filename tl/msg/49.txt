@@ -1,0 +1,294 @@
+@49000
+...
+
+@49001
+In the castle of {v14}
+
+@49002
+As you wish.
+
+@49003
+Your Majesty, envoys from the land of Wa have come bearing tribute.
+
+@49004
+Wa, you say... Where is this Wa? We have never heard of it.
+
+@49005
+East past Lelang, out to the great sea, then hundreds of li across it.
+
+@49006
+What? Envoys from so distant a land?
+
+@49007
+They say Wa was once a patchwork of small kingdoms at constant war.
+
+@49008
+But now a shrine maiden called "Himiko" rules the lands as their queen.
+
+@49009
+Hmm, then let Us name this maiden queen of Wa. See to it.
+
+@49010
+A generous heart is the first step to being a benevolent ruler.
+
+@49011
+Tribute has been sent from the land of Wa.
+
+@49012
+Near the border of {v14} and {v15}
+
+@49013
+Lord Yang Hu, I believe that is the enemy general Lu Kang hunting there.
+
+@49014
+What, we're near the border? Listen, no one chases game across it.
+
+@49015
+So Yang Hu has come hunting too...
+
+@49016
+Discerning officers and disciplined men. A fine elite force.
+
+@49017
+Back from the hunt, Yang Hu had his men check the game.
+
+@49018
+Check the arrows in the game. Send any with enemy arrows to Lu Kang.
+
+@49019
+He went to the trouble of picking out the game and sending it...
+
+@49020
+Truly, Lord Yang Hu. What great character.
+
+@49021
+Is anyone free?
+
+@49022
+Lord Lu Kang, you called?
+
+@49023
+I have some wine I brewed myself. Would you take it to Yang Hu?
+
+@49024
+Sending wine to an enemy general? What for?
+
+@49025
+It's thanks for the game from the hunt. Don't argue.
+
+@49026
+Lord Yang Hu, Lu Kang has sent wine in thanks for the game the other day.
+
+@49027
+Oh, he knew I liked wine? Well, well, let's have a cup...
+
+@49028
+This wine is from the enemy. Might it not be poisoned?
+
+@49029
+Lu Kang is not one to kill with poisoned wine. No need for doubt.
+
+@49030
+Yang Hu drank the wine all by himself.
+
+@49031
+Hmm, fine wine. I must thank him.
+
+@49032
+Lord Yang Hu, an envoy has come from Lu Kang.
+
+@49033
+Ah, you're the one who brought the wine. Is Lord Lu Kang well?
+
+@49034
+In truth... Lord Lu Kang has been bedridden with illness since last night.
+
+@49035
+What? What are his symptoms?
+
+@49036
+...I see. For that illness I have good medicine. Would you take it to him?
+
+@49037
+Er... As you wish.
+
+@49038
+Lord Lu Kang, I have brought medicine from Yang Hu that he says will cure your illness...
+
+@49039
+Ah, I see. Then I will take it.
+
+@49040
+It's medicine from the enemy general. Surely it must be poison.
+
+@49041
+Yang Hu is no petty man to send poison. There is no need for doubt.
+
+@49042
+Lu Kang took the medicine.
+
+@49043
+Lord Lu Kang, how do you feel?
+
+@49044
+Hmm, much better. The medicine worked after all.
+
+@49045
+With so honest a man on the border, taking it will not be easy.
+
+@49046
+Lu Kang is the finest general of our time. If war gains nothing, make peace by virtue.
+
+@49047
+The friendship of these great generals is said to have been told for ages after.
+
+@49048
+Yang Hu's and Lu Kang's Valor has risen.
+
+@49049
+I will serve Lord Liu Bei with my peerless valor.
+
+@49050
+With me here, Lord Liu Bei's great cause will surely succeed.
+
+@49051
+Lord Liu Bei, a letter has come from Lord Guan Yu.
+
+@49052
+I have heard of the valor of the newcomer, Lord Ma Chao, even here.
+
+@49053
+I would very much like to test my skill against him. May I?
+
+@49054
+So my brother says, but if those two fight, one is sure to get hurt.
+
+@49055
+Kongming, what should I do?
+
+@49056
+I see... I understand.
+
+@49057
+I will send Lord Guan Yu a letter myself.
+
+@49058
+A letter from Lord Kongming? Let's see...
+
+@49059
+Lord Ma Chao is a fine warrior, a worthy match for Lord Zhang Fei.
+
+@49060
+Yet he falls far short of the peerless valor of the Lord of the Beautiful Beard.
+
+@49061
+Lord Guan Yu, please keep firm guard over {v14}.
+
+@49062
+Heh heh, everyone, read this letter.
+
+@49063
+Lord Kongming knows best. He knew my strength all along...
+
+@49064
+Not only Lord Zhang Fei, but Lord Guan Yu too...
+
+@49065
+What a wealth of talent! I can't act so proud here.
+
+@49066
+Guan Yu's fame for valor has risen.
+
+@49067
+My lord... I bring sad news.
+
+@49068
+What is it, Lord Zhang? What has happened?
+
+@49069
+Zhang Hong fell ill and, despite all care, has passed away.
+
+@49070
+What? Lord Zhang Hong has died...?
+
+@49071
+Zhang Hong left a last letter for you, my lord. Please read it.
+
+@49072
+My lord, I, Zhang Hong, have seen that Jianye bears the aura of emperors.
+
+@49073
+Move the capital to Jianye and there build your royal cause.
+
+@49074
+But I humbly beg you, do not burden the people when you move.
+
+@49075
+Follow Zhang Hong's advice and move the capital to Jianye?
+
+@49076
+Lord Zhang Hong's last counsel... I take it to heart. We move the capital at once.
+
+@49077
+On Zhang Hong's advice, Sun Quan moved the capital to Jianye.
+
+@49078
+It is his last wish, but... the state has its own needs. We'll move another time.
+
+@49079
+As a loyal servant of the Han, Lord Cao Cao's deeds are unmatched in any age.
+
+@49080
+It is not right that Lord Cao Cao, who crushed the rebels, should rank as a mere subject.
+
+@49081
+Accept the title Duke of Wei and the Nine Bestowments to show your merit to the realm.
+
+@49082
+My lord, you must not.
+
+@49083
+You raised your army to aid the Han. To keep a subject's place is true righteousness.
+
+@49084
+If you seek high rank without regard for righteousness, disaster will surely follow.
+
+@49085
+Lord Cao Cao, will you take the title Duke of Wei?
+
+@49086
+It is wrong to thwart the will of all on the word of Lord Wenruo alone.
+
+@49087
+It's decided. No more arguing.
+
+@49088
+To take the title of Duke of Wei, Cao Cao had Dong Zhao and others submit a petition.
+
+@49089
+Ah, that it should come to this...
+
+@49090
+I no longer wish to serve Cao Cao. But that would betray my duty as his retainer...
+
+@49091
+Lord Cao Cao, terrible news! Lord Xun Yu has taken poison and killed himself.
+
+@49092
+How cruel... Grant him the title of Marquis Jing and bury him with honors.
+
+@49093
+No, Wenruo has a point.
+
+@49094
+As a servant of the Han, it is still far too soon to seek a royal title.
+
+@49095
+I am most grateful that you understand.
+
+@49096
+Once the realm is united and the Han secure, the title will come to me in due course.
+
+@49097
+Lord {v01}, {v02} of {v15} has died.
+

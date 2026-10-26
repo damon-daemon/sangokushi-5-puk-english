@@ -1,0 +1,195 @@
+@30000
+...
+
+@30002
+At {v01}'s castle
+
+@30003
+In the castle of {v14}
+
+@30004
+My lord, you have pacified the Central Plain. No one in all the world can match you.
+
+@30005
+Now is the time to become King of Wei and show all the warlords your majesty.
+
+@30006
+King of Wei, eh... I leave the details to you. See that all goes smoothly.
+
+@30007
+For his great deed of pacifying the Central Plain, We name Cao Cao King of Wei...
+
+@30008
+Unworthy as I am, I humbly accept.
+
+@30009
+Father, congratulations.
+
+@30010
+Now the House of Cao will truly prosper.
+
+@30011
+Fifth month, Jian'an 21 (AD 216)\n{v01} became King of Wei.
+
+@30012
+My lord, you already hold Shu, and Hanzhong too is under your rule.
+
+@30013
+Heed the will of Heaven and take the throne as King of Hanzhong.
+
+@30014
+I cannot take a royal title without the Emperor's decree.
+
+@30015
+Accept it for now, and then report to the Emperor. That should suffice.
+
+@30016
+Very well. To stand against the traitor Cao, I will accept the title...
+
+@30017
+Your memorial on becoming King of Hanzhong has reached Emperor Xian.
+
+@30018
+We recognize Imperial Uncle Liu Bei as King of Hanzhong. Stay loyal to the Han.
+
+@30019
+Big brother's a king at last... I'm so happy!
+
+@30020
+Liu Bei, King of Hanzhong?! Curse him! One day we'll settle this!
+
+@30021
+Seventh month, Jian'an 24 (AD 219)\n{v01} became King of Hanzhong.
+
+@30022
+An envoy has come from Wei. They would make you King of Wu, my lord.
+
+@30023
+How insolent! Do they think Wu is powerless?!
+
+@30024
+Lord Zhang, there's no need to get so heated.
+
+@30025
+But... accepting this title means bowing to Wei.
+
+@30026
+Liu Bang once accepted a title from Xiang Yu and bided his time before taking the realm.
+
+@30027
+Just like the Han founder. My accepting Wei's title must be Heaven's will.
+
+@30028
+Alas, it is because our efforts fell short...
+
+@30029
+That our lord must accept another's title... What a disgrace...
+
+@30030
+...Jiangdong has many able men. How long will Sun Quan stay beneath Wei?
+
+@30031
+Curse you, Sun Quan! Accepting a traitor's title!
+
+@30032
+Eighth month, Huangchu 2 of Wei (AD 221)\n{v01} became King of Wu.
+
+@30033
+Now, here in Xiangping, I shall declare independence! I fear no one in the Plain!
+
+@30034
+The Central Plain has many wise and brave men. Fighting them now is reckless.
+
+@30035
+The land is full of ill omens. War now would be unlucky!
+
+@30036
+Silence! You dare defy my orders?! Bah! Off with their heads!
+
+@30037
+My lord! Please, restrain yourself!
+
+@30038
+Our troops are no match for the Central Plain's armies. Please reconsider...
+
+@30039
+{v02} has been executed by {v01}.
+
+@30040
+{v02} and {v03} have been executed by {v01}.
+
+@30041
+When war comes, let me lead the vanguard.
+
+@30042
+In the battle for the Plain, I will surely win glory!
+
+@30043
+Good. I expect great things of you.
+
+@30044
+Gongsun Yuan has declared independence at Xiangping.
+
+@30045
+Lord {v01}, our agent {v02} has died, caught up in Gongsun Yuan's revolt.
+
+@30046
+On becoming King of Hanzhong, Liu Bei gave Guan Yu, Zhang Fei and three other officers the title of "Five Tiger Generals".
+
+@30047
+I am to lead the Five Tiger Generals...
+
+@30048
+From now on too, I shall stake my life for you, brother, and for the King of Hanzhong.
+
+@30049
+Me, one of the Five Tigers? Kinda embarrassing...
+
+@30050
+For you, big brother, I'd go through fire and water!
+
+@30051
+I humbly accept. I will spare no effort to restore the Han.
+
+@30052
+I never dreamed an old man like me would receive such an honor.
+
+@30053
+Thank you. I will crush the traitor Cao and return home in glory.
+
+@30054
+I am deeply honored. Please let me guard Hanzhong.
+
+@30055
+Even We cannot defeat age. We shall simply wither away...
+
+@30056
+To fail to restore the Han and let its line end with Us...
+
+@30057
+How bitter... how very bitter...
+
+@30058
+Emperor Xian, Liu Xie, last emperor of Han, has died without an heir.
+
+@30059
+The legitimate line of the Han has ended.
+
+@30068
+BGM Death
+
+@30069
+BGM Diao Chan
+
+@30070
+BGM Diplomacy
+
+@30071
+BGM Council
+
+@30072
+BGM Tension
+
+@30073
+BGM Fame
+

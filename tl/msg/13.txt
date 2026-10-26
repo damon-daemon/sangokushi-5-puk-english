@@ -1,0 +1,258 @@
+@13000
+Failed to open the data file.\nRegistration of data is canceled.
+
+@13001
+Create a save disc.\nIs that OK?
+
+@13002
+Please insert a new disc in drive 1.
+
+@13003
+The disc is being formatted.
+
+@13004
+Failed to format the disc.
+
+@13005
+The save data is being created.
+
+@13006
+Start a New Game
+
+@13007
+Load Data
+
+@13008
+Register Data
+
+@13009
+Create Save Disc
+
+@13010
+Duel Mode
+
+@13011
+The registered data has changed.\nSave it?
+
+@13012
+Save the registered data?
+
+@13013
+New Entry
+
+@13014
+Change Entry
+
+@13015
+Delete Data
+
+@13016
+Save Entry
+
+@13017
+Back to Menu
+
+@13018
+Jan 184 Yellow Turbans
+
+@13019
+Dec 189 Luoyang Burns
+
+@13020
+Sep 196 Cao Cao Rises
+
+@13021
+Oct 201 Storm in Hebei
+
+@13022
+Nov 208 Dragon Rises
+
+@13023
+Jul 219 Three Kingdoms
+
+@13024
+Sep 234 Star Falls
+
+@13025
+Please insert the %s disc\nin drive %s.
+
+@13026
+%3u/%2u Scenario %s %8s
+
+@13027
+Is it OK to save?
+
+@13028
+Now the game begins.
+
+@13029
+Please insert the save disc\nin drive 1.
+
+@13030
+Load this data?
+
+@13031
+Please insert a new disc\nin drive 1.
+
+@13035
+The save disc has been created.
+
+@13036
+The data has not been saved.
+
+@13037
+There is no disc inserted.
+
+@13038
+This is the wrong disc.
+
+@13039
+Please enter a name.
+
+@13040
+Enter the reading (kana).
+
+@13041
+What will you do?
+
+@13042
+Data was entered or changed.\nSave it?
+
+@13043
+Please enter the birth month.
+
+@13044
+Please enter the birth day.
+
+@13045
+Please enter the age.
+
+@13046
+Please enter the gender.
+
+@13047
+Please select a face.
+
+@13048
+No data has been registered.
+
+@13049
+No more entries can be registered.
+
+@13050
+Set the parents of %s?
+
+@13051
+Set the children of %s?
+
+@13052
+Please select a parent.
+
+@13053
+Please select children (up to 5).
+
+@13054
+Please select the data to change.
+
+@13055
+What will you change?
+
+@13056
+All family ties of %s will be removed.\nIs that OK?
+
+@13057
+Is everything OK?
+
+@13058
+Which data will you delete?
+
+@13060
+As expected. Then allow me to guide you through the world of the Three Kingdoms.
+
+@13060.1
+Wonderful, wonderful! With you, it seems the suffering people can be saved.
+
+@13061
+Liar! That's not the person!
+
+@13061.1
+Oh, you're so mean!
+
+@13062
+Select the officers to enter.
+
+@13063
+Is it OK to cancel?
+
+@13064
+W
+
+@13065
+L
+
+@13066
+D
+
+@13067
+Practice Match
+
+@13068
+Elimination
+
+@13069
+Team Tournament
+
+@13070
+Solo Tournament
+
+@13071
+Champion
+
+@13072
+New Record
+
+@13073
+Would you like to watch the match?
+
+@13074
+Top Ten Records
+
+@13075
+All past records will be erased.\nIs that OK?
+
+@13076
+Failed to open\nthe data file.
+
+@13077
+Please select the item to give.
+
+@13078
+Who will receive %s?
+
+@13079
+Gave %s to %s.
+
+@13080
+It was not only the warlords who grieved over the fate of the Han Empire as it fell into chaos. Sages who had long left the mortal world to train were stricken as they saw the corpse-strewn, scorched land, and\s
+
+@13081
+wept at its cruelty. "Saving the people wandering the streets is our mission. If it brings peace, we do not mind if our bodies rot away." The sages' fight for peace was now about to begin.
+
+@13082
+The Yellow Turbans under Zhang Jiao grew in strength amid the breakdown of order, and took the capital Luoyang and the Central Plains. The Emperor fled south across the Yangtze. The imperial army under He Jin had no strength left\s
+
+@13083
+to fight the Yellow Turbans, and the Han dynasty faced destruction. But the age brought a ray of light to the land. New warlords rose up to confront the great evil that was disturbing the world.
+
+@13084
+Cao Cao and Yuan Shao, rivals for supremacy over the Central Plains, clashed at Guandu. Yuan Shao, who should have held an overwhelming advantage with his huge army, lost his grain to a single night raid by Cao Cao and was routed. The\s
+
+@13085
+wounds this defeat dealt to Yuan Shao's camp were deep. When Yuan Shao himself fell ill and died, defections and factional strife followed, and control of the army and soldiers was lost. Thus the Yuan clan vanished from the continent.
+
+@13086
+Liu Bei, having gained the genius strategist Zhuge Liang, resolved to enter Chengdu in Yi Province, following his plan to split the realm in three. The plan was to divide the continent three ways with Cao Cao and Sun Quan, and to ally with Sun Quan\s
+
+@13087
+to oppose Cao Cao. But Yi Province would not stand idly by while its land was invaded. It resisted fiercely and refused Liu Bei's entry into Shu.
+

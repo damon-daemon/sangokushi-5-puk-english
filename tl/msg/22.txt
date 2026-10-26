@@ -1,0 +1,390 @@
+@22000
+No Schemes officer has been appointed.
+
+@22001
+Choose an envoy. Spirit needed: 40
+
+@22002
+Select the city in which to Turncoat.
+
+@22003
+There is no city where Turncoat can be used.
+
+@22004
+Which officer will you Turncoat?
+
+@22005
+Send {v01} to {v02}. Is that all right?
+
+@22006
+Select the city in which to use Rival Tigers.
+
+@22007
+There is no city where Rival Tigers can be used.
+
+@22008
+Select the city in which to Incite.
+
+@22009
+There is no city where Incite can be used.
+
+@22010
+Whom will you send? Spirit needed: 40
+
+@22011
+Select the city in which to Sabotage.
+
+@22012
+There is no city where Sabotage can be used.
+
+@22013
+Whom will you send? Spirit needed: 40
+
+@22014
+{v01} has already promised to defect to us.
+
+@22015
+The people of {v14} have already promised to aid us.
+
+@22017
+The defense of {v14} is now %u.
+
+@22018
+There is no city where Rumor can be used.
+
+@22019
+Select the city in which to spread rumors.
+
+@22020
+Who will command? Spirit needed: 40
+
+@22021
+The people of {v14} are stunned by the rumors; some even call for their lord's ouster...
+
+@22021.1
+The rumors are spreading. Some tremble in fear, others try to leave town.
+
+@22022
+The people of {v14} are in uproar{C45}. Now, {v04}, how will you calm them{C45}?
+
+@22023
+Our rumors have shaken {v03}. They may rebel.
+
+@22023.1
+The rumors have made {v03} paranoid{C27}. They may soon declare independence...
+
+@22024
+Misled by rumors, {v03} is feigning illness and not attending court{C45}.
+
+@22025
+{v04}'s officers and people are unhappy with their lord. I'd love to see their face.
+
+@22025.1
+{v04} seems shocked that bad talk about them suddenly spread among officers and people{C53}.
+
+@22026
+Rumors about {v04} have spread beyond the castle into town; people and officers alike resent {v04}.
+
+@22027
+Talk of "the traitor {v04}" has spread through town, and the whole realm eyes them with suspicion.
+
+@22027.1
+Ugly rumors about {v04} are spreading through town, and they're losing the people's trust.
+
+@22028
+Distrust of {v04} is growing; some even cry "Death to the traitor".
+
+@22029
+In {v14}, the bad talk about {v04} has people and officers distrustful. Total chaos.
+
+@22029.1
+With the rumors about {v04}, a riot or rebellion could break out at any moment{C50}.
+
+@22030
+The rumors spread more than expected. The day {v14} collapses from within is near.
+
+@22031
+Ugly rumors about {v01} are spreading in {v14}.
+
+@22032
+Neither people nor officers would listen to the rumors. {v04} seems well trusted.
+
+@22032.1
+The agent sent to spread rumors was caught. Give me another chance{C19}.
+
+@22033
+No one believed the rumors... {v04} must be very well trusted.
+
+@22034
+{v03} agreed. I can't wait for the battle.
+
+@22034.1
+It worked. {v04} would never dream there's a traitor among their men.
+
+@22034.2
+Success, as expected. I can just picture {v04}'s army in chaos on the field{C46}.
+
+@22034.3
+Rejoice{C19}! {v03} promised to defect in the next battle{C38}.
+
+@22034.4
+They accepted{C38}. I can't wait to see {v04}'s shocked face{C23}.
+
+@22035
+{C65}, it worked{C50}. I can't wait for the next battle{C53}.
+
+@22036
+I'm ashamed. {v03}'s loyalty is unshakable.
+
+@22036.1
+I'm sorry{C28}. Now I'll make them pay on the battlefield.
+
+@22036.2
+They refused. I thought that one had foresight, but...
+
+@22036.3
+I couldn't persuade them. Their eyes said they'd live and die with their lord.
+
+@22036.4
+It didn't work. I'll make up for this failure on the battlefield, I think{C22}.
+
+@22037
+Couldn't persuade them... {v03}'s loyalty is admirable. I envy {v04}.
+
+@22038
+We stirred {v03}'s ambition nicely. I look forward to their next move.
+
+@22038.1
+A great success{C23}. {v03} doesn't even know they're being played... Fool.
+
+@22038.2
+It worked. {v04} would never dream of collapsing from within.
+
+@22038.3
+The plan went well{C27}. Now if our army answers {v03}'s revolt... heh heh.
+
+@22038.4
+I egged them on nicely{C55}. Now let's wait for {v03} to rise up.
+
+@22039
+{v03} has made up their mind. We march as soon as the revolt begins. Everyone, be ready.
+
+@22040
+I'm sorry. That one's loyalty outweighs ambition; they'd never turn...
+
+@22040.1
+I failed. A general entrusted with a whole realm is not to be underestimated.
+
+@22040.2
+I couldn't persuade them. Let's skip the petty schemes and make them yield by force.
+
+@22040.3
+Forgive me{C19}. It was the chance of a lifetime for {v03}; I thought it would work...
+
+@22040.4
+{v03} is hopeless. All talk, but no courage to break away.
+
+@22041
+{v03} wasn't moved... Admirable, for an enemy. Everyone, learn from their loyalty.
+
+@22042
+I incited the people of {v14}. They'll pay for neglecting domestic affairs.
+
+@22042.1
+The people of {v14} look ready to riot{C23}. I can't wait for the battle{C23}.
+
+@22042.2
+The people are ready to explode. {v04}'s army will be in chaos in battle{C26}{C46}.
+
+@22042.3
+Inciting the people was easy. {v04} must have ruled terribly{C46}.
+
+@22042.4
+I egged them on nicely. The people are eager to run riot for Lord {v02}.
+
+@22043
+It looks like it'll work. "People are the walls, people are the castle"... Hm, who said that...?
+
+@22044
+The incitement failed. {v04} seems to have won the people's hearts.
+
+@22044.1
+I couldn't incite them. The people of {v14} are devoted to their governor; a riot is unthinkable{C32}.
+
+@22044.2
+It didn't work. We shouldn't rely on the people; we should face them head-on in battle.
+
+@22044.3
+I'm ashamed{C28}. The people saw right through me and I barely escaped with my life.
+
+@22044.4
+I'm sorry{C28}. The people of {v14} said they'd help no one but {v04}.
+
+@22045
+Couldn't persuade them... My archrival truly has the people's hearts.
+
+@22046
+Done. The castle is in uproar and easier to attack.
+
+@22046.1
+The sabotage succeeded. The castle's lax guard was a help.
+
+@22046.2
+Our spy just reported: scheme succeeded, attack at once.
+
+@22046.3
+I'd planted spies in advance, so it was easy. "Be prepared and you need not worry."
+
+@22046.4
+It worked. They seem to be repairing the walls all night{C23}.
+
+@22047
+Good, it worked{C50}. Now is the perfect chance. Prepare for battle{C39}!
+
+@22048
+The wind caught the fire and the castle went up in flames. Now's the perfect chance to attack.
+
+@22048.1
+Our saboteurs dealt the castle a heavy blow. Repairs will take a while.
+
+@22048.2
+Our elite did it. The castle of {v14} is in ruins; repairs will be impossible for a while...
+
+@22048.3
+I'd studied the castle's weak points in advance, so it was a great success{C48}.
+
+@22048.4
+Luckily we had allies inside, so the results exceeded expectations.
+
+@22049
+To think it went this well... Careful planning really does pay off.
+
+@22050
+I'm sorry. The guard was too tight; our spies couldn't get near.
+
+@22050.1
+It failed. Our spy got in but was caught...
+
+@22050.2
+They stopped us. We set the fire, but were spotted and failed.
+
+@22050.3
+The scheme failed. That castle needs some other approach...
+
+@22050.4
+I'm ashamed{C28}. In battle I'll be first into the castle to redeem myself.
+
+@22051
+{v04} truly has no openings. Taking it will be hard{C50}.
+
+@22052
+The scheme failed, but it stirred {v03}'s ambition.
+
+@22052.1
+They didn't take the bait, but from {v03}'s face, their loyalty wavered quite a bit...
+
+@22052.2
+The plan failed, but judging by their confusion, something may have taken root...
+
+@22052.3
+Disappointing, but we shook their loyalty{C23}.
+
+@22052.4
+A loyal soul indeed... But I think even their deep loyalty is cracked now{C22}.
+
+@22053
+It failed, but {v03}'s heart wavered. One more push.
+
+@22054
+Blast, instead of revolting, the people united even more.
+
+@22054.1
+I'm sorry{C28}. The people's bonds only grew stronger.
+
+@22054.2
+Bad... They grew suspicious of me and trust {v04} all the more{C27}.
+
+@22054.3
+My words only strengthened the people's unity... What a disaster...
+
+@22054.4
+It backfired. Now they trust {v04} even more.
+
+@22055
+A blunder by me... I've made the people of {v14} even more devoted to {v04}.
+
+@22056
+Select the city in which to plant an agent.
+
+@22057
+There is no city where an agent can be planted.
+
+@22058
+Who will be planted? Spirit needed: 40
+
+@22059
+There is no officer we can trust.
+
+@22060
+Plant {v01} in\s
+
+@22060.1
+. Is that all right?
+
+@22061
+They bluffed past the checkpoint and slipped into {v14} smoothly.
+
+@22062
+They were exposed at the checkpoint and barely escaped with their life. The plant failed.
+
+@22063
+Lord {v02}, {v01} went to {v14} and vanished. It seems {v01} was {v03}'s spy.
+
+@22064
+Lord {v02}, {v01}, who was sent to {v14}, is reported to be in {v03}'s realm. It seems they were a planted agent.
+
+@22065
+Who will go to Training? Spirit needed: 80
+
+@22066
+{v01} has set out on training. Let's look forward to the results in a year.
+
+@22067
+We cannot sell any more food.
+
+@22068
+We have no food.
+
+@22069
+Who will Trade? Spirit needed: 20
+
+@22070
+How much food will you sell?
+
+@22071
+You now have Gold %lu and Food %lu.
+
+@22072
+We cannot buy any more food.
+
+@22073
+Not enough gold.
+
+@22074
+How much food will you buy?
+
+@22075
+Select the city in which to Patrol.
+
+@22076
+Who will Patrol? Spirit needed: 30
+
+@22077
+Support in {v14} is now %u.
+
+@22078
+No city in our territory can Trade.
+
+@22079
+There is no officer able to Trade.
+

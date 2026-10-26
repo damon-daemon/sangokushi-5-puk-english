@@ -1,0 +1,174 @@
+@29000
+Wh-whoa! Wh-who goes there{C45}?!
+
+@29001
+I dreamed {v02} cut me down. I have a bad feeling{C55}.
+
+@29002
+I dreamed bandits attacked me. I have a bad feeling{C48}.
+
+@29003
+Summon {v02}. I have questions.
+
+@29004
+Making a fuss over a mere dream... A dream of becoming king is a dream within a dream. Best forget it.
+
+@29005
+Grr, {v02}! Even in a dream, to attack me... I'll punish you{C55}!
+
+@29006
+Summon {v02} from the town. That one may be a spy.
+
+@29007
+Summon {v02}. That one may be an assassin sent by my enemies.
+
+@29008
+There must be a bandit in the town! Question the people one by one!
+
+@29009
+{v02}, how are things... Any complaints about life lately?
+
+@29010
+Aaargh!
+
+@29011
+{v02}, for the crime of treason, you will die.
+
+@29012
+{v02}, there are rumors of an assassin in the town. Do you know anything?
+
+@29013
+I see... Sorry to trouble you. You may go.
+
+@29014
+To think the dream would come true... Ugh...
+
+@29015
+{v02}, you wretch! I take you for an assassin hired by another realm{C48}. Prepare yourself{C39}!
+
+@29016
+A bandit slipped in? So the dream was true...
+
+@29017
+What is the matter, {C9}?
+
+@29018
+How shameful{C19}. Doubting your retainers over a mere dream will damage their trust{C55}.
+
+@29019
+Just as {C0} expected of you, {C9}. I am relieved{C48}.
+
+@29020
+Please reconsider. A dream is only a dream. Kill someone over it?
+
+@29021
+How shameful{C19}. If you do such things, no worthy men will ever visit this town{C55}.
+
+@29022
+If you give in to such suspicion, you will lose the people's trust{C55}.
+
+@29023
+Are you in your right mind{C24}? Do this and the people will no longer follow you{C48}.
+
+@29024
+What is this... This isn't like you, {C9}... Surely you don't suspect me...
+
+@29025
+I bear you no grudge, but such is the sorrow of this chaotic age... Die{C19}!
+
+@29026
+Wait{C19}! What have {C0} done... Urgh!
+
+@29027
+N-no, this is the first I've heard of it.
+
+@29028
+Lord {v02} must suspect me... It's dangerous to stay here.
+
+@29029
+Someone with a grudge against you hired me. {v02}, prepare to die!
+
+@29030
+What did {C0} ever do... Damn you... Aaargh!
+
+@29031
+Is that all right?
+
+@29032
+Disaster! Lord {v01} was attacked by an assassin and wounded!
+
+@29033
+We questioned everyone in the town one by one, but found no one suspicious.
+
+@29034
+Distrust of our lord is growing among the people.
+
+@29035
+Lord {v01}, thieves broke into the castle and robbed the storehouse!
+
+@29036
+{v01} has come to distrust Lord {v02}.
+
+@29037
+That night...
+
+@29038
+{v01} was cut down.
+
+@29039
+Feeling suspected by {v02}, {v01} left the town that night.
+
+@29040
+This time, it will be held in {v01}'s realm.
+
+@29041
+Entrants come from the realms of {v01}, {v02}, {v03} and {v04}.
+
+@29042
+Let the martial arts tournament begin! All of you, show the fruits of your training to the full!
+
+@29043
+{v01}, you truly deserve to be called peerless in the land. Keep training ever harder.
+
+@29044
+This is our reward to you. Accept it.
+
+@29045
+We also reward {v01}.
+
+@29046
+With this, the martial arts tournament is closed.
+
+@29047
+I am {C3}! None can stand before my mighty spear!
+
+@29047.1
+I won, somehow, but my footwork is still sloppy. I must train harder.
+
+@29047.2
+I won! {C0} am the champion{C45}!
+
+@29048
+I am deeply grateful.
+
+@29049
+An envoy from Emperor Xian announces a martial arts tournament.
+
+@29050
+Select the officers to enter.
+
+@29051
+By order of Emperor Xian, every realm must enter two officers.
+
+@29052
+Won the 10000 grand prize; Valor rose by 1000.
+
+@29053
+Won the 2000 runner-up prize; Valor rose by 500.
+
+@29054
+Lord {v01}, will you go and watch?
+
+@29055
+Champion: {v01} Runner-up: {v02}
+

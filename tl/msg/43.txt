@@ -1,0 +1,327 @@
+@43001
+In the castle of {v14}
+
+@43002
+As you wish.
+
+@43003
+Just so.
+
+@43004
+Will you visit Lord Zhuge Liang?
+
+@43005
+Liu Bei has come. Is Master Sleeping Dragon at home?
+
+@43006
+Brother, why not visit the cottage of Master Sleeping Dragon now?
+
+@43007
+Xu Shu recommended him, so he must be something.
+
+@43008
+Yes, Guan Yu is right. Let us go to Longzhong.
+
+@43009
+Brother, this Kongming lives on Wolong Ridge, right?
+
+@43010
+That's right. They say he lives there, farming on fair days and reading when it rains.
+
+@43011
+Hmm... I have no reason, but somehow I'm not in the mood.
+
+@43012
+Brother, would you waste Xu Shu's kind recommendation?
+
+@43013
+Let's just meet him and decide then.
+
+@43014
+No, as long as I have you two, I am content. There's no need to rush.
+
+@43015
+You think that highly of us...?
+
+@43016
+At the cottage on Wolong Ridge, a boy came out to greet Liu Bei and his men.
+
+@43017
+I am Liu Bei, Imperial Uncle, General of the Left and Governor of Yu. I would see the Master.
+
+@43018
+Brother, how's he going to remember a title that long?
+
+@43019
+I suppose you're right... Then just tell him that Liu Bei has come.
+
+@43020
+But Zhuge Liang was out. He had left somewhere that morning.
+
+@43021
+Hmm, he is out. Then we will wait for a while...
+
+@43022
+Brother, let us go home and come back another day.
+
+@43023
+I suppose so... We'll go home for today.
+
+@43024
+Brother, they say the Master is at home, but... the sky looks threatening.
+
+@43025
+Yeah, it's gotten real cloudy, big brother.
+
+@43026
+Never mind the weather. Let us go.
+
+@43027
+Very well, I will come with you.
+
+@43028
+Why not just send someone to summon him?
+
+@43029
+True, the weather doesn't look good.
+
+@43030
+In weather like this, you're better off staying home.
+
+@43031
+But if I miss this chance, who knows when I will meet him?
+
+@43032
+No need to go out in bad weather. We'll leave it for today.
+
+@43033
+We left word, so he'll probably come to us.
+
+@43034
+The boy said the Master was reading at the cottage today.
+
+@43035
+Ah, it seems I can finally meet Master Sleeping Dragon.
+
+@43036
+Our second visit was worth it.
+
+@43037
+I got kind of a bad feeling about this...
+
+@43038
+At last, on my second visit, I am able to meet you, Master.
+
+@43039
+I would be honored to receive your teaching.
+
+@43040
+But the man at the cottage was not Zhuge Liang, but his brother Zhuge Jun.
+
+@43041
+Two visits and still not to meet him...
+
+@43042
+Can't be helped. Let's go home, brother.
+
+@43043
+Then I will write a letter. Wait a moment.
+
+@43044
+The wind is rising. Let us go home quickly.
+
+@43045
+Lord Zhuge Jun, please give my regards to your brother. I will come again.
+
+@43046
+I am going to Wolong Ridge. Guan Yu, Zhang Fei, come with me.
+
+@43047
+Enough of this! Even two visits were more than he deserved.
+
+@43048
+This Zhuge Liang must really have no learning and so he hides from us.
+
+@43049
+Bah! He's troubled my brother enough!
+
+@43050
+If he still won't come, I'll tie him up and drag him here!
+
+@43051
+You know how King Wen of Zhou won Taigong Wang? A wise man is won only by respect.
+
+@43052
+You need not come. I will go alone.
+
+@43053
+It is dangerous alone. I will go with you.
+
+@43054
+...I'm coming too. No way I'm staying behind when both my brothers go.
+
+@43055
+The boy said the Master was taking a nap at the cottage.
+
+@43056
+He is napping... Then we will wait until he wakes.
+
+@43057
+Napping?! He's faking it, I bet... I'll set the place on fire to wake him!
+
+@43058
+Stop it, Zhang Fei! Be quiet!
+
+@43059
+It seems someone has come... I must make myself presentable.
+
+@43060
+It is an honor to meet you. I am Zhuge Liang.
+
+@43061
+A pleasure. I am Liu Bei of Xinye.
+
+@43062
+I have read your letter, but I have no talent and fear I would be of little use to you.
+
+@43063
+A man recommended by Xu Shu has no need for such modesty.
+
+@43064
+I beg you, teach me a plan to restore the Han.
+
+@43065
+Since the Yellow Turbans, the land has known fierce war, and still there is no rest.
+
+@43066
+Traitors abound north and east. Even if you sought to expand there now, you could not.
+
+@43067
+Leave the north and east to the traitors for now and take Jing, then Yi.
+
+@43068
+Jing Province... and then Yi Province...
+
+@43069
+Then wait for upheaval in the center and march from both; the realm can be yours.
+
+@43070
+...Hearing your counsel, Master, I feel I have seen light through dark clouds.
+
+@43071
+Master, I beg you to leave your cottage and teach me day and night.
+
+@43072
+I am but a humble scholar of Nanyang. Please, do not overrate me.
+
+@43073
+For the Han, and for the people, I must have your help.
+
+@43074
+Such words, wasted on a young man of no talent.
+
+@43075
+Then will you lend me your aid?
+
+@43076
+...Yes. To repay your three visits, I will serve you, Imperial Uncle.
+
+@43077
+Sleeping Dragon Zhuge Liang has become Liu Bei's strategist.
+
+@43078
+True, perhaps I have put too much effort into one man.
+
+@43079
+If you understand that, I have nothing more to say.
+
+@43080
+Right, I'll go drag that Sleeping Dragon back here.
+
+@43081
+Zhang Fei! Hey, wait... Ah, he's gone.
+
+@43082
+Brother, I've brought Lord Zhuge Liang.
+
+@43083
+Zh-Zhang Fei! Bah, you fool!
+
+@43084
+I'm so sorry, Master. Please forgive my brother's rudeness.
+
+@43085
+No, I was coming today anyway, and met the General at the city gate.
+
+@43086
+If you hadn't come today, I'd have tied you up and dragged you here.
+
+@43087
+Zhang Fei! Don't be so rude! You fool!
+
+@43088
+Rough, but brimming with loyalty. That's Lord Zhang Fei.
+
+@43089
+By the way, Master, could it be that you came all the way to Xinye today because...
+
+@43090
+I have read the letter you sent the other day.
+
+@43091
+I am moved by your heart, Imperial Uncle, worried for the state and the people.
+
+@43092
+Young and untalented though I am, I will serve you with all my heart, Lord Liu Bei.
+
+@43093
+It seems my time has come at last.
+
+@43094
+Lord Kongming, stay strong!
+
+@43095
+Jiang Wei, I shall pass all my art of war on to you.
+
+@43096
+Of all the army, Jiang Wei, you alone are worthy of my writings.
+
+@43097
+Zhuge Liang passed on his "Art of War in 24 Chapters" to Jiang Wei.
+
+@43098
+I will give my all to carry on your work, Lord Kongming, and restore the Han.
+
+@43099
+Restore the Han... I could not even retake the old capital, Chang'an.
+
+@43100
+I have failed my lord, who came to me three times...
+
+@43101
+Lord Kongming! Hold on!
+
+@43102
+...After I die, entrust all affairs to Jiang Wan.
+
+@43103
+When Jiang Wan is gone, Fei Yi will support the state.
+
+@43104
+Then, after Lord Fei Yi, to whom should we entrust the great affairs of state?
+
+@43105
+...Lord Kongming! Ah, he is gone.
+
+@43106
+To think the Prime Minister thought so highly of us.
+
+@43107
+I will serve faithfully to answer the Prime Minister's hopes.
+
+@43108
+News of Zhuge Liang's death reached {v01} in {v14} at once.
+
+@43109
+The Prime Minister is dead... Has Heaven abandoned the Han...?
+

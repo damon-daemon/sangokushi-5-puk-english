@@ -1,0 +1,150 @@
+@7000
+A Registrar of Tianshui Commandery in Wei. In the first Northern Expedition his friend Jiang Wei defected to Shu, so he opened the city gate and surrendered to Shu too. Later he became Shu's Commandant of the Imperial Guard.
+
+@7001
+A Wei Palace Colonel, trusted by General-in-Chief Cao Shuang. When Wen Qin and Guanqiu Jian rebelled, he went as envoy to hold back his friend Wen Qin, but failed and turned back in tears.
+
+@7002
+General of the Right of Shu, promoted through the eunuch Huang Hao. He was to replace Jiang Wei, General Who Guards the Capital, on the Wei front, but lost his nerve on hearing that the Wei general Deng Ai was formidable, and never sortied.
+
+@7003
+Courtesy name Kongshuo. Governor of Tianshui for Wei. On Deng Ai's orders he joined the campaign against Shu and beat the Shu general Zhuge Zhan at Mianzhu, taking the city. After Shu fell he returned to Tianshui.
+
+@7004
+Inspector of Yongzhou for Wei. Beaten by Jiang Wei's back-to-the-river formation, he was saved by Chen Tai and Deng Ai. Later a Wei Imperial Secretary, he was executed with his mother as an accomplice when Cao Mao was killed.
+
+@7005
+Governor of Yongchang in Shu. He did not join Yong Kai and Gao Ding when they rebelled. With Lu Kai he held off Yong Kai's attacks and defended the city until Zhuge Liang and the main Shu army arrived.
+
+@7006
+Palace Attendant of Jin. When Wang Jun sent a memorial urging an attack on Wu, he advised Sima Yan to wait a year. Once the campaign was decided he led an army as General Who Pacifies the East.
+
+@7007
+Courtesy name Shuzhi. A retainer of Yuan Tan and Assistant Officer of Qingzhou. When Yuan Tan's head was displayed after his death, he defied Cao Cao's order and wept beside it. His loyalty won him the post of Colonel.
+
+@7008
+Gentleman of the Han. He plotted with Dong Cheng, Liu Bei and others to kill Cao Cao, but a servant of Dong Cheng informed on them. The plot was exposed and he was executed along with Dong Cheng's whole clan.
+
+@7009
+A Wei general under Sima Wang, commander of the Great Wall defense. He dueled the Shu general Fu Qian and lost, was captured on the spot, and was set upon and killed by many Shu soldiers.
+
+@7010
+Jin General Who Establishes Might and son of Wang Hun. He joined the campaign against Wu, led an army to Wuchang and joined Wang Jun at Shitou. One of the "Seven Sages of the Bamboo Grove."
+
+@7011
+A Wei general. As General Who Conquers the South he led 100,000 men against Wu's Nan Commandery, but when Ding Feng won at Dongxing he saw no gain in it and was forced to withdraw.
+
+@7012
+Courtesy name Guoshan. Military Adviser with the Shu army. When Guan Yu attacked Xiangyang, he warned him of weak defenses in Jingzhou. He held Maicheng after Guan Yu's escape, but on learning of his death, leaped from a tower and killed himself.
+
+@7013
+A Secretary of Wu. He urged caution on Sun Hao, who favored aggressive policy, and angered him, and was driven from court. He went into seclusion, worrying about the future of Wu.
+
+@7014
+A Yellow Turban. After the rebellion he kept holding Runan. He was captured by Xu Chu, who was then organizing a volunteer army, and executed by Cao Cao.
+
+@7015
+Courtesy name Boyi. Son of Cao Cao's strategist Guo Jia. After Guo Jia's death he was taken into Cao Cao's household, and later became Crown Prince's Literary Attendant of Wei. He was learned, but said to treat others in extremes.
+
+@7016
+Courtesy name Zhongmiao. A general under Liu Biao. When Liu Bei took Jingzhou he served Liu Bei on Meng Da's recommendation, mostly guarding Jiameng Pass. Father of the Shu general Huo Yi.
+
+@7017
+Son of Huo Jun. Governor of Jianning in Shu. On hearing that Chengdu had fallen he put on mourning clothes and wept. He kept resisting at Jianning, then surrendered with his men after confirming Liu Shan's safety.
+
+@7018
+An attendant of Cao Cao, who kept Cao Cao's fine sword "Qinggang." When he tried to plunder at Changban, Zhao Yun cut him down and also seized the Qinggang sword.
+
+@7019
+Nephew of Xiahou Dun and elder brother of Xiahou Shang. He guarded Mt. Tiandang in the war with Shu. The enemy general Yan Yan set fire to it, and while he was busy putting it out, Yan Yan cut him down.
+
+@7020
+A general under Gongsun Yuan. He remonstrated when his lord falsely styled himself Prince of Yan, and was executed in anger. Later Sima Yi, who put down Gongsun Yuan, gave his descendants a title.
+
+@7021
+Illegitimate son of Guan Xing. Marquis of Hanshouting in Shu. Guan Xing's heir Guan Tong had no son, so he inherited the family. He was killed by Wei soldiers during Zhong Hui's rebellion.
+
+@7022
+Courtesy name Yuansi. He served Yuan Shu, but Xiahou Dun brought him over to Cao Cao. A famed general, he urged Cao Cao to adopt military farming colonies. In the Romance he is the brother of Han Xuan, Governor of Changsha.
+
+@7023
+A chief of the "White Wave bandits" of Hedong. He escorted Emperor Xian to Luoyang with Dong Cheng and Yang Feng. Fearing Cao Cao's power, he joined Yang Feng against him. Later he was killed by Guan Yu and Zhang Fei.
+
+@7024
+A Yellow Turban general. He seized Wancheng with Sun Zhong and Zhao Hong. He fought the Yellow Turban suppression army of Zhu Jun and Liu Bei, and was killed by a stray arrow in the battle.
+
+@7025
+Courtesy name Yuanze. Minister of Agriculture of Wei, trusted by Cao Shuang and called his "Bag of Wisdom." When Cao Shuang gave in to Sima Yi, he urged him to fight, but was not heeded.
+
+@7026
+Inspector of Yangzhou in Wei and son of Yue Jin. He distinguished himself against Shu. During Zhuge Dan's rebellion he received Jia Chong's secret letter, and was attacked by surprise by Zhuge Dan and cut down in a tower.
+
+@7027
+Inspector of Qingzhou. Surrounded by Yellow Turbans, he asked Liu Yan, Inspector of Youzhou, for help. Liu Yan sent Zou Jing, Liu Bei and others, who defeated the Yellow Turbans.
+
+@7028
+Retainer of Jin Xuan, Governor of Wuling. He advised surrender but was ignored. When Jin Xuan fled after losing to Zhang Fei, he took his head and surrendered to Liu Bei, who made him the next Governor of Wuling.
+
+@7029
+A Wei general and son of the fierce Xu Chu. In the campaign against Shu he served Zhong Hui. As vanguard he built the road, but the ground gave way under Zhong Hui, and he was beheaded for the fault.
+
+@7030
+A general under Lu Bu. He betrayed Lu Bu with Hou Cheng and Song Xian, surrendered to Cao Cao and joined his army. At the Battle of Baima he challenged Yan Liang to a duel and was cut down in one exchange.
+
+@7031
+Governor of Longxi in Wei. He joined the campaign against Shu under Deng Ai. With Wang Qi he led an ambush that broke Zhuge Zhan's army, the great feat of taking Mianzhu.
+
+@7032
+A general under Gongsun Zan. He fought at the Battle of Jieqiao, was defeated by Yuan Shao's general Qu Yi, and was cut down.
+
+@7033
+Courtesy name Mancai. A retainer of Sun Quan. When Zhuge Liang came as an envoy for the alliance, he challenged him to a debate. An anecdote says Sun Quan tested whether he could ride a horse, and he fell off.
+
+@7034
+A Yellow Turban commander under Zhang Bao. Pressed by imperial forces under Zhu Jun, he shut himself in Yangcheng. When its fall was certain, he stabbed Zhang Bao to death and surrendered to the imperial army.
+
+@7035
+Younger brother of Yan Baihu. He led an army against Sun Ce's but could not win and made peace. At the talks he demanded that the territory be split in two, which angered Sun Ce, and was cut down in camp.
+
+@7036
+Inspector of Bingzhou and nephew of Yuan Shao. He marched to rescue Yuan Shao after his defeat at Guandu. Later he raised troops against Cao Cao at Huguan. He fought well against Cao Cao's famed generals Li Dian and Yue Jin, but lost.
+
+@7037
+Courtesy name Jixing. Palace Attendant of the Minor Treasury. Angry at the tyranny of Cao Cao after he became king, he rebelled at Xuchang with Wei Kang and Jin Yi. Xiahou Dun and others stopped them; the revolt failed and he was executed.
+
+@7038
+A Shu general. As General of the Right he joined the Northern Expeditions. He carried supplies from Jiange to Mt. Qi with Wooden Oxen and Flowing Horses, and on Zhuge Liang's plan let Wei capture them on purpose.
+
+@7039
+A Yellow Turban and deputy to Zhang Bao. He sallied at the Battle of Quyang. Liu Bei, in the imperial vanguard, sent Zhang Fei to fight him, and Zhang Fei threw him down in a few exchanges.
+
+@7040
+A general under Lu Bu. While besieged he was beaten with rods for breaking the ban on drink. Giving up on Lu Bu, he resolved to defect with Wei Xu and Song Xian, stole Red Hare and surrendered to Cao Cao.
+
+@7041
+Younger brother of Gongsun Zan. He went to Yuan Shao as envoy to negotiate dividing Jizhou. Yuan Shao had no intention of dividing it, and he was ambushed and killed on his way home.
+
+@7042
+Son of Gongsun Du. When Yuan Xi and Yuan Shang fled to him after losing to Cao Cao, he killed them and sent their heads to Cao Cao, who rewarded him with the title Marquis of Xiangping and the rank of General of the Left.
+
+@7043
+Younger brother of Gongsun Kang. He urged Gongsun Kang to kill Yuan Xi and the others and send their heads to Cao Cao. He inherited the title and became General of Chariots and Cavalry, but his nephew Gongsun Yuan seized his position.
+
+@7044
+Governor of Yuesui. He rebelled against Shu with Yong Kai, but gave in to Zhuge Liang's divisive scheme, surrendered, and killed Yong Kai and Zhu Bao. For this he was made Governor of Yizhou Commandery.
+
+@7045
+A general under Liu Zhang. With Yang Huai he guarded Fushui Pass. He plotted to assassinate Liu Bei, but Liu Bei's strategist Pang Tong saw through it, and he was lured out and executed.
+
+@7046
+A retainer of Wang Zhi. He disobeyed an order to ambush Guan Yu and let him go. Later he went to Jingzhou to rely on Guan Yu and joined Liu Bei's side.
+
+@7047
+A Wei general. In the conquest of Shu he followed Zhong Hui as Army Protector. Captured by Zhong Hui, who plotted independence in Shu, he narrowly escaped death through his men Qiu Jian and his son Hu Yuan.
+
+@7048
+Governor of Jianping in Wu. He saw wood chips coming down the Yangtze and guessed that Jin was building warships. When Jin invaded, he held Jianping to the death, and surrendered on hearing that Sun Hao had.
+
+@7049
+Chief Clerk of Wei. When Zhuge Dan rebelled, he went to Wu as envoy to ask for aid. He brought Zhuge Dan's son Zhuge Jing to Wu as a hostage and completed his mission.
+

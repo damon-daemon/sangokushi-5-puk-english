@@ -1,0 +1,864 @@
+@0
+I
+
+@0.1
+I
+
+@0.2
+I
+
+@0.3
+I
+
+@0.4
+I
+
+@0.5
+I
+
+@0.6
+I
+
+@0.7
+I
+
+@0.8
+I
+
+@0.9
+I
+
+@0.10
+I
+
+@1
+I
+
+@1.1
+I
+
+@1.2
+I
+
+@1.3
+I
+
+@2
+I
+
+@2.1
+I
+
+@2.2
+I
+
+@2.3
+I
+
+@2.4
+I
+
+@2.5
+I
+
+@2.6
+I
+
+@3
+Zhang Fei of Yan
+
+@3.1
+Genius Kongming
+
+@3.2
+Sleeping Dragon
+
+@3.3
+Zhao Zilong
+
+@3.4
+Guan Yunchang
+
+@3.5
+Splendid Ma Chao
+
+@3.6
+Ma Mengqi
+
+@3.7
+Huang Hansheng
+
+@3.8
+Sun Bofu
+
+@3.9
+Sun Zhongmou
+
+@3.10
+Liu Xuande
+
+@3.11
+Cao Mengde
+
+@3.12
+Gan Xingba
+
+@3.13
+Handsome Zhou
+
+@3.14
+Zhou Gongjin
+
+@3.15
+Sun Wentai
+
+@3.16
+Xu Zhongkang
+
+@3.17
+Zhang Wenyuan
+
+@3.18
+Pang Lingming
+
+@3.19
+Flying General Lu Bu
+
+@3.20
+Lu Fengxian
+
+@3.21
+Xu Gongming
+
+@3.22
+Elai Dian Wei
+
+@3.23
+Xiahou Miaocai
+
+@3.24
+Xiahou Yuanrang
+
+@3.25
+Ling Gongxu
+
+@3.26
+Yellow Beard Ziwen
+
+@3.27
+Cao Ziwen
+
+@3.28
+Jiang Boyue
+
+@3.29
+Cao Zixiao
+
+@3.30
+Cao Zidan
+
+@3.31
+Cao Wenlie
+
+@3.32
+Cao Zihuan
+
+@3.33
+Xiahou Zhongquan
+
+@3.34
+Wen Zhongye
+
+@3.35
+Chen Xuanbo
+
+@3.36
+Wang Ziquan
+
+@3.37
+Wen Zhongruo
+
+@3.38
+Wen Shu
+
+@3.39
+Zhuge Gongxiu
+
+@3.40
+Sima Anshi
+
+@3.41
+Sima Zhongda
+
+@3.42
+Wang Shizhi
+
+@3.43
+Du Yuankai
+
+@3.44
+Ma Shoucheng
+
+@3.45
+White Horse General
+
+@3.46
+Gongsun Bogui
+
+@3.47
+Guan Anguo
+
+@3.48
+Young Phoenix Shiyuan
+
+@3.49
+Zhang Boqi
+
+@3.50
+Wang Zijun
+
+@3.51
+Wei Wenchang
+
+@3.52
+Wu Ziyuan
+
+@3.53
+Zhang Bogong
+
+@3.54
+Sun Shubi
+
+@3.55
+Huang Gongfu
+
+@3.56
+Sun Shuwu
+
+@3.57
+Sun Zitong
+
+@3.58
+Cheng Demou
+
+@3.59
+Han Yigong
+
+@3.60
+Zhou Youping
+
+@3.61
+Taishi Ziyi
+
+@3.62
+Ding Chengyuan
+
+@3.63
+Lu Ziming
+
+@3.64
+Lu Boyan
+
+@3.65
+Zhu Yifeng
+
+@3.66
+Zhu Xiumu
+
+@3.67
+Liu Jingsheng
+
+@3.68
+Nanman King Meng Huo
+
+@4
+we
+
+@4.1
+we
+
+@4.2
+we
+
+@4.3
+we
+
+@4.4
+we
+
+@4.5
+we
+
+@5
+Your Majesty
+
+@5.1
+you
+
+@5.2
+you
+
+@6
+my lord
+
+@6.1
+you
+
+@7
+you
+
+@7.1
+you
+
+@7.2
+you
+
+@7.3
+you
+
+@7.4
+you
+
+@7.5
+you
+
+@8
+Strategist
+
+@8.1
+General
+
+@8.2
+you
+
+@8.3
+you
+
+@8.4
+you
+
+@9
+Master Zhang
+
+@9.1
+Great Teacher
+
+@9.2
+General of Heaven
+
+@9.3
+Great King
+
+@9.4
+brother
+
+@10
+my liege
+
+@10.1
+my lord
+
+@11
+you
+
+@11.1
+you
+
+@11.2
+you
+
+@11.3
+you
+
+@12
+that one
+
+@12.1
+that cur
+
+@13
+sister
+
+@13.1
+brother
+
+@14
+sister
+
+@14.1
+brother
+
+@14.2
+big brother
+
+@14.3
+big sister
+
+@15
+woman
+
+@15.1
+you
+
+@15.2
+old fool
+
+@15.3
+girl
+
+@15.4
+boy
+
+@15.5
+greenhorn
+
+@15.6
+lout
+
+@15.7
+brute
+
+@15.8
+coward
+
+@15.9
+pedant
+
+@15.10
+wretch
+
+@16
+traitor
+
+@16.1
+villain
+
+@16.2
+scum
+
+@16.3
+rebel
+
+@16.4
+cur
+
+@17
+
+
+@17.1
+
+
+@17.2
+
+
+@18
+
+
+@18.1
+
+
+@19
+
+
+@19.1
+
+
+@19.2
+
+
+@20
+
+
+@20.1
+
+
+@20.2
+
+
+@21
+
+
+@21.1
+
+
+@21.2
+
+
+@22
+
+
+@22.1
+
+
+@22.2
+
+
+@23
+
+
+@23.1
+
+
+@23.2
+
+
+@23.3
+
+
+@23.4
+
+
+@23.5
+
+
+@23.6
+
+
+@24
+
+
+@24.1
+
+
+@24.2
+
+
+@25
+
+
+@25.1
+
+
+@25.2
+
+
+@26
+
+
+@26.1
+
+
+@26.2
+
+
+@27
+
+
+@27.1
+
+
+@27.2
+
+
+@28
+
+
+@28.1
+
+
+@28.2
+
+
+@29
+
+
+@29.1
+
+
+@29.2
+
+
+@30
+
+
+@30.1
+
+
+@30.2
+
+
+@31
+
+
+@31.1
+
+
+@31.2
+
+
+@32
+
+
+@32.1
+
+
+@32.2
+
+
+@33
+
+
+@33.1
+
+
+@33.2
+
+
+@34
+
+
+@34.1
+
+
+@34.2
+
+
+@35
+
+
+@35.1
+
+
+@35.2
+
+
+@35.3
+
+
+@35.4
+
+
+@36
+
+
+@36.1
+
+
+@36.2
+
+
+@37
+
+
+@37.1
+
+
+@38
+
+
+@38.1
+
+
+@38.2
+
+
+@39
+
+
+@39.1
+
+
+@40
+
+
+@40.1
+
+
+@40.2
+
+
+@41
+
+
+@41.1
+
+
+@42
+
+
+@42.1
+
+
+@43
+
+
+@43.1
+
+
+@44
+
+
+@44.1
+
+
+@44.2
+
+
+@45
+
+
+@45.1
+
+
+@45.2
+
+
+@46
+
+
+@46.1
+
+
+@47
+
+
+@47.1
+
+
+@48
+
+
+@48.1
+
+
+@49
+
+
+@49.1
+
+
+@49.2
+
+
+@50
+
+
+@50.1
+
+
+@51
+
+
+@51.1
+
+
+@52
+
+
+@52.1
+
+
+@52.2
+
+
+@53
+
+
+@53.1
+
+
+@54
+
+
+@54.1
+
+
+@55
+
+
+@55.1
+
+
+@56
+
+
+@57
+
+
+@57.1
+
+
+@58
+
+
+@58.1
+
+
+@58.2
+
+
+@58.3
+
+
+@59
+easily
+
+@59.1
+easily
+
+@59.2
+one-sidedly
+
+@60
+at all
+
+@60.1
+at all
+
+@60.2
+at all
+
+@60.3
+at all
+
+@61
+readily
+
+@61.1
+gladly
+
+@61.2
+easily
+
+@61.3
+gladly
+
+@62
+stubbornly
+
+@62.1
+firmly
+
+@62.2
+doggedly
+
+@63
+well
+
+@63.1
+better
+
+@64
+
+
+@64.1
+
+
+@65
+Ohoho
+
+@65.1
+Hehe
+
+@65.2
+Heh
+
+@65.3
+Hahaha
+
+@65.4
+Hyahahaha
+
+@65.5
+Hahaha
+

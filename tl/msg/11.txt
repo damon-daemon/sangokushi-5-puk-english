@@ -1,0 +1,693 @@
+@11000
+You dodged my blade? Not bad.
+
+@11000.1
+I underestimated you. Now I'm serious{C55}!
+
+@11000.2
+As expected of {v02}, not easily beaten{C57}{C50}.
+
+@11000.3
+Better than I thought{C50}{C56}. Then take this!
+
+@11000.4
+Not bad, but how about this?
+
+@11000.5
+I've found a worthy rival{C53}. Hold back and I'll lose{C48}{C56}.
+
+@11000.6
+Useless{C45}! Where are you aiming?
+
+@11000.7
+Tch, I slipped{C50}.
+
+@11000.8
+You dodged my thrust... It seems I must get serious{C50}.
+
+@11000.9
+What, you dodged it? Heh, you're fun. My blood is boiling for the first time in ages.
+
+@11000.10
+You dodged {C3}'s blow? Not bad!
+
+@11000.11
+I see through you{C55}! You twist your arm right before you strike.
+
+@11000.12
+With skill like that... You underestimate me. Playtime is over. Die!
+
+@11000.13
+A dull attack{C50}. Time to get serious{C58}. Ready{C50}{C56}?
+
+@11000.14
+Ugh, what strength! My hands are numb from blocking... Tough one.
+
+@11000.15
+Damn, I can barely dodge. I must go on the attack or I can't win{C50}.
+
+@11000.16
+What fighting spirit{C50}! It sends chills down my spine.
+
+@11001
+Underestimate me because I'm a woman and you'll regret it.
+
+@11001.1
+Go easy on me because I'm a woman and you'll get hurt.
+
+@11001.2
+Don't judge by looks, or you'll get hurt. {C65}
+
+@11001.3
+Ever heard "every rose has its thorn"? Let me teach you.
+
+@11002
+It's a waste that this one is a woman.
+
+@11002.1
+A warrior beyond any woman. Not bad at all.
+
+@11002.2
+What a thrust! That's a woman's thrust? I might fall for her!
+
+@11002.3
+This woman's strength is monstrous{C45}. One hit could be fatal.
+
+@11002.4
+{C3} can't lose to a woman!
+
+@11003
+With skill like that, you'll never take my head.
+
+@11003.1
+You're no match for me.
+
+@11003.2
+Fighting the likes of you is a waste of time{C45}.
+
+@11003.3
+You dared show up with skill like that{C50}?
+
+@11003.4
+What's wrong, struggling? Is that all?
+
+@11003.5
+Too slow, too slow! There! How's that?
+
+@11003.6
+You beating me? A hundred years too soon{C48}!
+
+@11003.7
+Now, time to finish you off.
+
+@11003.8
+There, there! Is that all you've got?
+
+@11003.9
+You're wide open{C48}. Where'd all that bravado go?
+
+@11003.10
+Got you{C55}! I'll finish this at once.
+
+@11003.11
+Hyaaah! Spirit{C45}! Spirit decides the duel{C45}!
+
+@11003.12
+There{C45}! This duel is mine{C48}!
+
+@11003.13
+Can't you even dodge this? I'm not even trying.
+
+@11003.14
+What happened to your earlier spirit? The gap in our strength is simply too great.
+
+@11003.15
+Fighting me with spearwork like that... Don't take duels lightly.
+
+@11004
+Underestimate me because I'm a woman and you'll get hurt.
+
+@11004.1
+You underestimated me. It's not too late... Come at me seriously!
+
+@11004.2
+What's wrong? Where's all that spirit? {C65}
+
+@11005
+Even if we both fall, I'll cut {C11} down!
+
+@11005.1
+To die in battle is a warrior's wish!
+
+@11005.2
+It's not over till it's over!
+
+@11005.3
+Hmm... N-not bad{C50}.
+
+@11005.4
+Ugh, this is bad. What's going on?
+
+@11005.5
+You dodged my blade... Not to be underestimated.
+
+@11005.6
+Hmm, it seems I underestimated {C11} a little{C50}.
+
+@11005.7
+Now I'll have to fight to the death{C48}.
+
+@11005.8
+Wh-what... I can't touch them{C57}.
+
+@11005.9
+This one is no pushover{C57}{C48}.
+
+@11005.10
+Grr, unbelievable{C57}... This one's tough{C48}.
+
+@11005.11
+Ow... It's not over yet{C45}! The duel isn't decided till the end{C57}!
+
+@11005.12
+Tch, what a thrust! I barely dodged a fatal blow{C50}.
+
+@11005.13
+Hmph, fine technique{C50}. But that won't beat me{C55}.
+
+@11005.14
+Careless of me{C50}. Yesterday's wine must still be in me{C50}. Time to get serious!
+
+@11005.15
+Damn it! I won't die in a place like this!
+
+@11005.16
+Not bad... It's been ages since I met someone this good{C45}. My blood's boiling{C55}!
+
+@11006
+There was still such a man out there?
+
+@11006.1
+Such a man exists! It sends shivers through me.
+
+@11006.2
+To think there's a man this strong besides me...
+
+@11007
+Hmm, unbelievable. Is this really a woman?
+
+@11007.1
+This is bad. I underestimated her because she's a woman.
+
+@11007.2
+A mere woman wounding me... You'll pay dearly for this.
+
+@11007.3
+I went easy on you because you're a woman and you got cocky. Unforgivable!
+
+@11008
+Admirable, for an enemy. But next time will be different.
+
+@11008.1
+We'll call this a draw{C45}. Next time we meet, be ready.
+
+@11008.2
+Admirable, for an enemy{C45}. I'll let you win today{C48}.
+
+@11008.3
+I'll settle this another day. Remember that.
+
+@11008.4
+I'll let you off for today.
+
+@11008.5
+This one's too much for me. Bah, I'll fall back for now{C45}.
+
+@11008.6
+I can't win this. Running is winning.
+
+@11008.7
+It can't be helped. Life comes first{C45}.
+
+@11008.8
+I can't win like this. I'll try again later.
+
+@11008.9
+Don't think you've won.
+
+@11008.10
+Of the 36 stratagems, running away is best.
+
+@11008.11
+I'll let you have the win today{C53}.
+
+@11009
+Looks like I got away.
+
+@11009.1
+Whew, they nearly caught me{C50}.
+
+@11009.2
+Phew, that was close{C48}.
+
+@11010
+Coward! Running away is despicable!
+
+@11010.1
+Wait! Running away, coward!
+
+@11010.2
+{C65} Running with their tail between their legs{C55}! Everyone, laugh at them!
+
+@11010.3
+Cowardly{C48}! Call yourself a warrior?
+
+@11010.4
+Turning your back on the enemy? Curse you, I won't let you escape{C57}{C55}!
+
+@11011
+Turning your back on the enemy... Do you call yourself a warrior?
+
+@11011.1
+What a letdown. I'll laugh at you for generations.
+
+@11011.2
+Now you know your weakness, never brag again.
+
+@11011.3
+Coward. I'll laugh at you for generations.
+
+@11011.4
+Turning your back on the enemy... a disgrace to warriors. Next time I'll finish you{C48}.
+
+@11012
+Time to get serious! Prepare yourself!
+
+@11012.1
+Hyahyahyaaah!
+
+@11012.2
+Playtime's over{C45}. Now I'm serious{C48}!
+
+@11012.3
+Oraoraoraaah!
+
+@11012.4
+Take this attack!
+
+@11012.5
+Dodge this if you can!
+
+@11013
+Gwah!
+
+@11013.1
+Gueh!
+
+@11013.2
+Ugh!
+
+@11013.3
+Gyah!
+
+@11013.4
+Blast, my sword arm... I can't grip{C57}!
+
+@11013.5
+Tch, careless{C50}. At this rate...
+
+@11013.6
+Ow, this wound is nothing... Not yet{C45}, not yet... I won't fall...
+
+@11014
+Gwaaaaah!
+
+@11014.1
+I can't die... Urgh.
+
+@11014.2
+Waaaaah!
+
+@11014.3
+How... bitter...!
+
+@11014.4
+Beaten by the likes of you... Gwah.
+
+@11015
+This battle is decided!
+
+@11015.1
+Well? Now you understand!
+
+@11015.2
+{C65} What a letdown{C50}{C56}.
+
+@11015.3
+No matter how many like {C11} come, they'll never take my head{C57}.
+
+@11015.4
+Seize them!
+
+@11015.5
+Anyone with more backbone{C36}?!
+
+@11015.6
+See that? That's {C3}'s strength!
+
+@11015.7
+I've slain {v02}!
+
+@11015.8
+You picked the wrong opponent{C50}{C56}.
+
+@11015.9
+With skill like that, you'd have lost even if it weren't me{C50}.
+
+@11015.10
+Skill like that, I could beat bare-handed{C53}.
+
+@11015.11
+Your defeat came from challenging without knowing your opponent's strength{C45}.
+
+@11015.12
+Challenging {C3} with that? Ridiculous!
+
+@11016
+...
+
+@11017
+{v02}, you've grown a lot.
+
+@11017.1
+Dodging my blade... {v02} has grown strong{C50}{C56}.
+
+@11017.2
+You've improved since I last saw you{C50}{C56}.
+
+@11018
+Between women, the younger one is bound to be stronger.
+
+@11018.1
+Even if she's a woman, impressive.
+
+@11018.2
+As expected of Father. It won't be so easy.
+
+@11018.3
+I'm not holding back, but Father is still Father.
+
+@11018.4
+Tch, Father's as good as ever.
+
+@11020
+You're no match for me yet.
+
+@11020.1
+Still just a child after all.
+
+@11020.2
+Your father won't be beaten by the likes of you.
+
+@11020.3
+With skill like that you'll never surpass your father.
+
+@11021
+Your time is over.
+
+@11021.1
+I didn't want to be rough, but it can't be helped{C32}.
+
+@11021.2
+Your skill has declined quite a bit with age.
+
+@11021.3
+Your time is over, Father{C32}{C48}.
+
+@11021.4
+Father's era seems to be over{C50}.
+
+@11021.5
+Old men should retire and sit in the sun!
+
+@11023
+Not bad. And I thought you were just a child.
+
+@11023.1
+That's the spirit! Surpass your father!
+
+@11023.2
+I took you lightly as a child, but you're good.
+
+@11023.3
+As expected of my child. Not bad.
+
+@11023.4
+A mere whelp... Curse youuu!
+
+@11024
+Ugh, strong! Can't mock old people.
+
+@11024.1
+Why is she so strong? She's just a woman.
+
+@11024.2
+Father really is strong. If I don't get serious, I'll lose.
+
+@11024.3
+I can't dodge Father's blade... The fight's just beginning{C54}!
+
+@11024.4
+As expected of my father. But I'll surpass you{C55}!
+
+@11025
+Must be age. Let's call it a draw for now.
+
+@11025.1
+Can't beat my parent{C50}{C56}. I'll run for now{C52}.
+
+@11026
+Don't you think it's pathetic for a parent to run?
+
+@11027
+Run along. I'll catch you soon.
+
+@11027.1
+Running with your tail between your legs after all{C44}.
+
+@11028
+Even I will be laughed at.
+
+@11029
+All talk and no skill. How pathetic{C50}{C56}.
+
+@11030
+Forgive me, {v02}.
+
+@11030.1
+I truly didn't want to fight{C45}.
+
+@11031
+Parent and child shouldn't fight.
+
+@11033
+As expected of my {C13}. You've grown since I last saw you.
+
+@11033.1
+{v02}, when did you get so strong?
+
+@11033.2
+So strong now... I'm proud of you, my {C13}.
+
+@11033.3
+Not bad, {v02}. But you won't beat your elder so easily!
+
+@11034
+Of course you'd dodge something like that, {C14}.
+
+@11034.1
+You dodged that? As expected of my {C14}.
+
+@11034.2
+Go easy on me, {C14}, because I'm younger and you'll get hurt.
+
+@11035
+You can dodge my blade now.
+
+@11035.1
+I went easy on you. Of course you dodged.
+
+@11035.2
+My cute little {C13} became this strong...
+
+@11036
+I didn't think that would work.
+
+@11036.1
+You're good at dodging, {C14}.
+
+@11036.2
+As expected of my {C14}. I didn't think you'd dodge that.
+
+@11038
+How's that? I'm still stronger.
+
+@11038.1
+If you're going to run, now's the time, {v02}.
+
+@11038.2
+You're no match for your elder after all.
+
+@11039
+Is that all your skill amounts to, {C14}?
+
+@11039.1
+You're no match for me anymore.
+
+@11039.2
+Is that all, {C14}? You must have gotten rusty.
+
+@11040
+This is a waste of time. Why not run?
+
+@11040.1
+You can't keep up with me yet.
+
+@11040.2
+In the end, you can't beat your big sister.
+
+@11041
+You underestimated my skill, {C14}.
+
+@11041.1
+Going easy like that, it's no contest.
+
+@11041.2
+Don't take me lightly. I've already surpassed you, {C14}.
+
+@11043
+Hmm, this is bad. Losing to my {C13} would be shameful.
+
+@11043.1
+Not bad, {v02}. I didn't expect this much.
+
+@11043.2
+I won't lose to the likes of my {C13}!
+
+@11044
+I won't lose to my {C14}!
+
+@11044.1
+This is bad. At this rate I'll be beaten.
+
+@11044.2
+Damn, I don't want to lose... I'll surpass my {C14}!
+
+@11045
+S-strong... To think you've become this strong...
+
+@11045.1
+I can't lose here.
+
+@11045.2
+Eh, I'm being pushed back...
+
+@11046
+As expected of my {C14}. This is bad.
+
+@11046.1
+Ugh, I was a little careless.
+
+@11046.2
+At this rate I'll lose. But I don't want to lose to my {C14}. I don't want to lose!
+
+@11048
+It can't be helped. I'll fall back for now.
+
+@11048.1
+It's galling, but I'll withdraw.
+
+@11048.2
+I never thought you'd be this good... It can't be helped. I'll withdraw.
+
+@11049
+This isn't running away!
+
+@11049.1
+I'm not feeling well. I'll withdraw for now.
+
+@11049.2
+I'll back off this time. See you...
+
+@11050
+The odds are against me today.
+
+@11050.1
+Going easy was a mistake.
+
+@11050.2
+You win today.
+
+@11051
+I'll admit defeat today.
+
+@11051.1
+I have no choice but to withdraw here. Farewell, my dear {C14}.
+
+@11051.2
+The odds are against me. I'll withdraw.
+
+@11053
+Running, coward? Watch your back!
+
+@11053.1
+Running away! You always did, since we were kids...
+
+@11053.2
+Turning your back on the enemy... And you call yourself my {C13}!
+
+@11054
+Turning your back on me... I'll give chase.
+
+@11054.1
+Running, {C14}! I won't let you escape. Wait!
+
+@11054.2
+Running from your younger sibling... I misjudged you, {C14}!
+
+@11055
+Run, so that I can't catch you.
+
+@11055.1
+Wait! I won't let you escape.
+
+@11055.2
+Turning your back on me... Wait!
+
+@11056
+I'll catch you for sure.
+
+@11056.1
+Running away... And you call yourself my {C14}!
+
+@11056.2
+I misjudged you, {C14}. You won't escape.
+
+@11057
+At least your running has gotten faster.
+
+@11057.1
+One of our clan fleeing the enemy with tail tucked... A disgrace to the family{C45}.
+
+@11057.2
+Turning your back on the enemy... How pathetic...
+
+@11058
+Why must I fight my own kin... Is this fate?
+
+@11058.1
+Why must those of the same blood fight{C57}... How ironic fate is...
+
+@11058.2
+"Flesh and blood devouring each other"... Why has it come to this...
+

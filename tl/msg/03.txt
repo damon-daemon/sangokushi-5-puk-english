@@ -1,0 +1,150 @@
+@3000
+Courtesy name Zigang. One of the two Zhangs, noted strategists. He served Sun Ce and Sun Quan and often admonished his lords with keen insight. Just before his death he advised Sun Quan to move the capital to Jianye.
+
+@3001
+Courtesy name Zibu. One of the two Zhangs. Invited by Sun Ce, he handled domestic affairs under Sun Quan after Sun Ce's death. Sun Quan always asked his opinion and revered him like a father.
+
+@3002
+Eldest son of Zhang Fei. He fought at Yiling to avenge his father. Zhuge Liang expected much of him and kept him close with Guan Xing. He joined the Northern Expeditions but fell off a cliff and died.
+
+@3003
+Courtesy name Gongtai. He helped Cao Cao flee after the failed attempt on Dong Zhuo, but after an incident abandoned him and became Lu Bu's adviser. Despite many plans he was captured with Lu Bu by Cao Cao's army and beheaded.
+
+@3004
+Courtesy name Changwen. He served Cao Cao and Cao Pi in administration. Under Cao Pi he devised the "Nine Ranks" system and worked to recruit talented men and organize the government.
+
+@3005
+Courtesy name Zhongde. One of Cao Cao's strategists. He encouraged Cao Cao when he lost Yan Province and lost heart, and beat Yuan Shao at Cangting with the "Ten Ambushes," aiding Cao Cao together with Xun Yu.
+
+@3006
+Courtesy name Yuanhao. Adviser to Yuan Shao. He had the makings of a fine strategist but was blunt and did not get along with Yuan Shao. He urged a war of attrition at Guandu, was ignored, and was jailed.
+
+@3007
+Courtesy name Youchang. Younger brother of Ma Liang. Brilliant, he was seen by Zhuge Liang as a future successor. But at Jieting, a chance to take the Central Plains, he deployed wrongly and lost. Zhuge Liang tearfully executed him.
+
+@3008
+Courtesy name Jichang. Nicknamed White Brows. Prized as a talent, he became Guan Yu's aide. Close to Zhuge Liang, who called him "honored brother." He urged canceling the Yiling campaign but was not heeded.
+
+@3009
+Courtesy name Wenwei. Zhuge Liang's aide and an able civil official who supported the Northern Expeditions from the rear. After Zhuge Liang's death, entrusted with the future, he held up the declining Shu with Jiang Wan.
+
+@3010
+Under Liu Biao. He reluctantly surrendered when Jingzhou fell, but Cao Cao liked his loyalty and he became a Wei general. When Cao Pi was crushed in the war on Wu, he escaped carrying Cao Pi on his back.
+
+@3011
+Courtesy name Yuantu. Adviser to Yuan Shao. When Yuan Shao ran short of grain, he advised seizing Jizhou, helping build the base of a great power. Fiercely competitive by nature, he slandered Tian Feng into suicide.
+
+@3012
+Courtesy name Xiaozhi. He plotted to give Shu to Liu Bei. A skilled schemer, he urged the invasion of Hanzhong, shocking Cao Cao. At Yiling, Zhuge Liang sighed, "If only Fa Zheng were alive..."
+
+@3013
+Courtesy name Shiyuan. Nicknamed the Young Phoenix. Strategist to Liu Bei with Zhuge Liang. Given overall command of the conquest of Shu, he advanced with strategy matching Zhuge Liang's, but died bitterly from a stray arrow.
+
+@3014
+Courtesy name Ziqing. Served Liu Bei and helped in the entry into Shu. Fearing blame for abandoning the crushed Guan Yu, he defected to Wei. Cao Pi favored him and gave him exceptional treatment.
+
+@3015
+Courtesy name Dezu. Son of Yang Biao. Brilliant, he caught Cao Cao's eye. He easily solved Cao Cao's riddles and pleased him, but he flaunted his talent and was judged a future danger and killed.
+
+@3016
+Courtesy name Boyan. Strategist of Sun Quan whose schemes and generalship matched his elders Zhou Yu, Lu Su and Lu Meng. He beat the famed Guan Yu and, given supreme command at Yiling, drove off Liu Bei.
+
+@3017
+Courtesy name Zhengfang. He was under Liu Zhang but submitted when Liu Bei entered Shu. Equal to Huang Zhong in valor, Liu Bei prized him highly and entrusted the future of Shu to him with Zhuge Liang.
+
+@3018
+Son-in-law and strategist of Dong Zhuo. He made many proposals, including recruiting Lu Bu. He saw through Diao Chan's "Chain Plan" to kill Dong Zhuo but failed to restrain him, and died with him.
+
+@3019
+Eldest son of Liu Biao. He was shunned by his stepmother, who wanted his brother Liu Cong to inherit, and her brother Cai Mao. Fearing for his life, he took a post far away on Zhuge Liang's advice and narrowly escaped.
+
+@3020
+Courtesy name Yuanjian. He met Guan Yu on his thousand-li journey and served him. As one of the few brave generals after the Tiger Generals died, Zhuge Liang trusted him, and he fought on for Shu with Jiang Wei and others.
+
+@3021
+Courtesy name Gongji. Son of the Wu general Ling Cao. He swore revenge on Gan Ning, his father's killer, and sought a chance, but when an enemy general was about to cut him down in battle Gan Ning saved him, and they pledged friendship.
+
+@3022
+Courtesy name Zijing. At Chibi he allied with Liu Bei, urged a decisive battle with Zhou Yu, and crushed Cao Cao's ambition. He was close to Zhou Yu and, after Zhou Yu's death, succeeded him as strategist and did his duty.
+
+@3023
+Courtesy name Xiumu. Under Sun Quan. At Ruxu, when the Wei general Cao Ren attacked with ten times his force, he calmly lured the enemy in and beat him brilliantly.
+
+@3024
+Under Sun Quan, Wu's boldest man. When Emperor Wen of Wei, Cao Pi, invaded in person, he turned him back with a false city wall. A veteran of a hundred battles, he never yielded to any strong foe.
+
+@3025
+Courtesy name Shizai. A Wei general discovered by Sima Yi, and Jiang Wei's rival in his repeated Northern Expeditions. He conquered Shu but was reported to Zhong Hui as a traitor and arrested.
+
+@3026
+Marshal of the Third Cave under the Nanman king Meng Huo. He met Zhuge Liang's southern campaign but was easily captured in a night raid. Released by Zhuge Liang, he sortied again.
+
+@3027
+Marshal of the Western Qiang. He went to help Cao Zhen of Wei, and with his iron chariots troubled the Shu army, but fell for Zhuge Liang's scheme, was stranded on the snowfield, and was killed by Guan Xing.
+
+@3028
+A Qiang general. On King Midang's orders he raided Nan'an, but believed the false surrender of the Wei general Chen Tai, was led into a trap, and killed himself.
+
+@3029
+Chancellor of the Western Qiang. He went with Yueji to help Cao Zhen, but was no match for the veteran Zhuge Liang and Ma Dai and was captured. Zhuge Liang told him not to be tempted by Wei.
+
+@3030
+King of the Xianbei. When Cao Pi attacked Shu on five fronts, he marched with Qiang troops, but fled without fighting when Ma Chao, whom the Qiang feared as "Divine Might General," appeared.
+
+@3031
+Marshal of the Third Cave under the Nanman king Meng Huo. He marched with the other marshals to stop Zhuge Liang's southern campaign. Thrown into chaos by a night raid, he was killed by one thrust of Zhao Yun's spear.
+
+@3032
+Under Wutugu, king of Wuge. To help the Nanman king Meng Huo he led the Rattan Armor troops against Shu and fought well, but was burned to death with his comrades by Zhuge Liang's fire at Panshe Valley.
+
+@3033
+King of Wuge, a monstrous figure in appearance. He plagued Shu with his invincible Rattan Armor troops, proof against blade and arrow, but was burned to death by Zhuge Liang's mine fire attack at Panshe Valley.
+
+@3034
+Second only to the great Xiongnu king. When Yuan Shao's nephew Gao Gan came for help, he drove him away out of fear of Cao Cao, and obeyed meekly when asked to return Cai Yong's captured daughter.
+
+@3035
+A barbarian king with a red face and blue eyes. He answered Liu Bei's campaign against Wu and invaded Wu, killing the famed Gan Ning with an arrow, but was beaten by Lu Xun's scheme and cut down by Zhou Tai while fleeing.
+
+@3036
+Wife of the Nanman king Meng Huo and descendant of Zhu Rong, the legendary fire god. With her unerring throwing knives she took the Shu generals Zhang Yi and Ma Zhong alive, but was beaten when she fell for a scheme in her moment of triumph.
+
+@3037
+Younger brother of Lady Zhurong. When Meng Huo suffered defeat after defeat against the stronger-than-expected Zhuge Liang, he urged help from King Mulu and Wutugu, but it was a drop in the bucket against the ever-winning Zhuge Liang.
+
+@3038
+Marshal of Tulong Cave in Nanman and its wisest man. Relied on by the losing Meng Huo, he troubled Zhuge Liang with four poison springs, but was broken and beaten after an ally betrayed him.
+
+@3039
+King of the Western Qiang, a vassal of Wei since Cao Cao's day. At Cao Zhen's request he sent an iron chariot corps led by Yueji and Yadan as reinforcements, but Zhuge Liang crushed them.
+
+@3040
+A Wuge general. To beat the ever-advancing Zhuge Liang he led the Rattan Armor troops under Wutugu. Zhuge Liang saw that they were weak to fire and burned them to death.
+
+@3041
+Marshal of the Second Cave under the Nanman king Meng Huo. He joined as reinforcement with Ahuinan and tried a night raid but failed. Captured, he was released by Zhuge Liang.
+
+@3042
+Chieftain of the Wuhuan, a northern tribe. He helped the brothers Yuan Xi and Yuan Shang, who fled north after losing to Cao Cao, and resisted Cao Cao with them. No match for Cao Cao's Zhang Liao, he was cut down.
+
+@3043
+Deputy of the Nanman king Meng Huo. On Meng Huo's orders he met Zhuge Liang's southern army. He fought Wang Ping and Ma Dai but was no match for these two fine generals and was killed.
+
+@3044
+Lord of Banna Cave in Nanman. Controlling wind and rain and commanding wild beasts, he faced Zhuge Liang astride a giant elephant. He lost to the Shu army's new weapon, the fire-spewing carts.
+
+@3045
+King of the Qiang. He answered Jiang Wei and advanced on Wei, but Wei's Chen Tai tricked him into leading the way to the Shu camp. When Jiang Wei came out to meet him, he was killed as no longer needed.
+
+@3046
+Younger brother of the Nanman king Meng Huo. To help his brother drive off Zhuge Liang he introduced the wise King Duosi, but no match for Zhuge Liang's wit he was captured. He later pledged loyalty with his brother.
+
+@3047
+Lord of Yinye Cave in Nanman. He surrendered to Zhuge Liang, but Meng Huo, not knowing, called him to his camp. In the middle of a banquet he seized Meng Huo and handed him to Zhuge Liang.
+
+@3048
+Courtesy name Youjie. Second son of Lu Xun. With his father's strategy and generalship he defended Jingzhou. He was both rival and friend of the Jin general Yang Hu; each kept watch on the other and allowed no invasion.
+
+@3049
+A Jin general. He urged Sima Yan to conquer the declining Wu and led the navy in. After a string of victories he made the Wu emperor Sun Hao surrender, bringing the Three Kingdoms era to a close.
+

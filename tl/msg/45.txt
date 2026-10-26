@@ -1,0 +1,468 @@
+@45001
+Fighting takes soldiers, so we need them. Before and after battle, Enlist...
+
+@45001.1
+If you want soldiers, speak of your ideals in town and recruit them, please.
+
+@45001.2
+To gather soldiers we should Enlist. Conscription would stain your name.
+
+@45001.3
+Soldiers without drilling are no more than a mob.
+
+@45001.4
+Gathering soldiers is not enough to prepare for war. Do not neglect Drill.
+
+@45001.5
+Have you been drilling them? Only famed generals with elite troops make the strongest army.
+
+@45001.6
+If we lack talent, let us carry out a Search.
+
+@45001.7
+Please Search for gifted people lying hidden in the wilds.
+
+@45001.8
+Let us Search. Unification cannot do without many talented people.
+
+@45001.9
+A great ruler needs many great generals. By all means, Search...
+
+@45001.10
+If someone in another realm is voicing complaints, I recommend you Recruit them.
+
+@45001.11
+If anyone in another realm takes an interest in us, why not Recruit them?
+
+@45001.12
+Why not try to Recruit officers of other realms and bring them over to us?
+
+@45001.13
+Domestic affairs, to firm up the foundation of the realm, are also important...
+
+@45001.14
+Domestic affairs are the basis of building a realm. We must not neglect them.
+
+@45001.15
+Please attend to domestic affairs and build a realm the people can live in. There is no realm without its people.
+
+@45001.16
+Do not forget domestic affairs. We should aim for a realm where people suffering from war can live in peace.
+
+@45001.17
+If someone in a neighboring realm is discontent, why not try Turncoat...
+
+@45001.18
+Turncoat should give us an advantage in the battle to come.
+
+@45001.19
+After a Turncoat, please start the battle as soon as you can.
+
+@45001.20
+Some governors may try to break away. Use Rival Tigers on such a one...
+
+@45001.21
+It might also be amusing to try Rival Tigers on a governor with low Loyalty.
+
+@45001.22
+If Rival Tigers succeeds, we can sap the enemy's strength.
+
+@45001.23
+If a realm is under a tyrant, stir up the people's discontent with Incite.
+
+@45001.24
+If we use Incite, we can win the people over to our side.
+
+@45001.25
+Let us teach a realm that neglects its people their importance with Incite.
+
+@45001.26
+If an enemy realm has a strong castle, we should use Sabotage.
+
+@45001.27
+Castles are the key to war. I recommend using Sabotage before battle.
+
+@45001.28
+It might be fun to use Sabotage and deal a heavy blow to an enemy castle.
+
+@45001.29
+Why not spread bad talk with Rumor and throw the enemy realm into disorder?
+
+@45001.30
+When the enemy is tightly united, use Rumor to disturb their harmony.
+
+@45001.31
+Let us spread bad talk with Rumor. Rumors are frightening things, are they not?
+
+@45001.32
+We should form alliances and reduce our enemies, even by a few.
+
+@45001.33
+Unifying with one realm's strength alone is hard. Let us gain allies and have them cooperate.
+
+@45001.34
+Making enemies of several rulers is not a good plan. Alliances matter too.
+
+@45001.35
+If you are considering a joint operation, do not forget to form an alliance first.
+
+@45001.36
+When attacking a mighty realm, I recommend a joint operation, asking your allies to march.
+
+@45001.37
+To be sure of victory, if you have an allied realm, carry out a joint operation.
+
+@45001.38
+When an ally requests troops, we should cooperate as much as we can.
+
+@45001.39
+With a mighty realm, we sometimes need to send a Gift and build goodwill.
+
+@45001.40
+If you think of allying with a hostile realm, first send a Gift...
+
+@45001.41
+If the other ruler refuses an alliance, try sending a Gift first.
+
+@45001.42
+If you think you hold an overwhelming advantage over an enemy realm, please Threaten them and urge surrender.
+
+@45001.43
+Please do not forget that Threaten can unify the land without needless bloodshed.
+
+@45001.44
+Slaughtering the enemy is a poor plan. Please Threaten them into surrender.
+
+@45001.45
+If you have spare gold and an allied realm, why not carry out Research?
+
+@45001.46
+If you think our army is weak in battle, please strengthen our arms through Research.
+
+@45001.47
+Please remember that weapons developed by Research strengthen only some formations.
+
+@45001.48
+When gold or food runs short, rely on an ally and ask for aid.
+
+@45001.49
+Gold and food are scarce at first, I know. In that case, please make use of aid.
+
+@45001.50
+There may be times when an ally asks you for aid. Please be generous then...
+
+@45001.51
+Planting agents can bring an enemy down from within.
+
+@45001.52
+Only those who have sworn unshakable loyalty to you can be sent as planted agents.
+
+@45001.53
+Why not send your most loyal retainers into an enemy realm as poison, planted agents?
+
+@45001.54
+Using Conscript to raise troops harms your prestige.
+
+@45001.55
+Conscript will lower your Fame, so please be careful...
+
+@45001.56
+To gather soldiers, you should Enlist rather than Conscript. Conscript will badly damage your Fame.
+
+@45001.57
+Plunder will surely bring gold and food, but it stains your Fame.
+
+@45001.58
+Plunder wounds your name. One lacking Fame cannot unify the land.
+
+@45001.59
+Even in a financial pinch, do not give up hope... Plunder will lower your Fame.
+
+@45001.60
+Do not carelessly attack a neighbor just because it has few troops. Please consider reinforcements too.
+
+@45001.61
+Formations matter in war. Please use the one best suited to the terrain and strategy.
+
+@45001.62
+Do not fight by the book alone in battle. Use schemes too and bring victory to our side.
+
+@45001.63
+If you Recruit a prisoner after a victory, please give a reward quickly.
+
+@45001.64
+Give weapons and gear to the promising, and they will pledge even greater loyalty.
+
+@45001.65
+Be generous with rewards and aim for Loyalty of 95 or more in every officer.
+
+@45001.66
+A change of mood is needed now and then. Please hold a feast and ease their weariness.
+
+@45001.67
+It is important to hold a feast now and then and look after your officers and men.
+
+@45001.68
+A feast renews an officer's body and mind, and they will return to work with vigor.
+
+@45001.69
+Please always keep the right person in the right place in mind when you assign duties.
+
+@45001.70
+Placing talent well is an ability asked of a ruler.
+
+@45001.71
+Sending officers on Training matters too. They might gain a new ability.
+
+@45001.72
+Please let your officers go on Training. Something wonderful is sure to happen.
+
+@45001.73
+On Patrol, the people may appeal to you directly. Think carefully then...
+
+@45001.74
+Did you know? On Patrol you can also give alms to the people.
+
+@45001.75
+The people suffer in these troubled times. Why not go on Patrol now and then and give them alms?
+
+@45001.76
+Making a gifted fighter do domestic work will not bring out their full strength.
+
+@45001.77
+Training now and then too... You may meet a fine tactician and learn a formation.
+
+@45001.78
+Developing the Chariot strengthens the defense and bow defense of the Arrowhead formation.
+
+@45001.79
+Developing Sleeved Armor strengthens the defense and bow defense of the Long Snake formation.
+
+@45001.80
+Once the Repeater is developed, the bow attack and range of the Hook formation are strengthened.
+
+@45001.81
+Reinforced cavalry will surely strengthen the attack and defense of the Wedge formation.
+
+@45001.82
+Developing the Tower Ship strengthens the attack, defense and bow defense of the Water formation. Do not forget.
+
+@45001.83
+With the Catapult, the bow attack of the Circle formation will grow far stronger.
+
+@45001.84
+Just between us, they say you may learn a formation when you capture an enemy.
+
+@45001.85
+I have heard a rumor that tacticians you meet on Training will teach you formations.
+
+@45001.86
+On Training, a tactician may teach not only formations but also draw out hidden abilities...
+
+@45001.87
+With luck, a merchant may come to sell a rare piece.
+
+@45001.88
+I have heard of an officer who received a wonderful item from the people on Training.
+
+@45001.89
+They say the people sometimes present rare treasures.
+
+@45001.90
+On Training, the people may ask you to pray for rain. If rain falls, your Charm may rise...
+
+@45001.91
+On Training, if you save people suffering from illness, your Charm may rise...
+
+@45001.92
+They say the Water formation alone cannot be learned from tacticians on Training.
+
+@45001.93
+They say an officer on Training may hit it off with a man out in the wilds and bring him back.
+
+@45001.94
+On Training, if you win a contest against a man of the wilds, your Might may grow sharper.
+
+@45001.95
+Rumor says that if you subdue pirates on Training in a coastal or riverside area, you will master the Water formation.
+
+@45001.96
+On Training, if you do not slack in your exercises, Might or Intelligence may very rarely rise...
+
+@45001.97
+The planted agent scheme can only be done with a retainer of Loyalty 100.
+
+@45001.98
+Schemes work more easily in a land with a planted officer.
+
+@45001.99
+Buy or sell food when the rate is close to 9.
+
+@45001.100
+You can buy or sell food only with the merchant in certain cities. Please note...
+
+@45001.101
+If your Valor is high, your face is known, and planting agents becomes harder.
+
+@45001.102
+They say a planted officer will carry out Turncoat and Incite in enemy lands.
+
+@45001.103
+If you go on Patrol in a year of good harvest, you can watch the festival.
+
+@45001.104
+When disaster such as a typhoon strikes the people, please go on Patrol and cheer them.
+
+@45001.105
+If your Fame is high, the people will rush to join as volunteers when you go on Patrol.
+
+@45001.106
+Low Support... could bandits be loose in the town? Shouldn't we go on Patrol?
+
+@45001.107
+They say an officer who senses death approaching will sometimes teach a formation to their child.
+
+@45001.108
+The higher an Adjutant's Intelligence, the surer the advice. I would like some books...
+
+@45001.109
+With four different ministers and me, a council can be held in the first month.
+
+@45001.110
+At the council, please think carefully before setting a goal. If it is not achieved, your Fame...
+
+@45001.111
+Fame changes with the rise and fall of Support. Care for the people...
+
+@45001.112
+Executing prisoners will wound your Fame.
+
+@45001.113
+If you break promises made in Joint and Incite, your Fame will fall.
+
+@45001.114
+For the military minister, pick one with high Might and Valor... but Charm affects gathering soldiers.
+
+@45001.115
+Please appoint someone outstanding in Politics as personnel minister.
+
+@45001.116
+If you want to raise development through domestic affairs, choose a minister with high Politics...
+
+@45001.117
+To raise flood control through domestic affairs, a minister with high Intelligence is suitable.
+
+@45001.118
+To raise flood control through domestic affairs, a minister with high Charm is suitable.
+
+@45001.119
+To raise defense through domestic affairs, a minister with high Might is suitable.
+
+@45001.120
+Appoint someone outstanding in Intelligence as schemes minister, and they will show their full ability.
+
+@45001.121
+Officers you want to send on Training, planting and the like should be assigned flexibly to the special minister.
+
+@45001.123
+Once Panic is cast on them, soldiers lose control and fall into no formation.
+
+@45001.124
+When enemies are adjacent to each other, please use Feud on them.
+
+@45001.125
+Attacks during Panic bring heavy damage. Quickly use Order...
+
+@45001.126
+The mystic arts, a skill of the chosen, heal the wounded and fill the troops with courage.
+
+@45001.127
+When morale drops, soldiers desert. When morale is low, use Rouse...
+
+@45001.128
+After taking heavy damage, please use Heal and rebuild the unit.
+
+@45001.129
+Rain can put out the flames on the battlefield.
+
+@45001.130
+If Skies brings a downpour, every flame on the battlefield will surely go out.
+
+@45001.131
+Douse puts out flames only within a set range, but it is sure to put them out.
+
+@45001.132
+Rocks can be used only by units in a castle or pass. Please do not forget...
+
+@45001.133
+Spring an ambush with Lurk on an enemy unit marching through a forest.
+
+@45001.134
+Mirage, a skill of the chosen: the enemy cowers before illusions and falls into great panic.
+
+@45001.135
+Sorcery, a skill of the chosen: dark power curses the enemy and lowers their Training and morale.
+
+@45001.136
+With Cheer, all your allies on the battlefield will rouse their courage.
+
+@45001.137
+With Flood, enemies on a river are swallowed by the torrent and take heavy damage.
+
+@45001.138
+Flame lets you set fire even to distant enemies.
+
+@45001.139
+With Fury, as the name says, you fight like a raging lion and sweep away the enemies around you.
+
+@45001.140
+Spray is a skill that shoots arrows at enemies in range. Never hit your own side...
+
+@45001.141
+Rush raises Mobility by 10. It is indispensable for a surprise attack.
+
+@45001.142
+Vines deflects enemy arrows, withstands attacks, and lets you move nimbly even on rivers.
+
+@45001.143
+Vines is truly attractive, but do not forget its weakness to fire.
+
+@45001.144
+A simultaneous assault will probably cause you more trouble than expected. Only Mighty can counter it.
+
+@45001.145
+Those more skilled in archery than ordinary men gain 1 range with Snipe.
+
+@45001.146
+With March, a unit that sorties arrives 5 days earlier than other units.
+
+@45001.147
+They say the cool-headed are hard to Panic or Feud with Calm.
+
+@45001.148
+Only the ruler, the Strategist and those with Shift can change formations.
+
+@45001.149
+Water God is the ability that guards against Flood by the water god's protection and shows its strength in rain...
+
+@45001.150
+Even if Panic, Fire or Feud is cast on you, Foil lets you turn it back.
+
+@45001.151
+If the enemy camps in mountains, wipe them out with Slide.
+
+@45001.152
+If you shoot arrows at an enemy with Reply, they will return fire.
+
+@45001.153
+Only officers with Mounted Archery can shoot arrows right after moving.
+
+@45001.154
+The only one who can give sure advice is\s
+
+@45002
+the renowned Strategist, Sleeping Dragon. Remember that.
+
+@45003
+Yes, only me, Kongming. Remember that.
+

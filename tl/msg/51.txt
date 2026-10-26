@@ -1,0 +1,120 @@
+@51000
+...
+
+@51001
+In the castle of {v14}
+
+@51002
+Brother! Ah, he is gone.
+
+@51003
+Bao, Liang... It seems my time has come.
+
+@51004
+Brother, how can you say that?
+
+@51005
+A million people across this land look up to you!
+
+@51006
+The Old Immortal of Nanhua, who gave me the book, warned Heaven punishes an evil heart.
+
+@51007
+Our righteous Yellow Turbans have become a mob. That is the fruit of my evil heart.
+
+@51008
+After I die, shun evil, do good and be kind to the people.
+
+@51009
+What will become of the Way of Great Peace...?
+
+@51010
+The death of the Great Sage, Zhang Jiao, shook the Yellow Turban faithful.
+
+@51011
+Lord Liu Bei, that's a fine horse you ride.
+
+@51012
+Truly a steed that can go a thousand li.
+
+@51013
+If you like the horse, Lord Liu Biao, I will give it to you.
+
+@51014
+That is kind of you. I gratefully accept.
+
+@51015
+The day after Liu Bei gave away the horse...
+
+@51016
+It is a fine horse, but I think I should return it after all...
+
+@51017
+Why would Lord Liu Biao come to return the horse after only one day?
+
+@51018
+I think you'd better not ride that horse.
+
+@51019
+Lord Liu Biao's adviser said it is a Dilu, a horse that brings disaster.
+
+@51020
+So that's why Lord Liu Biao returned it so soon?
+
+@51021
+Nonsense. Heaven decides a man's fate. A mere horse can bring no disaster.
+
+@51022
+What fine wisdom. I, Yi Ji, am impressed.
+
+@51023
+Lord Cao Cao, a mystic named Zuo Ci seeks an audience. What shall we do?
+
+@51024
+A mystic... Well, send him in.
+
+@51025
+Zuo Ci, is it? What brings you here?
+
+@51026
+You hold the Central Plain and the highest rank. Surely the world holds nothing more.
+
+@51027
+Would you not come train with me on Mount Emei and become a hermit?
+
+@51028
+Immortality sounds fun, but I have no one to leave the court to.
+
+@51029
+Liu Xuande is of the Han imperial line. If you yield to him, all the realm will be at peace.
+
+@51030
+You mock me! Someone, seize him!
+
+@51031
+Hohoho! I have mastered magic from a heavenly book. Did you think you could catch me?
+
+@51032
+Curse you, sorcerer... No, I feel dizzy...
+
+@51033
+Cao Cao has fallen ill from Zuo Ci's sorcery.
+
+@51034
+Don't mock me... Liu Bei is my sworn enemy. I could never hand it over.
+
+@51035
+Hohoho. When you tire of the mortal world, come and train under me.
+
+@51036
+I'll leave you three heavenly books. How you use them is up to you.
+
+@51037
+Zuo Ci left the "Book of Escape" and vanished.
+
+@51038
+I'll share just a little of the art of agelessness... Drink this wine.
+
+@51039
+Cao Cao's lifespan has risen slightly.
+

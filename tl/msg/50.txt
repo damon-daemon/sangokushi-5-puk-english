@@ -1,0 +1,189 @@
+@50000
+...
+
+@50001
+In the castle of {v14}
+
+@50002
+As you wish.
+
+@50003
+It is my wish. I will serve you with my valor.
+
+@50004
+The land of Jiangdong is rich, but compared to the Central Plains it has far fewer people.
+
+@50005
+Hmm, you are quite right.
+
+@50006
+Southeast of Wu lies an island called Yizhou.
+
+@50007
+They say many brave people live on Yizhou.
+
+@50008
+Hmm... And what would you have me do?
+
+@50009
+I think you should move the people of Yizhou to Wu and make them people of Jiangdong.
+
+@50010
+Shall we send a search party to Yizhou?
+
+@50011
+We found the people of Yizhou and brought them back to Wu!
+
+@50012
+Thanks to the people of Yizhou, our population and troops have grown.
+
+@50013
+That is kidnapping! Is there some shortage of Jiangdong's own sons?
+
+@50014
+I am sorry. We could not find the people of Yizhou.
+
+@50015
+Very well. Do not regret it too much.
+
+@50016
+Gan Ning, what's wrong? You've seemed down lately.
+
+@50017
+You fight well but never get promoted. That's what's bothering you, isn't it?
+
+@50018
+Lord Su Fei, you saw right through me.
+
+@50019
+So that is how it is. You only live once. Think it over well.
+
+@50020
+I will cover for you. Gan Ning, go wherever you like.
+
+@50021
+Lord Su Fei... I can't thank you enough.
+
+@50022
+Gan Ning, an officer of Liu Biao, has defected to Sun Quan.
+
+@50023
+I am Gan Ning. I have come in hopes of serving Lord Sun Quan.
+
+@50024
+I humbly ask for your favor.
+
+@50025
+I'm truly glad you've come.
+
+@50026
+Lend me your strength and show us what you can do.
+
+@50027
+Reports have reached us that Lord Pang Tong of {v14} ignores his duties and drinks every day.
+
+@50028
+Lucky guy... Uh, never mind.
+
+@50029
+Pang Tong, whom I sent south! This will throw the land into disorder. Brother, go and see how he is.
+
+@50030
+Got it. Leave it to me.
+
+@50031
+Zhang Fei went to Pang Tong.
+
+@50032
+You are Pang Tong, is it? Why do you neglect the post you were given?
+
+@50033
+Heh, a backwater job like this just isn't worth the effort...
+
+@50034
+Pang Tong cleared his backlog of work in half a day.
+
+@50035
+Now, what exactly was that about neglecting my duties, Lord Zhang Fei?
+
+@50036
+Forgive my rudeness... I will be sure to recommend Lord Pang Tong to my brother.
+
+@50037
+Pang Shiyuan's talent is wasted in so remote a place, I think.
+
+@50038
+I... I mean, I agree with Lord Zhuge Liang.
+
+@50039
+The frontier doesn't suit the Phoenix. Let him show his genius on the front line.
+
+@50040
+Pang Tong has returned to Liu Bei.
+
+@50041
+In the hills near {v14}
+
+@50042
+General, there seems to be a tiger in those hills.
+
+@50043
+It is a tiger all right. Hm? What is that chasing it?
+
+@50044
+Looks like some kind of beast.
+
+@50045
+No, it is a man! Amazing, a man chasing a tiger! Bring him here.
+
+@50046
+You there, what is your name?
+
+@50047
+My name is Dian Wei.
+
+@50048
+I see you are a peerless warrior. Would you care to serve my lord?
+
+@50049
+A remarkable man indeed. Truly the great warrior E Lai reborn.
+
+@50050
+On Xiahou Dun's recommendation, Dian Wei, the new E Lai, joined Cao Cao.
+
+@50051
+Lord Dian Wei, those bandits are Yellow Turban remnants.
+
+@50052
+So it seems... Hm? Their leader is fighting someone.
+
+@50053
+Someone has captured the bandit leader.
+
+@50054
+You there, hand over that bandit.
+
+@50055
+Heh heh. Take my blade from me, and I'll hand him over.
+
+@50056
+Dian Wei and the warrior fought for hours, but neither could win.
+
+@50057
+In that case we should use a trick. Let us dig a pit and wait for him.
+
+@50058
+Curse you, wait... Damn! A pit trap!
+
+@50059
+What is your name? Why were you fighting the bandits?
+
+@50060
+My name is Xu Chu. Bandits have been running wild lately, so I was fighting them.
+
+@50061
+To fight me to a draw, you're quite something. Will you serve my lord?
+
+@50062
+On Dian Wei's recommendation, the mighty Xu Chu has joined Cao Cao.
+

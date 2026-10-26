@@ -1,0 +1,126 @@
+@16000
+Select the city to search in.
+
+@16001
+Choose who will handle it. Spirit needed: 30
+
+@16002
+Have them search?
+
+@16003
+Select the city to recruit in.
+
+@16004
+There is no city where you can recruit.
+
+@16005
+Whom will you recruit?
+
+@16007
+How much gold will you take?
+
+@16008
+Carry out the recruitment?
+
+@16009
+The people of {v14} are spreading rumors.
+
+@16010
+I wish peace would come soon. I don't want to live every day afraid of war.
+
+@16010.1
+Lord {v01}, please build a land where we common folk can live in peace.
+
+@16010.2
+I wonder if there's a land without war where we, and Lord {v01} too, can all live in peace.
+
+@16011
+What wide, fertile land! We can grow plenty of rice now!
+
+@16011.1
+It's all thanks to Lord {v01}. Look at these fields! I can't wait for the harvest.
+
+@16011.2
+Lord {v01} developed the land for us. Now it's up to us to work and bring in the crops...
+
+@16012
+Hardly anything grows in a field this small. If only that grove were farmland...
+
+@16012.1
+We want more farmland. With what we have now, a bad harvest would be a disaster.
+
+@16012.2
+The crops won't grow and life is hard... I wish they'd develop more land.
+
+@16013
+Thanks to Lord {v01}'s flood control, we can all rest easy. No more fear of typhoons!
+
+@16013.1
+Lord {v01} built irrigation canals for us, so we can grow rice without worry.
+
+@16013.2
+Working so hard on flood control for our sake... Lord {v01} truly is a wise ruler.
+
+@16014
+Lord {v01} doesn't understand the danger of water. Flood control like this...
+
+@16014.1
+Flood control matters so much... As they say, "He who rules the waters rules the land."
+
+@16014.2
+I wish they'd do some flood control. In the last rains the river nearly burst its banks, and everyone panicked.
+
+@16015
+Perhaps because Commerce has gone up, the town has come alive. That's our Lord {v01} for you!
+
+@16015.1
+The town is so lively lately, every day is a joy. It's all thanks to Lord {v01}.
+
+@16015.2
+Lord {v01} built roads for us, so merchants come and go and the town is bustling.
+
+@16016
+Please raise our Commerce. Even one new road would liven up the town, I think.
+
+@16016.1
+It's not my place to say, but I think you should raise Commerce.
+
+@16016.2
+Why won't Lord {v01} improve commerce? It would raise our income...
+
+@16017
+What mighty walls! Truly impregnable. We can live in this town without fear.
+
+@16017.1
+What a splendid castle it's become. We're safe whenever the enemy attacks.
+
+@16017.2
+They say Lord {v01} strengthened the castle to protect us people.
+
+@16018
+Rumor has it the north wall of the castle is weak. Maybe I should leave town before the fighting...
+
+@16018.1
+Will this castle hold? If the enemy attacks, it won't last a moment.
+
+@16018.2
+I'm worried about the defenses. They do say "attack is the best defense", but...
+
+@16019
+We'll follow Lord {v01} anywhere. We're counting on you, Lord {v01}!
+
+@16019.1
+All the townsfolk believe Lord {v01} will bring peace to this age of chaos.
+
+@16019.2
+Everyone believes in Lord {v01}. You are our only hope in this chaotic age...
+
+@16020
+Why, why does Lord {v01} torment us so... Ah, this world is hell...
+
+@16020.1
+Think more of us common folk! A king who neglects his people is doomed to fall.
+
+@16020.2
+And I believed Lord {v01} was a wise ruler... I'm so disillusioned with them...
+

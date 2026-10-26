@@ -1,0 +1,60 @@
+@23000
+Lord {v01}, please decide the fate of {v02}.
+
+@23001
+{v01} was let go and became a wanderer.
+
+@23002
+Release {v01}. Is that all right?
+
+@23003
+Execute {v01}. Is that all right?
+
+@23004
+The ruler {v01} has died in the field.
+
+@23005
+{v01} was carrying items!
+
+@23006
+Select the officer to leave in {v14}.
+
+@23007
+As thanks, we gave {v01}'s army Gold %lu and Food %lu.
+
+@23008
+As thanks, {v01} gave us Gold %lu and Food %lu.
+
+@23009
+Paid {v01}'s army the promised reward for their help.
+
+@23010
+We couldn't pay {v01}'s army the promised reward, so we paid only %s %lu.
+
+@23011
+Received %s %lu from {v01} as payment for our help.
+
+@23012
+Received "%s" from {v01} as payment for our help.
+
+@23013
+{v01} couldn't pay the promised reward and sent only %s %lu.
+
+@23014
+{v01} now serves {v02}.
+
+@23015
+{v01} was released.
+
+@23016
+{v01} was executed by {v02}.
+
+@23017
+{v01} lost their domain and set out as a wanderer.
+
+@23018
+Leave no one in {v14}?
+
+@23019
+{v01}'s fame fell for failing to pay the promised amount.
+

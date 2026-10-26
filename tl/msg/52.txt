@@ -1,0 +1,972 @@
+@52000
+Master Shuijing's Lectures
+
+@52001
+Troubled by something? Very well, I shall teach you. Choose the topic you want from the list below.
+
+@52002
+- Basics / Ruler: Where do I start?
+
+@52003
+- Domestic: Making the land rich
+
+@52004
+- Personnel: Gathering good talent!
+
+@52005
+- Schemes: Win by using your head
+
+@52006
+- Diplomacy: Make use of other lands
+
+@52007
+- Military / War: Victory on the field
+
+@52008
+What is the goal?
+
+@52009
+How do I expand my territory?
+
+@52010
+Can I get more orders?
+
+@52011
+What is fame?
+
+@52012
+How do I raise fame?
+
+@52013
+How do I win over the people?
+
+@52014
+What is a council?
+
+@52015
+How do I hold a council?
+
+@52016
+What are ministers?
+
+@52017
+Officer data: what is "Strength"?
+
+@52018
+Officer data: what is "Intelligence"?
+
+@52019
+Officer data: what is "Politics"?
+
+@52020
+Officer data: what is "Charm"?
+
+@52021
+Officer data: what is "Valor"?
+
+@52022
+Officer data: what is "Experience"?
+
+@52023
+Officer data: what is "General Rank"?
+
+@52024
+Officer data: what is "Loyalty"?
+
+@52025
+Officer data: what is "Spirit"?
+
+@52026
+What are special abilities?
+
+@52027
+City data: what is "Farming Value"?
+
+@52028
+City data: what is "Commerce"?
+
+@52029
+City data: what is "Flood Control"?
+
+@52030
+City data: what is "Defense"?
+
+@52031
+City data: what is "Population"?
+
+@52032
+City data: what is "Support"?
+
+@52033
+City data: what are "Troops"?
+
+@52034
+City data: what are "Spare Troops"?
+
+@52035
+My officers won't work!
+
+@52036
+What is a strategist?
+
+@52037
+How do I become a strategist?
+
+@52038
+What is an Adjutant?
+
+@52039
+What is a "Governor"?
+
+@52040
+Who makes a good domestic minister?
+
+@52041
+How do I get lots of gold?
+
+@52042
+How do I get lots of food?
+
+@52043
+The people will not cooperate...
+
+@52044
+When do I get gold?
+
+@52045
+When do I get food?
+
+@52046
+More cities, but no more taxes
+
+@52047
+Some cities cannot do domestic work
+
+@52048
+How do I avoid disasters?
+
+@52049
+Effects of the "Flood" disaster
+
+@52050
+Effects of the "Typhoon" disaster
+
+@52051
+Effects of the "Plague" disaster
+
+@52052
+Effects of the "Famine" disaster
+
+@52053
+Effects of the "Locusts" disaster
+
+@52054
+Who makes a good personnel minister?
+
+@52055
+What does "Search" do?
+
+@52056
+When should I use "Search"?
+
+@52057
+What are free officers?
+
+@52058
+How do I recruit free officers?
+
+@52059
+The free officers have disappeared!
+
+@52060
+How do I recruit enemy officers?
+
+@52061
+Are there officers I cannot recruit?
+
+@52062
+My retainers were lured away!
+
+@52063
+What do items do when I give them away?
+
+@52064
+What is item "Confiscate"?
+
+@52065
+What are the effects of a "Feast"?
+
+@52066
+What is "Training"?
+
+@52067
+How do I raise an officer's General rank?
+
+@52068
+What does appointing an Adjutant mean?
+
+@52069
+What is compatibility?
+
+@52070
+Who makes a good scheme minister?
+
+@52071
+What is "Rumor"?
+
+@52072
+How do I lower Loyalty with "Rumor"?
+
+@52073
+When does "Rumor" fail?
+
+@52074
+What is "Turncoat"?
+
+@52075
+How do I succeed at "Turncoat"?
+
+@52076
+What is "Rival Tigers"?
+
+@52077
+How do I succeed at "Rival Tigers"?
+
+@52078
+What is "Incite"?
+
+@52079
+How do I succeed at "Incite"?
+
+@52080
+When does "Incite" take effect?
+
+@52081
+What is "Sabotage"?
+
+@52082
+How do I succeed at "Sabotage"?
+
+@52083
+What is "Plant Agent"?
+
+@52084
+Who makes a good "Plant" agent?
+
+@52085
+Who makes a good diplomacy minister?
+
+@52086
+Why form an "Alliance"?
+
+@52087
+How do I succeed at "Alliance"?
+
+@52088
+What does a "Gift" do?
+
+@52089
+How do I make a "Gift" succeed?
+
+@52090
+When should I use "Threaten"?
+
+@52091
+How do I succeed at "Threaten"?
+
+@52092
+What is "Aid"?
+
+@52093
+How do I succeed at "Aid"?
+
+@52094
+What can "Research" do?
+
+@52095
+How do I succeed at "Research"?
+
+@52096
+New weapon: what is a "Chariot"?
+
+@52097
+New weapon: what is "Sleeved Armor"?
+
+@52098
+New weapon: what is a "Repeater"?
+
+@52099
+New weapon: what is "Elite Cavalry"?
+
+@52100
+New weapon: what is a "Tower Ship"?
+
+@52101
+New weapon: what is a "Catapult"?
+
+@52102
+What does the "Joint" command do?
+
+@52103
+How do I make "Joint" succeed?
+
+@52104
+What happens if I execute an envoy?
+
+@52105
+Who makes a good military minister?
+
+@52106
+I just can't win battles!
+
+@52107
+How do I get more troops?
+
+@52108
+"Enlist" or "Conscript": which is better?
+
+@52109
+Who should I have "Enlist"?
+
+@52110
+Who should I have "Conscript"?
+
+@52111
+Who should I have "Train"?
+
+@52112
+What is "Training" level good for?
+
+@52113
+What is "Morale" good for?
+
+@52114
+What are wounded troops?
+
+@52115
+Enemy troops appeared mid-battle!
+
+@52116
+How many days until the rear army arrives?
+
+@52117
+What if my food is taken?
+
+@52118
+What does a unit's facing affect?
+
+@52119
+What are formations?
+
+@52120
+How do I change "Formation"?
+
+@52121
+Using the "Wedge Formation" well
+
+@52122
+Using the "Winnow Formation" well
+
+@52123
+Using the "Fish Scale Formation" well
+
+@52124
+Using the "Crescent Formation" well
+
+@52125
+Using the "Circle Formation" well
+
+@52126
+Using the "Crane Wing Formation" well
+
+@52127
+Using the "Wild Geese Formation" well
+
+@52128
+Using the "Long Snake Formation" well
+
+@52129
+Using the "Yoke Formation" well
+
+@52130
+Using the "Arrowhead Formation" well
+
+@52131
+Using the "Hook Formation" well
+
+@52132
+Using the "Water Formation" well
+
+@52133
+Skill: what is "Fire"?
+
+@52134
+Skill: what is "Panic"?
+
+@52135
+Skill: what is "Feud"?
+
+@52136
+Skill: what is "Order"?
+
+@52137
+Skill: what are "Mystic Arts"?
+
+@52138
+Skill: what is "Rouse"?
+
+@52139
+Skill: what is "Heal"?
+
+@52140
+Skill: what is "Rain"?
+
+@52141
+Skill: what is "Skies"?
+
+@52142
+Skill: what is "Douse"?
+
+@52143
+Skill: what is "Rocks"?
+
+@52144
+Skill: what is "Divine"?
+
+@52145
+Skill: what is "Lurk"?
+
+@52146
+Skill: what is "Mirage"?
+
+@52147
+Skill: what is "Sorcery"?
+
+@52148
+Skill: what is "Flood"?
+
+@52149
+Skill: what is "Slide"?
+
+@52150
+Skill: what is "Cheer"?
+
+@52151
+Skill: what is "Vines"?
+
+@52152
+Skill: what is "Mighty"?
+
+@52153
+Skill: what is "Calm"?
+
+@52154
+Skill: what is "Water God"?
+
+@52155
+Skill: what is "Foil"?
+
+@52156
+Skill: what is "Reply"?
+
+@52157
+Skill: what is "March"?
+
+@52158
+Skill: what is "Shift"?
+
+@52159
+Skill: what is "Mounted Archery"?
+
+@52160
+Skill: what is "Flame"?
+
+@52161
+Skill: what is "Spray"?
+
+@52162
+Skill: what is "Fury"?
+
+@52163
+Skill: what is "Snipe"?
+
+@52164
+Skill: what is "Rush"?
+
+@52165
+The aim of this game is simple. Take all 47 cities for yourself.\nEasier said than done, mind you. Use your wits and expand your territory well. I am rooting for you.
+
+@52166
+There are three ways to expand your territory.\nFirst, move into an empty city. That is a city no one rules, one with no flag on the map. Just move one of your officers there and the city is yours.\nOther rulers' cities are not so easy. You will have to take them in war.\nThere is also "Threaten" under the Diplomacy command, which can make another ruler and all his lands your vassal. Of course, it rarely succeeds.
+
+@52167
+As your lands and retainers grow, so does what you must do, and the number of commands you can give each month will run short.\nThat number depends on your Fame. As your Fame rises, you get more commands each month.\nBy the way, the most is 10 and the least is 3.
+
+@52168
+Fame shows what people think of a ruler's actions. On screen it appears as a heart mark.\nDo praiseworthy things and it rises; do evil and it falls.\nWith more Fame you can give more commands each month, and there are many other advantages besides.\nIt is wise to keep an eye on your Fame.
+
+@52169
+There are several ways to raise Fame.\nFirst, hold the Council in January and meet the goals set there within the year. But if you fail, your Fame will fall instead.\nNext, use "Patrol" to tour your lands and do what the people wish. A ruler must be kind to his subjects.\nThen there are the events that happen now and then. How you handle them tests your true worth. Above all, always strive for benevolent rule.
+
+@52170
+The people's feelings toward you are shown by each city's "Support". High means they love you; low means they dislike you.\nPatrol is the way to raise Support. By meeting the people you can win their hearts.\nCities newly taken in war often have low Support. Patrol early and make friends with the people.\nAlso, when a disaster hits your cities, patrol at once and save the suffering people. Your reputation will rise too.
+
+@52171
+The "Council" is a meeting that sets your goals for the year. You can hold it every January.\nAt the Council, a representative of each ministry proposes various goals. Choose the ones you think you can achieve.\nAchieve a goal within the year and your Fame rises, so do not neglect the Council.\nFail, and your Fame falls. If no goal looks achievable, choosing "No goal" is one option too.
+
+@52172
+To hold the Council, at least 1 minister must be appointed in 4 of the 5 departments.\nWith that done, each January your Adjutant will say "Shall we hold the Council?" and you decide whether to hold it.
+
+@52173
+No officer, however able, can do every job alone.\nThe minister system sets what kind of work each officer does: "this one handles Domestic", "that one is the Diplomacy specialist".\nThere are 5 departments: Domestic, Personnel, Schemes, Diplomacy and Military. An officer who does a job is chosen from that department's ministers. You cannot have, say, a Domestic minister lead the Military, so take care.\nMinisters can be appointed only in January, April, July and October.
+
+@52174
+"Strength" is an officer's fighting power. An officer with high Strength can be expected to do well in war.\nMilitary commands like "Training" also give better results with high Strength.
+
+@52175
+"Intelligence" is an officer's cleverness.\nWith high Intelligence your schemes succeed more often, and you are more likely to block enemy schemes.\nAdjutants and Schemes ministers need high Intelligence.
+
+@52176
+"Politics" is the ability for steady political work such as Domestic and Diplomacy.\nAn officer with high Politics makes a reliable Domestic or Diplomacy minister.\nIt also affects whether Personnel commands like "Recruit" succeed.
+
+@52177
+It is the power to attract people. An officer with high Charm is easily liked by others.\nSuch an officer suits the post of Personnel minister.\nIt is also an important trait for a ruler, who must lead many officers and people.
+
+@52178
+It is the world's reputation for an officer's martial prowess.\n"Valor" rises mainly through deeds in war, so strong warriors with high Strength gain it more easily.\nWith more Valor an officer can become a higher-ranking general. A higher rank means more troops he can lead, so give strong officers plenty of battle experience.\nMore Valor also has other effects, such as gathering more troops with "Enlist".
+
+@52179
+"Experience" shows how much an officer has experienced so far.\nIt rises as he carries out his work.\nWith more Experience he can learn new formations and acquire skills.
+
+@52180
+Fine warriors must be given higher posts and the authority to lead large armies. That is what "General Rank" is for.\nThe higher an officer's rank, the more troops he can field. Appoint your retainers to high ranks and your army's strength grows.\nBut if you suddenly make an officer with no record a general, no one will accept it. To raise rank an officer needs a certain amount of "Valor".\nLet able officers win glory in real battles and raise their Valor.
+
+@52181
+It shows how much loyalty an officer holds for the ruler he serves.\nAn officer with low "Loyalty" may easily turn coat at an enemy's invitation, or rebel and try to seize your land.\nLoyalty can be raised with a "Reward" or by "Presenting" an item.
+
+@52182
+"Spirit" is an officer's drive.\nOfficers are only human. However able, if they work without rest they tire. When their Spirit falls from fatigue, they cannot work.\nSpirit recovers a little each month. Give an officer with low Spirit no work and let him rest, and he will soon be well.\nA "Feast" restores it all at once.\nA ruler's duty is not only to work his officers but sometimes to let them rest.
+
+@52183
+These are the special techniques each officer has. They work mainly on the battlefield. For example, shooting arrows farther than other officers or using powerful schemes; all are things that give an edge in war.\nAs an officer gains Experience, he learns new skills.\nHowever, one officer can learn at most 6 skills. Which ones he learns differs by officer.\nEven an officer who seems unpromising may hide a surprisingly powerful skill.
+
+@52184
+It shows a city's food production. The higher the "Farming Value", the more food you get in July.\nFarming Value rises when you do "Domestic" in that city. How high it can go differs by city.
+
+@52185
+It shows how far a city's commerce has developed. The higher the "Commerce", the more gold you get each season.\nCommerce rises when you do "Domestic" in that city. How high it can go differs by city.
+
+@52186
+It shows how well a city is prepared against floods. When a disaster like a flood strikes, high Flood Control means less damage.\nFlood Control rises when you do "Domestic" in that city. The limit is 100.
+
+@52187
+It shows the strength of a city's walls and gates when it becomes a battlefield.\nWith high Defense, units holding the castle gain an advantage and can resist stubbornly.\nDefense can be raised with "Domestic". The limit is 999.
+
+@52188
+The number of people living in a city. With a large population, gold and food income grow and many troops can be hired.\nPopulation grows naturally every January, but falls with "Conscript" and "Enlist". Mind the population when hiring troops.
+
+@52189
+It shows the feelings the city's people hold toward their ruler. It is an important sign of whether the ruler governs justly.\nWith high Support, the people cooperate and good effects follow, such as doubling the effect of "Domestic".\nWith low Support, enemy schemes like "Rumor" work easily, and in bad cases the people revolt.\nTo raise Support, patrol often and grant the people's wishes.\nTroubling the people with "Conscript" or "Plunder" will quickly lower Support.
+
+@52190
+The total troops led by the officers in a city. It grows when you assign troops gathered by "Conscript" or "Enlist" to officers.
+
+@52191
+Troops not assigned to any officer. Spare troops cannot fight. Assign them to officers with "Organize" as soon as you can.
+
+@52192
+Are you trying to give an officer work outside his duty? For example, you cannot have a Diplomacy minister do schemes. In that case his name does not appear in the officer selection list.\nThe other case is when his Spirit is too low. Then his name appears in black in the list. Until his Spirit recovers, he cannot work.
+
+@52193
+A Strategist is an expert in schemes and formations, with high Intelligence and Politics.\nAn ordinary officer can hold up to 8,000 troops; to hold more he must raise his Valor and become a general. A Strategist can hold 20,000 from the start.\nAlso, in war an ordinary officer uses up one action to change formation, but a Strategist can still move or attack after changing it.
+
+@52194
+What a Strategist needs is Intelligence and Politics. An officer with Intelligence 90 or more and Politics 80 or more may call himself a Strategist.\nNote that raising Intelligence or Politics with items does not make you a Strategist. It is easy to mistake, so take care.
+
+@52195
+An Adjutant gives proper advice at the ruler's side. It is easily confused with Strategist, but you need not be a Strategist to be Adjutant.\nStill, the advice is only as accurate as the Adjutant's Intelligence, so appoint a Strategist-class officer. A dim Adjutant may give wrong advice and be more hindrance than help.\nChoose one with "Appoint" under "Retainers".
+
+@52196
+A Governor is a post that rules a city with no ruler in the ruler's place.\nNo special ability is needed, but appoint an officer with high Loyalty so he does not rebel.
+
+@52197
+People tend to think a high-Politics officer suits a Domestic minister, but all of an officer's abilities affect "Domestic".\nPolitics, Intelligence, Charm and Strength affect the gain in Farming Value, Flood Control, Commerce and Defense respectively, so officers strong all around suit the post.\nAlso, "Domestic" is done by all the city's Domestic ministers, so numbers can make up for weak individuals. Making every idle officer a Domestic minister is one option.
+
+@52198
+Gold income depends on the Commerce of the cities you own. Population and Support matter too.\nYour officers are paid salaries in gold automatically. More officers means more expense.\nDomestic work is essential to raise income. And as officers increase, you must invade enemy lands or move into empty cities to expand your territory.
+
+@52199
+Food income depends on the Farming Value of your lands. Population and Support matter somewhat too.\nIn autumn, food is paid out automatically to feed your troops, so if you have too many troops your food income shrinks.\nTo raise food income, raise Farming Value with "Domestic" and expand your territory with "War" and "Move" into empty cities.
+
+@52200
+When you do "Domestic", in some cities the people are uncooperative and the effect is halved.\nThat is because the people of that city do not like you. Its Support must be low. Patrol at once and meet the people. Steady effort will move their hearts.
+
+@52201
+Gold is collected as tax at the turn of the seasons, that is, January, April, July and October. January's tax is the largest. The other months are not big enough to count on.\nRemember "gold comes in January" and you will not go wrong.
+
+@52202
+Unlike gold, which comes four times a year, food comes only in July.\nWithout food you cannot stand against an enemy attack. Keep an eye on your food.
+
+@52203
+Is there a city in your land with no officer in it? A city with no officers yields no tax.\nAlso, with more officers and troops, more gold and food must be paid out, so income may drop for a while. But you can make it up by doing "Domestic" and raising tax income. Do not worry much.
+
+@52204
+There are 4 possible reasons you cannot do "Domestic".\nFirst, is there a Domestic minister in that city? Without one, no work can be done.\nNext, do you have enough funds? Each city needs 100 gold.\nOr the city may be fully developed, with all its city data at maximum.\nIf none of these apply, your Domestic minister may be tired. With too little Spirit he cannot work. Rest him from Domestic and send him to a "Feast".
+
+@52205
+Sadly there is no way to avoid disasters themselves.\nBut against "Flood" and "Typhoon", raising a city's Flood Control keeps the damage light.\nBetter safe than sorry.
+
+@52206
+Floods are a summer disaster. In a flooded city, Farming Value, Flood Control, Commerce, Population and Troops fall.\nRaising Flood Control lessens the damage. At Flood Control 100, there is almost none.
+
+@52207
+Typhoons are a summer disaster. In a city hit by a typhoon, Farming Value, Flood Control, Commerce, Population and Troops fall.\nRaise Flood Control with "Domestic" and the damage will be light.
+
+@52208
+Plague can strike all year round, but is most likely in winter.\nIn a plague-stricken city, Population, Troops, Commerce and Support fall. Officers in the city may also fall ill.\nWorse, plague spreads to neighboring cities in the next season. If plague breaks out in a city next to your land, be careful. It is wise to "Move" your important officers to other cities.
+
+@52209
+Famine is a disaster that strikes only in autumn, the harvest season. In a famine city the food harvest is halved.\nThe people will suffer from hunger. The mark of a good ruler is to "Patrol" at once and give them food.
+
+@52210
+Locusts are harmless insects normally, but in great swarms they bring disaster that threatens people's lives.\nA swarm can come at any time except winter.\nIn a city hit by locusts, Farming Value and Support drop sharply.\nThey may also move to neighboring cities the next season. Mere insects, but do not underestimate their fury.
+
+@52211
+What a Personnel minister needs is Politics. An officer with high Politics succeeds more easily at "Search" and "Recruit".\nIt is best to appoint two or more Personnel ministers. Officers have affinities; even a very able Personnel minister may fail to "Recruit" an officer he is ill matched with.\nWhen "Recruit" does not go well, try it with another minister. It often succeeds quite easily.
+
+@52212
+In the realm there are officers with high ambition who are still unknown and live in misfortune.\n"Search" is the command to find such officers.\nWhen a high-Politics officer searches, he is likely to find one. But only if there is a hidden officer in that city.
+
+@52213
+When you have commands to spare.\nAn officer found by Search becomes a free officer who serves no ruler. That is, he has not yet joined you. You must "Recruit" the found officer to make him your retainer.\nA free officer may move to another city the next month. To avoid losing a hard-won find, search when you have enough commands left to recruit afterward.
+
+@52214
+Free officers serve no ruler and live as wanderers.\nSometimes a very able officer is among them. When one is in your city, you will want to recruit him at once.
+
+@52215
+Do "Recruit" in a city with a free officer and he becomes your retainer.\nBut you can recruit free officers only within your own territory. If one is in another ruler's land or an empty city, you cannot recruit him.
+
+@52216
+Often a free officer who was in your land last month is gone the next.\nFree officers are wanderers, and at the turn of the month they may move to a neighboring city.\nWhen you find an able free officer, recruit him before anything else.
+
+@52217
+If you "Recruit" an officer of another ruler and succeed, he becomes your retainer.\nWhen luring away another's officer, watch his "Loyalty". The lower it is, the more easily he takes the bait. Beware: an officer with Loyalty 100 and a ruler's sons can never be lured away.\nTo lower an enemy officer's Loyalty, you can try the "Rumor" scheme.
+
+@52218
+Among another ruler's officers, those with Loyalty 100 and the ruler's blood relatives can never be recruited.\nOfficers who get on well with their ruler, and dutiful ones, are also hard to lure away even with somewhat low Loyalty.\n"Affinity" and "Duty" are not displayed, but anyone who knows the tale of the Three Kingdoms can guess.\nFree officers who can never be recruited bear you a grudge, such as one who refused you when captured after his country fell.
+
+@52219
+A ruler exists because of his retainers. If you neglect them, other rulers will lure them away and you will weep.\nTo keep retainers, watch their "Loyalty". For a retainer with low Loyalty, give gold with "Reward" under "Retainers" to raise it.\nAt Loyalty 100 he will never betray you.\nEven short of that, try to keep every retainer at 90 or more.
+
+@52220
+Giving an item to a retainer greatly raises his Loyalty.\nIn addition, depending on the item, his abilities may rise or he may gain special skills.\nFor example, a weapon raises Strength, and a famous steed lets him use the "Rush" skill.\nHowever, abilities raised by an item return to normal if he loses it.
+
+@52221
+As the name says, this command takes away items your retainers hold.\nConfiscated items become yours, but this is not recommended.\nWhen an item is confiscated, that officer's Loyalty falls greatly, and in bad cases he may even leave you.
+
+@52222
+Now and then, drinking and making merry is the best way to ease a tired heart.\nHold a "Feast" and let officers attend, and their "Spirit" is fully restored.\nOfficers worn out from constant work should be refreshed with a feast.\nBut holding a feast costs 100 gold and 500 food per attending officer.
+
+@52223
+"Training" is plain but very useful if used well.\nIf you have many retainers and some are idle, send them out for a year of training to gain experience.\nFor that year you cannot use them for work, but through the various events they meet while training, abilities may rise or they may obtain items. It is just the thing for growing officers.\nHowever, only officers with "Loyalty" 100 can be sent. Reward promising officers early to raise their Loyalty.
+
+@52224
+Raise an officer's general rank and the troops he can hold increase, strengthening your army.\nTo raise rank, choose "General" in "Appoint" under the "Retainers" command. A list of officers who can become generals appears; choose one.\nOfficers who can be promoted appear in green. Officers with low Valor, and rulers and Strategists who need no promotion, are not listed.\nWhen you choose an officer, the ranks he can reach appear, and you choose from them.
+
+@52225
+The Adjutant is a welcome presence, telling you the odds of success when you try something.\nHis advice is only as reliable as his Intelligence. If an officer smarter than your Adjutant joins you, make him the new Adjutant with "Appoint" under "Retainers".
+
+@52226
+Not displayed, but officers have temperaments. Those with similar ones get on well; those very different do not. This is called "Affinity".\nIt affects every situation involving two officers. For example, an officer who suits his ruler poorly is easy to lure away.\nIf you know the tale of the Three Kingdoms well, you can guess who suits whom.
+
+@52227
+A scheme's success rate depends on the "Intelligence" of the officer who carries it out.\nSo officers with high Intelligence suit the Schemes minister.\nPolitics and Strength matter a little, but appointing high-Intelligence officers is basically safe.
+
+@52228
+Of all schemes, "Rumor" is the one you will use most.\nIt spreads bad rumors about the ruler in an enemy city, lowering the city's Support and the Loyalty of its officers.\nOne try has little effect, so repeat it several times.
+
+@52229
+When "Rumor" succeeds, the Loyalty of an officer in the city may fall.\nBut only the officer with the lowest current Loyalty in that city is affected.\nSo if another officer is lower than your target, only his Loyalty drops. In that case, lure him away first.
+
+@52230
+When the target city's Support is very high, "Rumor" rarely succeeds.\nIt also works poorly if the ruler you target has high Fame or Charm.
+
+@52231
+"Turncoat" persuades an enemy officer to promise to defect in war. For the other ruler, it is like making an enemy within his own house.\nIn war, if an officer has been turned, use "Defect" to make him yours. The enemy loses troops and you gain them, so the effect is great.
+
+@52232
+"Turncoat" makes someone switch sides, so it hardly works on officers with high Loyalty.\nYou must first lower the target's Loyalty.\n"Rumor" is useful here.\nLower his Loyalty with "Rumor" beforehand, then use "Turncoat" at once. The chance of success rises.
+
+@52233
+"Rival Tigers" is a bold scheme that incites an enemy governor to declare independence.\nIf it succeeds, the enemy has more foes to fight, so its defenses thin out and it weakens. It seldom succeeds, but it may be fun to try.
+
+@52234
+"Rival Tigers" works easily on governors with low Loyalty.\nBut few rulers make a disloyal, "dangerous" officer governor. Before "Rival Tigers", prepare by lowering his Loyalty with "Rumor" and so on.
+
+@52235
+"Incite" stirs up the people of an enemy city to riot.\nIf it succeeds, when you attack that city you can use the "Incite" command to make the people riot, reducing enemy troops and lowering Defense.
+
+@52236
+Since you make the people riot, you can guess that it succeeds more easily where Support is low.\nThe higher the target city's Support, the lower the chance.\nLower Support beforehand with "Rumor".\nAlso, if the scheming ruler's Fame is too low, success is doubtful; the people will not trust him.
+
+@52237
+A successful "Incite" means nothing unless you act. It takes effect only when you attack the city.\nBut it lasts only 3 months. If you do not attack within 3 months, the promise lapses and your effort is wasted.
+
+@52238
+Cities with high "Defense" are hard to take. "Sabotage" lowers a city's Defense beforehand.\nIf it succeeds, the enemy castle is damaged and its Defense falls. Repeat it and the castle is left bare, making the battle easy.
+
+@52239
+"Sabotage" rarely succeeds if a high-Intelligence officer is in the city.\nAim for cities where all officers have lower Intelligence than yours and it will succeed more easily.
+
+@52240
+"Plant" is the most elaborate of all schemes.\nFirst send one of your officers to the enemy land. He becomes a free officer. If the enemy recruits him, you have succeeded.\nAfterward, when you scheme against that city, a planted officer there raises the chance of success. In war, if the planted officer sorties, he can turn and take enemy troops.
+
+@52241
+"Plant" differs from other work: weaker officers succeed more easily.\nAble officers are known to other lands, and one appearing as a free officer would only arouse suspicion.\nAn officer low in all four of Intelligence, Strength, Politics and Charm has a high chance.
+
+@52242
+Persuading another ruler and steering talks in your favor... For this task Politics is what counts.\nAn officer with high Politics suits the Diplomacy minister.
+
+@52243
+No country, however strong, can fight many nations at once.\nSo make an alliance with those you do not plan to fight. You will not be attacked suddenly and can throw everything into the enemy at hand.\nAllies can also be asked for reinforcements, and you can develop new weapons together with "Research".\nAlliances have many uses. Never forget this strategy if you want to win the realm.
+
+@52244
+For an "Alliance" to succeed, the other ruler's hostility toward you must be low. If it is high, win him over first with a "Gift".\nThe shorter the alliance period you propose, the easier it is.\nOf course, more gold and such offered as terms helps too.
+
+@52245
+"Gift" means a present. No one is unhappy to receive one, and so it is in diplomacy. Send gold, food and so on to lower the other ruler's hostility toward you.
+
+@52246
+There is no problem in merely accepting a present, so a "Gift" rarely fails.\nBut the other ruler has his pride. If the gift is too small, he may refuse it.
+
+@52247
+Try "Threaten" on a weak ruler near collapse, with few cities and officers. You may grow your power with little effort.\nIf you make another ruler submit with "Threaten", his cities become yours, and he and all his officers become your retainers.\nIt seldom succeeds, being so powerful, but once your power is great it is fun to try.
+
+@52248
+For "Threaten" to succeed, you must meet all of these conditions.\nThe other ruler owns only one city and borders yours.\nYour troops greatly outnumber his (about 30 times as many is a guide).\nHis hostility toward you is 60 or less.\nEven then, whether he submits is up to luck. If it keeps failing, give up and conquer him.
+
+@52249
+"Aid" asks an allied ruler to share gold and food.\nIf you have neither and are at a dead end, try it on an ally.
+
+@52250
+Getting gold and food for nothing is a bit greedy, so there are conditions.\nThe other ruler's hostility toward you must be low. The lower the better.\nHe must have enough gold and food; with under 5,000 gold or 20,000 food, asking is useless.\nAsk too often and he will ignore you. Repay him sometimes with a "Gift".
+
+@52251
+"Research" develops new weapons with an allied ruler, to gain an edge in war.\nA new weapon shores up the weakness of its formation.\nFor example, "Circle" has high Defense but almost no attack. With the new "Catapult" it gains tremendous bow attack.\nIt costs a huge budget and takes long, but if you can afford it, it is worth doing.
+
+@52252
+You can propose "Research" to any allied ruler. But not if the alliance has less time left than the development needs.\nHe will also refuse if he lacks enough gold. If you still want it, send him the gold needed as a "Gift" first. That works only when you have lots to spare.
+
+@52253
+A chariot is a cart walled in wooden boards, carrying soldiers close to the enemy. A moving shield, so to speak.\nIt is used in the Arrowhead formation. Arrowhead's weakness is low Defense, and chariots overcome it.
+
+@52254
+Sleeved Armor is armor with very high defense. Tube sleeves fully protect the arms, and it is made with no gaps at the neck and so on.\nIt is used in the Long Snake formation, raising its Defense and Bow Def.
+
+@52255
+A "crossbow" is a bow improved for more power.\nA Repeater is a "repeating crossbow", a powerful weapon that fires countless bolts and keeps the enemy away.\nIt is used in the Hook formation, extending its Bow Atk and range.
+
+@52256
+"Elite Cavalry" have heavy armor on both soldier and horse, giving high defense.\nThey are used in the Wedge formation, built around cavalry, raising both Attack and Defense.\nWedge is highly mobile and handy, so develop and strengthen it early.
+
+@52257
+A Tower Ship is a huge ship with a tall tower on top.\nIt is used in the "Water Formation". With it, Attack, Defense and Bow Def rise, making you nearly invincible on water.
+
+@52258
+A "Catapult" hurls huge stones and does great damage to the enemy.\nIt is used in the Circle formation. Adding the Catapult's strong bow attack to Circle's high Defense makes a formation strong in both attack and defense.
+
+@52259
+"Joint" is short for "joint operation": attacking an enemy city together with an allied ruler.\nIf the target city has many troops, even a win costs dearly. With allied help, battle gets somewhat easier.\nBut if you win with an ally's help, you must pay thanks later in gold and food.
+
+@52260
+It will not succeed in these cases.\nWhen the other ruler's hostility toward you is very high.\nWhen your target is the other ruler's ally.\nWhen the other ruler has no officers besides himself.\nOtherwise it may succeed.\nEspecially if his hostility is low. Lower it beforehand with a "Gift".
+
+@52261
+Ah, I must warn you first that you should never do that.\nExecuting another land's envoy drops your Fame extremely. Naturally, the other land's hostility rises too.\nA ruler should avoid such cruelty as killing a diplomatic envoy.
+
+@52262
+What a Military minister needs above all is Strength. It affects all work classed as "Military".\nThe troops "Enlist" gathers also depend on the minister's Charm.\nSo officers with high Strength and Charm suit the Military minister.
+
+@52263
+To win a battle, find the most important thing tactically and concentrate your forces there.\nIf the enemy ruler has sortied, defeating that unit alone wins.\nWhen attacked, think of some way to seize the enemy's food.\nWhen you invade, aim to take all the enemy castles rather than attack units.\nAvoid losing troops to wasted moves and win with minimal losses, and you will fight well.\nAnd do not forget to prepare enough arms beforehand.
+
+@52264
+The main ways to raise troops are "Enlist" and "Conscript".\nEither way, the number gathered depends on the city's population. Raising troops in a populous city gathers more at once, so it is more efficient.
+
+@52265
+"Enlist" gathers young men who want to be soldiers, with gold; "Conscript" forces the people into service.\nConscript gathers more at once but burdens the people, lowering Support and Fame. Conscripts also have extremely low Training and Morale.\nUnless you urgently need many troops or fall, gather them with "Enlist".
+
+@52266
+The troops "Enlist" gathers depend on the officer's Charm and Valor. An officer with high Charm and Valor gathers many.\nThe gathered troops' Training and Morale depend on his Strength.
+
+@52267
+An officer's abilities hardly affect the troops "Conscript" gathers.\nBut their Training and Morale depend on his Strength. Have high-Strength officers conscript.
+
+@52268
+"Train" raises troops' Training and Morale, by amounts depending on the Strength of the officer who trains.\nIt raises not only his own troops but all troops in the city.
+
+@52269
+Say an enemy schemes against you in war. If your troops' Training is high, they often escape the scheme.\nWhen you scheme, higher Training raises your success rate.\nWhen preparing arms, watch Training as well as numbers.
+
+@52270
+"Morale" is a number showing the troops' drive.\nHigh Morale means they fight hard and Attack rises.\nBelow a certain level, some flee the field. To avoid such grief, watch Morale.
+
+@52271
+When a unit takes losses from an attack, not all die. Some are only hurt, and they are called wounded.\nThe wounded cannot fight, but recover after the war and can fight again.\nEven in battle they can recover by resting in a castle or through skills.
+
+@52272
+When you attack a city with few enemies and fight at ease, enemy rear forces may suddenly appear and turn the tide.\nUnits can be sent from far-off cities if roads connect. So even if an enemy city has weak forces, fight with care if nearby cities might send help.
+
+@52273
+Rear forces arrive after a number of days that depends on the distance between their city and the battle city.\nFrom an adjacent city, 5 days; from two cities away, 10 days, and so on by the number of cities between.\nThey usually come from an adjacent city, so assume 5 days.
+
+@52274
+If your food is seized while you fight in enemy land...\nWell, you should think the battle lost. Food is that important.\nWithout food an army's Morale slowly falls, and Attack drops sharply. Below a certain level troops start to flee. You cannot win like that.\nConversely, when you are invaded, seizing the enemy's food is an efficient way to fight.\nAn attacker cannot seize the defender's food.
+
+@52275
+Damage from an attack depends on the direction it comes from.\nAttacked from the front you suffer least, then the flank, then the rear.\nWhen attacking, strike from behind for heavy damage. When defending, avoid turning your back to the enemy.
+
+@52276
+In war there is no skill in letting troops fight at random. Form ranks suited to the aim and move them in an organized way and they fight more efficiently.\nThese ranks are called "Formations". Some stress attack, some are for defense only, some extend bow range, and so on. A true great general changes formation skillfully to suit the situation.
+
+@52277
+Use the "Formation" command to change formation.\nChanging formation ends your action for the turn, so do not change needlessly.\nBut rulers, Strategists, and officers with the "Shift" skill can still act after changing.
+
+@52278
+The Wedge formation puts speed first. It shows its worth moving over plains.\nIt suits cases where the enemy is few but has many castles that you want to seize quickly.\nIt is for direct attack and poor at bow fights, so switch to another formation if it comes to shooting.
+
+@52279
+The Winnow formation shines on plains. Units in it often only wound their men when attacked.\nFight from a place that heals the wounded, like a castle, and you can hold out stubbornly.\nMobility, Attack and Defense are low, so it is not for aggressive sorties.
+
+@52280
+Fish Scale has the highest Attack among plains formations, and mobility too. It also allows the powerful "Charge".\nTruly a formation devoted to attack.\nBut Defense is extremely low, so it is poor for defensive battles.\nIt is best when you will accept some damage to crush the enemy fast.
+
+@52281
+In battle, a critical hit sometimes deals twice the usual damage.\nIn the Crescent formation the chance of critical hits doubles.\nThe chance depends on the officer's Valor, so a high-Valor officer using Crescent can do great things.\nEven without a critical hit, its Attack and Defense are high, so it is often used.
+
+@52282
+Circle has the highest Defense of all formations, and is not at a disadvantage from any direction, so it is best for defending castles.\nIn return, Attack and mobility are almost nil. It exists only for defense.\nBut with the new "Catapult" its bow attack leaps up. Use its long range against attackers for good effect.
+
+@52283
+Sending out even one officer who can use Crane Wing gives you an edge in war.\nThis is the only formation that can make a "Volley" attack.\nA Volley is made when several units surround an enemy, dealing great damage with little loss. Used well, even a hard castle falls easily.\nEven when you cannot Volley, its high bow attack is useful.
+
+@52284
+Wild Geese is a formation for attacking enemies with bows.\nBow Atk and range are the highest, but attack in contact is nil.\nBest to place allies in a direct-attack formation in front and give covering fire from behind.
+
+@52285
+Long Snake is for moving quickly through mountains and forests. Even on mountainous fields where moving is hard, it moves with ease.\nIts other abilities are unremarkable apart from slightly high direct attack. If you have a stronger formation, switch to it once next to the enemy.\nWith the new "Sleeved Armor", Defense and Bow Def rise and fighting is easier.
+
+@52286
+The Yoke may be the plainest formation.\nIt puts many troops at the flanks as well as the front, so a flank attack is no disadvantage.\nPlace allies behind or fight with impassable terrain at your back to hold out stubbornly.\nDefense is already good, and in mountains and forests it is firmer still. Useful on mountain fields.
+
+@52287
+Arrowhead is Fish Scale adapted for mountains.\nLike Fish Scale it has high Attack and allows "Charge". Defense is also nearly nil.\nWhen an enemy in a plains formation is flailing about in the mountains and forests, charge it without mercy.\nThe new "Chariot" makes up for its low Defense.
+
+@52288
+Like Winnow, the Hook formation makes it hard for troops to suffer mortal wounds. Winnow suits plains; this suits mountains and forests.\nDirect attack is low, but bow attack and bow defense are fairly high. It moves quickly in mountains and forests, so it suits rear support.\nThe new "Repeater" greatly raises bow attack and extends range.
+
+@52289
+Of all formations, only the Water formation suits water.\nIts mobility and defense on water are remarkable, and it is nearly invincible in naval battle.\nOn land, however, Defense almost vanishes.\nWhen you can form it, lure the enemy onto water to fight.\nThe new "Tower Ship" raises all abilities.
+
+@52290
+An officer with "Fire" can set fires around himself in war.\nFire spreads each turn on the wind, so it can attack or pin down enemies downwind.\nBut rain puts it out, and in the worst case the wind shifts and your own side catches fire. It is a gamble, so if you are ahead there is no need to use it.
+
+@52291
+An officer with this skill can use the "Panic" scheme on an adjacent enemy unit.\nIf it succeeds, the enemy falls into panic and cannot act for several turns. A unit in this state is extremely weak and easily defeated.\nIt works best when the caster's Intelligence is high and the target's Intelligence and Training are low. But it cannot work on a target with the "Calm" skill.
+
+@52292
+An officer with this skill can make enemy units fight each other. You can use it when your unit is adjacent to an enemy unit that is in turn adjacent to another enemy unit.\nIf it succeeds, the enemies start fighting among themselves, losing troops and Morale.\nIt works best when the caster's Intelligence and Training are high and the target's are low.
+
+@52293
+An officer with this skill can use "Order" when an allied unit next to him is in panic, and restore it.\nA panicked unit is useless in battle, so restoring it quickly matters.
+
+@52294
+Mystic arts are a very rare skill. An officer with it can use the "Mystic" scheme.\nIt heals the wounded of all allied units and raises their Morale. Bonus effects may also occur, such as letting a unit that has finished its turn act again or restoring panicked units.\nThis powerful art costs the caster 50 Stamina each time. Choose your moment well.
+
+@52295
+An officer with this skill can use "Rouse" to raise the Morale of his own unit and adjacent allied units.\nHigher Morale raises a unit's Attack, so rousing when the chance comes is effective.\nBut Rouse costs 25 Stamina.
+
+@52296
+"Heal" is the skill to restore troops wounded in battle.\nIt heals the wounded of himself and all adjacent allied units. Very handy in a long battle.\nBut it costs 35 Stamina.
+
+@52297
+Surrounded by flames and driven into desperate straits... That is when "Rain" helps.\nIf it succeeds, the weather turns to rain or downpour and puts out the fires.\nBut whether it works is up to Heaven's will.\nRain costs 20 Stamina.
+
+@52298
+"Skies" is a higher art than "Rain", which only calls rain.\nIf it succeeds, you can change the battlefield weather as you like. Make it clear to use Fire or Flame, or rainy to put out fires.\nSkies costs the caster 30 Stamina.
+
+@52299
+This skill puts out the raging fires around you.\nAn officer with "Douse" can put out all the fires around him.\nA rather plain skill.
+
+@52300
+"Rocks" drops big stones from a castle onto surrounding enemies.\nWhen an officer with this skill holds a castle, he can drop stones on adjacent enemy units for heavy damage. Ideal for defending a castle.\nThis scheme needs 30 Stamina.
+
+@52301
+"Divine" is read "sento" and means fortune-telling.\nEven the caster does not know its effect. It sometimes brings bad results, so when you are winning it is wiser not to use it.\nEach use costs the caster 50 Stamina.
+
+@52302
+An officer with this skill can use the "Lurk" scheme on an enemy in a forest. The target must be in a forest within 4 squares.\nIf it succeeds, it deals great damage and throws the enemy into panic.\nIt works well where forest surrounds a castle. It needs 30 Stamina.
+
+@52303
+"Mirage" is the strongest scheme, of fearsome power.\nUsing it deals heavy damage to every enemy within 5 squares of the caster, lowers Morale and throws most units into panic.\nBeing so strong, it costs 60 Stamina.
+
+@52304
+Somewhat weaker than Mirage, "Sorcery" is still a very powerful scheme.\nUsing it deals great damage to all enemy units within 4 squares of the caster and lowers their Morale and Training.\nSorcery needs 60 Stamina.
+
+@52305
+"Flood" attacks enemies on water with a raging torrent.\nAn officer with this skill can use it on enemies within 4 squares.\nUsing it costs 50 Stamina.
+
+@52306
+An officer with this skill can attack enemy units on mountains within 4 squares with the "Slide" scheme.\nEnemy units caught in the falling earth suffer huge losses of 2,000 to 3,000.\nThis scheme needs 40 Stamina.
+
+@52307
+An officer with this skill can cheer all allied units on the field and raise their Morale considerably.\nCheering may also restore allied units in panic.\nIt is very effective and handy. It costs 60 Stamina.
+
+@52308
+"Vines" is a special armor invented by southern tribes. Vines are soaked in special oil and woven into armor.\nIts toughness is astonishing. A unit led by an officer with Vines takes no damage from arrows, and its defense against normal attacks is very high too.\nBut the armor burns easily. "Fire" or "Flame" will finish it at once.
+
+@52309
+When surrounded by several enemies, their attacks combine and grow stronger, forcing a bad fight. Damage is heavy especially under a Volley.\nBut an officer with "Mighty" is not at a disadvantage when surrounded. Even under a Volley he takes only normal damage.\nNot flashy, but it may help when defending a city.
+
+@52310
+An officer with "Calm" has an extremely low chance of falling to schemes like "Panic", "Feud" and "Mirage".\nSuch schemes are powerless against him.
+
+@52311
+An officer with "Water God" has the protection of the dragon god of water.\nSo an enemy's "Flood" does him no damage at all. Also, when it rains, his Defense rises greatly.
+
+@52312
+When an enemy uses "Fire", "Panic" or "Feud" on an officer with "Foil", he can turn the scheme back on the enemy with a certain chance, and the enemy suffers from his own scheme. A successful Foil is satisfying!
+
+@52313
+An officer with "Reply" can answer an enemy's arrow attack with arrows of his own.\nNeedless to say, he has the advantage when trading shots with an enemy who lacks Reply.
+
+@52314
+Sending a unit from a city far from the battle takes days depending on the distance.\nAn officer with "March" arrives at the battlefield 5 days earlier than usual.\nThe sooner units arrive, the better you fight.
+
+@52315
+Ordinary officers other than rulers and Strategists use up a turn's command when they change formation, so they cannot change casually.\nBut an officer with "Shift" can do other commands after changing formation, adapting freely to fight in the best one.
+
+@52316
+Normally a unit cannot shoot arrows right after moving. But an officer with "Mounted Archery" can shoot after moving.\nVery useful for pursuing a fleeing enemy.
+
+@52317
+An officer with this skill can attack enemies within arrow range with fire arrows.\nFire arrows have higher attack than normal arrows, and may also set the target place ablaze.\nSimilar to "Fire", but with attack power it may be easier to use. Fire catches more easily with "Fire", though. Use each as the situation requires.
+
+@52318
+An officer with this skill can use the "Spray" attack.\nSpray shoots arrows at every enemy unit in range.\nUseful when surrounded by enemies. But it may hit your own units too, so take care.\nSpray needs 50 Stamina.
+
+@52319
+An officer with this skill can make a "Fury" attack.\nFury attacks all adjacent enemies at once, and raises the unit's Morale a little.\nIt wears down your troops more, but is effective when surrounded and unable to move.\nThis attack needs 30 Stamina.
+
+@52320
+A unit led by an officer with "Snipe" has its range extended by 1 square.\nCombined with a formation of long range like Wild Geese, you fight well.
+
+@52321
+An officer with this skill can use "Rush".\nWith Rush, mobility rises for that turn only and he can move farther at once.\nBut Rush needs 25 Stamina.
+
+@52321.1
+When attacked, think of some way to seize the enemy's food.\nWhen you invade, aim to take all the enemy castles rather than attack units.\nAvoid losing troops to wasted moves and win with minimal losses, and you will fight well.\nAnd do not forget to prepare enough arms beforehand.
+
+@52321.4
+The troops "Enlist" gathers depend on the Charm and Valor of the officer in charge.
+

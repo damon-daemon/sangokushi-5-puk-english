@@ -1,0 +1,279 @@
+@56000
+How many people to gather?
+
+@56001
+How many to gather?
+
+@56002
+Set the time limit.
+
+@56003
+The game will now end only when the land is unified. The time limit you set no longer applies.
+
+@56004
+Lord {v01}, as {v02} has died, {v03} is now the chosen officer instead.
+
+@56005
+Lord {v01}, as {v02} has become a ruler, {v03} is now the chosen officer instead.
+
+@56006
+{v01} has made all the chosen officers his retainers. The win condition is met. The game is over.
+
+@56007
+{v01} has taken all the chosen cities. The win condition is met. The game is over.
+
+@56008
+{v01} has gathered all the chosen items. The win condition is met. The game is over.
+
+@56009
+{v01} has learned every formation. The win condition is met. The game is over.
+
+@56010
+{v01}'s Valor has reached 10000. The win condition is met. The game is over.
+
+@56011
+The time limit has run out, so the game is over.
+
+@56012
+No new officer can be chosen for the condition, so the game ends here.
+
+@56013
+{v01} has at last met every win condition.
+
+@56014
+Aim to unify the whole land from here?
+
+@56015
+The win condition is now unifying the land. The game continues.
+
+@56016
+%d years remain until the limit.
+
+@56017
+The people seem to be gossiping.
+
+@56018
+I have heard that Lord {v01} lives in seclusion in {v14}.
+
+@56019
+Rumor has it that {v01} in {v14} does not think much of Lord {v02}.
+
+@56020
+They say Lord {v01} treasures the %s greatly.
+
+@56021
+Where is the %s, you ask? Well, I have never heard anything about it.
+
+@56022
+The %s that Lord {v01} owns is a fine piece indeed.
+
+@56023
+What say you? Would you trade me this %s for it?
+
+@56024
+Trade %s for %s?
+
+@56025
+Oh, thank you! How many times I have dreamed of getting this piece.
+
+@56026
+Traded %s for %s.
+
+@56027
+You will not, whatever I say... How very disappointing.
+
+@56028
+Lord {v01}, someone who calls himself a collector of the %s has come to see you.
+
+@56029
+I hear Lord {v01} is looking for the %s.
+
+@56030
+This is my treasured piece, but if it is for Lord {v01}, I gladly give it to you.
+
+@56031
+Obtained %s.
+
+@56032
+How goes your learning of formations, my lord?
+
+@56033
+Well, I thought to learn the %s next, but I cannot grasp the knack at all.
+
+@56034
+The %s is a formation I am good at. I will teach you all I know.
+
+@56035
+Hmm, I see, I understand well now. I will try it on the battlefield next. {v02}, I thank you.
+
+@56036
+%s can now be used.
+
+@56037
+End Conditions
+
+@56038
+Make a given officer a retainer
+
+@56039
+Conquer 3 given cities
+
+@56040
+Collect given items
+
+@56041
+Ruler learns all formations
+
+@56042
+Ruler's Valor reaches 10000
+
+@56043
+Make given officers your retainers
+
+@56044
+Conquer given cities
+
+@56045
+Collect given items
+
+@56046
+The ruler learns all formations
+
+@56047
+Raise the ruler's Valor to 10000
+
+@56048
+Each ruler's progress is as follows.
+
+@56049
+Lord {v01}, select officers (%u).
+
+@56050
+DEBUG Lord {v01}, choose the officers yourself?
+
+@56051
+Lord {v01}, select cities (3).
+
+@56052
+DEBUG Lord {v01}, choose the cities yourself?
+
+@56053
+Lord {v01}, select items (%u).
+
+@56054
+DEBUG Lord {v01}, choose the items yourself?
+
+@56055
+If you wish to learn formations, always lead from the front and give the orders yourself.
+
+@56055.1
+For you to learn formations, my lord, there is no way but to learn the enemy's in battle.
+
+@56055.2
+Learning formations? You have set quite a difficult goal.
+
+@56055.3
+To learn formations in battle, it is important to capture as many officers as possible.
+
+@56055.4
+On the battlefield, try to capture more officers yourself, my lord.
+
+@56056
+Formations, hm? I must watch the enemy's formation well and capture him.
+
+@56056.1
+I am slow to learn, so I am a little worried whether I can learn formations.
+
+@56056.2
+I know of no way to learn formations apart from war. Now, what to do?
+
+@56057
+Half the formations remain. Be sure to capture the enemy yourself, my lord.
+
+@56057.1
+Half remain. From now on, capture opponents who hold formations you have not learned, my lord.
+
+@56057.2
+Half of the formations you lack remain, but keep watching the enemy's formation well and capture him.
+
+@56057.3
+If I have learned a formation you do not know, I may be able to teach it to you...
+
+@56057.4
+There are two ways to learn formations... One is in war, and the other is through me.
+
+@56058
+Finally half done. I cannot do more alone. I want reliable retainers.
+
+@56058.1
+The other half of the formations are surely too much for me alone.
+
+@56059
+Only one formation remains! Keep up this momentum and learn them all.
+
+@56059.1
+At last, the final formation! Let us ready our forces to learn it as soon as possible.
+
+@56059.2
+Learn just one more and all formations are yours, and the goal is met.
+
+@56059.3
+Learn one more formation and the goal is met.
+
+@56059.4
+One step from learning all formations. Let us ready our ranks at once and attack.
+
+@56060
+Only one formation left? I want to settle it in one stroke.
+
+@56061
+Taking castles and capturing officers raise Valor best, I think. Beware of duels.
+
+@56062
+Raise Valor through war, hm? First I need retainers.
+
+@56063
+Valor is 5000, only half. We must attack more...
+
+@56064
+5000 is still only half. A bit risky, but let us raise it at once with duels.
+
+@56065
+We are almost there. Attack in one go and raise your Valor!
+
+@56066
+Having no retainers is lonely, but from here, with momentum, Valor 10000 is within reach.
+
+@56067
+Collecting items is very hard. The best way is to raise your Fame and go on Training.
+
+@56068
+There is a limit to collecting items by my strength alone. I must gather retainers soon...
+
+@56069
+Only one item remains. If its location is unknown, send me on Training...
+
+@56070
+At a time like this, if a merchant or villager would give me the item... I will wait without hope.
+
+@56071
+Except for empty cities, there is no way but to take them by force. Let us take them for certain.
+
+@56072
+Without retainers I cannot even conquer cities. First, gather people.
+
+@56073
+Take {v14} and the goal is met. Pay close attention to the cities you have already taken.
+
+@56074
+To have taken two cities without retainers is remarkable. At this rate, {v14} too...
+
+@56075
+Gather officers by recruiting and by war. Appoint as many Personnel ministers as you can.
+
+@56076
+Without retainers, hm... If the officer I want would just join me, it would be killing two birds with one stone.
+
+@56077
+Only {v03} remains. If we could lure him away, but war cannot be helped.
+

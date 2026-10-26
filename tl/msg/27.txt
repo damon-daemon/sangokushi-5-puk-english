@@ -1,0 +1,111 @@
+@27000
+I heard of {C7} in town and came here. Lend us your strength.
+
+@27000.1
+History calls for you{C27}. Please aid my lord{C19}.
+
+@27001
+This chaotic age needs heroes like {C7}. Will you entrust me with your life?
+
+@27002
+Just follow me{C35}.
+
+@27003
+Use your talent as my right hand. Won't you work with me?
+
+@27004
+With my wisdom and your talent, we'll have nothing to fear. Come with me{C19}.
+
+@27005
+You have a fine face{C45}. How about serving my lord{C52}?
+
+@27006
+To think you'd value a youngster like me so highly... I'll serve Lord {v03}.
+
+@27006.1
+{C65} When you put it like that, {C0} must go{C46}.
+
+@27006.2
+Now is the chance of a lifetime. {C0} will entrust my life to {C7}{C33}.
+
+@27006.3
+I've long been interested in your lord. I look forward to serving.
+
+@27006.4
+It seems my luck has turned. Under Lord {v03}, I can show my full worth.
+
+@27007
+Lord {v02} came to me in person... I'm moved{C23}. I'll serve with my life.
+
+@27008
+If these old bones will do, I'll gladly lend my strength.
+
+@27009
+For a rough soldier like me to be valued so... No greater honor for a man.
+
+@27009.1
+So the time has come to wield my skill for the world. Watch me on the battlefield.
+
+@27009.2
+{C65} I'll show you how I fight like a demon.
+
+@27010
+Very well. With me, the land is as good as yours{C45}.
+
+@27011
+I have no wish to give up my current life.
+
+@27011.1
+I have no intention whatsoever of serving your lord{C28}.
+
+@27011.2
+What nonsense... I was a fool to listen to {C7}.
+
+@27011.3
+I have no wish to help {C16}{C37}.
+
+@27012
+You {C16}... I won't fall for that.
+
+@27013
+So you want me to come with {C16}? Nonsense. I refuse.
+
+@27013.1
+Don't be absurd... I have no wish to work under {C6}'s lord{C53}.
+
+@27014
+I refuse... I won't serve someone without honor or loyalty.
+
+@27015
+Rather, wouldn't you like to serve my lord? You could do even more there.
+
+@27015.1
+Won't you fight alongside my lord{C57}? {C0} will recommend you as grand general{C55}.
+
+@27015.2
+By the way, {C7} seem unhappy with your treatment. If you like, I'll recommend you to my lord{C20}.
+
+@27016
+Rather, come to my lord... You'll surely get what you want{C26}.
+
+@27017
+Someone like you... A pity. Why can't you see which lord you truly should serve?
+
+@27018
+I refuse. I can't betray Lord {v03}'s trust.
+
+@27018.1
+I refuse{C45}. {C0} will serve no one but Lord {v03}.
+
+@27018.2
+Don't joke. {C0} became envoy because Lord {v03} trusts me{C45}.
+
+@27018.3
+How dare you! This is offensive. Just seeing your face makes me sick.
+
+@27018.4
+Such nonsense... It seems further persuasion is pointless{C50}...
+
+@27019
+Very good, very good.
+

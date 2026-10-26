@@ -1,0 +1,606 @@
+@21000
+Where will you place {v01}'s unit?\nFormation: %s\nTroops: %u
+
+@21001
+Where will you set up the supply depot?
+
+@21002
+Lord {v01}, which unit will you command?
+
+@21003
+Lord {v01}, orders for {v02}'s unit?
+
+@21004
+Lord {v01}, end your orders?
+
+@21005
+Move and attack?
+
+@21006
+{v01} captured {v02}!
+
+@21007
+{v02} was captured by {v01}!
+
+@21008
+{v01} was hit by an arrow and wounded!
+
+@21009
+: Troops of {v02} have arrived.
+
+@21010
+: Joint-operation troops of {v02} have arrived.
+
+@21011
+: Reinforcements of {v02} have arrived.
+
+@21012
+Every castle has fallen.
+
+@21013
+{v01}'s army was wiped out.
+
+@21014
+{v01}'s army withdrew from the field.
+
+@21015
+Failed to take the city within 30 days.
+
+@21016
+Victory for {v01}'s army.
+
+@21017
+Victory for the allied armies of {v01} and {v02}.
+
+@21018
+Defeat for {v01}'s army.
+
+@21019
+Defeat for the allied armies of {v01} and {v02}.
+
+@21020
+With food exhausted, {v01}'s army's morale is falling.
+
+@21021
+As the war drags on, {v01}'s army's morale is falling.
+
+@21022
+{v01}'s unit's morale has fallen, and soldiers are deserting.
+
+@21023
+{v01}'s unit recovered from confusion.
+
+@21024
+The attackers' food was seized!
+
+@21025
+Change which unit's formation?
+
+@21026
+Use a scheme on which unit?
+
+@21027
+No scheme can be used.
+
+@21028
+Which unit will retreat?
+
+@21029
+Where will {v01} retreat to?
+
+@21030
+There's no city to retreat to!
+
+@21031
+Delegate all units. Is that all right?
+
+@21032
+Delegated the whole army.
+
+@21033
+Which unit will you delegate?
+
+@21034
+Delegated {v01}'s unit.
+
+@21035
+Cancel delegation of all units. Is that all right?
+
+@21036
+Canceled delegation of the whole army.
+
+@21037
+Cancel delegation of {v01}'s unit. Is that all right?
+
+@21038
+Canceled delegation of {v01}'s unit.
+
+@21039
+Retreat all units. Is that all right?
+
+@21040
+The whole army will retreat. Is that all right?
+
+@21041
+Have {v02}'s unit pursue the retreating {v01}. Is that all right?
+
+@21042
+{v01} was captured.
+
+@21043
+Captured {v01}.
+
+@21044
+{v01} retreated to {v14}.
+
+@21045
+{v02} caught {v01} in pursuit and dealt %u damage!
+
+@21046
+{v02} failed to catch {v01}, was counterattacked and took %u damage!
+
+@21047
+{v01} defected to {v02}'s army!
+
+@21048
+{v01}'s loyalty fell by %d!
+
+@21049
+Could not make {v01} defect.
+
+@21050
+Raise mobility for a swift attack. Is that all right? (Stamina needed: 25)
+
+@21051
+{v01}'s unit can be given orders again!
+
+@21052
+It didn't hit any unit!
+
+@21053
+Which unit will you heal? (Stamina needed: 35)
+
+@21054
+Which weather?
+
+@21055
+Which direction?
+
+@21056
+Incite the people to deal damage. Is that all right?
+
+@21057
+Castle defense is now %d.
+
+@21058
+{v01}'s unit in the castle took damage!
+
+@21059
+Flames rose from the castle!
+
+@21060
+Which officer will you turn?
+
+@21061
+Hide in ambush. Is that all right? (Stamina needed: 50)
+
+@21062
+The enemy spotted you!
+
+@21063
+{v01}'s unit was attacked by {v02} from ambush!
+
+@21064
+Leave ambush?
+
+@21065
+Use Mirage. Is that all right? (Stamina needed: 60)
+
+@21066
+The troops are terrified and fleeing.
+
+@21067
+Raise morale of all allied units. Is that all right? (Stamina needed: 60)
+
+@21068
+Retreat {v01} to {v14}. Is that all right?
+
+@21069
+No officer can be turned!
+
+@21070
+Which unit will you attack?
+
+@21071
+Wait without attacking?
+
+@21072
+The planted {v01} defected to {v02}'s army!
+
+@21073
+The traitor {v01} defected to {v02}'s army!
+
+@21074
+Calm confusion in adjacent units. Is that all right?
+
+@21075
+Heal wounded in this and adjacent units. Is that all right? (Stamina needed: 35)
+
+@21076
+Shower arrows. Is that all right? (Stamina needed: 50)
+
+@21077
+Raise morale of this and adjacent units. Is that all right? (Stamina needed: 25)
+
+@21078
+Pray for rain. Is that all right? (Stamina needed: 20)
+
+@21079
+Put out nearby fires. Is that all right?
+
+@21080
+Make which unit fight among itself?
+
+@21081
+Where will you set fire?
+
+@21082
+Which unit will you confuse?
+
+@21083
+{v01}'s unit was confused.
+
+@21084
+Restore wounded and morale of all allied units. Is that all right? (Stamina needed: 50)
+
+@21085
+Change the weather. Is that all right? (Stamina needed: 30)
+
+@21086
+Change the wind direction. Is that all right? (Stamina needed: 25)
+
+@21087
+Anything could happen. Is that all right? (Stamina needed: 50)
+
+@21088
+{v01} retreated.
+
+@21089
+{v01}'s army's morale %s!
+
+@21090
+Many are drowning in the units on water!
+
+@21091
+{v01} was badly wounded!
+
+@21092
+{v01}'s stamina recovered.
+
+@21093
+{v01}'s wounds fully healed.
+
+@21094
+{v01}'s %s rose by 1.
+
+@21095
+Have someone else fight the duel?
+
+@21096
+Which officer will fight the duel?
+
+@21097
+Fight the duel yourself?
+
+@21098
+The unit's morale and training fell.
+
+@21099
+Use Hex. Is that all right? (Stamina needed: 60)
+
+@21100
+Damage enemies on water. Is that all right? (Stamina needed: 50)
+
+@21101
+{v01} has challenged {v02} to a duel. Accept?
+
+@21102
+{v01} spotted an enemy unit in ambush.
+
+@21103
+Damn, fire all around us! We must act fast!
+
+@21103.1
+Argh, at this rate we'll burn to death. We must do something!
+
+@21103.2
+The fire spreads fast. At this rate we can only wait for annihilation...
+
+@21104
+Now feel our pent-up hatred!
+
+@21104.1
+Regret all your wicked deeds!
+
+@21104.2
+This land will be ruled by Lord {v01}. Get out!
+
+@21105
+Lord {v02}, our current formation looks disadvantageous. Let's re-form our ranks.
+
+@21105.1
+Lord {v02}, if we re-form our ranks... Now, give the order to your men.
+
+@21105.2
+Lord {v02}, let us re-form our ranks and wipe out the enemy in one stroke.
+
+@21106
+Listen, all of you! We will now re-form our ranks. Ready?
+
+@21107
+Re-form the ranks, {C9}. Leave the orders to me.
+
+@21108
+{v02}, this formation is rather poor. Re-form at once.
+
+@21109
+{v02}, join us and name your reward. What say you?
+
+@21109.1
+The only lord worthy of you is Lord {v03}. Can't someone like you see that?
+
+@21109.2
+Victory is ours. You're too talented to kill. Join us while you can.
+
+@21110
+{v02}, why does someone like you serve a traitor? Come to us and fight by our side.
+
+@21111
+I gratefully accept your kindness. Hear me, all! Our enemy is now {v03}! Attack!
+
+@21111.1
+Hmm... For the greater cause, I'll bear the stain. {v03}, prepare yourself!
+
+@21111.2
+Thank you for the offer. From today, {v01} sides with Lord {v04}.
+
+@21112
+I refuse. Until my dying breath, my only lord is Lord {v03}.
+
+@21112.1
+Silence, silence! A loyal retainer serves no second lord!
+
+@21112.2
+Who'd join the likes of you? I'll strike you down even if it costs my life!
+
+@21113
+Who will face me?
+
+@21113.1
+{v02}, if you have a general's pride, face me!
+
+@21113.2
+I've no time for small fry. {v02}, duel me{C40}!
+
+@21114
+{v02}, fight me, Gan Xingba! I'll show you the spirit of a Jinfan pirate!
+
+@21115
+Very well. I'll teach you that overconfidence is fatal.
+
+@21115.1
+You'll regret taking on {C3}. Come{C35}!
+
+@21115.2
+I accept your challenge.
+
+@21116
+Picking a fight with a pirate? Bring it on!
+
+@21117
+A general doesn't rise to cheap bait. I'll face you another time.
+
+@21117.1
+I won't waste my strength on the likes of {C7}. Relax, I'll cut you down later{C55}.
+
+@21117.2
+How green. This is war, not a brawl. Battles are won by commanding troops{C45}.
+
+@21118
+I don't feel like fighting today. I'll face you another time.
+
+@21119
+I just ate. Exercise after meals is bad for you. I'll face you some other time.
+
+@21120
+All troops, retreat! We'll withdraw and wait for a chance to strike back.
+
+@21120.1
+"Of the 36 stratagems, running away is best." That's strategy too. Everyone, retreat{C45}!
+
+@21120.2
+More fighting would only add to the dead{C45}. All troops, retreat{C45}!
+
+@21121
+Damn, my sword arm is hit. I can't put any strength into it.
+
+@21121.1
+Ugh, to think that I, {C2}, would take a stray arrow... Bad. My body won't move as I want.
+
+@21121.2
+Gah... Don't mind it, men. Just a scratch.
+
+@21122
+Damn, my arm is hit? Well, no matter. A wound like this comes with a pirate's life.
+
+@21123
+Sorry to keep you waiting. Now that {C2} am here, rest easy.
+
+@21123.1
+We've finally arrived{C55}. Leave the rest to us and rest.
+
+@21123.2
+We've come to help, if a bit late{C55}. Let's finish this in one stroke{C53}!
+
+@21124
+Everyone, reinforcements are here! Come on, one more push! Let's go!
+
+@21125
+{C65} It burns well! Flames, devour them!
+
+@21125.1
+Yes, it's spreading nicely! Flames of our wrath, burn on!
+
+@21125.2
+The fire attack worked{C45}. I can picture the enemy's terrified faces{C53}.
+
+@21126
+Blast, the powder was damp?
+
+@21126.1
+Bad, I miscalculated. With this little powder, it won't spread.
+
+@21126.2
+This can't be. Why{C45}, why won't it burn{C57}?
+
+@21127
+Good, the scheme worked. I can picture the enemy panicking.
+
+@21127.1
+Ha, they're shaken{C27}. Now's our chance; attack while they're confused!
+
+@21127.2
+{C65} {v02} seems to have lost control. Serves them right.
+
+@21128
+Their troops are scattered and out of formation{C48}. Go, crush them at once!
+
+@21129
+Ugh, as expected of {v02}. A fine commander. Admirable, for an enemy.
+
+@21129.1
+{v02} is good. Rallying the troops at once and regrouping...
+
+@21129.2
+Ugh, seeing through my false messengers... Not to be underestimated.
+
+@21130
+{C65} They're killing each other. Fools!
+
+@21130.1
+Go on, kill each other.
+
+@21130.2
+Wounding their own... Just a rabble. No match for us.
+
+@21131
+You saw through my plan... {v02}, not to be underestimated. I won't forget that name.
+
+@21131.1
+Foiling my clever plan... The enemy has a fine general, it seems{C50}.
+
+@21131.2
+Blast, they saw through it. It seems {C2} must get serious{C50}.
+
+@21132
+Quiet, quiet! This is unworthy of such renowned generals.
+
+@21132.1
+Calm down, calm down! At this rate we'll be wiped out{C55}. Regroup now{C45}!
+
+@21132.2
+Don't be fooled by false messengers! There's only one truth{C55}. Calm down and listen{C39}!
+
+@21133
+Behold, the mystic arts only a chosen few can master!
+
+@21133.1
+I'll show{C20} you the power of the mystic arts. Now, miracle, happen!
+
+@21133.2
+Behold my mystic arts! Miracle, come! Bless us!
+
+@21134
+Power is welling up from deep within! Right, I'll command my unit again!
+
+@21134.1
+The fatigue of men and horses is fading. Now I can command again.
+
+@21134.2
+Oh, I hear a divine voice{C55}. What? It's telling me to command my unit again{C47}?
+
+@21135
+Come, everyone, take heart! We will surely win. Believe!
+
+@21135.1
+You have {C2} with you{C55}. Fight without fear{C45}!
+
+@21135.2
+Fear not, cast off doubt! Believe only in victory and fight{C45}!
+
+@21136
+Thanks to {v02}, we've somehow recovered. Now, let's redeem ourselves!
+
+@21136.1
+Sorry{C57}, {v02}. That saved us{C55}.
+
+@21136.2
+{v02}, thank you{C33}. We recovered thanks to you{C48}. I owe you one{C50}.
+
+@21137
+Well done, {v02}. I must reward you later.
+
+@21138
+Just as expected of {C9}. With one word, the troops came to their senses.
+
+@21139
+Behold the secrets of my medicine.
+
+@21139.1
+There seem to be wounded{C50}. But in my hands, see, good as new{C45}.
+
+@21139.2
+Cheer up, everyone{C45}! I'll treat you, so hang in there a little longer.
+
+@21140
+Hold on{C39}! I'll treat you now{C48}. Come, one more push{C45}!
+
+@21141
+The rain ritual! Everyone line up and begin the rain dance!
+
+@21141.1
+O Heaven, answer my prayer and send rain upon the earth!
+
+@21141.2
+O Heaven, hear my plea and bring blessed rain to this land!
+
+@21142
+Oh, my wish came true! And a downpour at that!
+
+@21142.1
+Heaven heard our wish! Rejoice, everyone! A downpour{C45}!
+
+@21142.2
+Ha, a downpour{C45}! Heaven heard our prayers{C45}! Heaven is on our side{C45}!
+
+@21143
+Oh, it worked! The rain is pouring down!
+
+@21143.1
+Oh, it's raining{C55}! Pray and things work out{C50}.
+
+@21143.2
+The prayers paid off{C50}. Everyone, our prayers were heard. Heaven is with us.
+
+@21144
+O Heaven, why won't you hear our plea? Uwoooooh!
+
+@21144.1
+How bitter{C50}. In the end I can rely only on myself{C45}.
+
+@21144.2
+It doesn't go as planned. Gods and buddhas can't be relied on{C50}.
+
+@21145
+Which unit do you want to view?
+

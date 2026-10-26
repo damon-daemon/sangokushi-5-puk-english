@@ -1,0 +1,603 @@
+@18000
+There is no officer who can carry this out.
+
+@18001
+Lord {v01}, end this month's orders?
+
+@18002
+Select the city to attack.
+
+@18003
+No city can go to war.
+
+@18004
+Who will deploy? Spirit needed: 40
+
+@18005
+Attack?
+
+@18006
+{v01}'s army has attacked {v14}.
+
+@18007
+The joint army of {v01} has attacked as promised.
+
+@18008
+The joint army of {v01} seems not to have attacked.
+
+@18009
+{v01} gained the ability %s.
+
+@18010
+Lord {v01}, the army of {v02} seems to have no strength left to fight.
+
+@18011
+Lord {v01}, the army of {v02} feared us and fled without a fight.
+
+@18012
+{v02}'s army fled without a fight.
+
+@18013
+The army of {v02} set fire to {v14} and fled. The whole town is a sea of flames.
+
+@18014
+The army of {v02} fled, taking the people of {v14} with them.
+
+@18015
+{v02} set fire to {v14} and retreated. How cruel...
+
+@18015.1
+{v02} seems to have burned the castle while retreating{C23}. Fields and town are burning{C27}.
+
+@18016
+Lord {v01}, the town is in flames, and even the crops are burned... Please help us.
+
+@18016.1
+Lord {v01}, please help... Our homes and food are ash. How are we to live... Ah...
+
+@18017
+Lord {v01}, give the people gold and food?
+
+@18018
+How much gold will you give?
+
+@18019
+How much food will you give?
+
+@18020
+This is all? We can't even build temporary shelter with this.
+
+@18020.1
+We are grateful for the thought, but with this little gold...
+
+@18021
+Thank you very much. Now we might manage.
+
+@18021.1
+With this money we can start rebuilding.
+
+@18022
+Is it all right to take so much? We can rebuild a lot with this.
+
+@18022.1
+With this much, we can nearly restore the town. Thank you very much.
+
+@18023
+This is all? This won't even reach the elderly and children.
+
+@18023.1
+Thank you... (This is all... Is Lord {v01} short of food too?)
+
+@18024
+Thank you very much. This should see us through two or three days.
+
+@18024.1
+What a help. Now, I'll take it to my wife and kids right away.
+
+@18025
+So much... More than enough. We will never forget this kindness.
+
+@18025.1
+With this much... everyone will be overjoyed. Thank you very much.
+
+@18026
+The people fled too. They all seem devoted to {v02}.
+
+@18026.1
+{v02} retreated with the people{C23}. Admirable, for an enemy{C45}.
+
+@18027
+Captured {v01}.
+
+@18028
+So they don't care about the people's suffering... We were fools to have hopes.
+
+@18028.1
+The castle must have plenty of gold and food... It's always us who suffer.
+
+@18029
+This month's orders have already ended.
+
+@18030
+No officer can be appointed.
+
+@18031
+Which minister will you appoint?
+
+@18032
+Select the city in which to appoint the %s minister.
+
+@18033
+Who will be appointed %s minister?
+
+@18034
+Who will be the special minister?
+
+@18035
+No officer can be appointed.
+
+@18036
+No city can be moved to.
+
+@18037
+Select the destination city.
+
+@18038
+Who will move? Spirit needed: 25
+
+@18039
+Which officer will you reward?
+
+@18040
+How much gold will you give?
+
+@18041
+There is no gold.
+
+@18042
+There is no officer who can be rewarded.
+
+@18043
+{v01}'s Loyalty is now %u.
+
+@18044
+...
+
+@18045
+It had no effect.
+
+@18046
+There are no items to give.
+
+@18047
+No officer can be given items.
+
+@18048
+Which item will you give?
+
+@18049
+Who will you give the item to?
+
+@18050
+Such an item for me... I'm deeply grateful. It will be our family treasure.
+
+@18050.1
+Eh, for me? Is it all right{C24}? Ah, I'll never forget this kindness{C32}.
+
+@18050.2
+This is a legendary item... I may really have it{C24}?
+
+@18051
+This is the very "%s" I have been seeking... You will trade it with me?
+
+@18051.1
+Ah, that is just what I wanted. Please, do trade with me.
+
+@18051.2
+Oh, that is surely the legendary "%s". I am truly delighted.
+
+@18052
+Ah, that book is just what I have been looking for. Let me trade for it!
+
+@18052.1
+A trade... Well, it is a book, and reading now and then may do me good.
+
+@18052.2
+What, trade this for that? Is that the "%s"? Please, let us trade!
+
+@18053
+Oh, that horse must be the famed steed "%s"! Please, let us trade!
+
+@18053.1
+You would trade that famed steed for this? I couldn't ask for more.
+
+@18053.2
+The famed steed, mine... I should be the one to ask for that trade.
+
+@18054
+There is no officer to confiscate from.
+
+@18055
+Confiscate from whom?
+
+@18056
+Which item will you confiscate?
+
+@18057
+Not that, I beg you... Please, I beg you.
+
+@18057.1
+Did {C0} do something wrong{C24}? Please stop{C19}.
+
+@18057.2
+That's more precious to me than life... no, it is my life. Please... {C9}!
+
+@18058
+I risked my life fighting for {C9} all this time, and this is my reward? Confiscation... Absurd...
+
+@18058.1
+Why is it being taken{C45}? After all {C0} did for {C9}...
+
+@18058.2
+After all my loyalty to {C9}, to be treated like this...
+
+@18059
+{v01}'s Loyalty has fallen.
+
+@18060
+{v01} has left your service!
+
+@18061
+There is no officer who can be appointed Adjutant.
+
+@18062
+Whom will you appoint as Adjutant?
+
+@18063
+Replace the Adjutant with {v01}.\nIs that OK?
+
+@18064
+I'm deeply grateful. I humbly accept this honorable post.
+
+@18064.1
+Making me {C9}'s right hand... It's like a dream.
+
+@18064.2
+Yes, I gratefully accept the post{C33}. Count{C19} on me.
+
+@18065
+Such a post for me... I will work to live up to {C9}'s hopes.
+
+@18065.1
+I humbly accept{C33}. I'll give advice worthy of {C9}'s hopes{C33}.
+
+@18065.2
+Yes, leave it to me{C19}. I'll always analyze the situation and give sound, reliable advice.
+
+@18066
+Eh, me...? Not that I object, but you should think this over carefully.
+
+@18066.1
+W-wait{C19}. Am {C0} really right for such a post{C24}?
+
+@18066.2
+Really{C24}? Yay, yay{C55}! {C0} am Adjutant{C45}!
+
+@18067
+There is no officer who can be appointed Strategist.
+
+@18068
+Who will be appointed Strategist?
+
+@18069
+There is no officer who can be appointed General.
+
+@18070
+Who will be appointed General?
+
+@18071
+To which general's post will you assign {v01}?
+
+@18072
+%s is currently held by {v01}.\nReplace with {v02}?
+
+@18073
+You will lose %lu troops.\nIs that OK?
+
+@18074
+There is no city where a governor can be appointed.
+
+@18075
+Select the city in which to appoint a governor.
+
+@18076
+Who will be governor of {v14}?
+
+@18077
+There is no officer to dismiss.
+
+@18078
+Who will you dismiss?
+
+@18079
+Eh, why me...? Did someone inform on me? No... I see, it was that one.
+
+@18079.1
+You must be joking... What have {C0} done{C24}?
+
+@18079.2
+Wait{C19}! If that happens now, my family will be out on the street...
+
+@18080
+Hear me out too... {C9}, please!
+
+@18080.1
+Curse you, {v02}! I'll never forget this humiliation, this grudge. Never!
+
+@18080.2
+You'll regret this, {v02}! Someday on the battlefield I'll have your head{C55}!
+
+@18081
+Lord {v02}, contact with {v01} has been lost. I suspect {v01} was here as a "Planted Poison."
+
+@18082
+A feast cannot be held without the governor.
+
+@18083
+There is no city where a feast can be held.
+
+@18084
+Select the city to hold the feast in.
+
+@18085
+Which officers will attend the feast?
+
+@18086
+Everyone's Spirit has recovered.
+
+@18087
+No city can organize troops.
+
+@18088
+Select the city to organize troops in.
+
+@18089
+There are no troops to organize.
+
+@18090
+Is that all right?
+
+@18091
+How many troops will you give {v01}?
+
+@18092
+Not enough gold to hold\na feast (100 per person).
+
+@18093
+Not enough food to hold\na feast (500 per person).
+
+@18094
+Where will you save?
+
+@18095
+Please insert the save disc\nin drive 1.
+
+@18096
+Cancel saving?
+
+@18097
+The current data will be lost.\nIs that OK?
+
+@18098
+Is it OK to save?
+
+@18099
+I am deeply grateful.
+
+@18099.1
+Is it all right to receive so much{C24}? Thank you truly.
+
+@18099.2
+So much, {C9}, for the likes of me... I'm grateful.
+
+@18099.3
+For me... I'll keep serving faithfully.
+
+@18099.4
+I swear even greater loyalty.
+
+@18100
+For me...? I'll stake my life working for {C9}.
+
+@18100.1
+Thank you very much. I'll share it with my men right away. They'll be thrilled.
+
+@18100.2
+You needn't go to such trouble. My loyalty to {C9} won't change.
+
+@18101
+{C65}, gold! (Guess I'll obey a little.)
+
+@18101.1
+Oh, gold{C45}! Money really is everything in this world{C45}.
+
+@18101.2
+I worked for it, so of course{C45}{C56}. It's a bit little{C45}.
+
+@18103
+More wine! Wine! *urp*
+
+@18103.1
+Ugh, I feel sick. Where's the privy?
+
+@18103.2
+Another battle tomorrow... *hic*, time for bed. Niiight.
+
+@18104
+One more cup! What? Enough, you say? Shut up! I'm the great Zhang Fei!
+
+@18105
+Whoa, {C7}, don't pour your own. Let me pour for you.
+
+@18105.1
+Drink{C55}, drink{C55}! Come on, bottoms up{C54}!
+
+@18105.2
+You know, wine is great. It's what life's all about.
+
+@18106
+Now then, let's drink our fill tonight. Cheers!
+
+@18106.1
+Oh, what a drinker! Then {C0} too... Ahh, delicious!
+
+@18106.2
+Ha ha, what fun! If every day were like this, it'd be the best{C64}.
+
+@18107
+Y-you spilled it on my clothes! Step outside, let's settle this!
+
+@18108
+I'd like to drink with women once in a while. It's too stuffy with just men.
+
+@18109
+Hey, you there. You just hit a wrong note. Drunk or not, you can't fool me.
+
+@18110
+Wh-what, this wine is salty! Who put salt in it?
+
+@18110.1
+Why are you stripping? I don't want to see you naked{C53}.
+
+@18110.2
+Look out{C55}! (Crash) Uh-oh, not that jar{C55}.
+
+@18111
+Get up! You'll catch cold sleeping here.
+
+@18111.1
+*hic*, whoo... I'm drunk{C50}. Someone take me to bed~
+
+@18111.2
+{C65} I can't stop laughing! Everything's so fun{C55}!
+
+@18112
+How unlucky I am. Ugh, someone pour me wine.
+
+@18112.1
+Now that I'm nicely tipsy, {C0} will sing you a song{C20}.
+
+@18112.2
+I can't, I'm full. I can't drink any more. *hic* I feel sick.
+
+@18113
+You think this little gold will win my allegiance...
+
+@18113.1
+Is this all... I'm valued rather cheaply.
+
+@18113.2
+I thought {C9} was more generous, but perhaps I overrated them...
+
+@18113.3
+Is this all... Am I to risk my life for this little gold?
+
+@18113.4
+Only this much... It seems {C9} underestimates me.
+
+@18114
+The Art of War, written by Sun Wu, a general of Wu in the Spring and Autumn period. A version annotated by Cao Cao survives.
+
+@18115
+A book Zhuge Liang entrusted to Jiang Wei just before his death. Said to hold military orders, formations and tactics.
+
+@18116
+Zuo Qiuming's commentary on Confucius's "Spring and Autumn." Guan Yu is said to have memorized nearly all of it.
+
+@18117
+A military text said to be compiled by Jiang Ziya (Taigong Wang) of Zhou. Zhang Liang of Han is said to have gotten it from a hermit.
+
+@18118
+A military text said to be written by Cao Cao. Liu Zhang's envoy Zhang Song mocked it, so Cao Cao burned it himself.
+
+@18119
+A history by Sima Qian of Han, recording the age from legend down to Emperor Wu of Former Han.
+
+@18120
+A hermit's book that the sorcerer Zuo Ci obtained from a stone wall on Mount Emei. Three volumes: Heaven, Earth and Man Escape.
+
+@18121
+Three volumes of heavenly texts Zhang Jiao received from the Old Immortal of Nanhua. Grants command of wind and rain.
+
+@18122
+A divine book Yu Ji the hermit obtained by Quyang Spring. Describes arts that cure every illness.
+
+@18123
+A medical book in which the divine doctor Hua Tuo set down all his medical skill. "Green Bag" is the meaning of its name.
+
+@18124
+A map of the 41 provinces of western Shu, secretly drawn by Zhang Song. He presented it to Liu Bei.
+
+@18125
+A map of southern China drawn by Lu Kai. He presented it to Zhuge Liang on his southern campaign.
+
+@18126
+A famed horse, eight chi tall, red all over like blazing fire. It can run a thousand li in a day.
+
+@18127
+A famed horse that runs a thousand li. Dilu is a physiognomy of horses; a horse with it is said to curse its rider.
+
+@18128
+Cao Cao's beloved horse. He rode it at the hunt held at Xutian.
+
+@18129
+Cao Cao's beloved horse. Jueying means so fast it leaves no shadow. A fine horse from the Western Regions.
+
+@18130
+A jeweled sword Cao Cao borrowed from Wang Yun to assassinate Dong Zhuo. Set with seven treasures.
+
+@18131
+Paired with the Qinggang sword. Cao Cao left Qinggang with Xiahou En and wore Yitian himself.
+
+@18132
+A fine sword paired with Yitian. Said to cut iron like mud. Zhao Yun obtained it at Changbanpo.
+
+@18133
+The halberd favored by the mighty Lu Bu. Its tip has a crescent-shaped side blade.
+
+@18134
+Guan Yu's favorite great glaive, forged by a blacksmith when he raised his banner. It weighs 82 jin.
+
+@18135
+Zhang Fei's favorite steel spear, forged by a blacksmith when he raised his banner. Its tip winds like a snake.
+
+@18136
+Cheng Pu's spear with a snake-shaped blade. He used it to rout Cai Mao in a duel against Liu Biao.
+
+@18137
+Liu Bei's sword for self-defense, forged by a blacksmith when he raised his banner. A pair, male and female.
+
+@18138
+Sun Jian's favorite sword. He held it as he led his men against Dong Zhuo.
+
+@18139
+Ji Ling's favorite great glaive, weighing 50 jin, with a three-pronged tip. He used it in his duel with Guan Yu.
+
+@18140
+Dian Wei's favorite pair of iron halberds, 80 jin each. Hu Che'er stole them in the war against Zhang Xiu.
+
+@18141
+Xu Huang's favorite great axe. With it he fought mighty generals such as Xu Chu, Yan Liang and Guan Yu.
+
+@18142
+Huang Gai's iron whip, used in the war against Dong Zhuo.
+
+@18143
+A weapon favored by Shamoke, king of the Wuling barbarians. A kind of spear with countless iron barbs on the head.
+
+@18144
+Wang Shuang's hidden weapon, a kind of hammer thrown at the enemy. Zhang Yi was struck by it.
+
+@18145
+A seal handed down since the Qin and Han eras, inscribed "Mandate received from Heaven; long life and prosperity." Proof of the throne.
+

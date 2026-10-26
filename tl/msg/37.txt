@@ -1,0 +1,567 @@
+@37000
+{v01} can now use the %s formation.
+
+@37001
+{v01}'s %s rose by 1.
+
+@37002
+Meanwhile, {v01}, training in {v14}, visited the home of {v02} to study the art of war.
+
+@37002.1
+{v01}, training in {v14}, visited the strategist {v02}.
+
+@37003
+I heard Lord {v02} was staying here and have come to ask for your teaching.
+
+@37003.1
+You must be Lord {v02}. I have come to beg your instruction{C17}.
+
+@37003.2
+{C0} am training on a journey through the land. I humbly ask Lord {v02} to teach me the art of war.
+
+@37004
+How kind of you to come all this way. I'll teach you all I know.
+
+@37004.1
+I can't turn away someone who came so far. Come, come inside...
+
+@37004.2
+I turn no one away{C45}. I'll pass on my art of war.
+
+@37005
+You're a quick study. Then I'll teach you the secrets of my formation.
+
+@37005.1
+It's been a while since I met someone worth teaching{C53}. You could master this formation.
+
+@37005.2
+...I've taught you much; this is the last lesson. Master this formation{C39}!
+
+@37006
+I see, that was very instructive. Thank you for everything.
+
+@37006.1
+Hmm, if attacked from here, then like this... I see. I've mastered this formation{C55}!
+
+@37006.2
+Oh, oh ho, I can use this formation. How can I ever thank you?
+
+@37007
+Hmm, I don't understand at all. I must need more training.
+
+@37007.1
+It's no good{C50}, it's too hard... I need to study the art of war more{C57}{C50}.
+
+@37007.2
+I just can't grasp it... I still lack the basics of the art of war{C50}.
+
+@37008
+Meanwhile, {v02}, training in {v14}, hit it off with {v01}, a free officer met in a tavern, and the two were sharing cups.
+
+@37009
+Come, Lord {v02}, to our new friendship: another cup!
+
+@37009.1
+So you're Lord {v02}? Training, eh... Come, have a drink!
+
+@37009.2
+Oh, you drink like a champion! Then {C0} will too... Ahh! Oh, your cup is empty{C46}.
+
+@37010
+Oh, much obliged! *gulp, gulp* Ahh, that's good!
+
+@37010.1
+Then, another toast... To our meeting!
+
+@37010.2
+Ha ha ha! Great wine! Barkeep, another bottle!
+
+@37011
+Still, it's a real shame to leave someone like Lord {v02} languishing out here.
+
+@37011.1
+...So that's why I'm training. What, you're on a training journey too?
+
+@37011.2
+What, Lord {v02} is skilled at arms too... Hmm, what a waste.
+
+@37012
+What do you say? Why not serve Lord {v03}?
+
+@37012.1
+Would you care to serve my lord, Lord {v03}? Together, for the greater good...
+
+@37012.2
+Lord {v02}, what do you say? Won't you fight for all the people under Lord {v03}{C57}?
+
+@37013
+Hmm, from what you say, serving your lord sounds interesting. I'll seek a post right away.
+
+@37013.1
+To think so highly of me... I'll take up service.
+
+@37013.2
+Going out into the world to test my strength might be fun{C56}. Right, I'll go and serve{C48}!
+
+@37014
+Lord {v03}, a person named {v01} has come with a letter of introduction from {v02}.
+
+@37015
+I heard of Lord {v03} from Lord {v02} and have come to put my talents to use.
+
+@37015.1
+I came to test my strength{C17}. I hope you'll have me.
+
+@37015.2
+In this ruined world, I wish to help, however little I can.
+
+@37016
+Lord {v01}, will you recruit this person?
+
+@37017
+Meanwhile, {v02}, training in {v14}, challenged {v01} to a bout to test the fruits of their training in the martial arts.
+
+@37018
+You must be Lord {v02}. What luck! Will you spar with me?
+
+@37018.1
+You sensed my fighting spirit... {C0} am {v01}. Will you spar with me{C32}?
+
+@37018.2
+You must be a renowned warrior. Will you give me a lesson?
+
+@37019
+Oh, a bout with Lord {v02} sounds fun. I accept.
+
+@37019.1
+I don't mind, but don't blame me if you get hurt.
+
+@37019.2
+Just what I wanted. Come{C35}!
+
+@37020
+Thank you. Then I won't hold back! Haaaah!
+
+@37020.1
+Ugh, there's no opening in that stance. I'll have to go all out from the start! Raaaagh!
+
+@37020.2
+Hm? I'm sweating... Heh, a cold sweat. It's been a while. Here I come{C55}!
+
+@37021
+Is that all?! There! How about this?!
+
+@37021.1
+Quite a thrust. Then here I come{C55}! Haaah!
+
+@37021.2
+Oh, it seems I underestimated you{C46}. Then I'll get serious{C52}.
+
+@37022
+I give up, I yield. A total defeat for me.
+
+@37022.1
+I lost... That last blow was fierce. I couldn't even dodge it{C57}...
+
+@37022.2
+I gave it everything, but {C7} were several cuts above me{C50}.
+
+@37023
+I yield. Sadly, I lose.
+
+@37023.1
+Y-you got me. To think I'd lose... I can't believe it{C57}.
+
+@37023.2
+To strike in that split-second opening... Strength alone isn't enough; you need a cool head too...
+
+@37024
+All this and still no winner... Let's call it a draw for today.
+
+@37024.1
+Huff, huff... Neither of us can lift our arms{C57}. Let's call it a draw.
+
+@37024.2
+Phew, no winner{C57}. We seem evenly matched. Shall we call it even?
+
+@37025
+Ha! It seems I win. You still need more training.
+
+@37025.1
+Challenging me with skill like that is laughable. Know your place!
+
+@37025.2
+You have doubt in your heart{C50}. That won't keep you alive on the battlefield{C57}{C55}.
+
+@37026
+I've never met anyone so strong. Please take me as your pupil...
+
+@37026.1
+I've been looking for someone like {C7}. Take me as your student{C19}!
+
+@37026.2
+I feel I could improve at your side. Take me as your pupil!
+
+@37027
+Very well, but I am still in training. For now, go to my lord.
+
+@37027.1
+Yes, but I am still in training. Take this letter and visit {C9}.
+
+@37027.2
+Understood. Take this letter of introduction and enter the service of {C9} in my homeland.
+
+@37028
+Meanwhile, the people of {v14} asked the traveling {v01} to drive off the mountain bandits.
+
+@37029
+Bandits led by {v02} are ravaging our village. Please, lend us a hand.
+
+@37029.1
+Bandits led by {v02} are ravaging our town. Traveler, please help us.
+
+@37029.2
+{v02} and his gang are after our town. Please help us.
+
+@37030
+Traveler, I beg you. Please teach those bandits a lesson.
+
+@37030.1
+The bandits raid our town again and again; we're at our wits' end. Please help us.
+
+@37030.2
+We're so afraid of the bandits we can't sleep at night. Please save us.
+
+@37031
+Hm, this too is training. Understood! Take me to their hideout at once!
+
+@37031.1
+Dealing with bandits is child's play. Wait here{C39}. I'll finish them off in no time{C55}!
+
+@37031.2
+Attacking innocent people... Bandits, I won't forgive you{C32}! I'll teach you a lesson{C48}!
+
+@37032
+Right, let's do this... Huh? Where are these bandits, anyway?
+
+@37033
+After a fierce battle, {v01} rounded up every last bandit.
+
+@37034
+{v01} was soundly beaten and barely escaped with their life.
+
+@37035
+I give up! I'll mend my ways, so make me your pupil!
+
+@37035.1
+Such splendid swordsmanship... Please, be my teacher{C19}!
+
+@37035.2
+I swallow my pride and beg you: Lord {v02}, teach me the martial arts{C19}!
+
+@37036
+Very well. Then enter the service of {C9}. I'll train you hard later.
+
+@37036.1
+Hm, once my training is done I'll train you. Serve my lord and wait for me.
+
+@37036.2
+Very well. Take this letter and visit {C9}.
+
+@37037
+Traveler, we've prepared a feast to show our thanks. Please come.
+
+@37037.1
+Thank you so much. We've prepared a banquet, so please, this way.
+
+@37037.2
+Thanks to you we can sleep soundly. It's only a small token, but please, come.
+
+@37038
+It was a mistake to rely on someone like you.
+
+@37038.1
+We had high hopes... Sigh... What are we to do...
+
+@37038.2
+It's hopeless. The town is finished.
+
+@37039
+Then I'll accept your kind offer. Hahaha!
+
+@37039.1
+Oh, how thoughtful. Thank you{C33}.
+
+@37039.2
+I only did what anyone would. I'm sorry to trouble you.
+
+@37040
+Whoa, wine! Thanks a lot!
+
+@37041
+Meanwhile, {v01}, on a training journey, was hard at practice in {v14}.
+
+@37042
+Now then, what shall I train today?
+
+@37042.1
+Another fresh morning. Right, time to train hard. I'll do my best!
+
+@37042.2
+Training, training. First training, second training, no third or fourth, fifth training{C45}!
+
+@37043
+What will you train?
+
+@37044
+Right, today I'll practice the martial arts. Hoaa, hya hya hya!
+
+@37044.1
+Today I'll hone my fighting skills. Hah! Hah! Whew, a good sweat.
+
+@37044.2
+Time to drill my weapon skills. I want to get stronger and invent a killer move...
+
+@37045
+Today I'll meditate and train my mind.
+
+@37045.1
+The mind needs training too... Meditate and focus.
+
+@37045.2
+Perhaps I'll meditate and build up my concentration.
+
+@37046
+Meditation, huh? Kinda boring... Focus... Oops, I fell asleep.
+
+@37047
+Yes, the training is clearly paying off.
+
+@37047.1
+Phew, I've reached enlightenment{C48}. The training wasn't wasted.
+
+@37047.2
+Somehow I feel I've grown a size bigger{C50}.
+
+@37048
+Not much progress, but it's the steady effort that counts.
+
+@37048.1
+Results don't come overnight{C57}. Well, no need to rush.
+
+@37048.2
+I still need more training. For now, I'll grab a meal and clear my head...
+
+@37049
+Losing to Lord {v02} showed me how wide the world is. Please take me into your service...
+
+@37049.1
+Fighting Lord {v02}, I feel I've found my purpose. Please take me into your service...
+
+@37049.2
+Thanks to Lord {v02}, I found a lord worth serving. Lord {v03}, please take me in...
+
+@37050
+Meanwhile, the people of {v14} asked the traveling {v01} to drive off the pirates.
+
+@37051
+Traveler, please help us! Pirates have come and are ravaging the town.
+
+@37051.1
+Pirates have appeared nearby; we can't even put out to sea. Please help us.
+
+@37051.2
+Because of the pirates, merchants rarely come and the town is withering. Traveler, please help us.
+
+@37052
+Pirates means fighting on water... Not my strength, but I can't abandon these people... Very well.
+
+@37052.1
+Hm, understood... (On water, though... I'm not confident{C50}.)
+
+@37052.2
+On water, huh... Oh, what the heck. Take me to the pirates{C39}!
+
+@37053
+Just a rabble after all. Once their leader fell, they scattered like baby spiders.
+
+@37053.1
+Phew, that took some doing, but I drove them off{C48}. Now you can live in peace.
+
+@37053.2
+Huff, huff, I beat them{C48}. But pirates are pirates{C56}. Fighting on water was tough{C50}.
+
+@37054
+Pirates are pirates. On water they're a cut above me.
+
+@37054.1
+They beat me back. On land, maybe, but on water... I can't show my true strength.
+
+@37054.2
+It's no use... Damn. Their movements are utterly unpredictable; I couldn't even read them...
+
+@37055
+I see, so this is fighting on water... Now I know what it takes.
+
+@37055.1
+I feel I've grasped the knack of fighting on water in that battle{C48}.
+
+@37055.2
+That strange formation the pirates used... I see, I've got it{C48}...
+
+@37056
+Thank you! We will never forget your kindness as long as we live.
+
+@37056.1
+You really saved us. Now we needn't fear the pirates anymore.
+
+@37056.2
+Thank you! At least tell us your name... What, you're the famous Lord {v01}...
+
+@37057
+We never should've asked you. They're furious now; they'll take revenge...
+
+@37057.1
+They say the pirates are angry and planning an all-out attack. What will you do about it, traveler?
+
+@37057.2
+Ah, this town is finished... Let's flee to some other town.
+
+@37058
+Meanwhile, {v01}, on a training journey, witnessed the misery of the people in {v14}, where an epidemic raged.
+
+@37059
+It... it hurts. Traveler, please help me. I don't want to die yet.
+
+@37059.1
+*cough, cough, hack* M-my chest hurts... Somebody help me.
+
+@37059.2
+Ugh, urgh, gah... Am I going to die like the others...
+
+@37060
+Are you all right? This is terrible... I can't leave them like this.
+
+@37060.1
+Don't worry{C39}, {C0} will do something.
+
+@37060.2
+What's wrong? You're burning up{C50}. I can't leave you like this{C50}.
+
+@37061
+Hmm, this illness... Even I could cure this.
+
+@37061.1
+Let me see how they are{C19}. Hmm, for this illness, that herb should work{C45}.
+
+@37061.2
+For this illness... That's it{C45}! Father once taught me how to mix a remedy{C48}!
+
+@37062
+For all my strength, I'm helpless against illness... At least I can help nurse them.
+
+@37062.1
+I said I would, but I know nothing about medicine... At least I can bring water and food...
+
+@37062.2
+It's hopeless, I've no idea{C57}. If only I had some nourishing food...
+
+@37063
+How can we ever thank you? At least tell us your name... What, you're Lord {v01}...
+
+@37063.1
+You saved many lives. Health really is everything, isn't it?
+
+@37063.2
+For a while I didn't know what would happen, but as you see, I'm cured. Thank you.
+
+@37064
+Meanwhile, the traveling {v01} heard the people of drought-stricken {v14} fear a failed harvest.
+
+@37065
+Ah, no rain again today... At this rate the harvest will fail. Can nothing be done?
+
+@37065.1
+When will it rain? The livestock are dying one after another. At this rate...
+
+@37065.2
+No rain, no rain... At this rate the fields... I'm so afraid of a bad harvest.
+
+@37066
+I can't abandon people in need. I will do something.
+
+@37066.1
+This is serious{C50}. Right, leave it to me{C19}.
+
+@37066.2
+How dreadful{C50}. Don't worry. {C0} will do something.
+
+@37067
+Making it rain is easy for me. Just watch!
+
+@37067.1
+Heavens, hear me{C19}! For these suffering people, send a blessed rain...
+
+@37067.2
+Let it rain{C19}! May my prayer reach the heavens!
+
+@37068
+I remember seeing a rain dance once... Um, like this...
+
+@37068.1
+...I'm not very confident, but I can't abandon them. {C0} will pray to the heavens too.
+
+@37068.2
+For rain, a rain dance is best. Watch{C39}, heave-ho! Well? Is it raining?
+
+@37069
+Yes, the clouds are gathering. Rain! It's raining!
+
+@37069.1
+Rain{C45}! Rejoice! It's raining{C48}! Thank goodness{C50}.
+
+@37069.2
+It's raining... raining{C55}! The people and the crops are saved{C48}!
+
+@37070
+It's no use, no rain. Heavens, will you abandon the people...
+
+@37070.1
+Not a drop{C57}. Is my power not enough...
+
+@37070.2
+Just a little would do{C45}... Why won't it rain{C57}... Has this town been forsaken...
+
+@37071
+You made it rain? You're the savior of our town!
+
+@37071.1
+Thanks to you, we may escape a bad harvest. How can we thank you...
+
+@37071.2
+A miracle, it's raining! Now the crops will grow. Ah, what delicious water!
+
+@37072
+Ah, this town is finished...
+
+@37072.1
+It'll be a bad harvest this year. Many more will starve.
+
+@37072.2
+I'm dying of thirst... Not just the fields; even we might dry up.
+
+@37073
+Thanks to the training, {v01} gained experience.
+
+@37074
+{v01} gained little experience.
+
+@37075
+The training paid off handsomely: {v01}'s experience and valor rose greatly.
+
+@37076
+Thanks to the training, {v01}'s experience and valor rose.
+
+@37077
+The training bore little fruit: {v01}'s experience and valor barely rose.
+

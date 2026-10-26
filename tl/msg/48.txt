@@ -1,0 +1,237 @@
+@48000
+...
+
+@48001
+In the castle of {v14}
+
+@48002
+As you wish.
+
+@48003
+Just so.
+
+@48004
+{v02} has joined {v01}.
+
+@48005
+Lord {v01}, will you recruit {v02}?
+
+@48006
+The land lies in ruin, and the people suffer from hunger.
+
+@48007
+This is a grave matter. Does anyone have a good solution?
+
+@48008
+My lord, if I may speak.
+
+@48009
+Ah, Han Hao. Have you an idea?
+
+@48010
+Weak farmers fear raids by bandits and enemy troops and can hardly till in peace.
+
+@48011
+Worse, countless have lost their land to war and become refugees.
+
+@48012
+Make them farmer-soldiers, able to defend themselves, and the food crisis is solved.
+
+@48013
+Of course, it will take a sizable investment.
+
+@48014
+Military farms will cost 3000 gold.
+
+@48015
+Follow Han Hao's advice and set up military farms?
+
+@48016
+On the advice of Han Hao and others, Cao Cao set up military farms.
+
+@48017
+To enrich the state and the people is a leader's true work.
+
+@48018
+This policy will surely benefit the people.
+
+@48019
+Only when the state thrives can we do our work.
+
+@48020
+Thanks to the farms, Xuchang's flood control and farming have risen.
+
+@48021
+It costs money... We'll pass this time.
+
+@48022
+The army is short of grain. Zhou Yu, have you any good ideas?
+
+@48023
+I hear there is a wealthy man named Lu in Linhuai.
+
+@48024
+Shall we ask this rich man for grain?
+
+@48025
+Follow Zhou Yu's advice and ask for grain?
+
+@48026
+We'll manage the grain without doing that.
+
+@48027
+And so, I would ask you, a man of renowned wealth, to help us with grain.
+
+@48028
+My house has two granaries, each holding some 3000 bushels of rice.
+
+@48029
+I'll open one of them. Will you take it?
+
+@48030
+What? All the rice in a whole granary?
+
+@48031
+Oh, is it still not enough?
+
+@48032
+No, it is plenty... Lord Lu Zijing, you have my thanks.
+
+@48033
+It is for the good of all; it's nothing.
+
+@48034
+What a big-hearted man! I would make him my friend one day.
+
+@48035
+Sun Ce's food has increased by 30000.
+
+@48036
+Lord {v01}, do you know of a warrior named Lu Bu?
+
+@48037
+Yes, they say he is the bravest warrior in the land.
+
+@48038
+He is brave, but greedy and faithless.
+
+@48039
+Give him your Red Hare and some treasure, and he will surely join us.
+
+@48040
+Give Lu Bu the Red Hare to win him over?
+
+@48041
+For such a fine steed, I will serve you as faithfully as a hound or horse.
+
+@48042
+I hear Lu Bu is always changing sides. I want no such man under me.
+
+@48043
+Lord Liu Bei, Lord Liu Biao of Xiangyang invites you to a feast.
+
+@48044
+If Lord Liu Biao invites me, I must go.
+
+@48045
+Welcome, Lord Liu Bei. Nothing special, I just wanted to share a drink.
+
+@48046
+Liu Bei and Liu Biao enjoyed the feast for a while.
+
+@48047
+What's wrong, Lord Liu Bei? Why are you crying?
+
+@48048
+I used to ride from battlefield to battlefield.
+
+@48049
+But I've stopped riding lately, and fat has grown on my thighs.
+
+@48050
+Thinking how I grow old without restoring the Han, I could not help but weep.
+
+@48051
+Restoring the Han... So it is.
+
+@48052
+Your time will come. When it does, I will lend what help I can.
+
+@48053
+Lord Jingsheng... Thank you.
+
+@48054
+Hostility between Liu Bei and Liu Biao has eased.
+
+@48055
+Lord Liu Bei, Lord Yi Ji seems to have something to say.
+
+@48056
+My lord, to govern a state, you must bring in wise men, I believe.
+
+@48057
+You are right. Then do you know of anyone we might call a sage?
+
+@48058
+In Xiangyang there is a noble family named Ma.
+
+@48059
+The Ma family has five brothers, all of them very able.
+
+@48060
+Of them, the fourth, Ma Liang, is said to be the most learned and gifted.
+
+@48061
+Ma Liang has white hairs in his eyebrows, so people call him "White Brows."
+
+@48062
+Lord Yi Ji, is this the Ma Liang of the saying, "Of the five Ma, White Brows is best"?
+
+@48063
+My lord, why not take Lord Ma Liang onto your staff?
+
+@48064
+I am Ma Liang, styled Jichang. It is a great honor to serve you, Lord Liu Bei.
+
+@48065
+One who scorns the wise cannot be called benevolent.
+
+@48066
+Lu Meng, you are gifted, but sadly you know nothing of learning.
+
+@48067
+But I am busy with the army and have no time for study.
+
+@48068
+I don't ask you to be a scholar. Just study enough to gain some knowledge.
+
+@48069
+You say you're busy with the army, but are you busier than me, your lord?
+
+@48070
+Well, perhaps you could take it slowly?
+
+@48071
+Lord Lu Meng, I hear you've been studying lately. How goes it?
+
+@48072
+Ah, Lord Lu Su. I do think I have gained some knowledge.
+
+@48073
+Lu Su debated with Lu Meng and could not hide his surprise at his progress.
+
+@48074
+This is a surprise! You're no longer the Ameng of Wu, I see.
+
+@48075
+They say, "If you haven't seen a man in three days, look at him with fresh eyes."
+
+@48076
+You took up study at your age. Well done.
+
+@48077
+Thank you, my lord. It is all thanks to your guidance.
+
+@48078
+Lu Meng's intelligence has risen.
+

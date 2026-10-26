@@ -1,0 +1,543 @@
+@33000
+My lord wishes to ally with your realm. We'd like a prompt answer.
+
+@33000.1
+Ally with us, and let us share the land between us.
+
+@33000.2
+Become an ally of my lord {v03} and join forces for our mutual benefit, I ask{C22}.
+
+@33000.3
+Allying with our realm is the best course for yours too, I think{C22}...
+
+@33001
+Won't you join hands with me and speak of peace in the realm together?
+
+@33002
+I understand Lord {v03}'s wishes. I look forward to it.
+
+@33002.1
+Yes, {C1} too wished to ally with Lord {v03} and set the world right.
+
+@33002.2
+No objection. {C1} and Lord {v03} shall share the land.
+
+@33003
+Since you ask in person, I can't refuse.
+
+@33004
+Very well... (I'll use them for a while... and dispose of them when I'm done.)
+
+@33005
+I understand your wishes. We'll ally.
+
+@33005.1
+If you mean to set the world right, {C1} don't mind being your ally{C55}.
+
+@33005.2
+No objection. I accept the alliance.
+
+@33007
+Very well... (I'll use them for a while... and dispose of them when I'm done.)
+
+@33008
+You'd ally with us to reap the rewards yourself, but I won't fall for it.
+
+@33008.1
+Please leave{C19}. {C1} trust only my own men{C57}{C50}.
+
+@33008.2
+I have no interest in such cozy deals. I'll get through on my own.
+
+@33009
+Even at Lord {v02}'s request, this I cannot...
+
+@33010
+I'll think about it... (Hmm... A careless alliance only makes more enemies{C50}.)
+
+@33011
+Our army is weak now. We'd only hold your realm back. I'm truly sorry.
+
+@33012
+Our realm has many brave generals and elite troops. We don't need your strength{C37}. Please leave{C19}.
+
+@33013
+You'd ally with us to reap the rewards yourself, but that won't work.
+
+@33013.1
+Bah, withdraw! {C1} trust only my own men{C57}{C50}.
+
+@33013.2
+I have no interest in such cozy deals. We don't need your strength.
+
+@33014
+I have no ears for your talk{C57}.
+
+@33015
+I refuse{C45}... (Hmm... A careless alliance only makes more enemies{C50}.)
+
+@33016
+Your weak army would only hold us back. I refuse{C45}.
+
+@33017
+Our realm has many brave generals and elite troops. We don't need your strength{C37}. Go home.
+
+@33018
+We'd like to borrow Lord {v02}'s elite troops. Please.
+
+@33018.1
+Lord {v02}, as allies, lend{C19} us your peerless troops.
+
+@33018.2
+We wish to fight for justice, I think{C22}. So please lend us troops for a while{C22}.
+
+@33018.3
+We want to invade our neighbor, but to break those solid defenses we need your strength{C23}.
+
+@33019
+I, {v01}, swallow my pride and ask{C17}. Please lend us your strength.
+
+@33020
+We can't abandon an ally. Send troops at once.
+
+@33020.1
+Very well. Hear me, everyone! We'll join Lord {v03} in a joint operation. Prepare to march!
+
+@33020.2
+Agreed. We'll make them regret making enemies of us.
+
+@33021
+You want the strength of our elite troops{C47}? Lord {v02}, we'll gladly help{C33}.
+
+@33022
+Very well... ({v03} is still useful. I can't have them dying now...)
+
+@33023
+It can't be helped. Send troops at once.
+
+@33023.1
+Well, very well. We'll join the operation. Everyone, prepare to march{C45}!
+
+@33023.2
+Nothing for it{C50}{C56}. Shall we send reinforcements?
+
+@33024
+You want the strength of our elite troops? Well, very well...
+
+@33025
+Very well... ({v03} is still useful. I can't have them dying now...)
+
+@33026
+People and soldiers are exhausted; we can barely manage domestic affairs. I'm sorry, but I must refuse.
+
+@33026.1
+With our current army, defending our own realm is all we can do{C45}. Wait{C19} a little longer.
+
+@33026.2
+March with so few troops... I can't agree to such a plan{C57}{C50}.
+
+@33027
+Lord {v02}, even at your request, I can't send my soldiers to die{C57}{C50}.
+
+@33028
+A relative of mine is gravely ill... This is no time for war{C45}.
+
+@33029
+People and soldiers are exhausted; we can barely manage domestic affairs. It's impossible.
+
+@33029.1
+With our current army, defending our own realm is all we can do{C45}. We can't spare any{C50}.
+
+@33029.2
+March with so few troops... I can't agree to such a foolish plan!
+
+@33030
+I refuse{C45}! I can't send my soldiers to die{C57}{C50}.
+
+@33031
+Go home... A relative of mine is gravely ill... This is no time for war{C45}.
+
+@33032
+My lord entrusted me with these gifts. Please accept them.
+
+@33032.1
+My lord asks you to accept these gifts as a greeting{C23}.
+
+@33032.2
+This is but a fraction of our realm's wealth. Be our friend and we'll send more{C48}.
+
+@33032.3
+I'm honored to meet you. Please accept these as a token of friendship.
+
+@33033
+I, {v01}, have come to deepen our friendship. Please accept{C19}.
+
+@33034
+I'm glad of these many gifts. Give my regards to Lord {v03}.
+
+@33034.1
+I've received Lord {v03}'s sincerity{C48}. I truly wish both our realms prosperity{C48}.
+
+@33034.2
+I'm truly grateful for your kindness{C33}. Tell{C19} them I hope for lasting friendship.
+
+@33035
+Thank you for your kindness. More than the gifts, I'm glad to meet Lord {v02}{C48}.
+
+@33036
+I gratefully accept{C48}. Tell Lord {v03} I'm thankful.
+
+@33037
+What rare items. Thank you{C48}. (What a soft touch...)
+
+@33038
+I'm glad of these many gifts. {v03} isn't bad...
+
+@33038.1
+Well, I'll keep them.
+
+@33038.2
+Since you insist, I'll take them.
+
+@33039
+Coming in person... Fine, I'll accept{C48}.
+
+@33040
+Leave them there... (What a soft touch...)
+
+@33041
+Hmm, suspicious. There must be a catch. Please take these back.
+
+@33041.1
+I can't accept this{C57}{C50}. We have plenty of such things already{C55}.
+
+@33041.2
+Useless, useless. No pile of riches will sway me{C57}.
+
+@33042
+Trying to sway people with riches... Lord {v02}, {C1} misjudged you{C48}.
+
+@33043
+Begone! {C3} accepts no charity!
+
+@33044
+Gifts from them... Hmm, suspicious. There must be a catch. Go home, go home.
+
+@33044.1
+I can't accept this{C57}{C50}. We have plenty of such things already{C55}.
+
+@33044.2
+Useless, useless. As if such things could sway me.
+
+@33045
+Trying to sway people with riches... Have you sunk so low!
+
+@33046
+Begone! {C3} accepts no charity!
+
+@33047
+Lord {v02}, to prevent more deaths, have the courage to open your gates without bloodshed.
+
+@33047.1
+Make your decision. Who would laugh at you for surrendering after fighting this long?
+
+@33047.2
+Lord {v02}, surrender{C19} to spare any more needless bloodshed.
+
+@33047.3
+From now on, lend{C19} your strength to my lord. You're too valuable to die{C48}.
+
+@33047.4
+Resisting for pride takes courage; so does surrendering to save your men{C55}.
+
+@33048
+Only a common man dies here... A hero must live on for those who died{C32}.
+
+@33049
+If you don't join us, we can't guarantee your life{C57}{C55}. Now, choose: surrender or death.
+
+@33050
+I understand. Forgive me, everyone. I, {v01}, am weary of war.
+
+@33050.1
+If you will spare my soldiers' lives, I accept{C33} your demand.
+
+@33050.2
+Forgive me, everyone. I can't watch any more die for me.
+
+@33050.3
+Has my luck in war run out...? From now on, I'll devote myself to Lord {v03}.
+
+@33051
+You'll spare my life, won't you? {C1} don't want to die yet.
+
+@33052
+Bitter, but it can't be helped. Forgive me, everyone. I, {v01}, am weary of war.
+
+@33052.1
+C-curse you, is this the end...? You'll spare my soldiers, won't you?
+
+@33052.2
+To the likes of you... Forgive me, everyone.
+
+@33052.3
+Has my luck in war run out...? So now I work for the likes of you...
+
+@33053
+Leave at once. The battle has just begun. I haven't given up.
+
+@33053.1
+Silence! If I surrendered now, I couldn't face those who died.
+
+@33053.2
+Tell {v03} that there is not a single coward in our realm who would bow to the likes of you.
+
+@33053.3
+Insolent cur! My name is {C3}! I'll go down in glory!
+
+@33054
+I refuse{C45}. This land belongs to me{C45}.
+
+@33055
+Let us pool our realms' wisdom and research together. We ask you to share the funds...
+
+@33055.1
+Would you fund the research? It's not a bad deal, I think...
+
+@33055.2
+Now is the time to cooperate. Please contribute funds{C33}.
+
+@33055.3
+This research needs funding from your realm. Please agree...
+
+@33055.4
+I've come for funds to strengthen both our armies.
+
+@33056
+Funds for research... Won't you grant this request from me, {v01}?
+
+@33057
+Agreed. Now is the time to join forces.
+
+@33057.1
+Accepted{C33}. Hand in hand, nothing is impossible.
+
+@33057.2
+Since it's your realm asking, let's research for the prosperity of both.
+
+@33057.3
+Just what we hoped for. Let's start the research at once.
+
+@33057.4
+Very well. {C1} too wanted to research with your realm{C45}.
+
+@33058
+It can't be helped. I'll show you our realm's technology.
+
+@33058.1
+I'll accept. With our technology, nothing is impossible.
+
+@33058.2
+If you insist, I'll research for our realm's prosperity too...
+
+@33058.3
+It can't be helped... Then let's get to work on the research.
+
+@33058.4
+Very well. Of course your realm will put up funds too?
+
+@33059
+I refuse. We can't have our technology stolen by other realms.
+
+@33059.1
+Please leave{C19}. I have no intention whatsoever of researching{C28}.
+
+@33059.2
+I'm sorry{C28}. We're busy with domestic and military affairs; research is out of the question...
+
+@33059.3
+Sorry{C57}, I'm the suspicious type{C46}. Even an ally can't be trusted that far{C45}.
+
+@33059.4
+I doubt your realm has the technology for research. Please leave{C19}.
+
+@33060
+I refuse. I have no intention of selling our technology to other realms.
+
+@33060.1
+Go home, go home. I have no intention whatsoever of researching{C28}.
+
+@33060.2
+We're busy with domestic and military affairs. There's no time for that{C50}.
+
+@33060.3
+I refuse. Even an ally can't be trusted that far.
+
+@33060.4
+I doubt your realm has the technology for research. Be gone.
+
+@33061
+We need large sums to build up our strength. Money for research is out of the question...
+
+@33061.1
+We can't put that much into research{C32}. Please leave{C19}.
+
+@33061.2
+Please leave{C19}. Don't you know how poor our realm is{C57}?
+
+@33061.3
+This money is the people's blood and sweat. It can't be used{C57} for that.
+
+@33061.4
+We're boosting domestic demand this time; there's no money for research{C57}. Sorry{C57}{C46}.
+
+@33062
+We need large sums to build up our strength. There's no money for research!
+
+@33062.1
+We can't put that much into research{C57}. Go home, go home.
+
+@33062.2
+Be gone! Don't you know how poor our realm is{C57}?
+
+@33062.3
+This money is the people's blood and sweat. It can't be used{C57} for that.
+
+@33062.4
+We're busy boosting domestic demand{C45}. There's no money for research{C57}{C50}.
+
+@33063
+Our realm is short of funds right now. If possible, we'd like to ask your realm for aid.
+
+@33063.1
+Could you give us aid{C32}? Lord {v02} is the only one we can ask{C23}.
+
+@33063.2
+Lord {v02}, please give us aid. Only Lord {v02} can save our realm{C23}.
+
+@33063.3
+Lord {v02}, please lend{C19} Lord {v03} your strength. You're our only hope...
+
+@33063.4
+Lord {v02}, aid, please... Please{C19} understand we're clutching at straws.
+
+@33064
+Lord {v02}, could we ask you for aid{C32}? You're our only hope{C32}.
+
+@33065
+You seem to be in real trouble. We all need help sometimes. Please accept this.
+
+@33065.1
+Since it's Lord {v02} asking, I, {v01}, can't refuse{C46}.
+
+@33065.2
+We'll give aid{C20}. But promise{C19} to use it for the good of the world.
+
+@33065.3
+We can hardly refuse an ally. Please, take this...
+
+@33065.4
+I can't abandon someone in need{C32}. We'll give aid{C20}.
+
+@33066
+I am not heartless. And we all need help sometimes. Take it.
+
+@33066.1
+If you beg like that... Fine, for your sake I'll give aid.
+
+@33066.2
+Well, very well... Here, take it.
+
+@33066.3
+Fine, fine. We're allies, so I can't refuse{C57}{C50}.
+
+@33066.4
+Very well... Honestly, begging another realm like this... Have you no pride?
+
+@33067
+I'm sorry. We can barely keep our own realm going; aid is out of the question...
+
+@33067.1
+I'd love to help{C23}, but our realm isn't rich either{C23}.
+
+@33067.2
+I pity Lord {v03}, but Lord {v03} brought this on themselves. I refuse.
+
+@33067.3
+We're scraping by just to survive. We have no money for aid...
+
+@33067.4
+It may seem cold, but we can't give aid{C32}. Please don't hold it against us...
+
+@33068
+I refuse! We can barely keep our own realm going; aid is out of the question...
+
+@33068.1
+I have no intention whatsoever of giving aid. Go home, go home.
+
+@33068.2
+No! What do I care if your realm is broke!
+
+@33068.3
+We're scraping by just to survive. As if we had money for aid!
+
+@33069
+Don't move. Someone, cut this one down.
+
+@33069.1
+Why, you... I won't forgive this! Someone, cut this one down.
+
+@33069.2
+You won't get off lightly. If you think you'll leave alive, you're dead wrong{C45}.
+
+@33069.3
+{C65} A moth flying into the flame, that's you!
+
+@33069.4
+Coming here just to die... Someone, cut this wretch down!
+
+@33070
+A ruler coming in person... I hope you're prepared.
+
+@33071
+Hehe. But more to the point, how about it? Will you serve me?
+
+@33071.1
+Have you seen my castle? How about it? Wouldn't you like to live in this castle?
+
+@33071.2
+Lord {v02}, will you become one of my retainers? I promise you a higher rank than you have now.
+
+@33071.3
+Rumor has it that Lord {v03} shuns you. I would value you highly.
+
+@33071.4
+Won't you work under me? I hear your family was slaughtered to the last by {v03}.
+
+@33072
+Very good, very good.
+
+@33073
+Ah, Lord {v02}. What business brings you here?
+
+@33073.1
+{v02}, welcome after your long journey. Is Lord {v03} well{C52}?
+
+@33073.2
+Why, it's Lord {v02}. No need for stiff formalities. Come right in.
+
+@33074
+Lord {v02}, coming in person... Is it something serious? Speak freely.
+
+@33075
+{v02}. What have you come for?
+
+@33075.1
+{v03}'s envoy, eh? State your business and be gone.
+
+@33075.2
+Oh, it's you. So, what do you want{C45}? Out with it.
+
+@33076
+You... I ought to kill you, but I'll at least hear you out.
+

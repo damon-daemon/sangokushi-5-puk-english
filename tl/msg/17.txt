@@ -1,0 +1,309 @@
+@17000
+There is no officer who can carry this out.
+
+@17001
+There is no ruler to negotiate with.
+
+@17002
+Select the ruler to ally with.
+
+@17003
+For how many months will you propose the alliance?
+
+@17004
+Choose an envoy. Spirit needed: 60
+
+@17005
+Bring a gift along?
+
+@17006
+How much %s will you prepare?
+
+@17007
+You have no allied rulers.
+
+@17008
+There is no city to attack jointly.
+
+@17009
+Select the city to attack jointly.
+
+@17010
+Select the ruler to propose a joint operation to.
+
+@17011
+Choose an envoy. Spirit needed: 40
+
+@17012
+We have promised Lord {v01} to attack {v14} together. Cancel it?
+
+@17013
+You have nothing to send as a gift.
+
+@17014
+Select the ruler to send a gift to.
+
+@17015
+Choose an envoy. Spirit needed: 30
+
+@17017
+There is no ruler to threaten.
+
+@17018
+Select the ruler to urge to surrender.
+
+@17019
+Choose an envoy. Spirit needed: 50
+
+@17020
+Select the ruler to ask for aid.
+
+@17021
+The alliance term is too short.
+
+@17022
+Not enough funds for development.
+
+@17023
+We are currently researching %s with Lord {v01}.
+
+@17024
+Select the weapon to research.
+
+@17025
+Select the ruler to ask to research with.
+
+@17026
+Everything has been researched.\nNothing more can be researched.
+
+@17027
+I was sure Lord {v02} would give a good answer.
+
+@17027.1
+Thank you very much. Now I can return to Lord {v03} with my head held high.
+
+@17027.2
+I'm glad to have a good answer. A weight off my shoulders. Now, I take my leave.
+
+@17028
+Just as expected of Lord {v02}. I knew you'd give a generous answer.
+
+@17029
+Just as expected of Lord {v02}. Your wise decision will be told for ages.
+
+@17029.1
+A splendid decision. Lord {v03} will never treat you poorly{C26}.
+
+@17029.2
+Your words, Lord {v02}, have spared many lives.
+
+@17030
+It was worth the long journey. From now on, lend{C19} your strength to me.
+
+@17031
+How could this be... I can't face Lord {v03} now.
+
+@17031.1
+Refusing such an offer... How shortsighted... A pity{C23}.
+
+@17031.2
+Is that so{C24}? A pity{C23}. Sigh...
+
+@17032
+A pity{C48}. I believed a hero like you would understand{C46}...
+
+@17033
+How foolish... What good is shedding more needless blood?
+
+@17033.1
+You'd sacrifice so many lives for such worthless pride...?
+
+@17033.2
+I thought someone like Lord {v02} would surely understand...
+
+@17034
+I offered to spare your life... Why can't you understand my heart{C57}?
+
+@17035
+Killing an envoy... Remember this: no ruler without benevolence has ever prospered!
+
+@17035.1
+Gwaah... Lord {v03}, forgive me...
+
+@17035.2
+Curse you! What kind of person kills an envoy without a second thought...
+
+@17036
+I won't be cut down so easily!
+
+@17036.1
+Whoa, close one. I won't die in a place like this!
+
+@17036.2
+Killing an envoy... What a coward. You'll pay{C39}!
+
+@17037
+{C0} won't be killed by the likes of you{C53}!
+
+@17038
+Lord {v01} has aided us with %s (%u).
+
+@17039
+Lord {v01}, sent as an envoy, was cut down during the negotiations.
+
+@17040
+What, {v02} was cut down? Curse you, {v03}! What a vile wretch!
+
+@17040.1
+{v02} was cut down? Is it true? You'll pay for this{C39}, {v03}!
+
+@17040.2
+{v02} was cut down! {v03}, killing an envoy is unforgivable{C32}!
+
+@17041
+I nearly lost my life. What an outrageous scoundrel.
+
+@17041.1
+That was close. I want nothing to do with people like that{C23}.
+
+@17041.2
+Drawing a blade on an envoy is unforgivable{C23}. That wretch will pay{C39}!
+
+@17042
+{C0} came in person, and they drew blades on me... Grrr...
+
+@17043
+Rejoice! I persuaded them.
+
+@17043.1
+The talks went well. Now, on to the next plan.
+
+@17043.2
+The alliance is made. A reliable ally is a great comfort{C23}.
+
+@17044
+It was worth going in person.
+
+@17045
+I'm sorry. They refused.
+
+@17045.1
+I'm ashamed{C28}. I couldn't persuade them.
+
+@17045.2
+They refused the alliance. Someday I'll make up for this failure...
+
+@17046
+Even though {C0} begged them, no good... A pity{C45}.
+
+@17047.1
+The talks went well. Now, on to the next plan.
+
+@17047.2
+They agreed to the joint operation. Let's be ready to sortie at any time.
+
+@17048
+Since {C0} went to negotiate, they trusted us{C48}. Everyone, prepare to sortie{C45}!
+
+@17049.1
+I'm ashamed{C28}. I couldn't persuade them.
+
+@17049.2
+They refused the joint operation. Lord {v02} must have their reasons{C26}.
+
+@17050
+Even going in person, {C0} failed... I must lack the caliber of a ruler{C50}.
+
+@17051.1
+The talks went well. Now, on to the next plan.
+
+@17051.2
+They accepted it gladly. I'm glad {C9}'s goodwill got through{C46}.
+
+@17052
+It was worth going{C53}. My sincerity seems to have gotten through{C50}.
+
+@17053.1
+I'm ashamed{C28}. I couldn't persuade them.
+
+@17053.2
+They wouldn't accept the gift. I'm sorry{C28}.
+
+@17054
+To spurn my goodwill... Did my sincerity not get through?
+
+@17055.1
+The talks went well. Now, on to the next plan.
+
+@17055.2
+The demand succeeded{C23}. I was impressed by how gracefully Lord {v02} accepted.
+
+@17056
+Going in person so they could save face was the key.
+
+@17057.1
+I'm ashamed{C28}. I couldn't persuade them.
+
+@17057.2
+They flatly rejected the demand. Admirable, for an enemy. Too good to kill, I think{C22}.
+
+@17058
+I went in person so as not to hurt their honor, and they still turned me away...
+
+@17059.1
+The talks went well. Now, on to the next plan.
+
+@17059.2
+They agreed to the research. Let's get started right away.
+
+@17060
+I'm glad it worked{C50}. Once this weapon is developed, the war is sure to end sooner.
+
+@17061.1
+I'm ashamed{C28}. I couldn't persuade them.
+
+@17061.2
+They didn't accept the research.
+
+@17062
+To think they'd refuse{C56}... I thought it would work. I overrated myself.
+
+@17063
+As you see, they accepted the aid. I'm glad.
+
+@17063.1
+They agreed without hesitation. I can't believe it{C32}... Is there a catch?
+
+@17063.2
+To agree so readily... That one is a rare hero too. Someday we must settle things...
+
+@17064
+Such generous aid, given so freely... I'll send a letter of thanks later.
+
+@17065
+I'm sorry. They refused the aid. The world is not so kind.
+
+@17065.1
+In these chaotic times, aid is not likely to be accepted.
+
+@17065.2
+We begged so hard and they still refused... How petty...
+
+@17066
+I misjudged them{C53}. I thought they were bigger than that...
+
+@17067
+We cannot agree, as we lack the gold.
+
+@17068
+We cannot agree, as we are researching a weapon now.
+
+@17069
+We cannot agree, as it is already developed.
+
+@17070
+We cannot agree to attack an ally.
+
+@17071
+We cannot agree due to financial trouble.
+

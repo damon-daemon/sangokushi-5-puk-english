@@ -1,0 +1,10 @@
+# data that the scan takes for text, and debug output: kept as is
+PROG:8011915c	-
+PROG:80119174	-
+PROG:8010e4c8	-
+PROG:8010e4cc	-
+PROG:8010ecd4	-
+PROG:8011970c	-
+PROG:80119758	-
+PROG:80119788	-
+PROG:801197bc	-

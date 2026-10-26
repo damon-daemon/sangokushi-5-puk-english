@@ -1,0 +1,336 @@
+@26000
+Meanwhile, {v01}, on a training journey, stopped in {v14} to look around the town.
+
+@26001
+You there, you look like someone of note. Could you be the famous Lord {v01}?
+
+@26001.1
+Excuse me, traveler, but aren't you Lord {v01}? It's Lord {v01} for sure!
+
+@26001.2
+Traveler, I know that face... You're Lord {v01}, aren't you...
+
+@26002
+Indeed, I am {v01}. What do you want?
+
+@26002.1
+Ha ha, you found me out. So, what is it{C52}?
+
+@26002.2
+I am indeed {v01}. What is it{C52}?
+
+@26003
+I wish to present Lord {v01} with this %s I got from a peddler.
+
+@26003.1
+I found this %s on a battlefield. Won't you accept it?
+
+@26003.2
+I'd like you to have this %s.
+
+@26004
+What... But I can't accept something so precious for nothing...
+
+@26004.1
+Wh-why, this is... I couldn't accept...
+
+@26004.2
+A fine piece, but isn't it precious to you?
+
+@26005
+It's wasted on me. I'd be honored if Lord {v01} put it to use.
+
+@26005.1
+It doesn't suit an ordinary person like me. It belongs with a hero like you.
+
+@26005.2
+A fine piece chooses its owner, and the owner it deserves is you, not me.
+
+@26006
+If you insist, I can't refuse. I won't forget your kindness.
+
+@26006.1
+Very well, I gratefully accept this fine piece{C48}.
+
+@26006.2
+For me... Then I'll use it with care{C48}.
+
+@26007
+Lord {v01}, {v02} has finished a year of training and returned safely.
+
+@26008
+Lord {v01}, a letter has arrived from {v02}, who is away training.
+
+@26009
+Lord {v01}, a person named {v02} has come to see you.
+
+@26010
+I am training in {v14} at present. There is much to learn wherever I go, and every day is fresh. I mean to devote myself to the martial arts and study for a while.\n
+
+@26010.1
+I am in {v14} now. The training is hard, but my days are full.\n
+
+@26010.2
+I write from {v14}. The world is truly wide, and I have been reminded that I am still a frog in a well.\n
+
+@26011
+{v02} of this castle is rumored to be a spy of {v03}.\n
+
+@26011.1
+They say {v02}, who lives here, often acts suspiciously at night. I suspect they are a spy for someone.\n
+
+@26011.2
+{v02}, the commander here, seems to be someone's spy. Perhaps they are a planted agent.\n
+
+@26012
+It is only a rumor, but {v02} seems unhappy with their present treatment. Why not recruit them?\n
+
+@26012.1
+{v02} is said to be discontent with their lot and grumbles in the taverns night after night. I think you might try recruiting them.\n
+
+@26012.2
+{v02} seems to be on bad terms with their lord {v03}. I think this is a good chance to draw them to our side.\n
+
+@26013
+The famous {v02} lives here. I plan to call on them tomorrow and share a cup.\n
+
+@26013.1
+The other day I met the renowned {v02}. Their insight was as high as rumor says, and I was impressed.\n
+
+@26013.2
+It seems the great {v02} now serves {v03}. I wish we could invite sages to our realm too.\n
+
+@26014
+The people in the city suffer under tyranny and struggle even for food, clothing and shelter. Is there no way to turn their anger against the ruler?\n
+
+@26014.1
+The people of the city resent their ruler's tyranny, and some try to resist. A revolt looks likely before long.\n
+
+@26014.2
+The people living here are truly pitiful. Under misrule, not one of them lives a decent life.\n
+
+@26015
+Perhaps because no one rules this land, the town is in disorder. Even in freedom, I felt the need for law and order.\n
+
+@26016
+This town has many beautiful women, and the other day I called some in for a feast. But one of them was a terrific drinker, and I was penniless by morning.\n
+
+@26016.1
+It is a dull town with nothing special, but the people are all kind, and I am often invited to their homes for a meal.\n
+
+@26016.2
+The liquor here is the best. The only side dish worth having is the local chicken. When I come back, I will bring some liquor as a souvenir.\n
+
+@26017
+The fields here are vast, and the harvest seems never in trouble. At reaping time the storehouses fill up.\n
+
+@26017.1
+Farming thrives here, and at harvest time everyone is busy from morning to night. Even the rice we eat without a thought is thanks to the people's toil.\n
+
+@26017.2
+Fertile farmland stretches out here. Harvests rarely fail, and in a bumper year the surplus rice is shared with the people and a grand festival is held.\n
+
+@26018
+This land thrives on trade. Merchants from all regions open markets, and the town is full of life.\n
+
+@26019
+Flood control here is well kept, and disaster measures seem perfect. Even a storm does little damage, which shows how important flood control is.\n
+
+@26020
+This city is guarded by sturdy walls. Taking it will cost dearly. Why not use a scheme such as Sabotage beforehand?\n
+
+@26021
+The fields here are thin and poor, and no harvest can be expected. The people are forced to live in great hardship.\n
+
+@26022
+Trade here is slack, and merchants rarely come. The town feels no life at all.\n
+
+@26023
+Little flood control has been done here. The last storm did great damage, and it will badly affect the harvest.\n
+
+@26024
+The walls of this town are decayed in places, with no sign of repair. If attacked, they would not last a moment.\n
+
+@26026
+A fierce general named {v02} is here. No one surpasses them in combat, and a direct assault is dangerous while they remain. We should attack with schemes.\n
+
+@26027
+{v02} here is very sharp and skilled at plots. Be careful not to be fooled by this one's schemes.\n
+
+@26028
+A person named {v02} governs this city. Their political skill is eye-catching. I would like to have them serve our realm.\n
+
+@26029
+A person named {v02} is here. They are well liked in town, and I often see them sharing cups with the people in a tavern.\n
+
+@26030
+Well then, for the remaining half year I will devote myself to training all the more. Please take good care of your health too, {C9}. I look forward to our reunion.\n
+
+@26030.1
+As I write, I think fondly of Lord {v02} and my home, and I can hardly wait for half a year to pass. Please give everyone my regards.\n
+
+@26031
+\nP.S. This person, named {v02}, shows great promise. I urged them to take up service, so please employ them.
+
+@26032
+There is no ruler here, so people live freely. But no one protects them from bandits, so they have to defend themselves.\n
+
+@26032.1
+This land seems ungoverned. There are no taxes or restraints, but if bandits target you, you are done for. A free life in fear of outsiders, or a restrained but safe one: which is happier for the people?\n
+
+@26033
+I have learned martial arts and tactics wherever I went, and felt warm human kindness. These six months have been very full.\nFor the remaining half year, I will polish myself further so as to be of even more help to {C9}.\n
+
+@26033.1
+Six months have passed. Meeting the people everywhere, I have felt deeply how they suffer in this chaotic age. Once unified, I hope to build a world where they live in peace.\nNow I lay down my brush, praying for Lord {v02}'s victories.\n
+
+@26034
+Every day I drink liquor, oh, I mean, I polish my martial arts and tactics. The other day I drank in a tavern till morning, and oddly the people I drank with were lying bloody on the floor, so I nursed them. Helping people in trouble feels good.\nWell, I shall take my leave here.\n
+
+@26034.1
+Every day I devote myself to martial arts and study, with a little drink now and then. The other day I drank too much at a tavern and broke their precious screen. I'm banned there now, so I'll drink at home, where nothing is precious.\nHalf a year remains. I'll keep training every day, not drinking, I mean.\n
+
+@26035
+From Lord {v01}, who is away training. Here...
+
+@26036
+I'll do my best, for Lord {v02} who recommended me too.
+
+@26037
+It seems I had no eye for people...
+
+@26038
+Lord {v01}, one of your people wishes to speak with you.
+
+@26039
+I found this near my house, so I'd like to present it to Lord {v01}.
+
+@26040
+Obtained %s.
+
+@26041
+Lord {v01}, a merchant has come to visit.
+
+@26042
+He offers %s for %u gold. Will you buy it? Gold on hand: %lu
+
+@26043
+The people of {v14} seem troubled.
+
+@26044
+It seems the people want a governor to keep order. Appoint a governor to {v14}?
+
+@26045
+Which officer will you send to {v14}?
+
+@26046
+The people of {v14} are delighted. Support is now %u.
+
+@26047
+The people of {v14} are saddened. Support is now %u.
+
+@26048
+Lord {v01}, why won't you give our town a governor?
+
+@26048.1
+With no governor here, lawbreakers run wild. It's a real problem.
+
+@26048.2
+Has Lord {v01} abandoned this town?
+
+@26049
+Thank you! Surely it will become a better place to live.
+
+@26049.1
+Lord {v01} heard our plea... Now there's a truly wise ruler!
+
+@26049.2
+Wonderful, wonderful! Thank you so much, Lord {v01}!
+
+@26050
+This month we can change assignments. I must place each officer according to their aptitude...
+
+@26050.1
+Now then, this month I can change the ministers{C48}.
+
+@26051
+Sensing death was near, {v01} called {v02} to their bedside.
+
+@26052
+Father, what is it?
+
+@26053
+Mother, what is it?
+
+@26054
+It seems I have little time left...
+
+@26055
+What are you saying? That's not like you, Father{C37}.
+
+@26056
+What are you saying? That's not like you, Mother{C37}.
+
+@26057
+No, I know my own body best{C45}.
+
+@26058
+That is why I called you here: there's something I must pass on to you{C45}. Listen well.
+
+@26059
+That is why I called you here: there's something I must pass on to you. Now, listen well.
+
+@26060
+I understand.
+
+@26061
+They passed on a "formation." Though weak, {v01} taught {v02} the art of command honed over many years.
+
+@26062
+*cough* That is everything I learned on the battlefield{C45}. Do you understand?
+
+@26063
+*cough cough* That is everything I've learned. Do you understand?
+
+@26064
+Yes, I've taken it to heart...
+
+@26065
+Now I have no regrets... I'll be watching over your valor from the next world.
+
+@26066
+Now I can go to the next world in peace. Never lose heart, whatever happens.
+
+@26067
+And so {v01} quietly breathed their last.
+
+@26068
+{v01} inherited a "formation."
+
+@26069
+Lord {v01}, a person named {v02} has come to see you.
+
+@26070
+Lord {v01}, you have a most unusual face. May I take a closer look?
+
+@26071
+Lord {v01}, will you have {v02} read your fortune?
+
+@26072
+Then allow me to take a good look... Hmm, hmm...
+
+@26073
+Ah, Lord {v01} has a face that people take to easily.
+
+@26074
+Surely many of the people place great hopes in Lord {v01}.
+
+@26075
+...This is hard to say, but Lord {v01} bears an ill omen.
+
+@26076
+From now on, try to show more consideration for others.
+
+@26077
+{v01}'s fame %s.
+

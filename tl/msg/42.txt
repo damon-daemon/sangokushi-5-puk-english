@@ -1,0 +1,252 @@
+@42000
+...
+
+@42001
+In the castle of {v14}
+
+@42002
+As you wish.
+
+@42003
+Just so.
+
+@42004
+Let us choose an auspicious day and hold the enthronement.
+
+@42005
+You should take the throne at once and raise an army to unite the realm.
+
+@42006
+Lord {v01}, {v02} wishes to speak with you.
+
+@42007
+My lord, I must ask you to clear the room.
+
+@42008
+What is it, {v02}? Is it so important?
+
+@42009
+You now rule most of the land. No one in our time can match what you have done.
+
+@42010
+You even hold the imperial seal. Surely unification is near...
+
+@42011
+{v02}, have you come here just to flatter me?
+
+@42012
+Please, no jests. I am quite serious.
+
+@42013
+Now that most of the land is at peace, the people seek a new leader.
+
+@42014
+Will you take the throne?
+
+@42015
+You are right. Very well, I will take the throne.
+
+@42016
+You have heard our plea. My heartfelt congratulations.
+
+@42017
+No... On second thought, I will not.
+
+@42018
+What did you say?! Soldiers and people alike all wish to see you enthroned!
+
+@42019
+No. With the land not yet united, seeking only the throne won't win hearts.
+
+@42020
+I cannot halt my march to supremacy. The throne can wait until the land is one.
+
+@42021
+I understand. Then we shall leave it for another time.
+
+@42022
+{v01} took the throne at {v14} and vowed to unite the land.
+
+@42023
+In Luoyang, Dong Zhuo has seized the army and runs riot. It is a grave state of affairs.
+
+@42024
+But I cannot stand against Dong Zhuo alone. I need a plan...
+
+@42025
+If I join with Yuan Shao, then ally with the other lords and gather troops...
+
+@42026
+Then toppling Dong Zhuo is not impossible... Yes, I will send out a call to arms.
+
+@42027
+A call to arms from Cao Cao... He means to strike Dong Zhuo?
+
+@42028
+Topple Dong Zhuo now, and my name will go down in history as a loyal servant of the Han.
+
+@42029
+Good, my mind is made up! I will bring down Dong Zhuo with Cao Cao!
+
+@42030
+Cao Cao sent a call to arms to the lords, urging them to ally against Dong Zhuo.
+
+@42031
+Lord {v01}, a call to arms has come from Lord Cao Cao.
+
+@42032
+By the Emperor's secret edict, I shall strike down the traitor Dong Zhuo.
+
+@42033
+Lord {v01}, join me, Cao Cao, to defeat the traitor and serve the Han.
+
+@42034
+Lord {v01}, will you heed Cao Cao and join the alliance against Dong Zhuo?
+
+@42035
+The lords who answered Cao Cao's call each formed a one-year alliance to bring down Dong Zhuo.
+
+@42036
+We form this coalition to bring down the traitor Dong Zhuo.
+
+@42037
+I would ask Lord Yuan Shao, of noble birth, to lead us. ...No objections, I see.
+
+@42038
+Unworthy though I am, I, Yuan Shao, humbly accept.
+
+@42039
+Let us join our strength to defeat Dong Zhuo and save the Han and its people!
+
+@42040
+Dong Zhuo, foe of the Han! Feel our might!
+
+@42041
+My lord! At Cao Cao's call, the lords have formed an alliance!
+
+@42042
+What?! Curse you, Cao Cao...
+
+@42043
+Yuan Shao leads with Cao Cao at his side. They say their force is like a stampede.
+
+@42044
+My lord, you have nothing to fear.
+
+@42045
+Ah, Lu Bu, Hua Xiong. You've heard about this so-called coalition?
+
+@42046
+As long as we warriors are here, you need not fear the likes of Cao Cao or Yuan Shao.
+
+@42047
+Yes, yes. You are dependable men.
+
+@42048
+Luoyang lies near the lords' territories, which makes it hard to defend.
+
+@42049
+The old capital Chang'an is near your former base in Xiliang, ideal for defense.
+
+@42050
+We should move the capital at once to face the lords' coalition, I believe.
+
+@42051
+How can you say that?! Urging a move with no thought for the people is outrageous!
+
+@42052
+Besides, Chang'an is ruined from endless war. Moving the capital there is pointless.
+
+@42053
+Please reconsider moving the capital.
+
+@42054
+Follow Li Ru's advice and move the capital to Chang'an?
+
+@42055
+Ignoring his loyal ministers, Dong Zhuo moved the capital to Chang'an.
+
+@42056
+He set Luoyang ablaze as he left, so that the people could not return.
+
+@42057
+Hahaha! Burn, burn! Farewell to gloomy old Luoyang!
+
+@42058
+Ah... Luoyang, which flourished for 200 years since Emperor Guangwu, is burning...
+
+@42059
+Dong Zhuo's move to Chang'an shocked even the coalition against him.
+
+@42060
+What?! Dong Zhuo fled?! To Chang'an, perhaps...
+
+@42061
+Setting Luoyang on fire and running... Dong Zhuo, how could you!
+
+@42062
+The capital Luoyang has been burned to the ground.
+
+@42063
+It seems the Minister has a point.
+
+@42064
+Then we will not move the capital?
+
+@42065
+We will stay in Luoyang for now.
+
+@42066
+...Tch. Wang Yun and his meddling advice...
+
+@42067
+Our House of Yuan produced the Three Excellencies for four generations. Is that not so, Ji Ling?
+
+@42068
+The Han's fortune is spent, and the Central Plain knows no end of war.
+
+@42069
+So, now that I hold the imperial seal, I am thinking of taking the throne as Heaven wills...
+
+@42070
+The House of Yuan is noble, but it has not yet won the realm.
+
+@42071
+The Han may be in decline, but many warlords still swear loyalty to it.
+
+@42072
+I believe patience is what matters now.
+
+@42073
+Bah, enough! Silence! My enthronement has been foretold!
+
+@42074
+Foretold...?!
+
+@42075
+"He who replaces the Han shall be Dangtu Gao."
+
+@42076
+"Tu" means "road," the same as "lu" in your style name, Gonglu.
+
+@42077
+Such a match can no longer be called chance.
+
+@42078
+My name, "Shu," also means "road"! This is surely Heaven's will!
+
+@42079
+Any traitor who objects further will be cut down! No objections...?!
+
+@42080
+Over his ministers' objections, Yuan Shu took the throne and named his state Cheng.
+
+@42081
+He set the era name Zhongshi and lived in all the luxury due the Son of Heaven.
+
+@42082
+That seal was only a pledge I left with Yuan Shu to borrow troops!
+
+@42083
+Using my father's keepsake to claim the throne... outrageous! Heaven will punish him!
+

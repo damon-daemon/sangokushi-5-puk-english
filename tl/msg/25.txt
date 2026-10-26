@@ -1,0 +1,93 @@
+@25000
+There is one called {v03}, whom the neighbors call a prodigy.
+
+@25000.1
+{v03} is here{C18}. They lament this chaotic age and want to change the world{C18}.
+
+@25000.2
+I met {v03}. Of high ambition, they'd be a great help to our realm{C26}.
+
+@25000.3
+I met someone promising named {v03}. I judge them a person of national caliber{C55}.
+
+@25001
+I met one called {v03}{C48}. We talked all night and lost track of time{C53}.
+
+@25002
+I met the famed "Sleeping Dragon." With such a one, the day we rule the land must be near.
+
+@25003
+I met the famed "Handsome Zhou." With such a one, the day we rule the land must be near.
+
+@25004
+I met the famed "Young Phoenix." With such a one, the day we rule the land must be near.
+
+@25005
+I found a hero worth a thousand men, named {v03}.
+
+@25005.1
+I met {v03}. In these turbulent times, we need such a warrior{C23}.
+
+@25006
+I found one named {v03}, a match for the great Taigong Wang.
+
+@25006.1
+I found one named {v03}{C17}. Shrewd and adaptable, strategist material, I think...
+
+@25007
+I met someone with policies that suit our realm now. Their name is {v03}.
+
+@25007.1
+There is one named {v03}. Skilled in politics, they could become a statesman like Guan Zhong.
+
+@25008
+I'm sorry. I searched everywhere but met no one of exceptional talent.
+
+@25008.1
+I followed rumors and met many people, but none seemed useful{C32}.
+
+@25009
+A pity{C46}. I was looking for someone to be my right hand.
+
+@25010
+I fought a man who boasted of his strength, but he was all bluster, so I flattened him.
+
+@25011
+I'm terribly sorry{C32}. I went to a tavern to hear rumors and got dead drunk.
+
+@25012
+I found no great talent. But the town was full of talk about {C9}{C23}.
+
+@25013
+{v03} was eager to work for our realm, so I brought them.
+
+@25013.1
+{v03} wished to serve {C9}, so I brought them.
+
+@25014
+I hit it off with one named {v03} and brought them along{C53}.
+
+@25015
+Why, the famed "Sleeping Dragon" will lend us their strength{C23}!
+
+@25016
+Why, the famed "Handsome Zhou" will lend us their strength!
+
+@25017
+Why, the famed "Young Phoenix" will lend us their strength{C23}!
+
+@25018
+I met one named {v03}, but they argued so much I just brought them along{C55}.
+
+@25019
+We met at a tavern (*burp*) and drank all night{C53}. This one is... useful{C55}.
+
+@25020
+I treated a hero named {v03} to a meal in town, and they followed me back{C50}.
+
+@25021
+I was taken with {v03}'s strategy and brought them, wanting to entrust them with troops.
+
+@25022
+Very good, very good.
+

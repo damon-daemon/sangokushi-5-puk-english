@@ -1,0 +1,111 @@
+@54000
+...
+
+@54001
+In the castle of {v14}
+
+@54002
+At {v01}'s residence, {v14}
+
+@54003
+My son... It seems Heaven has come for me at last.
+
+@54004
+F-Father! Hold on!
+
+@54005
+Father, what's wrong? Why so faint-hearted...?
+
+@54006
+This state still needs you, Father!
+
+@54007
+...No, I know my body best. ...My son, listen well.
+
+@54008
+I served this country for many years, yet was suspected of treason and never knew a moment's peace.
+
+@54009
+This is the fault of my own lack of virtue... Do you understand what I mean?
+
+@54010
+Y-yes... Even in high office, be modest and give no cause for doubt.
+
+@54011
+...Just so. If you understand that, I have nothing left to regret.
+
+@54012
+F-Father! Zhao! A doctor! Call a doctor!
+
+@54013
+Father, are you all right? Please, hold on.
+
+@54014
+Ke, there is something I must tell you. Listen well.
+
+@54015
+Your talent is splendid. Truly worthy of one who aids a king.
+
+@54016
+But... because of your talent, you have a bad habit of looking down on others.
+
+@54017
+Do not look down on your peers. Respect your lord and care for your men.
+
+@54018
+Otherwise you will not keep our house safe... Take this to heart.
+
+@54019
+...Yes. I will engrave your words on my heart.
+
+@54020
+...Do not betray your lord's hopes...
+
+@54021
+Guo Jia, are you all right? I had no idea your illness was so grave.
+
+@54022
+I am truly an unlucky man...
+
+@54023
+To have this happen just before my lord unites the realm...
+
+@54024
+Lord {v02}, please unite the realm and bring peace to this land...
+
+@54025
+G-Guo Jia! Hold on!
+
+@54026
+...Ah, how tragic, Fengxiao. Such genius, lost so young...
+
+@54027
+...How bitter to leave the world at this age.
+
+@54028
+Zhou Yu, hold on! If you leave me now, what am I to do?
+
+@54029
+Lord Lu Zijing is a loyal man. Trust him, and the state will be secure.
+
+@54030
+Lu Su... Very well, I will remember.
+
+@54031
+Zhou Yu! What's wrong?!
+
+@54032
+Zhou Yu! Zhou Yu! Hold on!
+
+@54033
+Leave things to him, and the state will be secure...
+
+@54034
+My lord... Please, the realm...
+
+@54035
+...Why... Why, Heaven...
+
+@54036
+Why did Heaven bring forth Kongming as well as me! ...Why not me alone...
+

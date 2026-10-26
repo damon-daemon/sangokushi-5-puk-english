@@ -1,0 +1,201 @@
+@19000
+Lord {v01}, salaries in {v14} could not be paid for lack of funds.
+
+@19001
+{v01} has left your service!
+
+@19002
+Lord {v01}, {v02} has come of age and joined your service.
+
+@19003
+Lord {v01}, {v02} has joined your service.
+
+@19004
+I've heard of Lord {v02} from my parents. Watch me do great things!
+
+@19004.1
+I am {v01}. Parent and child together, we will serve {C9}.
+
+@19004.2
+I am {v01}. I want to take an enemy general's head soon, for the honor of my clan{C22}.
+
+@19005
+Father, it's {v01}. From now on, I want to help you on your royal path.
+
+@19005.1
+I've waited for this day. I'll strive so people say, "Father has {v01}!"
+
+@19006
+Mother, it's {v01}. From now on, I want to help you on your royal path.
+
+@19006.1
+I've waited for this day. I'll strive so people say, "Mother has {v01}!"
+
+@19007
+Since childhood I've trained, dreaming of serving Lord {v02}.
+
+@19007.1
+For generations to come, I will protect this land and {C9}{C33}.
+
+@19007.2
+A pleasure to meet you. I am {v01}. Watch me do great things{C19}!
+
+@19009
+I am {v01}. Like my father, now planted with the enemy, I will give my all for {C9}.
+
+@19009.1
+I am {v01}. Like my father, now planted with the enemy, I will fight to the death.
+
+@19009.2
+I am {v01}{C23}. I wish to do even greater deeds than my father, now planted with the enemy{C22}.
+
+@19010
+I am {v01}. Like my mother, now planted with the enemy, I will give my all for {C9}.
+
+@19010.1
+I am {v01}. Like my mother, now planted with the enemy, I will fight to the death.
+
+@19010.2
+I am {v01}{C23}. I wish to do even greater deeds than my mother, now planted with the enemy{C22}.
+
+@19012
+I am {v01}. Like my father, who is away training, I will never neglect my daily drills.
+
+@19012.1
+I am {v01}{C23}, child of {v03}, who is away training. Like my father, I swear loyalty.
+
+@19012.2
+I am {v01}. I'll strive as hard as my father, who is away training.
+
+@19013
+I am {v01}. Like my mother, who is away training, I will never neglect my daily drills.
+
+@19013.1
+I am {v01}{C23}, child of {v03}, who is away training. Like my mother, I swear loyalty.
+
+@19013.2
+I am {v01}. I'll strive as hard as my mother, who is away training.
+
+@19014
+Lord {v02}, %u00 people are leaving {v14} for {v15}.
+
+@19015
+Lord {v02}, %u00 people have moved from {v14} to {v15}.
+
+@19016
+%u00 people are leaving {v14} for {v15}.
+
+@19017
+%u00 people have moved from {v14} to {v15}. {v14} must be badly ruled.
+
+@19017.1
+It seems %u00 people have moved from {v14} to {v15}, drawn by {C9}{C23}.
+
+@19018
+%u00 people have moved from {v14} to {v15}. Perhaps we should review our domestic policy.
+
+@19018.1
+Unable to bear the rule of {v14}, %u00 people moved to {v15}{C23}.
+
+@19021
+Lord {v01}, a messenger brings sad news: {v02} of {v14} has died.
+
+@19022
+It seems {v02}, an officer of {v01}, has died.
+
+@19023
+Lord {v01}, a messenger brings sad news: {v02}, our agent in {v14}, has died.
+
+@19024
+Lord {v01}, a messenger brings sad news: {v02}, training in {v14}, has died.
+
+@19025
+{v01} will take over as governor of {v14}.
+
+@19026
+Select the governor of {v14}.
+
+@19027
+Lord {v01}, {v02}, governor of {v14}, has rebelled and declared independence!
+
+@19028
+{v02}, an officer of {v01}, has rebelled and become ruler of {v14}.
+
+@19029
+{v01} has rebelled in {v14}.
+
+@19030
+It seems internal strife has broken out in {v14}.
+
+@19031
+The rebellion failed, and {v01} fled.
+
+@19032
+Lord {v01}, {v02}'s rebel army won in {v14} and declared independence from our realm!
+
+@19033
+{v02}, an officer of {v01}, has rebelled and become ruler of {v14}.
+
+@19034
+Lord {v01}, there are rumors the people of {v14} are plotting a revolt. What will you do?
+
+@19035
+Revolts are breaking out across the land.
+
+@19036
+Lord {v01}, {v02} of {v14} has fallen ill.
+
+@19037
+{v02} has fallen ill.
+
+@19038
+The epidemic seems to have died down.
+
+@19039
+Epidemics are spreading across the land.
+
+@19040
+The epidemic is spreading to neighboring cities too.
+
+@19041
+A huge swarm of locusts has appeared.
+
+@19042
+The locust swarm is moving into neighboring cities.
+
+@19043
+A typhoon has made landfall, causing great damage across the land.
+
+@19044
+A flood has broken out along the %s.
+
+@19045
+Lord {v01}, salaries in {v14} could not be paid for lack of food.
+
+@19046
+Thanks to good weather all year, harvests are rich across the land.
+
+@19047
+Unusually bad weather has brought poor harvests across the land.
+
+@19048
+The people yielded to our persuasion, and no revolt broke out.
+
+@19049
+The people would not listen to us, and finally rose up.
+
+@19050
+The people demand %u gold. Will you pay?
+
+@19051
+We met the people's demands and paid the gold. It seems the revolt was avoided for now.
+
+@19052
+We put down the people by force and prevented a revolt.
+
+@19053
+Lord {v01}, with no governor in {v14}, no one could reason with the people, and they rose up freely.
+
+@19054
+There is unrest among the people of {v14}.
+

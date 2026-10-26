@@ -1,0 +1,297 @@
+@46000
+...
+
+@46001
+In the castle of {v14}
+
+@46002
+As you wish.
+
+@46003
+Just so.
+
+@46004
+Lord Dong Zhuo, there is something I would discuss... If I may?
+
+@46005
+Lord Wang Yun. What did you wish to speak about?
+
+@46006
+It is hard to speak of in the palace. Would you visit my humble home tomorrow?
+
+@46007
+Hmm, very well. Have some wine ready.
+
+@46008
+I am honored you came. First, a drink.
+
+@46009
+Now, Wang Yun, what is it you wished to discuss? Speak.
+
+@46010
+One moment, please... My daughter will perform a dance.
+
+@46011
+Oh? I didn't know the Minister had a daughter.
+
+@46012
+She is my beloved daughter.
+
+@46013
+...Y-you there, what is your name?
+
+@46014
+Diaochan, come now. Why so shy?
+
+@46015
+Ah, so you are Diaochan. Your dance just now was splendid.
+
+@46016
+Yes... Thank you, my lord.
+
+@46017
+Lord Dong Zhuo, here is what I wished to say.
+
+@46018
+I would like this girl to serve at your side. Would you allow it?
+
+@46019
+O-of course! How could I refuse?
+
+@46020
+Thank you, my lord. I am sure she will be delighted.
+
+@46021
+Diaochan... Where is Diaochan?!
+
+@46022
+Lady Diaochan is viewing the flowers at the Fengyi Pavilion.
+
+@46023
+Fengyi Pavilion... Ah, I see, I see.
+
+@46024
+Hm? Who's that there with Diaochan...? Lu Bu?!
+
+@46025
+...If it cannot be, then let us meet in the next life.
+
+@46026
+If I can't make you my wife, I'm no hero...
+
+@46027
+Lu Bu! What are you doing in a place like this?!
+
+@46028
+Lord Dong Zhuo! How long have you been there?
+
+@46029
+Never mind that! Trying to seduce my Diaochan? The nerve of you!
+
+@46030
+You insolent dog... Bah! Get out!
+
+@46031
+Diaochan, why were you talking with Lu Bu?
+
+@46032
+I was admiring the flowers at Fengyi Pavilion when that man appeared.
+
+@46033
+Hmm... So Lu Bu came in without permission?
+
+@46034
+I was no match for his strength, and he took me in his arms.
+
+@46035
+Then you appeared, Lord Dong Zhuo, and saved me.
+
+@46036
+I see... You need not cry anymore.
+
+@46037
+Lord Dong Zhuo, I believe that woman is dangerous.
+
+@46038
+Li Ru, what woman? ...You mean Diaochan?
+
+@46039
+Yes, my lord. At this rate, we will all be ruined by a single woman.
+
+@46040
+I think it best to dismiss her and send her back to Lord Wang Yun.
+
+@46041
+Take Li Ru's advice and dismiss Diaochan?
+
+@46042
+Diaochan, I have decided to dismiss you... You should return to Wang Yun.
+
+@46043
+What is this...? I see, this must be Li Ru's doing.
+
+@46044
+Why do you think it is Li Ru's doing?
+
+@46045
+Li Ru and Lu Bu are friends... It's Li Ru's scheme to make a laughingstock of you.
+
+@46046
+I wish to stay by your side, my lord.
+
+@46047
+Dismiss Diaochan anyway?
+
+@46048
+It was all too short, but I will never forget my days with you, my lord.
+
+@46049
+Here and now, I bid you farewell.
+
+@46050
+D-Diaochan! Ah, what have I done...
+
+@46051
+Diaochan has taken her own life. The men are in an uproar.
+
+@46052
+Curse you, Dong Zhuo! You stole Diaochan from me, and now killed her!
+
+@46053
+Lord Dong Zhuo, why keep that woman at your side after all I told you?
+
+@46054
+Shut up! Li Ru, not another word about Diaochan! ...Understood?!
+
+@46055
+...Ah, are we all to be ruined by a single woman?
+
+@46056
+N-no, I was only joking. You need not go back.
+
+@46057
+I am so happy to serve you, my lord.
+
+@46058
+Lord Dong Zhuo, Lord Li Su has come as an envoy.
+
+@46059
+Lord Dong Zhuo, I, Li Su, come as the Emperor's envoy.
+
+@46060
+What does the Emperor's envoy want? Speak quickly.
+
+@46061
+After consulting all his officials, the Emperor has chosen to abdicate to you.
+
+@46062
+Then...?! I am to replace the present emperor and reign?
+
+@46063
+Very well. Tell them I will come to the palace at once.
+
+@46064
+Lord Wang Yun has prepared the abdication and awaits you. Be sure to come.
+
+@46065
+Diaochan, when I become emperor, I will make you my noble consort.
+
+@46066
+Thank you, my lord. I am so happy.
+
+@46067
+Together we shall enjoy wealth and honor forever.
+
+@46068
+Lord Dong Zhuo, Lord Lu Bu is here to see you.
+
+@46069
+Lu Bu has come... Good, send him in.
+
+@46070
+Lu Bu, forgive me for the other day. I am a small man, and lost my temper.
+
+@46071
+No, it was I who was rude, unbecoming a subject. Please forgive me.
+
+@46072
+Think nothing of it... Yes, when I am emperor, I will give you the whole army.
+
+@46073
+Thank you. I will never forget Lord Dong Zhuo's kindness.
+
+@46074
+Whew... We've reached the palace at last. A long road it was.
+
+@46075
+Forgive me, but custom forbids troops inside the palace.
+
+@46076
+Hm, so it does. Then the troops wait outside. Lu Bu, come with me.
+
+@46077
+The palace was crowded with officials, as lively as befits an abdication... But...
+
+@46078
+Hm... Wang Yun, where is the Emperor?
+
+@46079
+Heh, you've come at last... The Emperor is not here.
+
+@46080
+What do you mean? And why are you all armed? ...Could it be?!
+
+@46081
+You only notice now...? You vermin who brought the Han to ruin!
+
+@46082
+Wh-what?! Wang Yun, what is the meaning of this...
+
+@46083
+Men, the traitor is here! Send this fool who styled himself Grand Tutor to hell!
+
+@46084
+Wang Yun, you tricked me! Lu Bu! Fengxian, where are you?!
+
+@46085
+Fear not, Lord Dong Zhuo... Lu Bu is here.
+
+@46086
+Ah, Fengxian! Cut down Wang Yun and the rest who defy me!
+
+@46087
+By imperial decree, I slay the traitor to the realm. Prepare yourself, Dong Zhuo.
+
+@46088
+Wh-what... Lu Bu, why betray me...? It was Diaochan, wasn't it...
+
+@46089
+The throne was only a few steps away... How bitter.
+
+@46090
+Dong Zhuo, the traitor to the Han, is slain!
+
+@46091
+Li Ru, Dong Zhuo's son-in-law, was handed over by his own servants to Lu Bu and Wang Yun and beheaded.
+
+@46092
+I, who reveled in glory in both capitals, caught by a mere servant...
+
+@46093
+Dong Zhuo's brother Dong Min was judged guilty with him, and his head was displayed.
+
+@46094
+My brother was just a step away from ruling the realm...
+
+@46095
+His followers, {v01} and others, fled toward Xiliang.
+
+@46096
+We will go back to Xiliang and plan our return...
+
+@46097
+Diaochan, the beauty who toppled a state, was taken into Lu Bu's house.
+
+@46098
+Diaochan... I will never let you go again.
+

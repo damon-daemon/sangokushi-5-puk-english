@@ -1,0 +1,35 @@
+# pilot (phase 3 session 3): command labels + turn report
+PROG:800117b0	%s and %s seem to have formed an alliance.
+PROG:8001185c	Patrol
+PROG:80011868	Task
+PROG:80011874	Reorganize
+PROG:80011880	Trade
+PROG:8001188c	Advice
+PROG:80011898	Reward
+PROG:800118a4	Items
+PROG:800118b0	Appoint
+PROG:800118bc	Feast
+PROG:800118c8	Training
+PROG:800118d4	Options
+PROG:800118e0	Save
+PROG:800118ec	Load
+PROG:800118f8	Edit
+PROG:80011904	Quit
+PROG:80011910	Search
+PROG:8001191c	Recruit
+PROG:80011928	Rumor
+PROG:80011934	Turncoat
+PROG:80011940	Rival Tigers
+PROG:8001194c	Incite
+PROG:80011958	Sabotage
+PROG:80011964	Plant
+PROG:80011970	Gift
+PROG:8001197c	Alliance
+PROG:80011988	Research
+PROG:80011994	Joint
+PROG:800119a0	Aid
+PROG:800119ac	Threaten
+PROG:800119b8	Enlist
+PROG:800119c4	Conscript
+PROG:800119d0	Drill
+PROG:800119dc	Plunder

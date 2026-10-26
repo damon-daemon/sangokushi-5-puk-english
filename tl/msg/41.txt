@@ -1,0 +1,276 @@
+@41000
+...
+
+@41001
+In the castle of {v14}
+
+@41002
+Reports say a qilin, a phoenix and a yellow dragon have been seen across your lands.
+
+@41003
+This is what we have long awaited.
+
+@41004
+Let us choose an auspicious day and hold the enthronement.
+
+@41005
+Your Majesty, congratulations on your enthronement.
+
+@41006
+You should take the throne at once and raise an army to unite the realm.
+
+@41007
+These omens surely show that Wei is to replace the Han.
+
+@41008
+Now is the time to take the throne!
+
+@41009
+What is all this commotion? Speak.
+
+@41010
+You know the Central Plain owes all its prosperity to Lord {v01}, yes?
+
+@41011
+The stars show that the Han's fortune is spent, a flame flickering in the wind.
+
+@41012
+Wei's fortune, meanwhile, fills Heaven and Earth.
+
+@41013
+Yield the throne to Lord {v01}, Your Majesty, and so prolong the Han's line.
+
+@41014
+You ask Us to abdicate... We cannot cast aside the great work of Our ancestors.
+
+@41015
+If you do not yield the throne, misfortune will surely befall Your Majesty.
+
+@41016
+Yes or no on the abdication we just proposed? Answer us now.
+
+@41017
+Very well, We shall abdicate. In return, at least let Us live out Our days...
+
+@41018
+Ah, the edict of abdication has come! I shall take the throne at once.
+
+@41019
+Please wait... First decline once, so that proper form is observed.
+
+@41020
+Let us build an abdication terrace and hold a grand enthronement.
+
+@41021
+{v01} accepted Emperor Xian's abdication and took the throne as emperor of Wei.
+
+@41022
+The Han dynasty, four hundred years old, has come to its end.
+
+@41023
+Decades since the war on the Yellow Turbans... It has been a long struggle.
+
+@41024
+Father, please let me be the one to put down the frontiers.
+
+@41025
+Bandits still roam the frontiers. Do not let your guard down even after taking the throne.
+
+@41026
+Father, your deeds rival those of the great rulers of any age.
+
+@41027
+Wei has usurped the throne. Rumor says the Han emperor has been murdered.
+
+@41028
+The realm cannot go even a single day without an emperor.
+
+@41029
+For the cause of restoring the Han, you, Imperial Uncle of the Han, must take the throne.
+
+@41030
+But knowing our lord, he will not be easily persuaded.
+
+@41031
+So we need the help of you two...
+
+@41032
+The traitor {v01} murdered the emperor, seized the throne and now calls himself emperor.
+
+@41033
+Unless you, Imperial Uncle, carry on the true line, the Han will perish.
+
+@41034
+Take the throne? I may be of the Han's blood, but I am still only a subject.
+
+@41035
+I will not stoop to the level of faithless traitors like {v01}!
+
+@41036
+My lord, Lord Zhuge Liang has fallen ill. They say he may not last the night.
+
+@41037
+What?! I will go to him at once! Make ready immediately!
+
+@41038
+Without you, I am a fish without water. Please, get well again.
+
+@41039
+Not even Hua Tuo could cure my illness. Please hear my last counsel.
+
+@41040
+If we let this chance slip, we will never unite the soldiers and people of Yi.
+
+@41041
+If the people's hearts turn away, no natural barrier can save the state.
+
+@41042
+Hmm... What you say is true enough.
+
+@41043
+They say none can escape Heaven's will. Your taking the throne is Heaven's will itself.
+
+@41044
+Your enthronement and my illness are both Heaven's will. Who can blame Heaven?
+
+@41045
+Very well, Kongming... When you are recovered, I will heed Heaven's will.
+
+@41046
+So for now, rest easy and get well. Take heart.
+
+@41047
+You mean it, then...? You may come out now.
+
+@41048
+My lord, we heard everything from behind the screen.
+
+@41049
+Wh-what is this...? Kongming! So your illness was a lie?
+
+@41050
+My illness was a ruse, but it was out of concern for the Han. Forgive me.
+
+@41051
+To oppose Wei's usurpation, Liu Bei took the throne in Shu and named his state Han.
+
+@41052
+The Han dynasty, once cut off, found new life in the land of Ba and Shu.
+
+@41053
+Decades since our oath in the Peach Garden... It has been a long struggle.
+
+@41054
+Back when I spoke to you at that notice board in You, brother, I felt something.
+
+@41055
+My hunch was right, big brother... I mean, Your Majesty.
+
+@41056
+When you march on the Central Plain, be sure to take me with you.
+
+@41057
+...I understand your view, but they say, "Heaven has one sun; the people, one king."
+
+@41058
+Without a proper cause, I think taking the throne would mean nothing. What say you?
+
+@41059
+Now the only ones on this continent calling themselves emperor are false ones.
+
+@41060
+Indeed. None who now claims to be emperor in this land is a true emperor.
+
+@41061
+If we stay beneath these false emperors, our fathers' great work will come to naught.
+
+@41062
+Now you must shine upon the people as the one true sun.
+
+@41063
+I, Sun Quan, have taken your counsel to heart.
+
+@41064
+To guard my fathers' great work from traitors and answer the people's hopes, I will take the throne.
+
+@41065
+I was not wrong to take you as my lord.
+
+@41066
+Sun Quan chose a lucky day and, at his ministers' urging, took the throne as emperor of Wu.
+
+@41067
+He honored his father Sun Jian as Emperor Wulie and his brother Sun Ce as Prince Huan.
+
+@41068
+You overcame many hardships to take the throne. My heartfelt congratulations.
+
+@41069
+From generals to the lowest soldier, all celebrate Your Majesty's enthronement.
+
+@41070
+The tears of days past were not in vain.
+
+@41071
+Now that you hold the highest seat, you seem at last to have surpassed your great brother.
+
+@41072
+Your Majesty, Lord Zhuge Liang wishes to speak with you.
+
+@41073
+Ah, Prime Minister. What is it you wish to say?
+
+@41074
+Your servant Liang humbly speaks. The late emperor died halfway to restoring the Han.
+
+@41075
+The realm is in chaos and our Yi Province is exhausted. This is truly a time of crisis.
+
+@41076
+Yet the loyal men who received the late emperor's favor remain in high spirits.
+
+@41077
+To repay the late emperor's trust, I will lead a great army north.
+
+@41078
+I ask permission to go to Xiabian and prepare the campaign.
+
+@41079
+Move Zhuge Liang to Xiabian on the front line?
+
+@41080
+If you feel that strongly, Prime Minister, We have no objection.
+
+@41081
+I cannot thank Your Majesty enough for your kindness.
+
+@41082
+We will leave the rear to others, so go without worry.
+
+@41083
+I shall surely crush the rebel army.
+
+@41084
+Zhuge Liang has moved to Xiabian.
+
+@41085
+Under Zhuge Liang, training and morale at Xiabian have risen.
+
+@41086
+When my father Xuande lived, we had many wise and brave men, and the gap was small.
+
+@41087
+But sadly, that is no longer so.
+
+@41088
+That is... indeed so, but...
+
+@41089
+Shu is strong enough to defend itself. I think it best to bide our time for now.
+
+@41090
+If Your Majesty insists, I will call it off this time.
+
+@41091
+But one day we must attack. Please understand that.
+

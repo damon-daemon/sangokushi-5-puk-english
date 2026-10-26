@@ -1,0 +1,186 @@
+@34000
+Lord {v01}, {v02}'s army has invaded {v14}! {v02}'s army numbers about %s.
+
+@34001
+Request reinforcements?
+
+@34002
+Whom will you ask for reinforcements?
+
+@34003
+Cancel the request for reinforcements?
+
+@34004
+Who will be the envoy?
+
+@34005
+Rest assured. I'll be back with a great force of reinforcements.
+
+@34006
+I'll be back with reinforcements. Until then, please hold out.
+
+@34007
+Lord {v04}, {v01} of {v02}'s army seems to be on the way here as an envoy seeking reinforcements.
+
+@34008
+Lord {v04}, {v01} seems to be coming here in person to ask for reinforcements.
+
+@34009
+{v14} has been attacked by {v03}'s army. Please, send reinforcements...
+
+@34010
+{v14} has been invaded and our army can't hold alone. Will you send reinforcements?
+
+@34011
+Send reinforcements?
+
+@34012
+Call off the reinforcements?
+
+@34013
+Lord {v01}, what will you do?
+
+@34014
+Do you really want to surrender?
+
+@34015
+Lord {v02}, the army of {v01}, with whom we are in a joint operation, has attacked {v14}! As promised, send the joint army?
+
+@34016
+Will you break your promise?
+
+@34017
+Call off sending the joint operation army?
+
+@34018
+Lord {v02}, {v01} of {v14} has gone over to {v03}.
+
+@34019
+Lord {v02}, {v01} of {v14} met someone in secret.
+
+@34020
+It seems {v01} of {v14} has gone over to {v03}.
+
+@34021
+{v01} came to recruit us, but we talked them round and brought them into our realm.
+
+@34022
+Who will march out?
+
+@34023
+There is unrest among the people of {v14}.
+
+@34024
+Disaster! Someone has damaged the walls of {v14}!
+
+@34025
+Ugly rumors about Lord {v02} are spreading in {v14}.
+
+@34026
+It seems {v01} is gathering volunteer troops.
+
+@34027
+It seems {v01} is conscripting troops.
+
+@34028
+It seems {v01} is plundering.
+
+@34029
+He has always helped us. I'll become a volunteer soldier and lend my strength.
+
+@34029.1
+I may not be much, but I'll lend my strength to Lord {v01} and crush those rebels.
+
+@34029.2
+It would be wonderful if Lord {v01} brought order to the land. I'll join the volunteers too.
+
+@34030
+Why must we fight for a man like that... But if we don't obey, we'll be killed...
+
+@34030.1
+I don't want to die... But we can't defy those in power. It's always us who suffer.
+
+@34030.2
+Let me go home to my wife and child. Who would help a rebel like {v01}?
+
+@34031
+That's the seed rice for next year. Please, spare us that much.
+
+@34031.1
+Didn't we pay our taxes? What, an extra levy? That's absurd...
+
+@34031.2
+Who are you people, all of a sudden? Hey, that money is mine! Gaaah!
+
+@34032
+Officer, please don't relieve yourself in my house. Ugh, he's drunk!
+
+@34032.1
+Who is that? Don't be sick in front of my house! Ugh, he reeks of liquor. This one is one of {v01}'s soldiers.
+
+@34032.2
+Aah, stop swinging that sword! This one is one of {v01}'s soldiers. He's drunk!
+
+@34033
+Oh, that's Lord {v02}. Is he going to serve {v01}?
+
+@34033.1
+I heard a rumor that Lord {v02} has come to this land. I'd love to see him just once.
+
+@34033.2
+Did you know? The famous Lord {v02} has come to the castle, they say.
+
+@34034
+Lord {v01}, abandon {v14} without a fight?
+
+@34035
+Lord {v01}, no officer in {v14} can deploy.
+
+@34036
+Where will the army retreat to?
+
+@34037
+The people are begging us to take them along. Shall we take them?
+
+@34037.1
+The people say they want to come with us{C27}. Shall we take them?
+
+@34038
+The army of {v02} is leaving the people behind and fleeing first.
+
+@34038.1
+{v02}'s army abandoned the people who begged to come and retreated.
+
+@34039
+Let's set fire to the castle so {v02} can't use it.
+
+@34039.1
+This place is key to {v02}'s campaign{C30}. We should burn it first...
+
+@34040
+If this land is to be taken, perhaps I should just burn it...
+
+@34041
+Ah, our castle is burning. Someday I will take this land back, I swear.
+
+@34041.1
+To watch our castle burn... it's painful{C46}. This humiliation... someday...
+
+@34042
+All turned to ash... Just watch{C39}. I'll take this land back{C48}.
+
+@34043
+Lord {v01}, where will you retreat to?
+
+@34044
+Lord {v01}, an envoy has been sent by {v02}.
+
+@34045
+We cannot kill an ally's envoy.
+
+@34046
+No officer can be sent.
+
+@34047
+That would mean fighting an allied realm. I cannot agree.
+

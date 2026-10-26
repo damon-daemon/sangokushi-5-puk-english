@@ -1,0 +1,78 @@
+@40000
+Lord {v01}, we beg you, save us from {v02}'s tyranny!
+
+@40001
+It isn't much, but we have some food stored here. Please make use of it.
+
+@40002
+The attackers' food rose by %u.
+
+@40003
+Welcome! Everyone here stands with {v01}'s army.
+
+@40004
+Your army seems to have many wounded. We will all help care for them.
+
+@40005
+Thanks to the devoted care of the people of {v14}, the wounded recovered.
+
+@40006
+We can think of no lord but Lord {v01}! Get out!
+
+@40007
+The people's resistance dealt the unit heavy damage.
+
+@40008
+We've given up on Lord {v02} and formed a volunteer army to serve Lord {v01}.
+
+@40009
+Please let us join Lord {v01}'s unit.
+
+@40010
+{v01}'s unit's troops increased.
+
+@40011
+{v01} is first in!
+
+@40011.1
+{C3} has taken the castle! Victory is as good as ours{C45}!
+
+@40011.2
+The castle has fallen{C48}! {C65} Look{C39} at their bitter faces!
+
+@40012
+Hehe, the castle is ours! Men, ransack the treasury!
+
+@40013
+Well done, boys! We were first into this castle! Keep it up!
+
+@40014
+From now on I rule this castle! Everyone, raise a victory cry!
+
+@40015
+Ambush which unit? (Stamina needed: 30)
+
+@40016
+Right! We'll get ahead of the enemy unseen, hide and lie in wait.
+
+@40017
+Blast! An ambush in a place like this... Everyone, regroup at once!
+
+@40018
+Heh, naive! I saw that ambush coming!
+
+@40018.1
+Useless{C45}. I'm not one to fall for such petty tricks{C37}.
+
+@40019
+Damage enemies on mountains. Is that all right? (Stamina needed: 50)
+
+@40020
+Now{C45}! Release the earth dam we set on the mountain{C45}!
+
+@40021
+Drop rocks on which unit? (Stamina needed: 30)
+
+@40022
+Give those climbing the walls a rain of rocks!
+

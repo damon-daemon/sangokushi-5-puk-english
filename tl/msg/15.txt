@@ -1,0 +1,171 @@
+@15000
+Not enough gold.
+
+@15001
+There is no city that can do Domestic work.
+
+@15002
+Choose cities for Domestic orders\n(more than one allowed)\nSpirit needed per officer: 30
+
+@15003
+The people worked so hard that {v14} achieved better results than expected.
+
+@15003.1
+The people of {v14} worked so eagerly... Look{C19} at these splendid results.
+
+@15003.2
+The people of {v14} answered {C10}'s benevolent rule{C23}. The results exceeded expectations.
+
+@15004
+Some people ran off from their work, and progress in {v14} has fallen far behind.
+
+@15004.1
+The people of {v14} did nothing but grumble, and the work went slowly{C32}.
+
+@15004.2
+The people of {v14} didn't cooperate, and the results were poor{C48}.
+
+@15004.3
+Perhaps we should win the people's hearts more.
+
+@15005
+The people of the town are celebrating a good harvest and are about to hold a festival.
+
+@15006
+A festival? If we're attacked at a time like this, we're finished. Clear it away at once!
+
+@15006.1
+Festivals are for times of peace. There's no need for such things in a chaotic age.
+
+@15006.2
+If you have time to play like that, work harder!
+
+@15006.3
+Oh? If you have crops enough for a festival, we'll take them as army provisions.
+
+@15007
+The festival is our one small joy, and you'd take even that from us?
+
+@15007.1
+Did you have to take even the crops we set aside for the festival...
+
+@15007.2
+Calm down, everyone. Resisting will only get us hurt. Let's back down quietly.
+
+@15008
+We confiscated %lu of the crops the people had prepared for the festival. They will serve as our army's provisions.
+
+@15009
+Now and then it's good to forget the tension of war and have fun with the people. Hey, let me join in too!
+
+@15009.1
+Ha! This looks fun. Hey, everyone, let me join in too!
+
+@15009.2
+Just watching is no fun. Shall {C0} join in?
+
+@15009.3
+Right, let me join in too.
+
+@15010
+Come in, come in! Let's dance together!
+
+@15010.1
+Well, well! This way, please. Here, have a drink.
+
+@15010.2
+Let's enjoy tonight! There's plenty of wine and food. Please help yourself.
+
+@15010.3
+Look, everyone! This one says they'll drain the whole jug! Drink! Drink! Drink!
+
+@15011
+The festival has begun. Everyone seems to be enjoying it in their own way.
+
+@15011.1
+The festival is at its height. The people's happy faces make you forget this chaotic age... When will true peace come?
+
+@15012
+We would like to hold a festival to celebrate the good harvest. May we?
+
+@15012.1
+This year's harvest was rich and we paid plenty of tax. So we thought we'd hold a festival...
+
+@15012.2
+Since the harvest was so good, we'd like to hold a festival in town, with your permission.
+
+@15013
+Your reputation doesn't seem very good, {C9}. On the next patrol, please give alms...
+
+@15013.1
+All I heard was bad talk about {C9}{C23}. Perhaps you should think of the people's happiness...
+
+@15013.2
+I felt the people's suffering. We should create a place where they can live free of want...
+
+@15014
+The town was full of talk about {C9}.
+
+@15014.1
+Thanks to {C9}'s benevolent rule, the people looked happy.
+
+@15014.2
+The people all looked happy. I hope it becomes a land where everyone can smile{C50}{C56}.
+
+@15015
+The people seem to want vast farmland. There isn't enough development.
+
+@15015.1
+The people seem to struggle with farming. We should put effort into developing the land, I think{C22}.
+
+@15015.2
+There seems to be a problem with development{C23}. We must stress development...
+
+@15016
+The people fear disasters. Perhaps we should do flood control and build a large embankment...
+
+@15016.1
+The people fear floods. I want to put effort into flood control to reassure them{C22}.
+
+@15016.2
+We must do something about flood control... The people seemed to fear typhoons{C48}.
+
+@15017
+The people seem to want a more livable town. Let's put effort into building it up.
+
+@15017.1
+The people seem worried about the low commerce{C48}. We must put more effort into it...
+
+@15017.2
+It seems the town isn't well enough developed{C23}.
+
+@15017.3
+Perhaps the officers in charge should discuss it...
+
+@15018
+The people seemed uneasy about the weakly defended castle. I'd like to do something about it.
+
+@15018.1
+The people looked worriedly at the crumbling walls. Let's repair them soon.
+
+@15018.2
+The people worry about the castle's defense. Why not repair it and make it impregnable?
+
+@15019
+At this rate I'm unfit to rule{C50}. I must think harder about what benevolent rule means{C50}.
+
+@15020
+The people are so happy... Their joy is my joy. There's no greater happiness.
+
+@15021
+Hmm, it seems we must develop the land more. Shall we all discuss it...
+
+@15022
+The people feared natural disasters that much... I want to put their minds at ease{C50}.
+
+@15023
+True, the town as it is now... We should put effort into building it up{C50}.
+
+@15024
+{C0} had a vague sense of it, but to think the people were so uneasy...
+

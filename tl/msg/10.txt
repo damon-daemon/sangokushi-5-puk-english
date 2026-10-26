@@ -1,0 +1,150 @@
+@10000
+Second son of Ma Teng. When Cao Cao summoned his father Ma Teng, he went with him to Xuchang. The plot was exposed, and Cao Cao captured and executed him.
+
+@10001
+Governor of Tianshui in Wei. He drove off the Shu army by Jiang Wei's plan. But Jiang Wei, taken in by Zhuge Liang's scheme, defected, and his subordinate Yin Shang also opened the gate to Shu, so he fled to the Hu.
+
+@10002
+A Wu general. In the pursuit of Guan Yu he led an ambush and captured him. As a reward for this feat he was given Guan Yu's Red Hare, but the horse refused all food and died within days.
+
+@10003
+Third son of Ma Teng. He followed his father to Xuchang with his brother Ma Xiu and others. The plot with Huang Kui was exposed, and he was surrounded by Wei soldiers while fleeing and killed.
+
+@10004
+A Shu general. He guarded Jiangyou, but, already sensing his country's fall, surrendered the city easily to Deng Ai's surprise attack. His wife, Lady Li, ashamed of her husband's deed, killed herself.
+
+@10005
+Left Army Officer of Wu. He recommended Sun He's son Sun Hao as Sun Xiu's successor. After Sun Hao took the throne he became Chancellor, but remonstrated, earned Sun Hao's displeasure, and was killed.
+
+@10006
+A general under Gongsun Yuan. He fought Sima Yi, who led the army against Gongsun Yuan, and lost. He challenged Xiahou Ba to a duel and was felled in a few exchanges.
+
+@10007
+Courtesy name Gongju. A retainer of Liu Zhang, then of Liu Bei. He persuaded Guan Yu, who disliked being ranked with Huang Zhong and Ma Chao. In the first Northern Expedition he stayed in Chengdu as a secretary with Xi Zheng.
+
+@10008
+Courtesy name Xiuyuan. A Shu general, deputy in the campaign to avenge Guan Yu. He besieged the Wu general Sun Huan, but was beaten by Lu Xun's fire attack and killed.
+
+@10009
+A general under Sun Yi of Wu. When Sun Yi was murdered by his own officers, he worked with Sun Yi's wife Lady Xu to kill the true culprits, the two officers including Dai Yuan. For this he was made General of the Gate Banner.
+
+@10010
+Courtesy name Yancai. Army adviser of Wei. When Cao Cao thought of attacking Wu, he said that Wu and Shu were guarded by natural barriers and hard to take by force, and urged him to build up the domestic side.
+
+@10011
+Courtesy name Junyi. A general under Guan Yu, stationed at Gong'an to guard Guan Yu's rear. Attacked by Wu, he surrendered and served Wu. At Yiling he went over to Shu again, but was not forgiven and was executed.
+
+@10012
+A Shu general, son of Fu Tong. In the war with Wei he killed two Wei generals, Li Peng and Wang Zhen. He fought Wei's great army at Yangping Pass, but his deputy Jiang Shu surrendered and he fell in the melee.
+
+@10013
+Courtesy name Gongti. A civil official under Liu Biao. He advised Liu Cong, who succeeded Liu Biao, to surrender to Cao Cao, and was heeded. He later served Cao Cao and was made Marquis Within the Passes.
+
+@10014
+Centurion of the Central Army of Shu. At Yiling he took the rear guard of the fleeing Shu army. He fought a great host with a spear, roaring, "A Han general will never yield to Wu dogs!" and died spitting blood.
+
+@10015
+A general under Kong Rong. At the Battle of Hulao Pass he challenged Lu Bu to a duel. He fought over ten exchanges with an iron hammer, but his arm was cut off, so he dropped the hammer and fled to his own camp.
+
+@10016
+A Yellow Turban who wielded a meteor hammer. Later he served Cao Cao and guarded Qishui Pass. He hid troops at Zhenguo Temple to murder Guan Yu, rushing to Liu Bei, but the monk Pujing informed on him and Bian Xi was cut down.
+
+@10017
+A retainer of Liu Zhang. As Governor of Baxi he guarded against Zhang Lu of Hanzhong. After Liu Bei entered Shu he was promoted and given the post of Military Adviser in Camp.
+
+@10018
+Commandant of the Army at Guiyang under Zhao Fan. Legend says he shot two tigers with his bow. He feigned surrender to Zhao Yun, who attacked Guiyang, but was seen through and beheaded.
+
+@10019
+Courtesy name Ziyuan. Chancellor of Wu. He deliberately ignored Emperor Sun Xiu's last wishes and enthroned the older Sun Hao. He remonstrated against Sun Hao's tyranny, earned his displeasure, and was killed with his whole clan.
+
+@10020
+A general under Liu Zhang and commander guarding Baishui Pass. He plotted to assassinate Liu Bei with his colleague Gao Pei, but the plot was exposed before it could be carried out, and Liu Bei captured and executed him.
+
+@10021
+Governor of Jianning. He rebelled against Shu in league with Meng Huo. Zhuge Liang's plan set him at odds with Gao Ding, Governor of Yuesui, and he was finally killed by Gao Ding's officer E Huan, ending the rebellion.
+
+@10022
+Jin General Who Conquers the Army. On the orders of Du Yu, Commander of Jingzhou, he was stationed at Xiangyang and oversaw the troops across Jingzhou.
+
+@10023
+One of Han Sui's "Eight Banner Riders." He was an envoy seeking peace with Cao Cao, then an envoy to surrender when Han Sui fell out with Ma Chao. After Ma Chao fled he was made a marquis.
+
+@10024
+An adviser of Zhang Lu, a greedy petty man with an eye for gold and treasure. He took bribes from the enemy to isolate Ma Chao and turned Pang De against him. Cao Cao later executed him for "selling his lord."
+
+@10025
+A general under Gongsun Yuan. With Bei Yan he led 80,000 men as vanguard. He met Sima Yi with a war of attrition but was lured out by Sima Yi's trick, badly beaten, and ran around in flight.
+
+@10026
+Minister of Education of the Later Han, later Grand Commandant. He advised the wandering Emperor Xian to rely on Cao Cao. Jailed as a relative of Yuan Shu, he was saved when Kong Rong remonstrated with Cao Cao.
+
+@10027
+A general under Yuan Shu. Giving up on Yuan Shu, who had taken the throne and lived in luxury, he withdrew to Mt. Song with Chen Lan and became a bandit. Later he attacked the defeated Yuan Shu and robbed him of his valuables.
+
+@10028
+Courtesy name Gongxu. A native of Wushang in Kuaiji. A staff officer of Sun Quan, widely known for his filial devotion to his stepmother and his simple life. He tried to debate Zhuge Liang in Wu, but Huang Gai stopped him.
+
+@10029
+Son of Liu Du, Governor of Lingling. He fought Liu Bei's army, could not win and was taken alive by Zhang Fei. He was freed on condition that he persuade his father, kept his promise and surrendered, so he was forgiven and served Liu Bei.
+
+@10030
+Inspector of Yanzhou. He joined the campaign against Dong Zhuo as the fourth army. Later he submitted to Cao Cao and marched against Liu Bei in Xuzhou, but lost. He was forgiven on condition that Liu Bei would intercede with Cao Cao for him.
+
+@10031
+Courtesy name Zichu. A staff officer of Liu Zhang. Right after Liu Bei entered Shu, out of loyalty to Liu Zhang he would not serve. After Liu Bei visited him in person he took office, and later joined the Northern Expedition.
+
+@10032
+A Wu general. He guarded the right castle of Dongxing. When the great army of the Wei general Hu Zun attacked, he held it to the death with few men, and kept it magnificently until Ding Feng's relief arrived.
+
+@10033
+A general under Yuan Shao. As one of General Chunyu Qiong's deputies he guarded the grain depot at Wuchao, but while Chunyu Qiong was drunk Cao Cao's army attacked by surprise. This blunder led to the defeat at Guandu.
+
+@10034
+One of Han Sui's "Eight Banner Riders." When Ma Chao, taken in by Jia Xu's scheme of discord, attacked the camp, he fought back but was cut down in an instant.
+
+@10035
+A retainer of Liu Zhang, much used even after Liu Bei entered Shu. In the Northern Expedition he served as deputy of the rear army, fighting as deputy to Li Hui.
+
+@10036
+Courtesy name Zike. Recommended by Liu Ye together with Man Chong, he served Cao Cao and was made Colonel. He mostly led an army as reserve and took part in many battles.
+
+@10037
+A general under Yuan Shang and younger brother of Lu Kuang, always acting with his brother. Later he served Cao Cao under Cao Ren. He attacked Liu Bei at Xinye with his brother and was felled by Zhang Fei in one exchange.
+
+@10038
+Courtesy name Gongji. A kinsman of Lu Xun, skilled in the Book of Changes and the calendar. As a child, at an audience with Yuan Shu, he is said to have tucked away a tangerine he was served to give to his mother.
+
+@10039
+A Wei general. He guarded the Great Wall under Sima Wang. In the war with Shu he tried to save his colleague Wang Zhen, but the Shu general Fu Qian turned and struck him with an iron fan, knocking him from his horse, and he died.
+
+@10040
+A Shu official, son of Li Yan. When his father Li Yan was dismissed for failing in food supply, he was made Chief Clerk in his place and worked on stockpiling provisions.
+
+@10041
+Adviser to Gongsun Yuan. He was beheaded for remonstrating when Gongsun Yuan meant to rebel. Later Sima Yi, who put down Gongsun Yuan, gave his descendants a title.
+
+@10042
+A physician, courtesy name Yuanhua (Yuanfang). A legendary doctor of extraordinary skill in pharmacology and acupuncture. He is said to have operated using an anesthetic called mafeisan, and the people called him the "Divine Doctor."
+
+@10043
+A scholar, courtesy name Decao, known as Master Water Mirror. A noted man of Xiangyang, he taught Zhuge Liang, Pang Tong and Xu Shu. He told Liu Bei, who had crossed the Tan Stream to escape, of the Sleeping Dragon and the Young Phoenix.
+
+@10044
+A physiognomist; his name was Shao, Zijiang his courtesy name. Born in Runan, the foremost critic of men of his day. He said of the young Cao Cao: "A capable minister in peace, a treacherous hero in chaos." Cousin of the Shu official Xu Jing.
+
+@10045
+A Taoist. He cured the sick around Wu and Kuaiji and drew a following. Sun Ce, then ruling Wu Commandery, had him killed for misleading the people. He owned a book called the "Scripture of Great Peace."
+
+@10046
+A sorcerer, courtesy name Yuanfang, Taoist name Master Black Horn. He trained on Mt. Emei and obtained the "Heavenly Book of Dunjia." He appeared at Cao Cao's banquet, showed various illusions, and left at leisure.
+
+@10047
+A diviner, courtesy name Gongming. Versed in astronomy and the Book of Changes, he could read people's fates. Summoned by Cao Cao, he foretold the Shu offensive, Lu Su's death from illness and the fire at Xuchang.
+
+@10048
+A hermit. He lived on Mt. Jinping at Chengdu and was said to see through life, death and rank. At the request of Liu Gui, Zhang Ren and others he gave them an eight-line text foretelling Pang Tong's death and Zhuge Liang's entry into Shu.
+
+@10049
+An immortal, an old man with blue eyes and a child's face who walked with a goosefoot staff. He gave Zhang Jiao, gathering herbs on a mountain, the "Book of the Essentials of Great Peace," saying, "Spread the teaching in place of Heaven."
+

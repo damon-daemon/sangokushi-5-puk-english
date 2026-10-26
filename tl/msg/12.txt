@@ -1,0 +1,420 @@
+@12000
+Zhang Secret Art: "Whirlwind Fang"
+
+@12000.2
+Guan Secret Art: "Demon Beard Slash"
+
+@12000.5
+Zhao Secret Art: "Exploding Dragon"
+
+@12000.8
+Gan Secret Art: "Black Shark of the Sea"
+
+@12000.9
+Uoooraaaaah!
+
+@12000.10
+Here I come!! Eeeyaaaah!
+
+@12000.11
+Seeyaaaaaaaah!
+
+@12000.12
+Take my all-out blow! Haaaaaah!
+
+@12000.13
+This blow ends it!
+
+@12000.14
+See through this move if you can!
+
+@12000.15
+To think I'd use this on the likes of you! Take it!
+
+@12000.16
+Here we goooooo!
+
+@12001.9
+Super Deadly Thrust
+
+@12002
+Zhang Style: "Endless Wolf Fang"
+
+@12002.2
+Guan Style: "Gale Flash"
+
+@12002.5
+Zhao Style: "Dark Wind"
+
+@12002.8
+Gan Style: "Pirate's Hundred Thrusts"
+
+@12002.9
+Hyahyahyahyahyahya!
+
+@12002.10
+Can't dodge these thrusts? I can strike a hundred times in the blink of an eye!
+
+@12002.11
+You can't even see these lightning thrusts.
+
+@12002.12
+Lost the will to fight{C47}? You're wide open! Ora, ora, ora!
+
+@12002.13
+This is the end{C45}! Take this to the grave{C58}!
+
+@12002.14
+To think I'd have to use this... Don't hold it against me when you die!
+
+@12003.9
+Deadly Rapid Thrusts, hya!
+
+@12004
+Zhang Style: "Dragon Sky Dance"
+
+@12004.2
+Guan Style: "Rakshasa Slash"
+
+@12004.5
+Zhao Style: "Flying Hawk"
+
+@12004.8
+Gan Style: "Blood Vortex"
+
+@12004.9
+Duoooraaaaah!
+
+@12004.10
+Tooooraaaah! My all-out blow! Take it!
+
+@12004.11
+Iyaaaaaaaah!
+
+@12005
+Take this blow of fury! Sooooraaaah!
+
+@12005.1
+Getting cocky! Dodge this!! Raaaaaah!
+
+@12005.2
+Don't mess with me! I'll kill you!
+
+@12005.3
+Don't underestimate meeeee! Uoooooooh!
+
+@12005.4
+It's your fault for angering me{C45}! Regret it{C39}!
+
+@12006
+Behold my archery! Can you dodge it?
+
+@12006.1
+Take my arrow! Haah!
+
+@12006.2
+Now{C45}! You can't dodge this.
+
+@12007
+No one surpasses Huang Zhong at archery! Take this!
+
+@12008
+Fell for it! Can you dodge this?
+
+@12008.1
+You chased too far! Take this!
+
+@12008.2
+I fled on purpose for this! Take my arrow!
+
+@12009
+This was my plan too! Take Huang Zhong's arrow that threads a needle!
+
+@12010
+Running is useless. You'll only feed my arrows!
+
+@12010.1
+Coward! My arrows will feast on you! Die!
+
+@12010.2
+You won't escape! I'll skewer you! Diiiie!
+
+@12011
+Running away! Huang Zhong's arrows won't let you escape!
+
+@12012
+As if I couldn't dodge such a feeble arrow!
+
+@12012.1
+I saw through that cheap trick.
+
+@12012.2
+How dare you! Did you think an arrow like that could fell {C2}?
+
+@12013
+Take this, then!
+
+@12013.1
+Behold my dagger-throwing skill.
+
+@12013.2
+Lord {v02}, can you dodge this{C52}?
+
+@12013.3
+Strike first and win! Now{C45}!
+
+@12014
+Take Dian Wei's never-missing short halberds!
+
+@12015
+Coward, I won't forgive you!
+
+@12015.1
+Such tricks... You won't leave alive{C57}{C48}!
+
+@12015.2
+A petty trick{C50}{C56}. But the duel is just beginning{C45}!
+
+@12015.3
+Blast, I was careless! Grr, I'll kill you!
+
+@12016
+Did you think a trick like that would work on me?
+
+@12016.1
+Clever{C50}{C56}. But it's useless against me{C44}.
+
+@12016.2
+{C65} Did you think {C2} couldn't dodge that{C57}{C47}?
+
+@12016.3
+Trying to beat {C3} with that? You really underestimate me.
+
+@12017
+An opening!! Hah!
+
+@12017.1
+How long will you flail about{C45}? {C2} won't wait{C48}! Here I come, hyah!
+
+@12017.2
+Wide open{C54}! Hyaah!
+
+@12017.3
+I've waited for this moment{C48}... this one opening...
+
+@12017.4
+Fool... I've already seen through your technique.
+
+@12018
+I'll leave the rest to you.
+
+@12018.1
+Good timing{C50}{C56}. I'm counting on you{C48}.
+
+@12018.2
+You came to help{C44}. That one's quite skilled{C45}. Be careful{C46}.
+
+@12018.3
+I'm counting on you{C48}. Now's your turn{C45}!
+
+@12018.4
+Oh, it's you! I owe you one{C50}{C56}. Drinks are on me later.
+
+@12019
+Now you face me!
+
+@12019.1
+You're not bad. Now {C3} will be your opponent.
+
+@12019.2
+I have long wanted to cross blades with a {C12} like you. I am {C3}!
+
+@12019.3
+I've been watching for a while. You're quite good. But it won't work on me!
+
+@12019.4
+My name is {C3}! I'll lend a hand{C33}!
+
+@12020
+Zhang Ultimate Art: "Doom Thunder"
+
+@12020.2
+Guan Ultimate Art: "Storm Conqueror"
+
+@12020.5
+Grand Illusion: Summon the "Thunder Emperor"
+
+@12020.6
+Feather Fan: "Dance of Summoned Thunder"
+
+@12020.7
+Zhao Ultimate Art: "Roaring Thunder"
+
+@12020.10
+Gan Ultimate Art: "Raging Thunder"
+
+@12020.11
+My fighting spirit calls the thunder!
+
+@12020.12
+Here I come!! Eeeyaaaah!
+
+@12020.13
+Thunder! Coooome!
+
+@12020.14
+Take the thunder of my wrath! Haaaaaah!
+
+@12020.15
+This is the end{C45}! Here we goooo!
+
+@12021.11
+Deadly Lightning Counter
+
+@12022
+Someday I'll settle this, I swear.
+
+@12022.1
+We'll call this a draw for now{C55}.
+
+@12022.2
+At this rate it won't be settled in a hundred years{C57}.
+
+@12022.3
+This is going nowhere{C57}.
+
+@12022.4
+We'll settle this another day.
+
+@12023
+It's been ages since I met a real man!
+
+@12023.1
+Not bad! It's been ages since I met a man as strong as {C11}!
+
+@12023.2
+If we live, let's meet again.
+
+@12024
+{v02}... It's a waste that she is a woman.
+
+@12024.1
+A draw... Going easy because she's a woman was a mistake.
+
+@12024.2
+{v02}, a tough opponent. I've fallen for her.
+
+@12025
+I'll remember your name.
+
+@12025.1
+I'll remember the name {v02}{C48}.
+
+@12025.2
+Next time we meet, I'll be serious.
+
+@12025.3
+Next time, the win goes to me{C54}.
+
+@12025.4
+{v02}, was it? I won't forget that face{C57}{C55}.
+
+@12025.5
+All this fighting and still no winner... I won't forget that face{C57}{C55}.
+
+@12026
+Next time, I'll show no mercy{C57}{C48}.
+
+@12026.1
+Next time I'll show no mercy. Be ready.
+
+@12027
+In this chaotic age, whining gets you nowhere. Be ready.
+
+@12027.1
+Let us both stay loyal to our lords.
+
+@12027.2
+Never show yourself before me again.
+
+@12028
+Next time, I'll show no mercy{C57}{C48}.
+
+@12028.1
+Next time I'll show no mercy. Be ready.
+
+@12029
+In this chaotic age, whining gets you nowhere. Be ready.
+
+@12029.2
+Never show yourself before me again.
+
+@12031
+Let us fight again somewhere someday.
+
+@12031.1
+Next time I won't hold back.
+
+@12031.2
+Next time, even if you're my {C13}, I'll show no mercy. Be ready.
+
+@12032
+Next time I won't lose.
+
+@12032.1
+Even though you're my {C14}, I won't go easy next time.
+
+@12032.2
+It was a draw this time, but next time I'll surpass my {C14}.
+
+@12033
+I never want to fight again.
+
+@12033.1
+Never appear before me again.
+
+@12033.2
+Why did it come to this... Never appear before me again.
+
+@12034
+Next time I'll settle this for sure.
+
+@12034.1
+We'll call it a draw until next time.
+
+@12034.2
+Next time we meet, I'll settle this for sure.
+
+@12036
+I don't want to fight you anymore.
+
+@12036.1
+You're the one who should be ready.
+
+@12036.2
+I'll spare your life until next time.
+
+@12037
+What are you saying? This time I'll win!
+
+@12037.1
+Next time I'll show you my true strength!
+
+@12037.2
+Damn it... Next time...
+
+@12038
+Stop raising your blade against me.
+
+@12038.1
+Haven't we had enough?
+
+@12038.2
+Why must we fight...
+
+@12039.1
+We'll call it a draw until next time.
+
+@12039.2
+Next time I'll settle this. Be ready.
+

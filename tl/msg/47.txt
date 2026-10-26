@@ -1,0 +1,276 @@
+@47000
+...
+
+@47001
+In the castle of {v14}
+
+@47002
+As you wish.
+
+@47003
+Just so.
+
+@47004
+Lord Cao Cao, I have news. A "Bronze Sparrow" has been unearthed in Ji.
+
+@47005
+This is the "Bronze Sparrow".
+
+@47006
+A sparrow carved of bronze was presented to Cao Cao.
+
+@47007
+Oh, this is a fine piece... What a lovely dull sheen it has.
+
+@47008
+If I may, my lord, I believe this bronze sparrow is an auspicious omen.
+
+@47009
+Why is that, {v01}? Explain.
+
+@47010
+It concerns the birth of Shun, the sage king of old.
+
+@47011
+His mother dreamed a jade sparrow flew into her bosom, and then bore Shun.
+
+@47012
+Your obtaining this bronze sparrow is an omen to rival that of King Shun.
+
+@47013
+Oh, is that so? Then I will build a high terrace at Ye Castle in Ji Province to honor this omen.
+
+@47014
+Building the terrace will take about 3 years and 10000 gold...
+
+@47015
+Build the Bronze Sparrow Terrace?
+
+@47016
+Build a grand terrace, one worthy of me, Cao Cao! Hahaha!
+
+@47017
+Building the terrace costs that much?
+
+@47018
+Hmm, we will not build it. It is better to spend the money on the people or the army.
+
+@47019
+Lord Cao Cao, I have bad news.
+
+@47020
+Ye is no longer under our control, so construction of the Bronze Sparrow Terrace has been canceled.
+
+@47021
+Lord Cao Cao, I have news.
+
+@47022
+The Bronze Sparrow Terrace, long under construction, is finally complete.
+
+@47023
+Oh, the Bronze Sparrow Terrace is finished at last?
+
+@47024
+Yes, yes. This is a fit place to spend my last years.
+
+@47025
+Right, a feast! Let us drink till dawn to celebrate the terrace!
+
+@47026
+A grand feast was held for all officials to celebrate the terrace's completion.
+
+@47027
+Twenty-odd years since the Yellow Turbans... Unification of the land no longer seems far off.
+
+@47028
+When peace has come, I want to spend my remaining days at ease on this terrace.
+
+@47029
+The Bronze Sparrow Terrace is complete at Ye. It will prosper all the more.
+
+@47030
+Lord Cao Cao, our spies say Liu Bei has gained a very capable Strategist.
+
+@47031
+Liu Bei has a Strategist, you say? And who might this Strategist be?
+
+@47032
+Liu Bei's Strategist is Xu Shu, styled Yuanzhi.
+
+@47033
+{v02}, you know of Xu Shu, then? Tell me more.
+
+@47034
+Xu Shu was once a swordsman, but for certain reasons turned to scholarship.
+
+@47035
+He is a strategist fit to aid a king, one of the wisest in the land.
+
+@47036
+And how does this Xu Shu's talent compare to yours?
+
+@47037
+I would say he is at least ten times my equal.
+
+@47038
+What a pity. We have given wings to that tiger, Liu Bei.
+
+@47039
+I have a plan to win Xu Shu over.
+
+@47040
+Xu Shu is a devoted son. We use his mother, who lives in Xuchang.
+
+@47041
+Send Xu Shu a forged letter from his mother, urging him to come to Xuchang.
+
+@47042
+Take {v02}'s advice and try to win Xu Shu over?
+
+@47043
+Good, a clever plan. Send the forged letter at once.
+
+@47044
+Fool! Do you think I, who walk the kingly path, would stoop to such base tricks?!
+
+@47045
+Enough. Leave the matter of Xu Shu for now.
+
+@47046
+Lord Liu Bei... I have come to take my leave. Please forgive me.
+
+@47047
+What did you say? Lord Xu Shu, what has happened?
+
+@47048
+A letter came from Xuchang. It says my mother has been seized by Cao Cao.
+
+@47049
+If I do not go to my mother now, I will stray from the path of filial duty.
+
+@47050
+I beg you, allow me to go to Xuchang.
+
+@47051
+Dismiss Xu Shu and send him to Cao Cao?
+
+@47052
+Devotion makes true parent and child. Go without regret, Strategist.
+
+@47053
+Thank you, my lord. I swear I will never lend my plans to Cao Cao.
+
+@47054
+Before I go, let me recommend someone fit to be your right hand.
+
+@47055
+A schoolmate of mine is a man named Zhuge Liang.
+
+@47056
+He lives on Wolong Ridge in Nanyang. He truly has the talent to aid a king.
+
+@47057
+If you can win his help, the Han can surely be restored.
+
+@47058
+Zhuge Liang of Wolong Ridge... Could he be the sage called "Sleeping Dragon"?
+
+@47059
+If he is the "Sleeping Dragon," then are you the "Fledgling Phoenix"?
+
+@47060
+Not at all. The Phoenix is Pang Shiyuan, who is also a sage.
+
+@47061
+Today, at last, I have learned the names of the Dragon and the Phoenix.
+
+@47062
+Without your teaching, Lord Xu Shu, I would never have noticed.
+
+@47063
+Then farewell. May you stay in good health, Lord Liu Bei.
+
+@47064
+Xu Shu has left Liu Bei.
+
+@47065
+Lord Cao Cao, Lord Xu Shu has come from Xinye.
+
+@47066
+Welcome. Now, why did you serve a man like Liu Bei?
+
+@47067
+I met Liu Bei on my travels. We hit it off, and I served as his aide.
+
+@47068
+I see... From now on, serve here as my right hand.
+
+@47069
+But learning of her son's folly, Xu Shu's mother took her own life.
+
+@47070
+Ah, Mother... I, Yuanzhi, have been so blind.
+
+@47071
+Liu Bei did not let Xu Shu go.
+
+@47072
+Xu Shu did not come. It seems they saw through our scheme.
+
+@47073
+It was a fine plan, but it can't be helped.
+
+@47074
+Lord {v01}, I have devised a new law. Please have a look.
+
+@47075
+A new law, is it? ..."The Nine Ranks System"?
+
+@47076
+Under the Han system, rank was shown by the size of one's salary.
+
+@47077
+But this Nine Ranks System shows the rank of an office by grades one to nine.
+
+@47078
+So what matters is not the salary but the rank of the office itself.
+
+@47079
+Hmm, I see. I leave its running to you.
+
+@47080
+In Jian'an 25 (AD 220), the Nine Ranks System was enacted on Chen Qun's proposal.
+
+@47081
+With this law, Wei built a new system of government.
+
+@47082
+Lord Jiang Wei now leads the army, but Chang'an has yet to fall.
+
+@47083
+This cannot go on. We must do something, I believe.
+
+@47084
+Then what should We do?
+
+@47085
+Let Yan Yu replace him. Then Chang'an will soon be ours.
+
+@47086
+Oh, oh, is that so? Then arrange it. We are bad at thinking...
+
+@47087
+Untalented though I am, I think I can do better than Jiang Wei. Heh heh.
+
+@47088
+Why has His Majesty called me back to Chengdu? And Yan Yu is to replace me!
+
+@47089
+This is Huang Hao's doing. That eunuch, meddling in affairs of state!
+
+@47090
+Yan Yu can't hold the front. If they come crying later, it's not my problem.
+
+@47091
+The governor of Tianshui has been changed from Jiang Wei to Yan Yu.
+

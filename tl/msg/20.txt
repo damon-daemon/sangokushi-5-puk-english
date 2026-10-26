@@ -1,0 +1,528 @@
+@20000
+Lord {v01}, will you recruit this person?
+
+@20001
+Lord {v01}, the agreed term has passed, and our alliance with {v02} has ended.
+
+@20002
+Lord {v02}, {v01}, our agent in {v14}, has returned.
+
+@20003
+Lord {v02}, {v01}, our agent in {v14}, has returned. It seems they failed to get recruited.
+
+@20004
+Lord {v02}, {v01}, our agent in {v14}, has returned.
+
+@20005
+Lord {v02}, {v14} is now ungoverned, so our agent {v01} has returned.
+
+@20006
+Lord {v02}, {v01}, our agent in {v14}, has returned. It seems the plot was discovered.
+
+@20007
+Lord {v01}, {v02} has seized our city of {v14} and declared independence!
+
+@20008
+It seems {v02} has seized {v01}'s city of {v14} and declared independence.
+
+@20010
+I must spread the teachings in Heaven's stead. Farewell!
+
+@20010.1
+I shall vanish like a fresh breeze. Ha, ha, ha...
+
+@20010.2
+I miss the mountains. The capital is a bit much for me.
+
+@20011
+I miss Mount Jinping... Shall I go home...
+
+@20011.1
+Oh dear, oh dear. I forgot I told my boy I'd be right back.
+
+@20011.2
+Ah, Mount Jinping is calling me. Why, it says I should come home.
+
+@20012
+Phew, I've grown tired of life here. Perhaps I'll go traveling.
+
+@20012.1
+I don't care for my current work. Farewell!
+
+@20012.2
+Life in the mundane world doesn't suit me. Perhaps I'll go somewhere.
+
+@20013
+Time to go home, time to go home.
+
+@20013.1
+The talented shouldn't serve the ordinary. Where is a hero worth serving?
+
+@20013.2
+My day is past. Perhaps I'll quietly retire.
+
+@20014
+I wish to meet many people and judge their character. Please allow me to set out.
+
+@20014.1
+This life doesn't suit someone like me. Sadly, we must part.
+
+@20014.2
+I've seen everyone here. I'd like to judge people in other lands.
+
+@20015
+You've been very kind. Well, it's time I went back to the mountains.
+
+@20015.1
+It's been a while since I rode my crane somewhere. Well, take care.
+
+@20015.2
+I wish to hone my mystic arts in the mountains a while. Excuse me. Farewell!
+
+@20016
+Many people need my powers. I'm sorry, but today we part.
+
+@20016.1
+I'll travel with my art of a thousand leagues. I hope we meet again. Bye now.
+
+@20016.2
+Oh, what's this... Old Chen is calling me. Well then, farewell!
+
+@20017
+Healing as many people as I can is my life's purpose. Please allow me to set out.
+
+@20017.1
+I'm thinking of traveling a while to search for herbs. I hope we meet again.
+
+@20017.2
+If I listen, I can hear people suffering. It's time for me to go.
+
+@20018
+I can follow Lord {v02} no longer. Farewell.
+
+@20018.1
+Lord {v02} and I see things differently{C50}{C56}. Take care...
+
+@20018.2
+Lord {v02}, I have reasons to go traveling{C22}. Thank you for everything...
+
+@20019
+Lord {v02}, sadly we cannot get along. We will not meet again.
+
+@20019.1
+I've had enough of Lord {v02}{C57}. Farewell...
+
+@20019.2
+To clash so with Lord {v02}{C57}... I no longer wish to serve...
+
+@20020
+When I revealed my true colors to {v02}, they said they wished to fight alongside us.
+
+@20020.1
+I explained our just cause to {v02}, who agreed and promised to defect.
+
+@20020.2
+When I persuaded {v02}, they said they'd bear the shame of rebellion for the people's sake.
+
+@20021
+Wei Yan has the look of a rebel. Sure enough, when I persuaded him, he agreed to betray his lord.
+
+@20022
+I wish to arrange an uprising with people who can no longer bear tyranny.
+
+@20022.1
+I tried to stir up people who admire {C9}; they seem ready to cause trouble.
+
+@20022.2
+I stirred up people unhappy with this realm, and they seem willing to rise up for us.
+
+@20023
+Arrange an uprising with these people?
+
+@20024
+The revolt plot in {v14} was discovered and everyone involved was arrested.
+
+@20024.1
+Since our army didn't attack, the people of {v14} lost heart and called off the uprising.
+
+@20024.2
+The people of {v14} began to waver and say they'll no longer rise up for us.
+
+@20025
+Because we were slow to march on {v14}, the revolt was discovered and the scheme failed.
+
+@20026
+Lord {v02} thinks we broke our promise and has called off the preparations for war.
+
+@20026.1
+A messenger from Lord {v02} says they'll call it off if we don't intend to attack.
+
+@20026.2
+The time for our joint operation has passed{C48}. Ah, what a waste...
+
+@20027
+Because we didn't attack in time, the joint operation with Lord {v01} was called off.
+
+@20028
+It seems {v02} has had a change of heart. I doubt they'll defect in battle now...
+
+@20028.1
+Since our army hasn't attacked, {v02} grew anxious and gave up on defecting.
+
+@20028.2
+{v02} came under suspicion and seems to have reconsidered betrayal{C23}.
+
+@20029
+Angry that we broke our promise, {v01} no longer wishes to defect. The Turncoat scheme must be redone.
+
+@20030
+I'm sorry to have worried you so long. I'm fully recovered now.
+
+@20030.1
+Thank you for visiting me. I can't thank you enough. Thanks to you, I'm well again...
+
+@20030.2
+I've finally recovered. It reminded me how precious good health is.
+
+@20031
+Sorry to worry you all, but I'm fine now{C45}. I'm counting on you again{C48}.
+
+@20032
+In the hands of the famous doctor Hua Tuo, any illness or wound heals at once.
+
+@20032.1
+I am Hua Tuo, the famous doctor. There is no illness or wound I cannot treat.
+
+@20032.2
+My secret medicine has cured you.
+
+@20033
+I followed the Green Bag Book and the patient recovered as if by magic. It's a miracle...
+
+@20033.1
+I'd been studying the Green Bag Book, so I could treat them. Reading matters{C23}.
+
+@20033.2
+The Green Bag Book is wonderful. It describes cures for every illness.
+
+@20034
+With the Green Bag Book, illness and wounds heal at once. A handy thing.
+
+@20035
+Thanks to {v01}, everyone is healthy again.
+
+@20036
+{v03} has been acting strangely, {C9}. Could they be a planted agent?
+
+@20036.1
+I found this letter in {v03}'s room... Could that one be a planted agent?
+
+@20036.2
+I threatened the servant who came and went from {v03}'s room, and he confessed they're an agent.
+
+@20037
+Huang Gai, you think your self-torture ruse fools me, but you can't deceive my eyes. You are the planted poison!
+
+@20038
+Thanks to this Way of Great Peace, everyone recovered. I'm glad I had it.
+
+@20038.1
+It wasn't {C0} who healed them, but the Way of Great Peace. A truly miraculous book...
+
+@20038.2
+How wonderful, the Way of Great Peace. With it, we can save many who suffer from illness.
+
+@20039
+With this Way of Great Peace, I can heal the illnesses and wounds of all the people. That is my destiny...
+
+@20040
+An epidemic is spreading in {v14}, and even {v02} has fallen ill.
+
+@20040.1
+A deadly plague is spreading in {v14}; {v02} caught it and is suffering{C27}.
+
+@20040.2
+{v02} of {v14} is gravely ill{C23}. {C0} will go to visit at once...
+
+@20041
+{v01} takes {v14}! If you object, come and fight!
+
+@20041.1
+The castle guard is thin... I've waited for this moment. {v14} is mine{C55}!
+
+@20041.2
+A chance! Heaven wills it! {C0} will rule {v14}!
+
+@20042
+Don't think I'll stay content under another forever! {v14} is mine!
+
+@20042.1
+Born into an age of chaos... With {v14} as my base, I too will become a warlord!
+
+@20042.2
+Now is my once-in-a-lifetime chance! {v14} belongs to {C3} now{C55}!
+
+@20043
+I wish to win glory under Lord {v02} and return home in triumph. Take me into your service!
+
+@20043.1
+I wish to put the skills I've honed to use{C22}. Please, take me into your service...
+
+@20043.2
+I wish to make this world a peaceful one{C22}. Let me join your ranks{C19}.
+
+@20043.3
+Lord {v02} truly has the makings of a ruler. You are the one {C0} have been seeking{C23}.
+
+@20043.4
+I came to test my skill. Take me into your service{C19}!
+
+@20044
+I've studied the martial arts since childhood. I wish to win glory in battle.
+
+@20044.1
+Strength that shatters rocks... I'll put it to use for Lord {v02}.
+
+@20045
+I have read Sun Tzu and studied the art of war. I am confident commanding troops{C21}.
+
+@20046
+I have traveled many lands and learned their ways. I wish to be of use in this realm{C22}.
+
+@20047
+"Repay even a single meal." If you'll feed me well, I'll lend you my strength{C33}.
+
+@20048
+You'd do well to recruit me. Very well indeed.
+
+@20049
+I will do my utmost to live up to your hopes.
+
+@20049.1
+I will serve you for life, {C9}, and swear my loyalty.
+
+@20049.2
+I entrust my life to {C9}{C33}. Use me as you see fit{C19}.
+
+@20050
+I'll fight like a raging lion and sweep away every foe who stands against {C9}.
+
+@20050.1
+My spear will brush aside any sparks that fall on {C9}. Rest easy...
+
+@20050.2
+I'll make myself a shield to protect {C9}. Expect great things of me{C19}.
+
+@20051
+My ever-changing schemes will serve {C9}.
+
+@20051.1
+Whatever plots the enemy may have, my wits will surely see through them.
+
+@20051.2
+My strategy will surely lead {C9} to victory.
+
+@20052
+My talents will build a realm on firm foundations, one nothing can shake.
+
+@20052.1
+Drawing on policies I've seen in many lands, I wish to give this realm the finest government{C22}.
+
+@20052.2
+I may not shine on the battlefield{C32}, but in domestic affairs I'm second to none{C32}.
+
+@20053
+Very good, very good. I'll work for the good of all the people.
+
+@20054
+I gratefully accept. I promise to live up to everyone's hopes.
+
+@20054.1
+Oh, I'll take it{C55}! Everyone, let's drink tonight! Ha, what fun!
+
+@20054.2
+All this for me... I'm grateful. I know, let's hold a festival in town with this money{C20}!
+
+@20055
+Thanks to Lord {v01}, we can live in peace. It's not much, but please accept this.
+
+@20056
+Lord {v01}, please keep protecting us.
+
+@20057
+The people have come to offer gold and food to Lord {v01}. It's the fruit of your good rule.
+
+@20058
+Thanks to the people, the storehouse gained %u gold and %u food. It's all Lord {v01}'s virtue.
+
+@20059
+Lord {v01}, people from {v14} in {v02}'s lands ask to see you, saying they have a grievance. Will you meet them?
+
+@20060
+The people of {v14} seem to have promised to rise up for our army. We should act as soon as we can.
+
+@20061
+We can no longer bear {v01}'s misrule.
+
+@20061.1
+Please drive {v01}'s army out of our town.
+
+@20061.2
+We can no longer do {v01}'s bidding. Please help us.
+
+@20062
+If Lord {v01}'s army marches on us, we will surely rise up from within.
+
+@20063
+There are no officers defending the castle of {v14}.
+
+@20063.1
+The castle of {v14} is empty right now.
+
+@20063.2
+There are no officers defending the castle of {v14}.
+
+@20064
+Don't miss this chance. Please march on us; we will surely rise up.
+
+@20064.1
+We judged you rightly. We'll make the arrangements, so we'll take our leave.
+
+@20065
+To let such a chance slip... you have no foresight...
+
+@20065.1
+We were sure you'd give us a good answer...
+
+@20066
+Promise the people to incite an uprising?
+
+@20067
+The people went home disappointed.
+
+@20067.1
+The people went home with their shoulders slumped.
+
+@20068
+Report: a giant star has fallen. {v01} has died, and the bereaved family is grieving.
+
+@20069
+{v01} has inherited the fallen hero's spirit. All the senior retainers strive to support their new lord.
+
+@20070
+The realm of {v01} has fallen. For all the power it boasted, how fleeting it was.
+
+@20071
+Select {v01}'s successor.
+
+@20072
+Change the successor?
+
+@20073
+Lord {v02}, {v01}, our agent in {v14}, has betrayed you and become a ruler!
+
+@20074
+Lord {v01}, the joint research was called off.
+
+@20075
+Lord {v01}, the "%s" is complete!
+
+@20076
+This is a problem{C50}. Our late lord has no heir... {v02}, what shall we do?
+
+@20077
+Lord {v01}, then... In virtue and popularity there's no one better, but...
+
+@20078
+I worry it might go against our late lord's wishes{C46}. That alone troubles me{C45}.
+
+@20079
+I see, so that's it... Then there's no need to worry{C37}. Let us visit Lord {v02} at once.
+
+@20080
+Yes, it concerns the succession... Our late lord left no heir from his family{C32}.
+
+@20081
+Thank you for accepting. Then we'll return home at once and make preparations.
+
+@20082
+I see. How disappointing{C23}. Ah, what shall we do now...
+
+@20083
+I beg you, please reconsider. You are the only one.
+
+@20084
+You still refuse? Then...
+
+@20085
+Let me go! At this rate we can only await ruin. I'll die and apologize to our late lord!
+
+@20086
+Hmm... What if we entrust it to Lord {v01}, who was close to our lord in life?
+
+@20087
+But what?
+
+@20088
+Then it's fine{C45}. Our lord often said this to me:
+
+@20089
+"I would like someone like Lord {v01} to inherit this realm."
+
+@20090
+Yes, strike while the iron is hot{C45}. Let's go.
+
+@20091
+And so we have come to ask Lord {v01} to take our realm. Will you accept?
+
+@20092
+I thought one such as they would decline at least once, but... well, they're only human.
+
+@20093
+Now, don't despair, {v02}. If it comes to this, {C4} will manage somehow.
+
+@20094
+Then please accept. This is not only our wish, but the people's as well.
+
+@20095
+Now we can rest easy{C44}. From now on, we'll serve you, {C9}, as loyally as our late lord.
+
+@20096
+This was truly a great loss. You have my deepest condolences. Now, is something urgent?
+
+@20097
+Very well. I humbly accept.
+
+@20098
+I'm sorry, but that I cannot accept.
+
+@20099
+I understand your feelings well, and I'm grateful. But I cannot accept.
+
+@20100
+What are you doing?!
+
+@20101
+There's no need to die!
+
+@20102
+I'm sorry, but I cannot do this. Ask me anything else; I'll spare no help.
+
+@20103
+Lord {v01}, Lord {v02} and Lord {v03} are here to see you.
+
+@20104
+Accept the realm?
+
+@20105
+Lord {v01}'s lands are now ours and the retainers have joined us. Our realm grows ever stronger.
+
+@20106
+Lord {v01}, what will you do?
+
+@20107
+Lord {v01}, they both earnestly beg you. What will you do?
+
+@20108
+Lord {v01}'s retainers sent envoys offering the realm to Lord {v02}. Lord {v02} accepted.
+

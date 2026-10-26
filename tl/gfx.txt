@@ -1,0 +1,97 @@
+# Image English: NAME.spot<TAB>text ('|' line break, '^' date column); see tools/gfx.py ITEMS
+# SMENU.menu: main menu buttons
+SMENU.menu.0	Start a New Game
+SMENU.menu.1	Load Data
+SMENU.menu.2	Register Officers
+SMENU.menu.3	Register Items
+SMENU.menu.4	Soundware
+SMENU.menu.5	Duel Mode
+# SMENU.scen: scenario list (date ^ title)
+SMENU.scen.0	Jan 184^Yellow Turban Rebellion
+SMENU.scen.1	Dec 189^Luoyang in Flames
+SMENU.scen.2	Sep 196^Rise of Cao Cao
+SMENU.scen.3	Oct 201^Storm over Hebei
+SMENU.scen.4	Nov 208^Sleeping Dragon Wakes
+SMENU.scen.5	Jul 219^Three Kingdoms Stand
+SMENU.scen.6	Sep 234^A Star Falls at Wuzhang
+SMENU.scen.7	May 184^The Wandering Sage
+SMENU.scen.8	Aug 187^Turbans & Southern Han
+SMENU.scen.9	Jan 200^Battle of Guandu
+SMENU.scen.10	May 213^Liu Bei Enters Shu
+# CMDWIN.tabs: command window tabs, top row 0-4, second row 5-9 (~26 px, tinyfont)
+CMDWIN.tabs.0	Ruler
+CMDWIN.tabs.1	Staff
+CMDWIN.tabs.2	Move
+CMDWIN.tabs.3	War
+CMDWIN.tabs.4	Opts
+CMDWIN.tabs.5	Admin
+CMDWIN.tabs.6	Pers.
+CMDWIN.tabs.7	Plot
+CMDWIN.tabs.8	Dipl.
+CMDWIN.tabs.9	Army
+# CELL.tabs: officer/city panel buttons (48x24)
+CELL.tabs.0	Profile
+CELL.tabs.1	Items
+CELL.tabs.2	Officers
+CELL.tabs.3	Next
+CELL.tabs.4	Execute
+CELL.tabs.5	Diplomacy
+CELL.tabs.6	Goal
+CELL.tabs.7	Recruit
+CELL.tabs.8	Release
+# CELL.stats: stat labels (16 px high; single-kanji cells 14 px wide -> tinyfont)
+CELL.stats.0	Valor
+CELL.stats.1	Exp
+CELL.stats.2	Offcrs
+CELL.stats.3	Officers
+CELL.stats.4	Def
+CELL.stats.5	Troops
+CELL.stats.6	Population
+CELL.stats.7	Supp.
+CELL.stats.8	Flood
+CELL.stats.9	Free
+CELL.stats.10	WAR
+CELL.stats.11	INT
+CELL.stats.12	POL
+CELL.stats.13	CHA
+CELL.stats.14	LOY
+CELL.stats.15	AGE
+CELL.stats.16	TRP
+CELL.stats.17	DRL
+CELL.stats.18	MOR
+CELL.stats.19	TRP
+CELL.stats.20	FRM
+CELL.stats.21	TRD
+CELL.stats.22	PLN
+CELL.stats.23	MTN
+CELL.stats.24	WTR
+CELL.stats.25	Spare
+# CELL.heads: officer page headers (88x24)
+CELL.heads.0	Formations
+CELL.heads.1	Special Skills
+# CMDWIN3.btns / CMDWIN2.btns: 48x24 buttons
+CMDWIN3.btns.0	Terms
+CMDWIN3.btns.1	Record
+CMDWIN2.btns.0	Status
+# CMDWIN.icons: command window gold / food icons (16x16)
+CMDWIN.icons.0	G
+CMDWIN.icons.1	F
+# CELL.merchant: city panel merchant button (40x24)
+CELL.merchant.0	Market
+# HEXIKKI.duel: duel captions (96x32, spot 2 = 32x32)
+HEXIKKI.duel.0	Fight!
+HEXIKKI.duel.1	Rout!
+HEXIKKI.duel.2	VS
+HEXIKKI.duel.3	Victory!
+HEXIKKI.duel.4	Close Win
+# IKKIMODE.champ: duel tournament winner captions (32x16, 64x16)
+IKKIMODE.champ.0	Champ
+IKKIMODE.champ.1	Team Champ
+# OPENING.logo: title logo subtitle (under PRESS START BUTTON)
+OPENING.logo.0	Power-Up Kit
+# SMAP.ok: ruler select confirm button (48x24)
+SMAP.ok.0	OK
+# HEX.panel: battle status panel labels (units 32x16; troops / food 16x16, letters like CMDWIN.icons)
+HEX.panel.0	Units
+HEX.panel.1	T
+HEX.panel.2	F

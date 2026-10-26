@@ -1,0 +1,330 @@
+@28000
+A turbulent life. No regrets. Cut me down.
+
+@28000.1
+To die in a place like this... Ugh, the... shame!
+
+@28000.2
+I'll never give up, to the very end{C55}! Gwaah!
+
+@28000.3
+I'm already prepared{C27}. Cut me down at once.
+
+@28000.4
+One cup of wine before I die... Ah, delicious... Now, cut me down.
+
+@28000.5
+Remember, traitors! Evil never prospers in this world!
+
+@28000.6
+Is this payback for all the lives I've taken...
+
+@28000.7
+Will it end in a place like this... Is this fate...
+
+@28000.8
+I misjudged how strong {v02}'s army was{C50}.
+
+@28000.9
+Has my luck run out... Will it end here...
+
+@28001
+Even if {C0} die, my descendants will carry on my will.
+
+@28001.1
+A pity I couldn't take your head{C45}, {v02}. Fate is cruel...
+
+@28001.2
+Those who died for me are calling. I'm coming{C55}.
+
+@28001.3
+To fall here with my ambitions unfulfilled... Such is fate...
+
+@28001.4
+All who risked their lives for me... forgive me{C57}...
+
+@28002
+You may be proud to have cut me down.
+
+@28002.1
+...A brave general dies with honor...
+
+@28002.2
+I fought to the fullest. It was fun. No regrets.
+
+@28002.3
+I wish I'd died on the battlefield at least{C50}.
+
+@28002.4
+Untie me. {C3} will die with honor.
+
+@28003
+Gold, as much as you want... Or women? H-help me!
+
+@28003.1
+Let go, let go! {C0} don't want to die yet{C37}!
+
+@28003.2
+Please{C23}! Spare my life, just my life...
+
+@28003.3
+I'll do anything! So please{C19} spare my life!
+
+@28003.4
+No need to kill me. {C0} can be useful too{C55}.
+
+@28004
+How tasteless of you, cutting off a woman's head.
+
+@28004.1
+Cutting off heads is so savage. Eek!
+
+@28004.2
+A flower's life is short. Life is cruel.
+
+@28005
+If you think this puts me in your debt, you're dead wrong!
+
+@28005.1
+Mercy or not, I won't hold back on the next battlefield{C55}.
+
+@28005.2
+You're soft, {v02}. But maybe that softness is your charm.
+
+@28005.3
+{v02}, a benevolent lord as rumored. I won't forget your name{C57}.
+
+@28005.4
+There's no mercy in war... Why not cut me down{C57}? Why...
+
+@28005.5
+I slipped up this time, that's all. Don't think you'll win again.
+
+@28005.6
+Next time I'll have your head. Just you wait{C39}!
+
+@28005.7
+Untying me and even feeding me... You really are soft...
+
+@28005.8
+In an age where might is everything, softness like that won't let you live long{C57}{C55}.
+
+@28005.9
+I'm ready. Get it over... What? You're letting me go?
+
+@28006
+I thank you, but next time... next time I'll win.
+
+@28006.1
+So confident, {v02}. Confidence breeds carelessness... and then you will...
+
+@28006.2
+Ugh, mercy... Someday, someday I'll defeat you...
+
+@28006.3
+Such generosity... Truly my archrival. We'll meet again.
+
+@28006.4
+Beaten in battle and in caliber... But someday I'll surpass you.
+
+@28007
+I'll repay this debt someday. We'll meet again on the battlefield. Farewell...
+
+@28007.1
+You're letting me go{C24}? I'll never forget this kindness{C57}.
+
+@28007.2
+To think someone like you exists in this decayed world...
+
+@28007.3
+{v02}, a truly benevolent lord. If only we'd met sooner...
+
+@28007.4
+Lord {v02}, I wish we hadn't met as enemies. Farewell...
+
+@28008
+{C65} I'll make you regret not killing me.
+
+@28008.1
+Softie. Someday I'll kill you. I swear{C45}...
+
+@28008.2
+I feel no debt{C48}. Go wash your neck and wait{C39}.
+
+@28008.3
+Untie me already. Remember{C39}, your head will surely...
+
+@28008.4
+You'll pay dearly for doing this to me{C55}.
+
+@28009
+Thank you! I think I've fallen for you.
+
+@28009.1
+I'm so happy. Let's meet again on the battlefield.
+
+@28009.2
+You're letting me go? But I won't go easy on the battlefield.
+
+@28010
+You'd spare me... Then I swear loyalty by Heaven and Earth.
+
+@28010.1
+I'll forget old grudges and entrust my life to Lord {v02}.
+
+@28010.2
+Such generosity... Only {C9} can rule the land{C45}.
+
+@28010.3
+This too is fate... I, {v01}, swear lifelong loyalty.
+
+@28010.4
+I tried to kill you... and yet... I'll give you my life.
+
+@28010.5
+Heaven's voice... tells me to serve Lord {v02}... Very well.
+
+@28010.6
+This too must be destiny{C26}. I look forward to serving...
+
+@28010.7
+Lord {v02}, you are worth serving with my life.
+
+@28010.8
+You saved my life, so I can hardly refuse.
+
+@28010.9
+Lord {v02} is the lord {C0} sought.
+
+@28011
+Has my dream ended? But this too is Heaven's will... I'll obey quietly.
+
+@28011.1
+I'm tired{C53}. Do as you like{C19}.
+
+@28011.2
+I'll serve, but can you tame me{C52}?
+
+@28011.3
+Very well... As long as I live, there's a chance to rise again.
+
+@28011.4
+Is this the end... Yes, I've decided. I'm in your hands{C55}.
+
+@28012
+If I and you, my lord, join forces, ruling the land is no dream!
+
+@28012.1
+Three meals and a nap a day, and I'll serve{C55}.
+
+@28012.2
+Let me think... Hmm... Oh, fine, I'll serve.
+
+@28012.3
+Reward me right away, or I'll betray you{C55}.
+
+@28012.4
+I'm in a good mood today. I'll serve{C55}.
+
+@28013
+All right, I'll serve you. Don't disappoint me.
+
+@28013.1
+All right. But I want a sword. Something like the "Seven Star Sword".
+
+@28013.2
+Hmm... Well, whatever.
+
+@28014
+I'm sorry, but I can't. I left my family back home.
+
+@28014.1
+I refuse{C45}. Cut me down at once.
+
+@28014.2
+Serve you? Nonsense. I'd rather die than serve you.
+
+@28014.3
+{C65} What a funny joke{C50}.
+
+@28014.4
+Serving {C16} would shame my descendants forever. Now, cut me down.
+
+@28014.5
+If I yielded to you, I couldn't face the dead.
+
+@28014.6
+Don't make me repeat myself. I won't serve you{C57}.
+
+@28014.7
+Give me your head and I'll serve you. {C65}
+
+@28014.8
+Stop babbling and cut me down. Persuasion is useless{C45}, useless{C45}.
+
+@28014.9
+As if the likes of you could handle me.
+
+@28015
+I follow no one; I only walk the path I believe in.
+
+@28015.1
+Serve you...? My name is {C3}. Don't underestimate me.
+
+@28015.2
+Nonsense... I may have lost my realm, but not my pride{C57}.
+
+@28015.3
+I can't bear to stand beneath another{C57}.
+
+@28015.4
+You'd have {C0} throw away my pride? I refuse{C45}.
+
+@28016
+A loyal retainer serves no second lord. Lord {v02} should understand that.
+
+@28016.1
+I appreciate the thought, but {C0} can't betray my lord either{C57}.
+
+@28016.2
+I'd rather die than be branded a traitor.
+
+@28016.3
+Say what you will. {C0} won't change my mind{C57}.
+
+@28016.4
+Trying to persuade me is a waste of time. Cut me down{C19}.
+
+@28017
+I'd rather die than serve {C16}. Let go of me!
+
+@28017.1
+Give me all your gold and I'll serve you. {C65}
+
+@28017.2
+No way! Who'd serve the likes of you?
+
+@28017.3
+I don't see any profit in serving you{C57}. Money makes the world go round.
+
+@28017.4
+I have no reason to serve you. Untie me already.
+
+@28018
+No. Absolutely not.
+
+@28018.1
+I won't serve someone who ties up women.
+
+@28018.2
+Who'd serve you? Let me go home.
+
+@28019
+Very good, very good.
+
+@28020
+Is it over... is it over...
+
+@28021
+No good, no good.
+

@@ -1,0 +1,240 @@
+@53000
+...
+
+@53001
+In the castle of {v14}
+
+@53002
+Lousang Village, Zhuo County, You Province
+
+@53003
+The Yellow Turbans claim to save the people, but they're just bandits who torment them.
+
+@53004
+Sigh... Is there no way to bring true peace to this land...?
+
+@53005
+Hey, you there! What're you sighing about in times like these?!
+
+@53006
+In such troubled times, it pains me to do nothing for my country. So I sighed...
+
+@53007
+I see... Then you're just like me.
+
+@53008
+The man invited the youth into a nearby tavern.
+
+@53009
+All right, then how about you and me working for the Han?
+
+@53010
+Oh, so you're patriots too... What say you let me join you?
+
+@53011
+The three struck a bond, swore brotherhood in the peach garden, and resolved to work for the Han house.
+
+@53012
+We three become sworn brothers, and here we vow to fight until peace comes to the land!
+
+@53013
+Aye!
+
+@53014
+Though we were not born on the same day, may we die on the same day!
+
+@53015
+This "Oath of the Peach Garden" began the journey of the three brothers Liu, Guan and Zhang.
+
+@53016
+Zhang Lu of Hanzhong bears you a grudge, my lord. This is cause for concern.
+
+@53017
+It is as you say... Is there no good plan?
+
+@53018
+Lord Liu Bei of Jing is your kinsman and a man of virtue. We should turn to him.
+
+@53019
+Lord Liu Zhang, follow Zhang Song's advice and ally with Liu Bei?
+
+@53020
+We'll turn to Lord Liu Bei. I leave the details to you.
+
+@53021
+No, there's no need to go that far yet.
+
+@53022
+Lord Liu Bei, an envoy has come from Lord Liu Zhang.
+
+@53023
+Lord Liu Bei, for peace in Shu, would you form a one-year alliance?
+
+@53024
+Lord Liu Bei, form a one-year alliance with Liu Zhang?
+
+@53025
+Very well. If I will do, I gladly accept the alliance.
+
+@53026
+Thank you for agreeing. Here is a small token of our thanks.
+
+@53027
+I hope this map will serve you in the future, Imperial Uncle... Now, farewell.
+
+@53028
+I'm sorry, Lord Zhang Song, but let us leave the alliance for another time.
+
+@53029
+I see... Then I take my leave.
+
+@53030
+Ah, Zhang Song. How did it go?
+
+@53031
+We have formed a one-year alliance with Lord Liu Bei. We can rest easy for now.
+
+@53032
+I could not form the alliance. The fault is all mine...
+
+@53033
+I see. You may go.
+
+@53034
+With warlords rising and the realm in chaos, the Han must restore its prestige.
+
+@53035
+How about a royal hunt outside Xuchang to show the Han's valor to the realm?
+
+@53036
+Very well, We will go. ...Oh, and will Liu Bei come?
+
+@53037
+If Your Majesty wishes, I will arrange it at once.
+
+@53038
+Cao Cao has invited us to a hunt. His Majesty will attend too, they say.
+
+@53039
+Then this invitation is an imperial command?
+
+@53040
+That's big! Brother, we'd better get ready.
+
+@53041
+A hunt was held outside Xuchang. Cao Cao turned it into a show of his own power.
+
+@53042
+Well, Cao Cao, why don't you shoot that deer?
+
+@53043
+Yes, Majesty. With your leave.
+
+@53044
+Ah! Th-that bow and arrow are Ours...
+
+@53045
+Oh, that is His Majesty's arrow!
+
+@53046
+His Majesty has shot the deer! Long live the Emperor!
+
+@53047
+Hahaha, calm down! I'm the one who shot that deer!
+
+@53048
+(Wh-what is this...! No subject would do this! What is he thinking?)
+
+@53049
+(Curse you, Cao Cao! Such insolence! ...I can't allow it!)
+
+@53050
+(Wait, Guan Yu! Act now and His Majesty will be in danger! Hold back!)
+
+@53051
+Hahaha! What a fun hunt today, isn't it, Lord Xuande?
+
+@53052
+Brother, I don't think I'm cut out to be in charge after all...
+
+@53053
+Come now, do not say that. It suits you quite well.
+
+@53054
+You think so? I sure don't...
+
+@53055
+Lord Zhang Fei, hand the leadership to Liu Bei?
+
+@53056
+Folks won't follow anyone but you, big brother.
+
+@53057
+If you insist so, I will take command again.
+
+@53058
+Liu Bei has become the ruler.
+
+@53059
+Then I'll try a little harder.
+
+@53060
+Lord Liu Bei, Lord Cao Cao summons you. He asks that you come to {v14}.
+
+@53061
+What could it be? Well, I must go.
+
+@53062
+Welcome, Lord Liu Bei. I just thought we might share a drink in the plum garden.
+
+@53063
+Oh, an invitation to drink. I wondered what it was about...
+
+@53064
+Cao Cao and Liu Bei drank together in the plum garden. When the feast was at its height, Cao Cao asked about the heroes of the age.
+
+@53065
+Tell me, Lord Liu Bei, who do you think are the heroes of our time?
+
+@53066
+Heroes, you say? Let me see...
+
+@53067
+Lord Yuan Shu is of good family and might qualify as a hero.
+
+@53068
+Heh, Yuan Shu is no better than a skeleton in the grave, old-fashioned and gutless.
+
+@53069
+Lord Yuan Shao comes of a line of great ministers and is widely respected. A hero?
+
+@53070
+Yuan Shao is my friend, but a timid man. He looks the part but is no hero.
+
+@53071
+What about Lord Liu Jingsheng, one of the Eight Eminent, renowned as a sage? Is he not a hero?
+
+@53072
+Liu Biao is all empty fame. It's only that his aides are able.
+
+@53073
+Then what of Sun Bofu, son of Lord Sun Jian? They say he is a man of great valor...
+
+@53074
+Ah, Sun Ce... He has ability but is too young. Not a hero yet.
+
+@53075
+Liu Jiyu is of the Han royal clan and a gentle man. What of him?
+
+@53076
+He's just a watchdog that won't leave his master's door even in death. No hero.
+
+@53077
+Only those with great ambition in their hearts are heroes. The rest are warlords.
+
+@53078
+Could there truly be such a man?
+
+@53079
+Well, I think there are only two: Liu Xuande and Cao Mengde. Hahaha!
+

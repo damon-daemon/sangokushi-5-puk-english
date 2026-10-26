@@ -1,0 +1,486 @@
+@44000
+Given the current situation, we should form an alliance of %u months or more with {v02}.
+
+@44000.1
+To expand our power to our advantage, let us seal a pact of %u months or more with {v02}.
+
+@44000.2
+Let us form an alliance of %u months or more with {v02} and make full use of that realm.
+
+@44001
+I propose we develop %s to build up our arms. Joint research with Lord {v02}...
+
+@44001.1
+Let us combine our skills with our friend Lord {v02} and develop %s.
+
+@44001.2
+We should develop %s with Lord {v02} and unify this chaotic age as soon as we can.
+
+@44002
+To teach the hated {v02} a lesson, we should take {v14}.
+
+@44002.1
+So as to leave no worries behind, we should take {v14} quickly{C23}.
+
+@44002.2
+There's no better time to take {v14}{C28}. Your decision, {C10}!
+
+@44003
+Our army's morale is high. We should strike {v14} now while we are unstoppable.
+
+@44004
+Damn you, Mengde! You won't have my wife! Order the march on {v14}!
+
+@44005
+Let us invade {v14} and show the villain {v02} what we are made of.
+
+@44005.1
+For the people's sake, we should bring the hammer down on {v02}. First, invade {v14}...
+
+@44005.2
+Let us attack {v14} and punish the traitor {v02}.
+
+@44006
+I hear {v14} thrives on trade. We should invade and secure it as one of our bases...
+
+@44006.1
+I hear many merchants live in {v14}. Let us take that land and make use of them.
+
+@44006.2
+To draw merchants into our realm, we must conquer {v14}.
+
+@44007
+With the political skill of {v02} of {v14}, we could grow stronger. Let us recruit them.
+
+@44007.1
+Let us win over {v02} in {v14}... They're said to be a fine statesman{C27}.
+
+@44007.2
+{v02} of {v14} has great political skill{C27}. We should recruit them.
+
+@44008
+Winning over {v02}, a fierce warrior of {v14}, would surely make our army stronger.
+
+@44008.1
+There is a hero named {v02} in {v14}. Let us recruit them to fill our ranks with capable generals.
+
+@44008.2
+Let us win over {v02} of {v14}. We need their might.
+
+@44009
+Let us bring {v02} of {v14} to our side. Their wits would surely be useful.
+
+@44009.1
+We need the fine tactics of {v02} in {v14}{C23}. Let us bring them into our realm.
+
+@44009.2
+There's a cunning strategist named {v02} in {v14}. They'd be a great help on our side.
+
+@44010
+I wish to recruit Huang Zhong in {v14}, an old general but famed for his valor.
+
+@44011
+Let us recruit Lu Bu of {v14}... In valor, no one surpasses him{C32}.
+
+@44012
+Rumor has it someone in {v02}'s realm is at odds with that one. Let us use the Rival Tigers scheme.
+
+@44012.1
+I wish to make one of {v02}'s officers break away. Please, use the Rival Tigers scheme...
+
+@44012.2
+Let us use Rival Tigers on {v02}'s realm and break it from within.
+
+@44013
+Let us use schemes to lower Support in {v14} and spark a revolt.
+
+@44013.1
+Why not spread rumors in {v14} and stir up a revolt there?
+
+@44013.2
+Let us spark a revolt in {v14} and stain {v01}'s name.
+
+@44014
+To raise the harvest of {v14}, let us clear the forests and raise farming by %u.
+
+@44014.1
+{v14} has much untouched land. Let us clear it quickly and raise farming by %u.
+
+@44014.2
+Let us teach the people of {v14} more efficient farming and raise farming by %u.
+
+@44014.3
+The people of {v14} want broad fields. Let us raise farming by %u.
+
+@44014.4
+To give the people of {v14} farmland, let us drain the marshes and raise farming by %u.
+
+@44015
+To prepare for disasters, let us carry out flood works in {v14} and raise flood control by %u.
+
+@44015.1
+Better safe than sorry. Let us irrigate {v14} and raise flood control by %u.
+
+@44015.2
+To lessen damage from disasters, let us build levees in {v14} and raise flood control by %u.
+
+@44015.3
+The people of {v14} seem to fear disasters. Shouldn't we raise flood control by %u?
+
+@44015.4
+The people of {v14} seem to suffer from flooding rivers. Let us raise flood control by %u.
+
+@44016
+We should focus on town building in {v14} and raise commerce by %u. That should increase our income.
+
+@44016.1
+Let us build roads to bring more people to {v14} and raise commerce by %u.
+
+@44016.2
+To develop commerce in {v14}, let us replan the town and raise commerce by %u.
+
+@44016.3
+The people of {v14} asked for a more livable town. We should raise commerce by %u.
+
+@44016.4
+I wish to make {v14} a lively town and bring peace to its people. Let us raise commerce by %u.
+
+@44017
+I wish to prepare for enemy attacks. Let us deepen the trenches of {v14} and raise defense by %u.
+
+@44017.1
+To prepare for invasion, let us strengthen the defenses around the walls of {v14} and raise defense by %u.
+
+@44017.2
+The walls of {v14} show damage. We should repair them quickly and raise defense by %u.
+
+@44017.3
+The people of {v14} are uneasy about the damaged walls. Let us raise defense by %u.
+
+@44017.4
+To reassure the people, I wish to renovate the castle of {v14} and raise defense by %u.
+
+@44018
+To deepen our friendship with Lord {v02}, we should send an envoy and lower hostility to %u or below.
+
+@44018.1
+To become allies with Lord {v02}, let us send an envoy and lower hostility to %u or below.
+
+@44018.2
+Opposing Lord {v02} is foolish. Let us send an envoy at once and lower hostility to %u or below.
+
+@44019
+To unify this chaotic age, invasion is unavoidable. An attack on {v14}...
+
+@44019.1
+I think we should expand our lands{C22}. Let us take {v14}.
+
+@44019.2
+Let us invade {v14} and expand our lands.
+
+@44020
+Let us invade {v14} and spread the teachings of the Five Pecks of Rice.
+
+@44021
+Let us invade {v14} and spread the teachings of the Way of Great Peace.
+
+@44022
+I wish to build up our forces for the battles ahead. Let us increase our troops by %u.
+
+@44022.1
+We should increase our troops by %u to build up strength and prepare for enemy attacks.
+
+@44022.2
+Let us add %u troops. Winning wars takes many soldiers.
+
+@44023
+I think Lord {v02}'s opinion is exactly right.
+
+@44023.1
+{C0} agree with Lord {v02}{C33}. There's no other way{C28}.
+
+@44023.2
+{C0} think exactly as Lord {v02} does{C23}. Don't you all agree{C32}?
+
+@44024
+Only one city remains. Come, let us launch an all-out attack.
+
+@44024.1
+Only {v14} remains. Let us crush it in one stroke without hesitation.
+
+@44024.2
+Unification is at hand{C23}. Now, order the attack on {v14}!
+
+@44025
+Our forces are at full strength. I think we should finish off {v02}.
+
+@44025.1
+Recruiting now is pointless{C23}. Let us invade {v14}.
+
+@44025.2
+I think we should invade {v14} at once. Unification is one step away!
+
+@44026
+Unification is within reach; domestic affairs are a waste. Now finish off {v02}...
+
+@44026.1
+The people long for peace{C27}. We should attack {v14} at once and end this chaotic age...
+
+@44026.2
+Let us march on {v14}{C20}. Domestic affairs can wait until after unification.
+
+@44027
+Negotiation, at this point...? Come, decide to invade {v14} at once...
+
+@44027.1
+Let us invade {v14}. The people long for a peaceful world.
+
+@44027.2
+The end of this chaotic age is near{C23}. Invade {v14}...
+
+@44028
+To finish off {v02}, a direct assault is enough, without any schemes.
+
+@44028.1
+Why do you hesitate{C24}? Let us invade {v14} at once.
+
+@44028.2
+I think we should launch a swift attack on {v14}{C22}.
+
+@44029
+Order the invasion of {v14}! There is no need to plant agents any more.
+
+@44029.1
+We should destroy {v02}. Petty tricks are no longer needed...
+
+@44029.2
+Training and Trade are no longer needed. We should attack {v14} at once.
+
+@44030
+We secured an alliance of %u months with {v02}. Goal achieved!
+
+@44031
+A pity, we did not reach the goal...
+
+@44031.1
+It seems {C0} led poorly{C50}. We fell far short of the goal...
+
+@44031.2
+We failed to reach the goal{C57}... Was it too ambitious?
+
+@44032
+As planned, we were able to carry out research on %s with {v02}.
+
+@44033
+Well done, everyone! We took {v14}{C48}. Goal achieved{C45}!
+
+@44034
+We have taken the trade city of {v14}! The goal is achieved.
+
+@44035
+Having the great general {v02} on our side is reassuring. We achieved the goal{C48}.
+
+@44036
+Rival Tigers seems to have succeeded in {v02}'s realm.
+
+@44036.1
+With that, the goal is achieved{C45}!
+
+@44037
+It seems we raised farming in {v14}. Thanks to you all, we achieved our goal.
+
+@44038
+It seems we raised flood control in {v14}. Thanks to you all, we achieved our goal.
+
+@44039
+It seems we raised commerce in {v14}. Thanks to you all, we achieved our goal.
+
+@44040
+It seems we raised defense in {v14}. Thanks to you all, we achieved our goal.
+
+@44041
+{v02}'s hostility is down to %u or below. Goal achieved! Well done, diplomacy minister.
+
+@44042
+It seems we increased our troops as planned. Goal achieved!
+
+@44043
+Lord {v01}, will you hold a council?
+
+@44044
+Then let us set our goal. If you want information, ask me.
+
+@44044.1
+Let us set our goal. For information on other realms, ask me and I will answer.
+
+@44045
+This year we'll proceed without any particular goal. Is that all right?
+
+@44046
+This year the realm will be governed by {v01}'s opinion. Is that all right?
+
+@44047
+{v01}'s opinion will be this year's goal. The council is adjourned.
+
+@44047.1
+This year we'll follow {v01}'s opinion. No objections, everyone?
+
+@44047.2
+{v01}'s opinion is set as this year's goal. I expect much of every minister. That is all.
+
+@44048
+Let us hold a council, {C9}. Please hear each minister's opinion.
+
+@44049
+As minister of Personnel, I think we should add %u officers.
+
+@44049.1
+A great ruler needs many great generals. Let us add %u this year.
+
+@44049.2
+Thinking of future expansion, I fear we lack talent. Let us gather %u outstanding people.
+
+@44050
+The people praise Lord {v01} for achieving the goal. Fame has risen.
+
+@44051
+The people are disappointed that Lord {v01} failed to achieve the goal. {v01}'s Fame has fallen.
+
+@44052
+Goal achieved! Our officers have grown to %u. We are counting on you.
+
+@44053
+They say an item called %s exists in the world. Let us obtain it.
+
+@44053.1
+Rumor has it a legendary %s exists under Heaven. Why not search for it?
+
+@44053.2
+I mean to get %s somehow. Please grant permission.
+
+@44054
+To think I would live to see that %s... The goal is achieved.
+
+@44055
+The council is now in session. Speak freely about this year's policy, all of you.
+
+@44055.1
+We hold council to set this year's policy. Each minister, present your plan.
+
+@44055.2
+Everyone, the council begins. I want to hear each minister's plan. Speak freely.
+
+@44056
+No goal this year. I look forward to each minister's results.
+
+@44056.1
+No opinion stands out. This year's goal is... none.
+
+@44056.2
+We need no goal this year. Give your all to your own work. I'm counting on you.
+
+@44057
+Lord {v01}, thanks to everyone's efforts, we achieved last year's goal.
+
+@44058
+Lord {v01}, sadly, we did not achieve last year's goal.
+
+@44059
+Now and then, having no goal is a fine move too.
+
+@44060
+Let us run a joint operation with Lord {v02} and bring down {v14}.
+
+@44060.1
+We should cooperate with Lord {v02} and attack {v14}.
+
+@44060.2
+Why not request reinforcements from Lord {v02} and take {v14}?
+
+@44061
+{C65}, we sparked a revolt in {v14}. The goal is met{C48}.
+
+@44062
+Thanks to Lord {v02}, the conquest of {v14} went well. It seems the goal is achieved.
+
+@44063
+Form an alliance of %u months or more with {v01}
+
+@44064
+Develop %s in cooperation with {v01}
+
+@44065
+Deepen friendship with {v01} and lower hostility to %u or below
+
+@44066
+Conquer {v14} in a joint operation with {v01}
+
+@44067
+Conquer {v14}, a city of {v01}
+
+@44068
+Mobilize %u more troops
+
+@44069
+Conquer the trade city of {v14}
+
+@44070
+Obtain %s
+
+@44071
+Use Rival Tigers on a governor of {v01}'s realm and make them defect
+
+@44072
+Use schemes to make the people of {v14} revolt
+
+@44073
+Through domestic affairs, raise farming in {v14} by %u more
+
+@44074
+Through domestic affairs, raise flood control in {v14} by %u more
+
+@44075
+Through domestic affairs, raise commerce in {v14} by %u more
+
+@44076
+Through domestic affairs, raise defense in {v14} by %u more
+
+@44077
+Bring the officer {v01} into our service
+
+@44078
+Increase our officers by %u more
+
+@44079
+No goal
+
+@44080
+Goal achieved
+
+@44081
+The rival ruler is destroyed; the goal can no longer be achieved
+
+@44082
+Just this once, please leave everything to us.
+
+@44082.1
+For once I'd like to work freely...
+
+@44082.2
+How about having no goal this year?
+
+@44082.3
+I would like to spend this year without being bound to a goal...
+
+@44082.4
+Why not leave this year to each minister's own initiative?
+
+@44082.5
+I would like to spend a relaxed year with no goal.
+
+@44082.6
+It's a passive suggestion, but I'd like no goal this year{C22}.
+
+@44082.7
+{C0} recommend no goal.
+

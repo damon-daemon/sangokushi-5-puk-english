@@ -1,0 +1,204 @@
+@32000
+There is every reason to make use of that realm's army. Please accept.
+
+@32000.1
+I think allying with Lord {v04} is the better plan{C22}.
+
+@32000.2
+An alliance with Lord {v04} is reassuring. {C0} am in favor{C23}.
+
+@32000.3
+I think an alliance is the shortcut to unifying the land{C22}.
+
+@32000.4
+Together we'd be a great threat to other realms{C55}. We should ally{C23}.
+
+@32001
+This alliance benefits them, not us.
+
+@32001.1
+I can't agree{C32}. {v04} will use us and betray us in the end.
+
+@32001.2
+Please don't{C19}. I can only think there's a catch{C32}.
+
+@32001.3
+Do you think {v04} is a fit ally for {C9}{C24}?
+
+@32001.4
+Don't accept. An alliance on these terms is a bad joke.
+
+@32002
+As allies, refusing to send reinforcements would be against honor, I think.
+
+@32002.1
+Putting Lord {v04} in our debt now may pay off later...
+
+@32002.2
+Our ally is in trouble. Why hesitate? It's not like you, {C9}.
+
+@32002.3
+A perfect chance to show the world our army's strength. Come, prepare to march.
+
+@32002.4
+I just read the stars, and that star shines brightly{C27}. This battle bodes well, I think{C22}.
+
+@32003
+Our forces aren't fully ready. I can't agree to a battle we might lose.
+
+@32003.1
+Refuse{C19}. They only want to wear our realm down{C32}.
+
+@32003.2
+Building our strength comes first{C48}. We must avoid losing troops now{C32}.
+
+@32003.3
+Ally or not, there's no need to be that obliging...
+
+@32003.4
+War should wait until we're prosperous. It's too soon for us{C23}.
+
+@32004
+I think we may accept their gifts... But don't let your guard down.
+
+@32004.1
+Let's gratefully accept Lord {v04}'s kindness.
+
+@32004.2
+We can't waste their long journey. Let's accept.
+
+@32004.3
+If we refuse, Lord {v04} will be offended. Please accept{C19}.
+
+@32004.4
+Let's accept with a smile and show we welcome friendship too.
+
+@32005
+Suspicious. Nothing costs more than a free gift.
+
+@32005.1
+Lord {v04} sending us gifts... Something smells fishy{C46}.
+
+@32005.2
+Lord {v04} is scheming. We mustn't accept lightly{C32}{C55}.
+
+@32005.3
+Don't fall for Lord {v03}'s smooth talk. Just brush them off.
+
+@32005.4
+Lord {v04} may mean to lull us and then pull some trick... Refuse{C19} this time.
+
+@32006
+Swallow your tears and decide, {C9}. Our fate is already...
+
+@32006.1
+Let's accept. This too is fate; no one can defy it.
+
+@32006.2
+Let's surrender gracefully. Even in defeat, there's a right way to lose.
+
+@32006.3
+Gracefully now... Lord {v04} won't treat {C9} badly.
+
+@32006.4
+It's bitter, but it can't be helped. Let's give up and surrender.
+
+@32007
+Yield after coming this far... Surely {C9} has a greater dream.
+
+@32007.1
+We can still fight. The soldiers' fighting spirit hasn't faded at all.
+
+@32007.2
+Refuse... They'd welcome you at first, but surely kill you someday.
+
+@32007.3
+Refuse. Those who died for {C9} would never rest in peace.
+
+@32007.4
+Don't surrender{C19}. Let's fight on, {C9}. I'll follow you to the death.
+
+@32008
+I think it's fine. If we pool our wisdom, we'll get good results.
+
+@32008.1
+Let's accept. It's a rare chance to steal another realm's technology...
+
+@32008.2
+We're allied after all, so isn't it fine{C25}?
+
+@32008.3
+Accept{C19}. Let's show how generous {C9} is.
+
+@32008.4
+I think it's wise to put {v04} in our debt.
+
+@32009
+Please don't. Spending so much gold on that...
+
+@32009.1
+Refuse{C19}. We have other things to do now. Research can wait, I think{C22}.
+
+@32009.2
+We mustn't{C32}. This research brings us no benefit{C28}.
+
+@32009.3
+I can't agree{C32}. Ally or not, there's no need to go that far...
+
+@32009.4
+I'm against it. It would only help build up their army.
+
+@32010
+Our realm is in mortal danger. Where would we find that kind of money?
+
+@32010.1
+We can't waste a single coin now{C32}. Refuse{C19}.
+
+@32011
+Coming alone takes nerve. I hope you're prepared.
+
+@32011.1
+Before {C9} answers, my sword will answer for them.
+
+@32011.2
+You came all this way just to be killed... Regret it in the next world.
+
+@32011.3
+You mean to fool {C9} with your silver tongue, but it won't work{C55}.
+
+@32011.4
+You call yourself an envoy, but you're really an assassin. I'll cut you down.
+
+@32012
+Very good, very good.
+
+@32013
+We should accept. Let's show how big-hearted {C9} is.
+
+@32013.1
+If we put {v04} in our debt now, it may prove useful later{C32}.
+
+@32013.2
+Don't they say we all need help sometimes? Give them aid.
+
+@32013.3
+They came relying on {C9}, so please be generous...
+
+@32013.4
+A ruler's caliber is being tested. Never forget to treat others with benevolence...
+
+@32014
+Refuse. You mustn't fall for {v03}'s smooth talk.
+
+@32014.1
+Please don't{C19}. If we aid {v04}, they'll only repay kindness with treachery{C55}.
+
+@32014.2
+Aiding {v04} is like sowing the seeds of disaster. I can't agree{C32}.
+
+@32014.3
+If we have that kind of money, give{C19} it to the people. They're always suffering{C27}.
+
+@32014.4
+This chaotic age is survival of the fittest. Show mercy and there's no end to it{C28}.
+

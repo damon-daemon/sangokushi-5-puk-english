@@ -1,0 +1,411 @@
+@24000
+Lord {v02} is a fine judge of people and will surely find good talent.
+
+@24000.1
+They may be unknown{C21}, but I've heard rumors of a hermit of great promise{C21}.
+
+@24000.2
+If you don't judge by looks or rank, talent will turn up naturally{C26}.
+
+@24000.3
+Don't rely on rumors; search carefully with your own eyes and ears{C23}.
+
+@24001
+I think if {C9} searches personally{C21}, we'll find great generals{C22}.
+
+@24002
+{C0} have someone in mind{C21}, so look forward to it{C19}.
+
+@24003
+Lord {v02} is a person of virtue{C23}. Let us await good news{C20}.
+
+@24004
+It would be a waste of effort. Please don't.
+
+@24004.1
+Hmm, I've heard no rumors of worthy people{C49}. Search anyway...?
+
+@24004.2
+Finding great people is hard. Try again another time.
+
+@24005
+Even for {C9}, I think this one is impossible{C22}.
+
+@24006
+Not even {C0} can be sure of finding talent{C23}.
+
+@24007
+Lord {v02} judges people by only one side. It won't go well.
+
+@24008
+With Lord {v02}'s temperament, they won't find hidden talent in the wilds.
+
+@24009
+Lord {v02} will hit it off with them and surely bring them into our realm.
+
+@24009.1
+Approach them sincerely and they'll surely understand{C26}.
+
+@24009.2
+Once they meet Lord {v02}, they'll surely want to serve{C26}.
+
+@24009.3
+Approach them humbly{C19}. Then you can't fail.
+
+@24009.4
+Heroes will surely get along; we can win them over{C26}.
+
+@24010
+If {C9} goes to persuade them, Lord {v03} will be moved{C26}.
+
+@24011
+I'm interested in that person{C21}. Give me permission{C19}.
+
+@24012
+Lord {v03} seems content with life. It would be a wasted trip.
+
+@24012.1
+Lord {v03} is a busy person{C23}. You won't even get to meet.
+
+@24012.2
+I think you'd best not{C22}. Give it up this time{C19}.
+
+@24013
+Even {C9} won't move Lord {v03}'s heart{C26}.
+
+@24014
+{C0} can't get that one to budge{C26}.
+
+@24015
+Lord {v03} is unbending. I doubt you'll get a good answer so easily{C32}.
+
+@24016
+Please don't{C19}. With Lord {v02}'s arrogance, no good will come of it{C32}.
+
+@24017
+I think both sides gain from this alliance; it will succeed.
+
+@24017.1
+If you explain our shared interests, an alliance is possible{C26}.
+
+@24017.2
+Keep Lord {v04}'s character in mind as you talk, and you'll win them over{C26}.
+
+@24017.3
+That realm seems very friendly toward us. An alliance will be easy{C26}.
+
+@24017.4
+A fine idea{C23}. Let us send Lord {v02} at once{C20}.
+
+@24018
+If {C9} goes in person, Lord {v04} will understand{C26}.
+
+@24019
+{C0} am confident of persuading Lord {v04}{C21}. May I{C24}?
+
+@24020
+Lord {v04} doesn't seem fond of us. I think an alliance is impossible.
+
+@24020.1
+That realm has nothing to gain from allying with us{C32}. They'll refuse{C26}.
+
+@24020.2
+Please don't{C19}. Lord {v02} might be killed{C32}.
+
+@24020.3
+We should deepen our friendship first{C23}. An alliance can come later...
+
+@24021
+Going in person, {C9}, would be walking to your death at Lord {v04}'s hands{C48}!
+
+@24022
+I doubt even {C0} could persuade Lord {v04}... I'll only disappoint you.
+
+@24023
+Please don't{C19}. Lord {v02} would be talked into a corner{C48}.
+
+@24024
+That realm must be a thorn in their side too. Let us await good news.
+
+@24024.1
+Lord {v04} must want {v14} taken too{C23}. Let us await a good answer.
+
+@24024.2
+For an attack on {v14}, Lord {v04} will agree in a heartbeat{C26}.
+
+@24024.3
+A fine plan{C23}. We should plan the operation with Lord {v04} at once{C23}.
+
+@24025
+If {C9} goes, even Lord {v04} will finally act{C26}.
+
+@24026
+{C0} will go myself and win over Lord {v04} and their ministers.
+
+@24027
+If Lord {v02}'s eloquence wins Lord {v04} over, the operation will succeed.
+
+@24028
+Lord {v04} has nothing to gain from taking {v14}. They'll refuse.
+
+@24028.1
+Lord {v04} is suspicious. Winning them over will be extremely hard{C48}.
+
+@24028.2
+For Lord {v04}, attacking {v14} is all harm and no gain. It's pointless{C26}.
+
+@24028.3
+Rumor says Lord {v04} is on friendly terms with that realm... Don't expect a good answer{C32}.
+
+@24029
+Even {C9} can't do it{C55}. Let us take {v14} alone{C20}.
+
+@24030
+I think we'd better attack with our own army alone this time{C22}.
+
+@24031
+Lord {v02} can't persuade Lord {v04}{C32}. Please don't{C19}.
+
+@24032
+Well done, my lord. Sometimes courtesy must not be forgotten.
+
+@24032.1
+This will improve relations with Lord {v04}{C26}.
+
+@24032.2
+This will clear Lord {v04}'s doubts{C26}.
+
+@24032.3
+A fine plan{C23}. We mustn't spare any effort to make it work{C46}.
+
+@24032.4
+I hear Lord {v04} loves gifts{C27}. Let us send envoys at once.
+
+@24033
+If {C9} delivers the gift, it will be more than effective{C23}. Bold of you{C46}.
+
+@24034
+I think I'll deliver the gift and scout out that realm while I'm there{C22}.
+
+@24035
+I doubt Lord {v04} cares for gifts. Please don't.
+
+@24035.1
+Please don't{C19}. It may only make Lord {v04} wary of us.
+
+@24035.2
+I think a gift won't change Lord {v04}'s mind{C22}. It'll be wasted{C26}.
+
+@24035.3
+A gift to the suspicious Lord {v04} might only make things worse...
+
+@24035.4
+A gift like this won't move Lord {v04}. Don't expect good news.
+
+@24036
+If {C9} delivers a gift, they'll suspect a hidden motive{C55}.
+
+@24037
+I think it's better to send someone more suited to diplomacy than me{C22}.
+
+@24038
+A fine idea. This brings us a step closer to conquering the land.
+
+@24038.1
+If Lord {v04} submits to us, it will cow the other realms too.
+
+@24038.2
+If Lord {v04} yields the castle without bloodshed, everyone rejoices. Well done, my lord.
+
+@24038.3
+Faced with our mighty realm's demand, even Lord {v04} will have to nod...
+
+@24038.4
+A fine plan{C23}. Sometimes a heavy-handed approach is needed{C23}.
+
+@24039
+If {C9} goes to persuade them, Lord {v04} will accept{C26}.
+
+@24040
+I'll go and explain to Lord {v04} how wise it would be to submit to us.
+
+@24041
+Lord {v04} can still fight. I don't think they'll submit.
+
+@24041.1
+Lord {v04}'s morale is high. A demand now would only pour oil on the fire.
+
+@24041.2
+Please don't{C19}. I don't think they'd surrender to our current strength{C32}.
+
+@24042
+That's too bold{C55}. Think more about your own position{C19}.
+
+@24043
+If {C0} go, it'll only anger Lord {v04}. Please reconsider{C19}.
+
+@24044
+Lord {v04} is a brave soul who'd rather die than surrender. Please don't.
+
+@24044.1
+I can't imagine the proud Lord {v04} accepting such a demand{C32}.
+
+@24045
+Lord {v04} is friendly to us. They'll surely cooperate gladly.
+
+@24045.1
+This will make both our realms stronger{C30}. They can't refuse.
+
+@24045.2
+For them it's probably an unexpected stroke of luck. It'll go well{C26}.
+
+@24045.3
+Explain the importance of this joint project well{C19}. Then you can't fail{C28}.
+
+@24046
+You can explain the merits of joint development, {C9}{C26}.
+
+@24047
+"Leave it to me"? Are you sure you can? An Adjutant doesn't lie{C32}.
+
+@24048
+With Lord {v02}'s eloquence, they'll see the benefits of this project too{C26}.
+
+@24049
+Please don't. Lord {v04} doesn't trust us yet.
+
+@24049.1
+Lord {v04} is uncooperative. They'd never agree to joint development{C28}.
+
+@24049.2
+Lord {v04} would surely keep the results of the development for themselves. I think we'd better not.
+
+@24050
+Joint development should be left to others{C23}. It's not a ruler's job{C28}.
+
+@24051
+I'd rather not{C32}... I'm a bit unwell and have felt sick since morning.
+
+@24052
+I think this task doesn't suit Lord {v02}. Better to send another envoy...
+
+@24052.1
+I think it's better to send someone who knows about this project...
+
+@24053
+If Lord {v02} explains our plight, Lord {v04} will understand.
+
+@24053.1
+Lord {v04} is warm-hearted. They'll surely agree to give aid{C26}.
+
+@24053.2
+We're bound as allies, so they'll surely give us aid.
+
+@24053.3
+Lord {v04} is a hero of rare caliber. They'll surely give us aid.
+
+@24053.4
+For talks like these Lord {v02} is ideal. It'll go well{C26}.
+
+@24054
+I can't recommend {C9} begging for aid in person{C32}, but it would be the most effective{C23}.
+
+@24055
+If {C0}, "my lord's right hand," go, it'll all work out{C26}.
+
+@24056
+Money doesn't come easily; it's earned by sweat.
+
+@24056.1
+Such naive talks will never work in this chaotic age{C28}.
+
+@24056.2
+Please don't. Relying on others won't get us through this age.
+
+@24056.3
+Lord {v04} is by no means rich either. Those talks won't go well.
+
+@24056.4
+Lord {v04} must be short of money too. Let's work hard ourselves.
+
+@24057
+Even if {C9} negotiates in person, Lord {v04} will refuse.
+
+@24058
+Even {C0} would find it hard to get Lord {v04} to agree to aid...
+
+@24059
+Rob the people? Out of the question. Please don't.
+
+@24059.1
+What are you thinking{C24}? That makes us no better than bandits{C48}!
+
+@24059.2
+I will never allow such beastly conduct!
+
+@24059.3
+Please stop{C19}. Didn't you rise up for the sake of the suffering people?
+
+@24060
+A splendid idea. I think we should do it at once.
+
+@24060.1
+All the wealth of the people here belongs to Lord {v03}. Let us take it all.
+
+@24061
+I'm reluctant, but if it is your command, I have no choice.
+
+@24061.1
+Why would you... {C0} cannot do something so cruel{C32}.
+
+@24062
+As expected of {C9}, a brilliant plan. Then at once...
+
+@24062.1
+For {C9}, the people will gladly give. I'll be on my way.
+
+@24062.2
+A splendid idea. I'll go and collect at once.
+
+@24063
+Please reconsider. That's not how a ruler should act.
+
+@24063.1
+Do you realize what you're doing? Think it over carefully{C19}.
+
+@24063.2
+Please stop. This is not how a savior of the people acts.
+
+@24064
+Doing it personally, {C9}... impressive. I'll follow you anywhere.
+
+@24064.1
+Splendid... a truly splendid idea.
+
+@24065
+Very good, very good.
+
+@24066
+Listening to the people matters too. I think it's a good idea.
+
+@24066.1
+Meet the people and listen, and you'll understand how they suffer in this chaotic age.
+
+@24066.2
+The people must be grieving in this chaos. Listen closely to them and save them{C19}.
+
+@24066.3
+Listen to the people well and think carefully about what you should do{C19}.
+
+@24066.4
+Contact with the people matters. Never forget that a realm exists for its people...
+
+@24067
+I wish to meet the people directly to guide future policy{C22}.
+
+@24068
+The people are exhausted by this chaotic age. Please be kind to them.
+
+@24068.1
+A good chance to hear the people... You'll surely learn what benevolent rule means.
+

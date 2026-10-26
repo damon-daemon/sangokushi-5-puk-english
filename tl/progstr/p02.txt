@@ -1,0 +1,8 @@
+# phase 5: strings the scan had missed (padded with spaces)
+PROG:80010458	Watch
+PROG:80010478	On
+PROG:80011a1c	Food
+PROG:80011a28	Gold
+PROG:801098f4	Gold
+PROG:80143108	Food
+PROG:80143118	Gold

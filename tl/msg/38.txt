@@ -1,0 +1,189 @@
+@38000
+Lord {v01}, a secret envoy has come from the Emperor.
+
+@38001
+I bear a secret decree from the Emperor. Please read it.
+
+@38001.1
+Clear the room, please... This is a secret edict from His Majesty.
+
+@38001.2
+This is a secret decree from His Majesty the Emperor, so please keep it confidential...
+
+@38002
+We can no longer bear {v02}'s tyranny. And so we have a request of you.
+
+@38003
+Will you take {v14}, which groans under harsh rule, within 3 months and save its people?
+
+@38004
+Lord {v01}, will you accept the imperial command?
+
+@38005
+As you command. I will strike down the traitor {v02} without fail.
+
+@38005.1
+Understood. I will surely rid His Majesty of this thorn in his side.
+
+@38005.2
+On my honor as {v01}, I will present {v02}'s head before the day is out.
+
+@38006
+Forgive me. It grieves me that I cannot meet the Emperor's hopes.
+
+@38006.1
+I humbly apologize. Refusing an imperial command breaks my heart.
+
+@38006.2
+Forgive me{C32}. As a subject of Han, defying an imperial command is shameful.
+
+@38007
+It seems Emperor Xian has sent {v01} a secret decree to strike down {v02}.
+
+@38008
+So you have taken {v14}. We expect great things of you.
+
+@38008.1
+As befits your fame as a hero, {v01}. We are delighted.
+
+@38008.2
+Ah, we can almost hear the people of {v14} rejoicing. Lend us your strength again.
+
+@38009
+Word is spreading far and wide of Lord {v01}'s devotion to the house of Han.
+
+@38010
+You still have not taken {v14}... Ah, how the people suffer...
+
+@38010.1
+What, tyranny still reigns in {v14}? We had high hopes for you, {v01}...
+
+@38010.2
+The people of {v14} still weep. We are disappointed, {v01}...
+
+@38011
+Having failed the Emperor's hopes, Lord {v01} has lost fame.
+
+@38012
+The house of Han is now gravely impoverished and declining fast.
+
+@38013
+Will you therefore offer the court %u gold?
+
+@38014
+Lord {v01}, will you offer %u gold to the court? (Gold on hand: %lu)
+
+@38015
+I will not betray His Majesty's hopes. Please use these funds to restore the house of Han.
+
+@38015.1
+The house of Han in such straits... As a subject of Han I cannot stand by. Please accept this.
+
+@38015.2
+How terrible... His Majesty must be suffering so... Please take this gold.
+
+@38016
+Word that you offered gold to the court has spread, and the people speak well of it.
+
+@38017
+I would dearly like to meet His Majesty's hopes, but... once I have the means, I surely will...
+
+@38017.1
+Our realm too is gravely impoverished. Regrettably... I am truly sorry.
+
+@38017.2
+As you see, ours is a poor realm. Even our people and generals live humbly.
+
+@38018
+We are ever grateful for your service. And so, this time...
+
+@38019
+We grant you %u gold. Use it to continue lending us your strength.
+
+@38020
+Lord {v01}, will you accept %u gold?
+
+@38021
+I gratefully accept. Humble as I am, I will strive to restore the house of Han.
+
+@38021.1
+I accept with reverence. I will continue to strive for His Majesty and the house of Han.
+
+@38021.2
+It is the greatest of honors. Command me in anything.
+
+@38022
+You alone are our hope. We expect much of you.
+
+@38022.1
+Lend us your strength from now on. We are counting on you.
+
+@38022.2
+{v01}, we have great hopes for you. We rely on you.
+
+@38023
+I cannot thank you enough, but knowing the plight of the house of Han, I cannot accept this.
+
+@38023.1
+I am honored, but I cannot accept. Please use this gold to restore the house of Han.
+
+@38023.2
+This gold is for restoring the house of Han... His Majesty's kindness is enough.
+
+@38024
+Oh, you think of us so much?
+
+@38024.1
+You needn't have... We will not forget your loyalty.
+
+@38024.2
+So much concern for us... When the house of Han is restored, you will be first among the heroes.
+
+@38025
+Word of Lord {v01}'s conduct has spread, and the people speak well of it.
+
+@38026
+Lord {v01}, an imperial envoy has come from the Emperor.
+
+@38027
+I bear an edict from the Emperor. Please read it.
+
+@38027.1
+What I now read is an imperial command from the Emperor.
+
+@38027.2
+I bring a decree from His Majesty. Please receive it.
+
+@38028
+Your long feud with {v02} seems to be causing the people great suffering.
+
+@38029
+What say you? Will you both lay down your spears and form an alliance?
+
+@38030
+At the Emperor's request, form a %u-month alliance with {v01}?
+
+@38031
+As you command. I will forget old grudges and ally with {v01}.
+
+@38031.1
+How thoughtless of me, heedless of the people's suffering... I will make peace at once.
+
+@38031.2
+Yes! If it is His Majesty's command, I will ally with {v01} at once.
+
+@38032
+An alliance has been formed between {v01} and {v02}, and the people are relieved.
+
+@38033
+Leaving a traitor alive only makes the people suffer. He should be struck down, not allied with.
+
+@38033.1
+I cannot let a villain run free. Please give His Majesty my regards.
+
+@38033.2
+I am sorry, but I cannot let one who brings disaster on the world live...
+
+@38034
+Despite the Emperor's mediation, no alliance was formed. The day the people can live in peace still seems far off.
+

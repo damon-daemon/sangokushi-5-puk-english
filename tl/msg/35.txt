@@ -1,0 +1,549 @@
+@35000
+We will now perform the Dance of Skies. Everyone, prepare for the dance!
+
+@35000.1
+O god who governs all creation, hear my prayer and change{C19} the weather.
+
+@35000.2
+Let my wish reach Heaven and bring the weather I desire!
+
+@35001
+Behold my secret art, the fruit of daily training!
+
+@35001.1
+Success. Behold, a power beyond human wisdom that commands even the weather.
+
+@35001.2
+It worked{C53}. Everyone is amazed by the miracle{C50}.
+
+@35002
+No good... Heaven, do you refuse my wish?
+
+@35002.1
+Blast, I got the ritual wrong.
+
+@35002.2
+It failed. Is this too a trial...? I'll overcome it.
+
+@35003
+Clear the trees and grass around us so it can't spread any further!
+
+@35003.1
+Put out the fire, quickly{C45}! At this rate we'll be food for the flames{C55}!
+
+@35003.2
+If you don't want to die, hurry and put it out! You there, keep working!
+
+@35004
+Hear my prayer! Wind, defy the order of the world and blow as I pray!
+
+@35004.1
+Behold the art of wielding the wind, which overturns even the yin and yang of heaven!
+
+@35005
+Raise the Seven Star Altar! We shall now perform the rite to summon the wind.
+
+@35006
+Hmm... hyah!
+
+@35006.1
+Now, let's divine with the I Ching... (Rattle rattle) Oh, I see, I see.
+
+@35006.2
+I will now divine. I must concentrate, so quiet, please...
+
+@35007
+Divination{C33}! Stand back, everyone! O Heaven, answer my call!
+
+@35008
+Tomorrow's weather... %s. Wind... %s. So say the signs.
+
+@35009
+Hm, tomorrow's weather: %s. Wind: %s. So say the signs{C55}.
+
+@35010
+Hm, a shadow of death over {v02}'s kin...
+
+@35010.1
+A relative of {v02} is near death{C27}. Sad news will arrive{C26}.
+
+@35010.2
+Ill fortune for {v02}'s family... Sad news will come soon, and {v02} will withdraw{C26}.
+
+@35011
+Good news{C45}! {v02}'s kin is dying, so they're retreating{C45}.
+
+@35012
+I divined our fortunes in war: good luck. Now, raise a war cry!
+
+@35012.1
+This battle bodes well. Tell{C19} everyone and stir up their fighting spirit.
+
+@35012.2
+I prayed for our fortunes: good luck. The tide is with us{C21}. Signal the all-out attack!
+
+@35013
+Oh, good fortune in war! We'd better attack all at once{C45}.
+
+@35014
+What, ill fortune in war! Bad, we must do something.
+
+@35014.1
+Sadly, this battle bodes ill... But we mustn't give up{C32}. Don't lose hope...
+
+@35014.2
+What, this battle bodes ill... I hope this doesn't hurt morale.
+
+@35015
+Bad{C50}, ill fortune in war. Everyone, act with the utmost care{C39}.
+
+@35016
+I just divined Lord {v02}'s lifespan: it will be extended.
+
+@35016.1
+Good news{C23}. Lord {v02}'s life will be extended{C23}.
+
+@35016.2
+Lord {v02}'s life will be extended, but please don't overdo it.
+
+@35017
+Good for you, {v02}. Your life will be extended{C45}.
+
+@35018
+Rejoice, {C9}! Your life will be extended{C55}.
+
+@35019
+Lord {v02}'s life will be shortened. It is fate.
+
+@35019.1
+The divination says Lord {v02}'s life... will be shortened. Sad, but this too is Heaven's will.
+
+@35019.2
+It pains me to say, but Lord {v02}'s life will be shortened...
+
+@35020
+{v02}, bad news{C45}. Sadly, your life will be shortened{C45}.
+
+@35021
+The signs say {C9}'s life will be shortened. Stay strong, {C9}.
+
+@35022
+The signs show fire for the enemy. Flames will surely rise from {v02}'s camp...
+
+@35022.1
+The signs say the whole enemy army will be engulfed in flames. Fire, I think{C22}.
+
+@35022.2
+By the divination, fire will break out in the enemy camp{C23}.
+
+@35023
+Fire in the enemy camp! A blaze is sure to break out. Now, attack{C55}!
+
+@35024
+Signs of flood for the enemy... They will surely suffer water damage.
+
+@35024.1
+The signs say enemy units on water will be swallowed{C27}. Surely a flood{C26}.
+
+@35024.2
+The enemy will be hit by a flood... Oh, a torrent is heading for their camp{C27}!
+
+@35025
+The omens show flood for the enemy! Heh, torrent, swallow them up!
+
+@35026
+A blade hangs over {v02}... Perhaps an assassin will strike?
+
+@35026.1
+Hmm, {v02} will be badly hurt{C23}. A blade-borne misfortune{C23}.
+
+@35026.2
+{v02}, ill fortune by the sword... Someone must hold a grudge{C26}.
+
+@35027
+A blade-borne misfortune for {v02}! Everyone, focus your attacks on {v02}{C39}!
+
+@35028
+A person's talent is boundless. I will draw out {v02}'s hidden potential.
+
+@35028.1
+{v02} doesn't seem to be at full strength. Let divination draw out their ability.
+
+@35028.2
+{v02}'s doubts are holding back their ability{C32}. Let's cut those doubts away.
+
+@35029
+{v02}, I'll draw out your hidden ability. Hyaaah!
+
+@35030
+Heaven is on {C9}'s side and seems to have drawn out a hidden ability.
+
+@35031
+Good health for {v02}... How is it? Do you feel the strength surging?
+
+@35031.1
+Signs of recovery from fatigue for {v02}. The fruit of daily effort, I'd say.
+
+@35031.2
+Oh, good news{C23}. Energy will well up in {v02}'s body.
+
+@35032
+The breath of life for {v02}! How's that, feel the strength? Good, good.
+
+@35033
+May {C9}'s stamina recover. Come, let's do our best.
+
+@35034
+Heaven's wrath upon {v02}! Oh, dark clouds gather and lightning heads for their camp...
+
+@35034.1
+Great misfortune for {v02}. Disaster from the sky, say the signs{C27}.
+
+@35034.2
+Let lightning strike {v02}, the wrath and grudge of all!
+
+@35035
+The castle will be engulfed in hellfire... Ah, flames rise from the castle...
+
+@35035.1
+The divination shows fire in the castle. Perhaps there's a traitor inside...
+
+@35035.2
+Signs of a great fire from the castle... Doesn't it mean a blaze in the castle...?
+
+@35036
+Fire in the castle... What could it mean{C52}? What, the castle's burning!
+
+@35037
+Naive, {v02}. Placing an ambush here is the most basic of basic tactics!
+
+@35037.1
+Worth the wait{C55}! Got you{C55}, {v02}! This is where you die!
+
+@35037.2
+Just as I read it. {v02}, today you die. Prepare yourself{C40}!
+
+@35038
+Let me show you my secret art. This is Mirage!
+
+@35038.1
+They've all lost their minds{C50}. {C65} Fear the phantoms! Go mad, run in terror!
+
+@35038.2
+Phantom beasts at my command, devour my foes! {C65} They don't look like illusions, do they?
+
+@35039
+Koooooooh! Kaaaaaaaaah!
+
+@35039.1
+Take thiiiis! My ultimate secret, deadly sorcery{C45}!
+
+@35039.2
+I never thought I'd find a foe worth this spell... You'll regret it.
+
+@35040
+Listen, everyone! For {C9}'s sake, we must win this battle, understood?
+
+@35040.1
+Hear me, all! We can win this battle{C55}! Follow me!
+
+@35040.2
+Believe in victory{C39}! Cast off doubt and think only of victory! Victory is near{C45}!
+
+@35041
+Hey, what are you doing! Follow me{C35}! Let's scatter the enemy{C48}!
+
+@35042
+Heh, camped on the water, knowing nothing. Fools...
+
+@35042.1
+A chance! The enemy is on the water. I'll show them my clever plan.
+
+@35042.2
+Before the enemy finishes crossing the river, we spring the plan. Everyone ready?
+
+@35043
+Boys, it's a flood attack! Show 'em what pirates can do!
+
+@35044
+Light the arrows! Show them arrows have uses like this too!
+
+@35044.1
+Loose fire arrows! Wrap them in flames!
+
+@35044.2
+Now{C45}, light the arrows! Give them a taste of burning hell!
+
+@35045
+Boys, fire arrows! Show 'em a pirate's archery!
+
+@35046
+Take heart! Show them the true strength of {v02}'s army!
+
+@35046.1
+Let's go{C55}! Fight like raging lions!
+
+@35046.2
+Let's do this{C55}! Raaaaah!
+
+@35047
+Shoot, shoot, keep shooting! Hitting our own? A few losses can't be helped.
+
+@35047.1
+Everyone, volley fire! Kill everyone around us{C45}!
+
+@35047.2
+Kill them all{C45}! Never mind the target, just keep shooting!
+
+@35048
+Boys, the usual! Let's show 'em pirate archery!
+
+@35049
+Right, Rush! Everyone, advance with all your might!
+
+@35049.1
+Now{C45}, charge! Show them our speed!
+
+@35049.2
+If not now, when? Follow me{C35}!
+
+@35050
+Arrows can't pierce this Vines armor! With it we're invincible! Advance without fear!
+
+@35050.1
+How's that? Behold our rattan armor! {C65} What fun! They're amazed{C53}!
+
+@35050.2
+{C65} It bounces arrows right off{C53}! The invincible Rattan Army indeed.
+
+@35051
+Hot hot hot! The fire won't go out! Someone help!
+
+@35051.1
+Blast, fire! To strike rattan armor's one weakness... A blunder.
+
+@35051.2
+Gwaaah, hot! Fire, fire... Ah, my invincible Rattan Army...
+
+@35052
+My elite troops burning in the flames... Like a nightmare...
+
+@35052.1
+Everyone's being swallowed by the fire... At this rate we'll be wiped out{C48}.
+
+@35053
+Just as expected of my troops. Not one dropped out of this forced march.
+
+@35053.1
+{v01} has arrived! How's that? Our march is swift as the wind.
+
+@35053.2
+"Swift as the wind" was coined for my elite! {v01} has arrived!
+
+@35054
+Just as expected of my elite. Not one is shaken by such a scheme.
+
+@35054.1
+My troops are reliable. Always keeping their cool... I, {v01}, am proud{C48}.
+
+@35054.2
+Well done, all. Behold my elite's nerve!
+
+@35055
+O god of waters, protect me from your kin!
+
+@35055.1
+{C65} A flood attack? Useless, useless! It's powerless before the Water God's protection!
+
+@35055.2
+Oh, the torrent is avoiding us! Is the Water God protecting my unit?
+
+@35056
+Such a petty scheme! You underestimate me! Now, turn the tables!
+
+@35056.1
+{C65} Naive, {v02}! {C3} already has a countermove!
+
+@35056.2
+{v02}, I saw that plan coming long ago{C45}. I'll turn the tables!
+
+@35057
+Men, shoot back! Teach them how to use a bow!
+
+@35057.1
+Tch, you got us! Hit back when hit, that's {v01}'s way! Go!
+
+@35057.2
+Don't just take it! Shoot back! We're the better archers{C45}!
+
+@35058
+These arrows are nothing! Boys, give 'em a taste of pirate longbows!
+
+@35059
+Show them the fruits of our daily training! Go!
+
+@35059.1
+You can't shoot while moving, they say. But my troops trained until they could{C45}!
+
+@35059.2
+You can't do a trick like this! {C65} Take that!
+
+@35060
+All right, attack together! Show them what we've got! Go!
+
+@35060.1
+Surround the enemy! Once surrounded, they're ours! Now{C45}, annihilate them!
+
+@35060.2
+Surround the enemy{C39}! {C65} They're backing away{C50}!
+
+@35061
+Now, charge! They're wavering! Go, go!
+
+@35061.1
+Charge, ready to die! Take the general's head and name your reward{C48}!
+
+@35061.2
+Before we charge: don't die. Survive. Understood? Don't forget!
+
+@35062
+Boys, Gan Xingba holds your lives! Go, chaaarge!
+
+@35063
+Hmm, this swamp is deep! I can't move freely!
+
+@35063.1
+Bad, my right foot won't come out{C37}! Ah, my left too{C45}! I can't move{C57}{C53}!
+
+@35063.2
+M-my horse is sinking... Blast! Careful{C39}! It's a bottomless swamp{C45}!
+
+@35064
+Don't struggle!! The more you struggle, the deeper you sink{C48}!
+
+@35065
+{v01} got out of the mud.
+
+@35066
+Where will the whole army retreat to?
+
+@35067
+Lord {v02} has come? How reassuring. We can't lose either{C57}{C53}!
+
+@35068
+{v02}, I've been waiting{C48}! Now, go wild!
+
+@35069
+Now that {C9} has arrived, the whole army's morale will rise{C26}.
+
+@35070
+The wind won't change... This can't be. Something is wrong...
+
+@35070.1
+Wind, why do you not answer my prayer?
+
+@35070.2
+It's no use... I can't concentrate on my prayer. Like this I can't change the wind.
+
+@35071
+The wind... has changed! Phew, it seems to have worked somehow.
+
+@35071.1
+My prayer got through... Maybe I concentrated too much. I'm tired.
+
+@35071.2
+Success! If we follow up with a fire scheme, it will be effective.
+
+@35072
+{v01}'s unit's morale rose.
+
+@35073
+They've finally calmed down. Always keep calm on the battlefield, understood?
+
+@35073.1
+You all lack composure{C48}. After the battle I'll drill you hard. Be ready{C39}.
+
+@35073.2
+Death awaits those who lose themselves in battle. If you don't want to die, stay calm{C45}.
+
+@35074
+Finally calmed down? You got too worked up. Keep a cooler head.
+
+@35075
+We took the enemy's supply depot! The top honors go to me!
+
+@35075.1
+This will crush their morale{C48}. As they say, "An army marches on its stomach"{C46}.
+
+@35075.2
+{C0} took the supply depot! We can win this battle{C55}!
+
+@35076
+Wow, look at this mountain of food! Boys, you'll eat your fill later!
+
+@35077
+The Circle formation doesn't need to change facing.
+
+@35078
+{v02}, now is the time to show your strength. Name your reward!
+
+@35078.1
+Now{C45}! Depending on your deeds, Lord {v02}, I promise a great reward.
+
+@35078.2
+As we planned{C55}, {v02}. This battle depends on you{C45}.
+
+@35079
+Leave it to me! Everyone, as planned! "Yesterday's friend is today's foe"!
+
+@35079.1
+Hear me, all! Justice is with {v04}! Our foe is the menace to the world, the traitor {v03}!
+
+@35079.2
+We will now strike {v03}! Anyone who objects may leave the ranks.
+
+@35080
+Rest easy{C40}, {v02}. I, {v01}, will keep my promise even if it costs my life.
+
+@35081
+I can't betray my lord after all. Rather than live in shame, I choose to die loyal.
+
+@35081.1
+You fell for it, {v02}! It was all an act to lure you out!
+
+@35081.2
+When I think of all my lord has done for me... I can't do it{C57}...
+
+@35082
+Hahaha! Promises are made to be broken. That's the way of a chaotic age!
+
+@35082.1
+Hmm, I do feel this side has the advantage... I'll call off the defection{C33}.
+
+@35083
+Lord {v02}, the time is ripe. Scatter them as you please!
+
+@35083.1
+That's enough acting. Lord {v02}, let's show them our army's strength!
+
+@35083.2
+Lord {v02}, now{C23}! Your defection will make the enemy collapse{C26}!
+
+@35084
+Enough acting, {v02}. Come back now.
+
+@35085
+Your ruse has made the enemy complacent{C27}. Now's our chance.
+
+@35086
+You've been good to me. Sorry to repay kindness with betrayal, but no hard feelings.
+
+@35086.1
+They're panicking{C53}! {C0} am your planted poison{C45}! Prepare yourselves!
+
+@35086.2
+{C65} Surprised? No wonder. Men, let's go{C55}!
+
+@35087
+Boys, they're panicking! Now's our chance, get 'em!
+

@@ -1,0 +1,150 @@
+@5000
+Courtesy name Yizhen. He beat Zhang Liang and Zhang Bao's armies with fire in the Yellow Turban Rebellion and dug up Zhang Jue's grave to take his head. Feuded with Dong Zhuo; after Dong Zhuo's death he returned to court as Grand Commandant.
+
+@5001
+Courtesy name Bogong. A general under Liu Zhang who surrendered to Liu Bei and led an army in the Southern and Northern campaigns. After the death of Xiahou Ba he shared his rank with Liao Hua and became Left General of Chariots and Cavalry.
+
+@5002
+Courtesy name Deang. Foreseeing Liu Zhang's defeat, he went over to Liu Bei. He persuaded Ma Chao, who came to relieve Liu Zhang, to submit to Liu Bei. He served in the Southern and Northern campaigns.
+
+@5003
+Courtesy name Boxing. Wei's General Who Pacifies the South. He put down Guanqiu Jian's revolt. In Zhuge Dan's revolt he sortied as chief vanguard, beat the armies of Zhu Yi and Tang Zi and killed Yu Quan. Said to have loved the Book of Changes.
+
+@5004
+Courtesy name Ziquan. A fierce general under Wei's General-in-Chief Cao Zhen. Wielding a 60-jin halberd, he killed the Shu general Xie Xiong and badly wounded Zhang Yi, but was cut down by Wei Yan while pursuing the Shu army.
+
+@5005
+Courtesy name Boji. Wei's Marching Aide. He led an army under Cao Zhen and Sima Yi. As Inspector of Yongzhou he pursued Xiahou Ba, who defected from Wei. At Tielong Mountain he rescued Sima Zhao.
+
+@5006
+Courtesy name Boren. Nephew of Xiahou Dun. Captured at Mt. Dingjun, he was exchanged for the Shu general Chen Shi. Later he attacked Wu on three fronts with Cao Zhen but lost to Lu Xun's army.
+
+@5007
+A general under Sima Zhao who put down Zhuge Dan's revolt. As Jin's General Who Pacifies the South he joined the war on Wu. He opposed the bold plan, but Du Yu replied, "We should use the momentum of splitting bamboo."
+
+@5008
+Courtesy name Anshi. Eldest son of Sima Zhao. He forced the Wei emperor Cao Huan to abdicate and became first emperor of Jin. On the advice of Yang Hu, Du Yu and others he conquered Wu, made Sun Hao surrender and united the realm.
+
+@5009
+Wu's Left General. When Lu Kang was demoted and recalled to the capital on suspicion of secret dealings with the Jin general Yang Hu, he took command of the Wu army in his place.
+
+@5010
+A Wu general. He led Wu reinforcements to help Zhuge Dan. Urged to surrender by the Wei general Wang Ji, he refused, kept his honor and died in battle.
+
+@5011
+Courtesy name Gongyi. He surrendered to Sun Ce with Zhou Tai and served him. As vanguard in the Nanjun campaign he failed and was nearly punished. In the war on Guan Yu he led the navy and surrounded him.
+
+@5012
+Chancellor of Wu. He fought well against the oncoming Jin army. Urged to surrender by Shen Ying and others, he refused, saying he would "die for the nation's crisis," and charged into the melee and was killed.
+
+@5013
+Courtesy name Shuwu. Granted the Sun surname by Sun Ce. At Yiling he lost his men Li Yi and Xie Jing and was surrounded by the Shu army, but held Yiling firmly and waited for Lu Xun's help.
+
+@5014
+Courtesy name Shubi. Third son of Sun Jian and Governor of Danyang. Brave like his brother Sun Ce, but rough, he beat his men when drunk. For that he was assassinated by his men at a banquet.
+
+@5015
+Courtesy name Ziming. Third son of Sun Quan (seventh in the histories) and Wu's second emperor. Though wise, he could not check Sun Chen's tyranny and was deposed and demoted to Prince of Kuaiji.
+
+@5016
+Courtesy name Boqi. A Shu general who served in Zhuge Liang's Southern and Northern campaigns. He later died trying to rescue Jiang Wei. The histories say he pacified the tribes, won their trust and aided local diplomacy.
+
+@5017
+A famed general under Liu Zhang. At Fallen Phoenix Slope he shot Liu Bei's strategist Pang Tong dead. Beaten and captured, he refused Liu Bei's persuasion, saying "a loyal minister does not serve two lords," and was nobly beheaded.
+
+@5018
+Eldest son of Zhao Yun. He told Zhuge Liang of his father's death from illness and reported it to Liu Shan, becoming a Brave Guard Colonel. With his brother Zhao Guang he guarded his father's tomb at Jinping Mountain.
+
+@5019
+Courtesy name Yuanlong. Son of Chen Gui. He joined Liu Bei when Liu Bei received Xu Province from Tao Qian. When Liu Bei's army was crushed by Cao Cao he went over to Cao Cao and gave him Xu Province.
+
+@5020
+Courtesy name Zilie. A Wu general with a strange look: a yellow face and red eyes. He joined Sun Ce in the war with Liu Yao. At Chibi he marched as fourth general. He was killed by Pang De at the Battle of Ruxu.
+
+@5021
+Courtesy name Yuandai. A Wu general who recommended Yu Fan and the famed doctor Hua Tuo to Sun Ce. He fought well defending Ruxu but his ship capsized in a gale and he drowned. Sun Quan had his body found and buried.
+
+@5022
+Shu's General of Fury and Might. He joined the southern campaign but was captured in single combat with Lady Zhurong. In the Northern Expedition he led an army, mostly as ambusher and decoy.
+
+@5023
+Courtesy name Wengui. With Zhu Ran he captured Guan Yu and received Guan Yu's crescent blade as reward. Fleeing Guan Yu's son Guan Xing, he met Guan Yu's ghost, was startled, and was cut down by Guan Xing.
+
+@5024
+Courtesy name Zhongruo. Wei's Inspector of Yangzhou. Enraged by Sima Shi's tyranny in deposing Cao Fang, he plotted revolt with Guanqiu Jian. Beaten, he fled to Wu, was suspected by his ally Zhuge Dan, and was cut down.
+
+@5025
+Courtesy name Zishan. Adviser to Sun Quan. In the Jingzhou campaign he read the moves of Guan Yu and Cao Ren precisely and brought victory. When Sun Quan took the throne he became General of Agile Cavalry, later Chancellor.
+
+@5026
+Courtesy name Weigong. A Shu minister, Chief Clerk in the Northern Expeditions. On bad terms with Wei Yan, he clashed with him after Zhuge Liang's death, a distant cause of Wei Yan's revolt. Angry at his rank, he spoke rashly and was made a commoner.
+
+@5027
+A general under Liu Zhang. He held off Liu Bei's army with Wu Yi and others but was surrounded and surrendered. He guarded Baxi and fought the Wei general Zhang He well, but was cut off by an ambush and killed.
+
+@5028
+A Wu general under Sun Huan who fought Shu with him, wielding a gilded axe. When he raised his axe over the fallen Shu general Zhang Bao, the Shu general Guan Xing cut off his head.
+
+@5029
+A Wu general. In the battle with Shu, to help his ally Li Yi, he shot the horse of the Shu general Zhang Bao and unseated him. The next day he was taken alive by Guan Xing and killed by Zhang Bao.
+
+@5030
+Wu's Minister of Ceremonies. He plotted with Sun Jun to kill the tyrannical Zhuge Ke and for that became Grand Marshal of Wu. He then planned to kill Sun Chen, but Sun Chen killed him instead.
+
+@5031
+Courtesy name Jiping. Merit officer of Yongchang. He held it to the death against Yong Kai. He gave Zhuge Liang, bound south, a map titled "Plan to Pacify the Barbarians" and became his marching instructor.
+
+@5032
+Courtesy name Ziheng. An adviser of Yuan Shu who gave up on him and submitted to Sun Ce. He met Liu Bei as envoy to urge a marriage between Liu Bei and Sun Quan's sister.
+
+@5033
+A general under Yuan Shang and elder brother of Lu Xiang. He surrendered to Yuan Tan and got a general's seal, but sent it to Cao Cao and defected. He attacked Xinye with his brother and was speared dead by the brave Zhao Yun.
+
+@5034
+Courtesy name Gonglu. Son of Jia Kui and a retainer of Sima Zhao. He led Cheng Ji and others in killing Cao Mao. After Zhong Hui's revolt he went to Shu to settle the turmoil in Chengdu. He was reluctant about the war on Wu.
+
+@5035
+A general under Dong Zhuo. After Dong Zhuo's death, on Jia Xu's advice, he raided Chang'an, killed Wang Yun and others, and with Li Jue ruled the court. Later a mountain bandit, he was killed by his man Wu Xi.
+
+@5036
+A general under Liu Du. He faced Liu Bei's army but was no match for Zhang Fei and Zhao Yun and surrendered. Released, he attacked again but lost to Zhao Yun and was thrown from his horse.
+
+@5037
+Courtesy name Jiquan. Second son of Xiahou Yuan. On Sima Yi's recommendation he was vanguard against Shu with his eldest brother Xiahou Ba, opposing Zhuge Liang. He later joined the campaign against Gongsun Yuan.
+
+@5038
+A general under Yuan Shao. At Guandu he fought Cao Cao's fierce Xu Chu. Later he went over to Cao Cao with his colleague Zhang He. He attacked Liu Bei's army at Runan and killed the enemy general Liu Pi.
+
+@5039
+Wei's General Who Conquers the East. He led the vanguard against Gongsun Yuan. In Guanqiu Jian's revolt he commanded with Deng Ai and Wang Ji, beat Guanqiu Jian, and pacified the Huainan region.
+
+@5040
+Second son of Zhao Yun. With his brother Zhao Tong he told Zhuge Liang of their father's death. Made a Gate Guard General, he guarded Zhao Yun's tomb. The histories say he served under Jiang Wei and died at the front in Taozhong.
+
+@5041
+Courtesy name Xiaoqi. A general under Yuan Shao. He carried a letter from Liu Bei, Yuan Shao's guest general, to Guan Yu at Cao Cao's. When Liu Bei became governor of Jingzhou he was summoned as a clerk.
+
+@5042
+Courtesy name Siqian. Shu scholar and one of the officials who urged Liu Bei to take the throne. In Zhuge Liang's first Northern Expedition he was made Erudite and handled Shu's domestic affairs. He also tutored Liu Shan.
+
+@5043
+A clerk under Liu Zhang. To dissuade Liu Zhang from inviting Liu Bei, he hung upside down from the city gate and handed up his memorial. Ignored, he cut the rope tied to his feet, fell and killed himself.
+
+@5044
+Courtesy name Yiquan. Fourth son of Xiahou Yuan. A fluent speaker, skilled in strategy. He served as Marching Aide under Sima Yi and faced the Shu army led by Zhuge Liang.
+
+@5045
+Courtesy name Yaquan (Zhiquan). Third son of Xiahou Yuan, gifted in letters from childhood. With his brother Xiahou He he served as Marching Aide and fought at the front line against Shu.
+
+@5046
+Courtesy name Taichu. Wei's Minister of Ceremonies. With the Director Li Feng he received Emperor Cao Fang's secret blood edict to kill Sima Shi, but the plan was found out at once and he was cut in half at the waist.
+
+@5047
+Courtesy name Yanchang. Shu's Palace Attendant. In Zhuge Liang's "Memorial on Deploying the Army" before the Northern Expedition, he was named with Dong Yun and Fei Yi as sincere and loyal, and court affairs were to be left to them.
+
+@5048
+Courtesy name Zihuang. A Wu general with great merit against the Shanyue. He sortied with Lu Xun to beat the Wei army lured by Zhou Fang's false surrender. He beat the Wei general Xue Qiao and won.
+
+@5049
+Courtesy name Degao. Liu Biao's adviser and Colonel of the Retinue. Sent to Xuchang as envoy to Cao Cao, he received the rank of Palace Attendant from the court. For that Liu Biao was angered and jailed him.
+

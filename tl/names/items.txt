@@ -1,0 +1,33 @@
+# items: id<TAB>English (tools/names.py; Japanese: script/names/items.txt)
+0	Art of War
+1	Art of War 24
+2	Zuo Zhuan
+3	Six Teachings
+4	Book of Escape
+5	Taiping Yaoshu
+6	Map of Shu
+7	Southern Map
+8	Mengde's Book
+9	Shiji
+10	Taiping Qingling
+11	Qing Nang Shu
+12	Yitian Sword
+13	Qinggang Sword
+14	Sky Piercer
+15	Green Dragon
+16	Serpent Spear
+17	Iron Snake Spear
+18	Gu Ding Blade
+19	Twin Swords
+20	Seven Star
+21	Twin Halberds
+22	Trident Blade
+23	Great Axe
+24	Iron Whip
+25	Spiked Mace
+26	Meteor Hammer
+27	Red Hare
+28	Dilu
+29	Zhuahuang
+30	Jueying
+31	Imperial Seal

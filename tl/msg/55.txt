@@ -1,0 +1,282 @@
+@55000
+...
+
+@55001
+In the castle of {v14}
+
+@55002
+A few days later...
+
+@55003
+DEBUGpk3 =
+
+@55004
+Lord Cao Cao, Lord Guan Yu wishes to speak with you. Please hear him.
+
+@55005
+I learned just the other day that my brother is alive.
+
+@55006
+I cannot forget my brother's kindness. With this, I take my leave.
+
+@55007
+After the defeat at Xu, Guan Yu had surrendered only to protect Liu Bei's wives.
+
+@55008
+If we let Guan Yu escape now, he will surely become a calamity for my lord someday.
+
+@55009
+I am firmly against letting Guan Yu go.
+
+@55010
+Lord Cao Cao, will you let Guan Yu leave?
+
+@55011
+...That is a loyal man. Personally, I'd dearly like you to stay, but...
+
+@55012
+...It can't be helped. Guan Yu, we will meet again someday... Until then, be well.
+
+@55013
+...I will never forget your kindness, sir. Farewell!
+
+@55014
+Cao Cao's gracious act has won praise even among the people.
+
+@55015
+You are my subject now. I will not allow such selfishness. Understood?
+
+@55016
+I see... Then I take my leave.
+
+@55017
+Lord Cao Cao, trouble! Guan Yu has broken through the gate and left!
+
+@55018
+What?! What were the gate guards doing?!
+
+@55019
+Did you really think mere gate guards could stop Guan Yu, sir?
+
+@55020
+I suppose not... I should have just sent him off gladly.
+
+@55021
+Guan Yu went into the wilds, set out to search for his former lord, Liu Bei.
+
+@55022
+General Yuan, may I have a word?
+
+@55023
+Ah, Governor of Yu. What is it?
+
+@55024
+Why not join hands with Lord Liu Biao to defeat Cao Cao?
+
+@55025
+Ally with Liu Biao, you say? Hmm, that's one way.
+
+@55026
+I would gladly go as envoy for the alliance.
+
+@55027
+Lord Yuan Shao, send Liu Bei as envoy to form a one-year alliance with Liu Biao?
+
+@55028
+Then I'll leave the embassy to you. I expect great things.
+
+@55029
+As you wish. Await good news.
+
+@55030
+Lord Yuan Shao, I have a feeling Liu Bei is up to something.
+
+@55031
+Let me keep watch on Liu Bei... I'll go with him.
+
+@55032
+Hmm, I see. Then keep an eye on Liu Bei. I'm counting on you.
+
+@55033
+Trouble! We've lost track of Liu Bei. He seems to have fled.
+
+@55034
+This is terrible! We have lost word of Liu Bei and the others. It seems the two fled.
+
+@55035
+No, I don't really trust Liu Biao. There's no need for an alliance.
+
+@55036
+I see... As you wish.
+
+@55037
+What?! So all that talk of an embassy was for this?!
+
+@55038
+He tricked me with his silver tongue... I'll make him pay.
+
+@55039
+Having left Cao Cao, Guan Yu met a band of bandits at the foot of a mountain while searching for Liu Bei.
+
+@55040
+I'm a Yellow Turban general! You there, if you value your life, leave that horse.
+
+@55041
+Heh, a Yellow Turban remnant. Then you must know the name Guan Yu?
+
+@55042
+Red face, long beard, carries a crescent blade... Eek! Th-then you're...
+
+@55043
+Yes, I am Guan Yu. Are you ready?!
+
+@55044
+Wh-what, the man himself... I-I humbly beg your pardon!
+
+@55045
+Hey, Pei Yuanshao, what's going on...?
+
+@55046
+Wh-why, it's Lord Guan Yu!! To think I'd meet you in a place like this...
+
+@55047
+What is it? Why bow so suddenly...?
+
+@55048
+The bandit chief Zhou Cang had seen Guan Yu's valor in the Yellow Turban war, admired him and longed to serve him.
+
+@55049
+This must be Heaven's doing. Lord Guan Yu, please let me serve you, even as a soldier.
+
+@55050
+But I am a wanderer too. I can't offer you much.
+
+@55051
+I don't mind. For you, Lord Guan Yu, I'll follow you through fire and water.
+
+@55052
+Zhou Cang and Pei Yuanshao have joined Guan Yu.
+
+@55053
+On his journey to find Liu Bei, Guan Yu reached the castle ruled by Zhang Fei.
+
+@55054
+Oh, that's Zhang Fei's banner. So Zhang Fei is safe.
+
+@55055
+Brother, are you all right? ...What's wrong, Zhang Fei?
+
+@55056
+Don't "brother" me! A man who broke our oath and gave in to Cao Cao is no brother of mine!
+
+@55057
+Zh-Zhang Fei, calm down, calm down.
+
+@55058
+How can I calm down? Take this!
+
+@55059
+I gave in to Cao Cao only to protect our brother's wives! Don't you understand?!
+
+@55060
+Huh? The ladies?
+
+@55061
+Told why Guan Yu had surrendered, Zhang Fei finally calmed down.
+
+@55062
+...Sorry, brother. Then where is brother Liu Bei now?
+
+@55063
+He had taken refuge with Yuan Shao... but I do not know how he fares now.
+
+@55064
+I see... Well, rest up here for now.
+
+@55065
+Guan Yu and his men took refuge with Zhang Fei.
+
+@55066
+Brother Guan Yu, good news! We've found word of big brother Liu Bei!
+
+@55067
+Truly?! Where is he?
+
+@55068
+They say he's headed this way. Let's go meet him!
+
+@55069
+Zhang Fei and Guan Yu rode out with their men to meet their old lord, Liu Bei.
+
+@55070
+Oh, Guan Yu! Zhang Fei! You are both safe!
+
+@55071
+Glad you're safe too, brother! Oh yeah, brother Guan Yu kept the ladies safe.
+
+@55072
+I see... Thank you, Guan Yu.
+
+@55073
+There is no need for thanks. If only we had held Xiapi to the end, this would not have happened...
+
+@55074
+Enough, that's in the past. Let us work for the Han again!
+
+@55075
+Aye!
+
+@55076
+Lord Zhang Fei, hand the leadership to Liu Bei?
+
+@55077
+Liu Bei has become the ruler.
+
+@55078
+Zhang Fei! Is that you, Zhang Fei? You're safe!
+
+@55079
+Brother! I heard you were with Yuan Shao... How did you escape?
+
+@55080
+Well, now... I did Lord Yuan Shao a bad turn.
+
+@55081
+Ah, who cares! As long as you're safe.
+
+@55082
+On the way back, Pei Yuanshao and Zhou Cang, riding ahead, returned wounded.
+
+@55083
+Ahead, a general leading bandits who were once my men blocks the way.
+
+@55084
+I took him for a common bandit, but my, was he strong... We were no match for him.
+
+@55085
+Hmm... He seems quite a warrior. Who could he be?
+
+@55086
+Liu Bei and the others decided to meet the new bandit chief.
+
+@55087
+I am the chief of these bandits! Hand over your food and I will spare your lives!
+
+@55088
+Hm? Could it be... Aren't you Zhao Zilong?
+
+@55089
+Eh? Wh-why, Lord Liu Bei! It's been a long time.
+
+@55090
+Zhao Yun told what had happened. After Gongsun Zan's defeat and death he had wandered from place to place.
+
+@55091
+Meeting you in such a place must be Heaven's will. Please, let me serve you.
+
+@55092
+A fierce warrior like Zilong as a comrade is truly reassuring. Let us work together for the Han house.
+
+@55093
+The great warrior Zhao Yun has joined Liu Bei.
+

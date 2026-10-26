@@ -1,0 +1,132 @@
+@14000
+Not enough gold.
+
+@14001
+Not enough food.
+
+@14002
+No city can enlist troops.
+
+@14003
+No city can conscript troops.
+
+@14004
+Already done this month.
+
+@14005
+The troops exceed the population,\nso this cannot be done.
+
+@14006
+Select the city to conscript in.
+
+@14007
+Choose who will handle it. Spirit needed: 30
+
+@14008
+How many will you conscript?
+
+@14009
+There are no troops to reorganize.
+
+@14010
+Is that all right?
+
+@14011
+Select the city to enlist in.
+
+@14013
+How much gold will you spend?
+
+@14014
+%u soldiers gathered.
+
+@14015
+No soldiers gathered.
+
+@14016
+No city can train troops.
+
+@14017
+Select the city to drill in.
+
+@14019
+The troops' Training has risen.
+
+@14020
+The troops' Training is now\s
+
+@14020.1
+.
+
+@14021
+No city can be plundered.
+
+@14022
+Select the city to plunder.
+
+@14023
+Choose who will handle it. Spirit needed: 40
+
+@14024
+Cannot plunder.
+
+@14025
+We stripped the people bare, and here's the haul. Let's live in luxury.
+
+@14025.1
+Look! Rice, gold, and beautiful women. I can't stop laughing.
+
+@14025.2
+Look{C19} at all these goods. A banquet tonight, perhaps...
+
+@14025.3
+The people were stingy, so we killed them and took it all. They should have just handed it over...
+
+@14025.4
+With this much, tonight should be great fun{C23}.
+
+@14026
+{C65}, how delightful! All the gold, food and everything in this land is mine.
+
+@14027
+An assault formation built for mobility, good for closing on the enemy fast. Its Bow Atk and Bow Def are the lowest, so it is poor at ranged fighting. "Heavy Cavalry" raises its attack and defense further.
+
+@14028
+Suited to mountains and forests. When attacked, soldiers are more likely to be wounded than killed. Wounded men can recover, so real losses are reduced. A defensive formation.
+
+@14029
+A formation for flat ground. When attacked, losses are more often wounds than deaths, lowering the death rate. Effective when posted where troops can recover, such as on a castle. Better suited to ranged fighting.
+
+@14030
+The only formation that can use "Joint Attack." Joint Attack is very powerful, so use it often when several units surround an enemy in a castle. High Bow Atk also helps at range.
+
+@14031
+A flat-ground formation that can "Charge." Its attack is among the highest of all, but its defense and archery defense are the lowest. Use it to defeat foes fast, at the cost of some losses.
+
+@14032
+Raises the chance of "critical hits" that deal double damage. Critical hits come more often to officers with high Valor, so give this formation to them.
+
+@14033
+An aggressive mountain formation that can "Charge," with good mobility in hills and forests. Its defense is weak, but developing the new "Chariot" helps make up for it.
+
+@14034
+Boasts high defense in mountains and forests, with no loss of defense against attacks from the side. With impassable terrain at its back, it can hold out long even when surrounded.
+
+@14035
+Shows amazing mobility in mountains and forests. Attack and defense are modest, so use it to close on distant foes. New "Sleeved Armor" raises its defense and archery defense.
+
+@14036
+A purely defensive formation. Its defense is the same from every direction, so being surrounded is no disadvantage. Attack is low, but a "Catapult" greatly raises archery attack.
+
+@14037
+A formation specialized in archery, with the best archery attack, defense and range of all. Its melee attack is the lowest, so use it to give covering fire from behind allies.
+
+@14038
+The only formation for water. On land its defense plummets and it is useless, but on water it is invincible. The new "Tower Ship" raises its attack, defense and archery defense.
+
+@14039
+Lord {v01}, we took %u gold and %u food from the people.
+
+@14040
+Lord {v01}, we took %s %u from the people.
+

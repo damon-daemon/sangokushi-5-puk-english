@@ -1,0 +1,494 @@
+PROG:80010164	
+PROG:80010174	
+PROG:80010184	
+PROG:80010194	
+PROG:800101a4	
+PROG:800101b4	
+PROG:800101c0	
+PROG:800101d0	
+PROG:800101e0	
+PROG:800101f0	
+PROG:800101fc	
+PROG:8001020c	
+PROG:8001021c	
+PROG:80010228	Liao/Ru R.
+PROG:80010240	Heavy Cav
+PROG:8001024c	No officers aged 15 or over\nare registered to be a ruler.
+PROG:80010280	No new officers are registered.
+PROG:8001029c	Up to 3 new rulers.
+PROG:800102b4	Choose a new ruler.
+PROG:800102cc	Take retainers along?
+PROG:800102e8	Choose the retainers.
+PROG:80010308	Ruler
+PROG:80010314	New Ruler
+PROG:80010368	Cities: %2u
+PROG:80010378	Now the game begins.
+PROG:800103ac	Tourney
+PROG:800103c4	Skills
+PROG:800103d0	Fictional Mode
+PROG:800103e0	Set
+PROG:800103ec	Fiction
+PROG:800103f8	History
+PROG:80010404	Hard
+PROG:80010410	Normal
+PROG:8001041c	Easy
+PROG:80010428	Absent
+PROG:80010438	Appears
+PROG:80010448	Skip
+PROG:80010468	Mute
+PROG:80010488	Mono
+PROG:80010498	Stereo
+PROG:800104a8	Long
+PROG:800104b4	Normal
+PROG:800104c0	Short
+PROG:800104cc	Officers
+PROG:800104d8	Sound
+PROG:800104e4	Display
+PROG:800105f4	No    OK
+PROG:80010600	Brawn
+PROG:8001060c	Brains
+PROG:80010618	All-round
+PROG:80010624	No officer can become\n%s.
+PROG:80010640	Cut ties
+PROG:80010650	Change parent
+PROG:80010660	Cut ties.\nIs that\nOK?
+PROG:80010680	Officers
+PROG:8001068c	Edit Stats
+PROG:800106a4	Load
+PROG:800106b0	Delete
+PROG:800106bc	Edit
+PROG:800106c8	Register
+PROG:800106e0	Officers
+PROG:800106ec	Items
+PROG:800106f8	Register anew
+PROG:8001070c	Keep using
+PROG:80010720	%-12s  %4s  %4s%s Rank
+PROG:80010738	Switch item
+PROG:80010748	%s Rank
+PROG:80010754	Skills:
+PROG:80010760	Choose up to 6.
+PROG:8001077c	Choose a picture.
+PROG:80010794	OK
+PROG:800107a0	Picture
+PROG:800107ac	Skill
+PROG:800107b8	Effect
+PROG:800107c4	Name
+PROG:800107d0	%s%s Rank
+PROG:800107dc	Effect
+PROG:800108f8	Page  Back
+PROG:80010908	Enter the gender.
+PROG:80010c18	All China is at peace.
+PROG:80010c34	Citywide search
+PROG:80010c44	Leave be
+PROG:80010c50	Summon officers
+PROG:80010c70	Give gold
+PROG:80010c7c	Suppress
+PROG:80010c88	Persuade
+PROG:80010cd0	Renowned %s,\nhere you fall...
+PROG:80010cf8	The %s clan vanished\nfrom history.
+PROG:80010d1c	----
+PROG:80010d6c	----
+PROG:80010d78	Rank--
+PROG:80010d84	Info
+PROG:80010d90	No target
+PROG:80010d9c	Target
+PROG:80010dc0	Health back in 1 mo.
+PROG:80010dd4	Retreat always works
+PROG:80010de8	Cha 100 Fame +100
+PROG:80010e44	%s used %s
+PROG:80010e54	%s took the castle.
+PROG:80010e6c	Battle of %4s
+PROG:80011170	No effect
+PROG:8001117c	%s domestic results\nFarm -> %u %s\nFlood -> %u %s\nTrade -> %u %s\nDef -> %u %s
+PROG:80011230	Anti-Dong Zhuo\nAlliance backers\n
+PROG:80011244	%s unified China\nin year %d.
+PROG:80011480	-
+PROG:8001148c	Do not insert or remove the\nmemory card or controller.
+PROG:800114c4	Saving data.
+PROG:800114d8	Save failed.
+PROG:800114ec	Save complete.
+PROG:80011500	Loading data.
+PROG:80011518	Load failed.
+PROG:8001152c	The data is corrupt.
+PROG:80011544	Load complete.
+PROG:80011558	Rest?
+PROG:800117c8	Quit game
+PROG:800117dc	Keep watching demo
+PROG:800117f0	Play any ruler
+PROG:80011808	Choose the ruler\nto play.
+PROG:80011830	Quit.\nIs that OK?
+PROG:8001184c	Good work.
+PROG:80011a34	What to give?
+PROG:80011a48	%s\n%u mo.\n%s\n%s
+PROG:80011a58	Terms: Alliance %2u mo.\nCond: %s
+PROG:80011a80	Terms: Joint attack\nCond: %s\nTarget: %s
+PROG:80011ab0	Terms: Gift\nGift: %s
+PROG:80011ac4	Terms: Threat
+PROG:80011ad0	Terms: Aid
+PROG:80011adc	%-9s Gold%5u Term%2u mo.
+PROG:80011af4	Terms: Joint dev.\nCost: %u\nWeapon: %s
+PROG:80011b64	Leave alone
+PROG:80011b74	Watch events
+PROG:80011b88	Start over
+PROG:80011b9c	Quit game
+PROG:80011bb0	Quit.\nIs that OK?
+PROG:80011bcc	Good work.
+PROG:80011bdc	Start %s over\nfrom the beginning?
+PROG:80011bf8	End for all
+PROG:80011c08	Leave %s's tasks\nto the computer and\nwatch how events\nunfold?
+PROG:80011c48	The computer will run all rulers.
+PROG:80011c6c	The computer will run %s.
+PROG:80011ca0	Is that OK?
+PROG:80011cb4	You will lose troops.\nIs that OK?
+PROG:80011cdc	Food now
+PROG:80011ce8	Gold now
+PROG:80011cf4	Food need
+PROG:80011d00	Gold need
+PROG:80011d0c	Officers
+PROG:80011d18	Many marshes and rivers, so\nWater formations will give\nan advantage.
+PROG:80011d60	Rugged terrain. Mountain\nformations suit it best.
+PROG:80011d90	Dense forest makes moving\nhard. Mountain formations\nwould be handy.
+PROG:80011ddc	Mostly flat and easy to\nmove across. Plains\nformations are best.
+PROG:80011e1c	Info                  Cancel           OK
+PROG:80011e34	Terrain
+PROG:80011e40	Change
+PROG:80011e4c	Back
+PROG:80011e58	Food?\n(%u lasts 30 days)
+PROG:80011e74	Defense of %4s
+PROG:80011e80	Foe: %s army
+PROG:80011e8c	Units: Main%2s Rear%2s
+PROG:80011ea4	Our main: %6u
+PROG:80011eb4	Our rear: %6u
+PROG:80011ec4	Our total: %6u
+PROG:80011ed4	Foe main: %6u
+PROG:80011ee4	Foe rear: %6u
+PROG:80011ef4	Foe total: %6u
+PROG:80011f04	Joint attack: %s
+PROG:80011f18	%s: %8s  %s
+PROG:80011f28	Units: %2s
+PROG:80011f34	Troops: %6u
+PROG:80011f44	Choose a city to retreat to.
+PROG:80011f60	Take the people along?
+PROG:80011f78	Set fire to %s?
+PROG:80011f8c	Whose formation to change?
+PROG:80011fa8	Can't change officers this month.
+PROG:80011fc8	Appoint which officer?
+PROG:80011fe4	Food now
+PROG:80011ff0	Gold now
+PROG:80011ffc	Food after
+PROG:80012008	Gold after
+PROG:80012014	Trade amount?
+PROG:80012024	Watch
+PROG:80012030	Join
+PROG:8001203c	Stop it
+PROG:80012048	Give gold (%lu)
+PROG:80012058	Give food (%lu)
+PROG:80012068	Control floods
+PROG:80012074	Hand over 1000
+PROG:80012084	Do nothing
+PROG:80012090	Subdue
+PROG:8001209c	Talk
+PROG:800120a8	Accept
+PROG:800120b4	Give gold
+PROG:800120c0	Give food
+PROG:800120cc	Int +%u
+PROG:800120d8	Pol +%u
+PROG:800120e4	War +%u
+PROG:800120f0	Perk / bonus skill:\n
+PROG:80012104	Health back in 1 mo.\n
+PROG:80012118	Rush/March->%s
+PROG:80012128	Chengdu/Zitong/Yongan/Jiangzhou
+PROG:80012140	Yunnan/Jian.
+PROG:8001214c	Retreat always works\n
+PROG:80012160	Rulers only\nCha 100 Fame +100
+PROG:80012180	Rank none
+PROG:8001218c	Rank %4s
+PROG:80012198	Task --
+PROG:800121b0	Decide their fate.
+PROG:800121c4	Sorties %3d  #%d  Captures %3d  #%d
+PROG:800121e8	Wins %3d  #%d  Captured %3d  #%d
+PROG:8001220c	Losses %3d  #%d  Castles %3d  #%d
+PROG:80012230	Duels  %3d W  %3d L  %3d D
+PROG:80012254	Troops:%5u
+PROG:80012264	Wounded:%5u
+PROG:80012274	Stam:%3u
+PROG:80012280	%s's town
+PROG:8001228c	Target dead; no goal.
+PROG:800122b0	%s, goal this year?
+PROG:800122c8	Hmm,\nwhat to do...
+PROG:800122e8	\nOr was it?
+PROG:800122f8	\nWas it...
+PROG:80012304	----
+PROG:80012310	No other rulers.
+PROG:80012324	Switch ruler
+PROG:80012330	%s: rulers
+PROG:80012344	Partner
+PROG:80012350	Alliance
+PROG:8001235c	Ruler:%-8s
+PROG:80012368	Adviser:%-8s
+PROG:80012374	Hostile:%3u
+PROG:80012380	Alliance:
+PROG:8001238c	%2u mo. left
+PROG:80012398	-----
+PROG:800123a4	Cities: %2u
+PROG:800123b4	Near: %s
+PROG:800123c4	Weapons:
+PROG:800123d0	Joint Atk
+PROG:800123dc	Ally: %8s
+PROG:800123e8	Target:
+PROG:800123f4	Within %u mo.
+PROG:80012400	Joint Res.
+PROG:8001240c	In %2u mo.
+PROG:80012418	Formation
+PROG:80012424	Disaster
+PROG:80012430	Ruler
+PROG:8001243c	City
+PROG:80012448	Officer
+PROG:80012454	OK
+PROG:80012460	Defense
+PROG:8001246c	Flood
+PROG:80012478	Support
+PROG:80012484	Trade
+PROG:80012490	Spare Mor
+PROG:8001249c	Farm
+PROG:800124a8	Spare Drl
+PROG:800124b4	Spare
+PROG:800124c0	Pop
+PROG:800124cc	Can't change.
+PROG:800124dc	Catapult
+PROG:800124e8	Tower Ship
+PROG:800124f4	Heavy Cav
+PROG:80012500	Repeater
+PROG:8001250c	Sleeved Armor
+PROG:80012518	Chariot
+PROG:80012524	Formations
+PROG:80012534	Skills
+PROG:80012540	Max 6 skills.
+PROG:80012558	Choose a city.
+PROG:8001256c	Choose a ruler.
+PROG:80012698	Officer Data
+PROG:800126a4	City Data
+PROG:800126b0	Ruler Data
+PROG:800126bc	Win Terms
+PROG:800126c8	Time left: %2uy %2umo (%3uy %2umo)
+PROG:800126ec	%8s   #%2d
+PROG:800126f8	Valor now %5d
+PROG:80012708	Target City
+PROG:80012714	Target Officer
+PROG:80012724	Item needed
+PROG:80012734	%12s  #%2d
+PROG:8001274c	#%2d %-8s %5d
+PROG:8001275c	Valor
+PROG:80012768	Formation
+PROG:80012780	City
+PROG:8001278c	Officer
+PROG:80012798	Each ruler's progress
+PROG:800127d8	There are no win terms!
+PROG:800127f0	%s tactics
+PROG:800127fc	%s tactics
+PROG:80012828	Hahaha!\nDon't make me laugh.
+PROG:8001284c	Beat me? Not in\na thousand years! Pah!
+PROG:80012870	I'll scatter you\nin one blow!
+PROG:80012898	%s morale rose.
+PROG:800128b4	%2u days left
+PROG:800128c0	Rear coming
+PROG:800128cc	No rear
+PROG:8001297c	Stance
+PROG:80012988	Action
+PROG:80012994	Stabbed
+PROG:800129a0	Slashed
+PROG:800129ac	Turn
+PROG:800129b8	Spin
+PROG:800129c4	Cleave
+PROG:800129d0	Back slash
+PROG:800129dc	Choose the\nunit's direction.
+PROG:800129f8	%-8s  War%4u
+PROG:80012a04	Trp%6u  Stm%4u
+PROG:80012a14	%-8s  %4s
+PROG:80012a20	Atk/Def  %2u/%2u
+PROG:80012a34	BowAtk/Def  %2u/%2u
+PROG:80012a48	Mob%3u   Rng%2u
+PROG:80012a5c	Success
+PROG:80012a68	Failed
+PROG:80012aa0	Press X at the start of a turn\nto cancel auto command.
+PROG:80012ad4	Cancel unit auto
+PROG:80012ae4	Cancel all auto
+PROG:80012af4	Unit auto
+PROG:80012b00	All auto
+PROG:80012b0c	Retreat reserve
+PROG:80012b1c	Retreat all
+PROG:80012b28	Retreat unit
+PROG:80012b38	End orders
+PROG:80012b44	Formation
+PROG:80012b50	Units
+PROG:80012b5c	Move where?
+PROG:80012b74	Attack where?
+PROG:80012b8c	Finish cancelling auto?
+PROG:80012ba8	
+PROG:80012bb4	 was annihilated
+PROG:80012bc0	 was wiped out
+PROG:80012bcc	We took all the castles
+PROG:80012be4	All the castles fell
+PROG:80012bf8	 retreated from the field
+PROG:80012c0c	 surrendered
+PROG:80012c18	We held the castle
+PROG:80012c44	%s took your\nfood!
+PROG:80012c60	You took %s's\nfood!
+PROG:80012c7c	%u wins
+PROG:80012ca0	----
+PROG:80012cb8	----
+PROG:80012cd0	End the tournament?
+PROG:80012cf0	Practice
+PROG:80012cfc	Tournament
+PROG:80012d0c	Survival
+PROG:80012da0	Gold%7lu
+PROG:80012db0	Food%7lu
+PROG:80012dc0	Gold need
+PROG:80012dcc	Gold held
+PROG:80012e00	Cancel            OK
+PROG:80012e10	Days to fight
+PROG:80012e20	Duel record
+PROG:80012e30	Rank
+PROG:80012ff4	Days to fight
+PROG:80013004	Rank
+PROG:80013010	Switch
+PROG:8001301c	Spare:%8ld  Drl:%3d Mor:%3d
+PROG:8001303c	Troops changed, so\nit can't be undone.
+PROG:80013060	Valor need
+PROG:8001306c	Switch
+PROG:80013078	----
+PROG:80013084	Q&A
+PROG:80013090	No related weapon
+PROG:800130a0	Settle on this\nformation. Is that OK?
+PROG:800130c4	Rich harvest
+PROG:800130d4	Hit by disaster
+PROG:80013104	7 Flower Drgn
+PROG:80013110	6 Sea Dragon
+PROG:8001311c	5 Thunder Drgn
+PROG:80013128	4 Winter Stars
+PROG:80013134	3 Phoenix
+PROG:80013140	2 Old Mountain
+PROG:8001314c	1 Spring
+PROG:800131b4	Liu Bei: Shu
+PROG:800131c0	Guandu
+PROG:800131cc	Turbans/South
+PROG:800131d8	Wandering Sage
+PROG:800131e4	Star Falls
+PROG:800131f0	Three Kingdoms
+PROG:800131fc	Dragon Rises
+PROG:80013208	Hebei Storm
+PROG:80013214	Cao Cao Rises
+PROG:80013220	Luoyang Burns
+PROG:8001322c	Yellow Turbans
+PROG:80013238	%3dy %2dmo %s %s
+PROG:8001324c	Unused
+PROG:80013264	Which slot to use?
+PROG:80109894	Ruler
+PROG:801098a0	City
+PROG:801098ac	Attack:
+PROG:801098b8	Officer
+PROG:801098c4	Executor
+PROG:801098d0	Mover
+PROG:801098dc	Fighter
+PROG:801098e8	Envoy
+PROG:8010990c	Troops
+PROG:80109918	Spare
+PROG:80109924	Amount
+PROG:80109930	Gift
+PROG:8010993c	Alliance
+PROG:80109948	Terms
+PROG:80109954	Joint Ruler
+PROG:80109960	Weapon
+PROG:8010996c	It will surely go well.\n\n
+PROG:80109988	You may want to\nreconsider...\n
+PROG:8010d84c	Delete this.\nIs that OK?
+PROG:8010d8fc	All parent/child\nlinks will be\ncleared. Is that\nOK?
+PROG:8010d9a0	Points are still\nleft to assign.\nIs that OK?
+PROG:8010da74	Registered data was changed.\n"Start New Game" applies the\nchanged data to the game.\nSaving in-game stores the\nchanged data in the save.\n"Load Data" discards the\nchanged data, so take care.
+PROG:8010db88	Loading will discard\nthe current registered\ndata, so please\ntake care.
+PROG:8010dbd8	The registered %s data holds %3u %s of %s.\nKeep using this registered %s data,\nor register anew?
+PROG:80112b60	Food
+PROG:80112b6c	Attack City
+PROG:80112b78	Battle City
+PROG:80112b84	Formation
+PROG:80112b90	Choose an item to change.
+PROG:80113960	%s learned %s!
+PROG:80113990	%s accepted on his\nown, unordered.
+PROG:801139bc	%s declined\nthe duel.
+PROG:80115b90	Can't do that.
+PROG:80115bac	Panic is over!
+PROG:80115bc0	Healed %s's unit.
+PROG:80115d40	Cancel the full retreat.\nIs that OK?
+PROG:80115d9c	Enemy unit!
+PROG:80115dac	Can't change!
+PROG:80115dc0	Cancel the formation\nchange. Is that OK?
+PROG:80115e30	Out of move range.
+PROG:80115e48	Out of attack range.
+PROG:80115ea4	Out of move range.
+PROG:80115f58	Is that OK?
+PROG:80118670	Switch
+PROG:8011867c	Switch
+PROG:80119a58	Checking the\nmemory card.
+PROG:80119a78	No save data.
+PROG:80119a94	View which data?
+PROG:80119ab0	Load which data?
+PROG:80119ad0	Not enough free\nmemory card space.
+PROG:80119af8	Save to which data?
+PROG:80119b18	Not formatted.\nFormat it?
+PROG:80119b4c	The memory card\nis formatted.
+PROG:80119b78	Formatting.
+PROG:80119b8c	Format finished.
+PROG:80119ba8	Format failed.
+PROG:80119bc4	Not formatted.
+PROG:80119be0	Could not read data.
+PROG:80119c00	Save data is corrupt.
+PROG:80119c1c	Load finished.
+PROG:80119c34	Save finished.
+PROG:80119c4c	Save. Is that OK?
+PROG:80119c68	Load this data?
+PROG:80119c88	The memory card was changed.
+PROG:80119cac	Could not write data.
+PROG:80119ccc	The memory card is corrupt.
+PROG:80119cec	No memory card\nis inserted.
+PROG:80119d14	Save failed.
+PROG:80119d2c	Load failed.
+PROG:80142090	Dest
+PROG:80142098	Food:
+PROG:801420b0	9
+PROG:801420b4	8
+PROG:801420b8	7
+PROG:801420bc	6
+PROG:801420c0	5
+PROG:801420c4	4
+PROG:801420c8	3
+PROG:801420cc	2
+PROG:801420d0	1
+PROG:801420d4	0
+PROG:801420e0	Stop
+PROG:801420e8	OK
+PROG:801420f0	Emp
+PROG:801420f8	Gov
+PROG:80142100	-
+PROG:80142108	Dead
+PROG:80142110	Wait
+PROG:80142118	Unk
+PROG:80142120	Free
+PROG:80142128	Train
+PROG:80142130	Officer
+PROG:80142138	Adv
+PROG:80142140	Ruler
+PROG:80142148	Spec
+PROG:80142150	Dipl
+PROG:80142158	Sch
+PROG:80142160	Dom
+PROG:80142168	Pers
+PROG:80142170	Mil
+PROG:80142178	Lu R.
+PROG:80142180	Huai R.
+PROG:80142188	L Yangzi
+PROG:80142190	M Yangzi
+PROG:80142198	U Yangzi
+PROG:801421a0	L Yellow
+PROG:801421a8	M Yellow
+PROG:801421b0	U Yellow
+PROG:801421b8	Win

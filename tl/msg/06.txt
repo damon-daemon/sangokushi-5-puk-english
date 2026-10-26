@@ -1,0 +1,150 @@
+@6000
+A commoner of Julu Commandery. As founder of the Way of Great Peace he spread its teaching, and exploited the chaos of the age to win broad popular support. He formed the Yellow Turbans and rose against the Han: the Yellow Turban Rebellion.
+
+@6001
+Younger brother of Zhang Jiao. He rose against the Han with his brother, starting the Yellow Turban Rebellion. Calling himself General of the Earth, he led the revolt with sorcery, but was stabbed to death by his subordinate Yan Zheng.
+
+@6002
+Younger brother of Zhang Jiao and Zhang Bao. He rose with his brothers in the Yellow Turban Rebellion. Calling himself General of the People, he led the revolt after Zhang Jiao's death, but was beaten by imperial forces and fell at Quyang.
+
+@6003
+A Yellow Turban general. He led 50,000 rebels in a raid on Youzhou and fought the volunteer army of Liu Bei at the foot of Mt. Daxing. In his first battle, Guan Yu cut him down in a single exchange.
+
+@6004
+A Yellow Turban general. After the rebellion he attacked Beihai Commandery with tens of thousands of remnants. He fought the relief army of Liu Bei and dueled Guan Yu for dozens of exchanges in a hard fight, but was killed.
+
+@6005
+A Yellow Turban general. He kept leading rebels in Runan after the Yellow Turban Rebellion and aided Yuan Shao and Liu Bei, harassing Cao Cao's rear at the Battle of Guandu. He was killed by Xiahou Yuan in battle against Cao Cao.
+
+@6006
+A Yellow Turban general. After the rebellion he led rebels in Runan with Gong Du. He aided Liu Bei and yielded Runan to him. He was killed trying to protect Liu Bei from Cao Cao's officer Gao Lan.
+
+@6007
+A Yellow Turban general. After the rebellion he became a bandit chief. He tried to seize Guan Yu's Red Hare, but on learning who Guan Yu was he submitted, and introduced his friend Zhou Cang to Guan Yu.
+
+@6008
+Courtesy name Suigao. A commoner who ran a slaughterhouse until his sister became Empress to Emperor Ling; as a relative by marriage he rose to General-in-Chief. He plotted to wipe out the eunuchs, but was exposed and murdered.
+
+@6009
+Colonel of Youzhou. He proposed to Inspector Liu Yan of Youzhou that volunteers be recruited from the commoners. Liu Bei, Guan Yu and Zhang Fei were among those who raised troops in answer to the notice.
+
+@6010
+Courtesy name Xiaoxian. On Man Chong's recommendation he joined Cao Cao's staff. Skilled in domestic affairs, he advised stressing agriculture. In Jingzhou he was named Naval Commander with Yu Jin after Cai Mao's execution.
+
+@6011
+Courtesy name Xuangao. Under Tao Qian he distinguished himself against the Yellow Turbans, and later fought on under Lu Bu. Allied with bandits, he troubled Cao Cao in resistance. After Lu Bu's fall he submitted to Cao Cao.
+
+@6012
+Courtesy name Jibi. He defended Nan Commandery in Jingzhou with Cao Ren but was beaten by Zhuge Liang's plan. Later, as Wei's Imperial Secretary, he helped Cao Pi take the throne, and rose to Minister of Education under Emperor Ming.
+
+@6013
+Courtesy name Gongren. A Counselor of the Later Han. He urged Emperor Xian and Cao Cao to move the capital to Xuchang, and drafted the memorial recommending Cao Cao's elevation to Duke of Wei.
+
+@6014
+Courtesy name Shengji. A native of Liaodong. Governor of Liaodong and Martial Majesty General of the Later Han, he was who subdued Goguryeo and the Wuhuan and kept Liaodong independent. Father of Gongsun Kang.
+
+@6015
+A general under Dong Zhuo. When Cao Cao's army was ambushed by Lu Bu's men and fled, he pursued and hit Cao Cao in the shoulder with an arrow. He was then cut down by Xiahou Dun, who came to the rescue.
+
+@6016
+A follower of Dong Zhuo. With the gift of Red Hare he talked Lu Bu over to Dong Zhuo's side by his silver tongue. Later he joined Wang Yun's plot to assassinate Dong Zhuo, and as imperial envoy lured Dong Zhuo into the palace.
+
+@6017
+Courtesy name Gongwei. A Han minister who commanded the imperial army in the Yellow Turban Rebellion. For defeating the rebels with Liu Bei and Sun Jian he was made General of Chariots and Cavalry and Governor of Henan.
+
+@6018
+A general under Lu Bu who fought across the land at his side, a fierce warrior nicknamed "Formation Breaker." After Lu Bu's defeat he offered no excuses and went calmly to his execution.
+
+@6019
+Governor of Chenliu. In the campaign against Dong Zhuo he led troops as the sixth army. A close friend of Cao Cao, he turned on him at Chen Gong's urging. He had Lu Bu attack Yanzhou, but was finally defeated.
+
+@6020
+Courtesy name Yunnan. Formerly under Liu Zhang. Versed in astronomy, he often read the skies to warn Kongming against marching out. He served as Grand Master of Splendid Happiness from Liu Bei's accession until Shu Han's fall.
+
+@6021
+A eunuch. Favored by Shu emperor Liu Shan, he extended his power in the palace. To benefit his protege Yan Yu, he tried to have Jiang Wei demoted. After Shu fell he was executed for ruining the state.
+
+@6022
+Courtesy name Yuanzong. Son of Sun He and last emperor of Wu. Highly regarded before his accession, he lost the people's hearts with cruelty afterward. Attacked by Jin, he surrendered and was enfeoffed Marquis of Guiming.
+
+@6023
+Courtesy name Shuosi. Second son of Zhang Zhao, a leading minister of Wu. A fine writer, he was close to Crown Prince Sun Deng and became his assistant. After Sun Deng's death he was slandered, demoted, and ordered to kill himself.
+
+@6024
+Fifth son of Cao Cao. Sickly, he could not attend Cao Cao's funeral. When his brother Cao Pi sent an envoy to reprimand him for the absence, he feared Cao Pi's might and killed himself. The official history says he died young of illness.
+
+@6025
+Courtesy name Lanqing. Crown Prince of Cao Rui. He took the throne at only eight. He gave Xiahou Xuan and others an edict to destroy the Sima clan, but it was found out; he was deposed and made Prince of Qi.
+
+@6026
+Courtesy name Yanshi. Grandson of Cao Pi. After Cao Fang was deposed, Sima Shi placed him on the throne. Troubled by the Simas' tyranny, he led his own men to kill Sima Zhao, but was killed instead.
+
+@6027
+Courtesy name Jingzhao (Jingming). Son of Cao Yu, Prince of Yan, and last emperor of Wei. Sima Zhao enthroned him, but he abdicated when Sima Yan, Prince of Jin, pressed him. He was later made Prince of Chenliu. A modest man.
+
+@6028
+Courtesy name Zilin. Adopted son of Xiahou Dun (a real son in the official history). As General Who Pacifies the West he defended Chang'an. He met the invading Shu army but lacked the strength and lost, then fled to the Hu and never returned.
+
+@6029
+Second son of Sima Zhao. He became heir to Sima Shi, who had no son. Gentle by nature, Sima Zhao considered making him his own successor, but the court opposed it as a breach of order of seniority.
+
+@6030
+A Counselor of the Later Han with many talents, including learning, astronomy and music. Dong Zhuo prized his gifts and he reluctantly became his aide. After Dong Zhuo's death Wang Yun deemed him a partisan and he died in prison.
+
+@6031
+A follower of Tao Qian. When Cao Cao invaded Xuzhou he tried to duel Xiahou Dun, but a violent wind rose and it was called off. Later under Liu Bei, he quarreled with Zhang Fei and was cut down.
+
+@6032
+Fifth son of Liu Shan and Prince of Beidi. He opposed Qiao Zhou's plan to surrender but was driven from the palace. Ashamed of the surrender, he said, "I will die and apologize to the late emperor," and killed himself with his family.
+
+@6033
+Courtesy name Gongshou. Second son of Liu Bei and half brother of Liu Shan. Liu Shan believed the eunuch Huang Hao's slanders and barred him from court. After Shu fell he moved to Luoyang and became Commandant of Imperial Carriages.
+
+@6034
+Courtesy name Fengxiao. Third son of Liu Bei and half brother of Liu Shan, by a different mother than Liu Yong. He and Liu Yong were called to the dying Liu Bei and received his testament. He died in 244.
+
+@6035
+A Shu general. Eldest son of Zhuge Zhan and grandson of Zhuge Liang. Skilled in all martial arts, he followed Zhuge Zhan as vanguard against Deng Ai at Mianzhu Pass, and fell in battle, outnumbered.
+
+@6036
+Courtesy name Zigao. Eldest son of Sun Quan. He became crown prince when Sun Quan took the throne. Clever and virtuous, he was much hoped for, but died of illness in 241.
+
+@6037
+Courtesy name Zixiao. Second son of Sun Quan (third in the official history) and father of Sun Hao, last emperor of Wu. Slandered by his sister Princess Quan, he was kept from court, and was forced to kill himself by Sun Jun.
+
+@6038
+Courtesy name Jingfeng. A relative of Lu Xun. He won merit in domestic affairs and in subduing the Shanyue. Left Chancellor of Wu. He remonstrated with Emperor Sun Hao over his tyranny in memorials, but was entirely ignored.
+
+@6039
+A Wu minister, a eunuch in the Romance. Favored by Sun Hao, he spurred on his tyranny. When Wu fell, the officials killed him cruelly, saying, "Cen Hun is the root of it all."
+
+@6040
+A general under Liu Biao and a confidant of Cai Mao. He surrendered to Cao Cao with Cai Mao and was made Wei's Deputy Naval Commander. Cao Cao fell for Zhou Yu's scheme of sowing discord and executed him along with Cai Mao.
+
+@6041
+A general under Sun Ce and father of Ling Tong. After defeating Yan Baihu he submitted to Sun Ce and was made Colonel Who Follows the Campaign. He was killed by Gan Ning's arrow in the war against Huang Zu; his son Ling Tong held his body.
+
+@6042
+A brave soldier under Zhang Xiu, of foreign descent and the mightiest warrior in his army. He was said to carry 500 jin on his back and walk 700 li a day. In the war with Cao Cao he proposed stealing Dian Wei's halberd, and did so himself.
+
+@6043
+A general under Yuan Shao. Once one of the Eight Colonels of the Western Garden with Yuan Shao and Cao Cao. At the Battle of Guandu he guarded the grain depot at Wuchao, but drank heavily, was burned out by Cao Cao and suffered a great defeat.
+
+@6044
+Courtesy name Jianyang. Inspector of Jingzhou. At He Jin's request he led his army into Luoyang and opposed Dong Zhuo, who wished to depose the young emperor. His adopted son Lu Bu betrayed him and cut him down.
+
+@6045
+Courtesy name Chengzuo. He studied history under Qiao Zhou and served Shu. After Shu fell he served Wei and Jin and compiled the Records of the Three Kingdoms. A private work, it was recognized as an official history after his death.
+
+@6046
+Courtesy name Zhengping. A talent without equal. Recommended by his friend Kong Rong, he was summoned by Cao Cao. At their meeting Cao Cao was discourteous, so he fiercely abused Cao Cao's followers and earned his wrath.
+
+@6047
+Grand Commandant of the Later Han. Father of the general Qiao Mao and of the famed beauties Da Qiao and Xiao Qiao. As father-in-law of Sun Ce and Zhou Yu, who married his daughters, he was called Elder Qiao. He helped Liu Bei at his wedding to Lady Sun.
+
+@6048
+Younger brother of Zhuge Jin and Zhuge Liang. He lived with Zhuge Liang at Wolong Ridge, farming in fair weather and reading in the rain. After Zhuge Liang took office he served Shu as Colonel of Changshui.
+
+@6049
+A noted man of Xuzhou. Father of Chen Deng. Out of patriotism he betrayed Lu Bu, and with his son Chen Deng played Lu Bu with schemes, contributing to the victories of Liu Bei and Cao Cao.
+

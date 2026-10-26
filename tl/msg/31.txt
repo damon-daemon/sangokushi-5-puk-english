@@ -1,0 +1,303 @@
+@31000
+The gap in strength is hopeless. Don't mistake recklessness for courage, {C9}.
+
+@31000.1
+However elite they are, fighting with these forces is madness... Reconsider{C19}.
+
+@31001
+We have an overwhelming advantage. Let us crush them.
+
+@31001.1
+I promise you certain victory. Come, prepare to march.
+
+@31002
+I think we have the edge, but we can't let our guard down. Fight with all you have.
+
+@31002.1
+We have the advantage, but we can't relax.
+
+@31003
+I judge our forces evenly matched. The rest depends on the generals who lead them.
+
+@31003.1
+Hmm... evenly matched. Now is when {C9}'s command will tell.
+
+@31004
+There's a gap in strength. Let us at least use some scheme first.
+
+@31004.1
+A gap like this is nothing... {C0} have a plan{C21}. Leave it to me{C19}.
+
+@31004.2
+The enemy may have a slight edge, but they're a rabble. This battle is ours!
+
+@31005
+Very good, very good.
+
+@31006
+Lord {v03}, take care on the road. I look forward to seeing you in a year.
+
+@31006.1
+I hear many lands are lawless. Please come back safely{C19}.
+
+@31006.2
+On the road you'll meet many people and learn much. Off you go.
+
+@31007
+I'd like Lord {v03} to protect this realm... No, I won't insist...
+
+@31008
+Lord {v03}'s political skill is needed most right now. Training can wait for another time...
+
+@31009
+I don't want to be without Lord {v03}'s wisdom for a moment{C49}.
+
+@31010
+Understood. I'll set out on a journey to find myself.
+
+@31010.1
+Then, in a year... I'll return as an officer worthy to be {C9}'s right hand.
+
+@31011
+Lord {v02}'s face isn't known there. They can slip in easily.
+
+@31011.1
+{v14} isn't so heavily guarded{C32}. It'll go well{C26}.
+
+@31011.2
+We have a mole in that realm; we'll have them help.
+
+@31011.3
+A clever plan{C23}. Let us make arrangements and send them there at once.
+
+@31011.4
+I've slipped into that realm several times. It'll go well{C26}.
+
+@31012
+I foresaw this and have already made preparations.
+
+@31013
+It's dangerous. Lord {v02}'s face is too well known.
+
+@31013.1
+{v14} is heavily guarded; I think slipping in will be hard{C22}.
+
+@31013.2
+{v14} is hostile to outsiders; I think it's impossible{C22}.
+
+@31013.3
+Please don't{C19}. I think this role is too hard for Lord {v02}{C22}.
+
+@31013.4
+No one who slipped into {v14} has ever come back. Please reconsider.
+
+@31014
+My face is known there too{C27}.
+
+@31015
+I hear that person is on bad terms with their lord. It will go well.
+
+@31015.1
+Lord {v03} seems unhappy with their treatment. Await good news{C19}.
+
+@31015.2
+Let us explain to Lord {v03} the benefits of joining us and get them to promise to defect.
+
+@31015.3
+Lord {v03} seems to want a lord who values them. Let us go and persuade them at once.
+
+@31015.4
+Lord {v02} can persuade that person{C26}.
+
+@31016
+If {C9} persuades them, Lord {v03} will decide to defect{C26}.
+
+@31017
+I know Lord {v03}{C21}. Await good news{C19}.
+
+@31018
+Lord {v03} is treated well in that realm. It won't go well.
+
+@31018.1
+It's pointless. Sometimes force is needed instead of schemes.
+
+@31019
+If this scheme fails, you'll be in danger yourself{C55}.
+
+@31020
+I have a bad feeling about this scheme. We should hold off.
+
+@31021
+Please don't{C19}. Lord {v03} is renowned as a great general in that realm{C55}.
+
+@31022
+Lord {v03} is a loyal soul. I think persuading them will be difficult{C22}.
+
+@31023
+A poor move, a poor move. I doubt that stubborn one would join us{C32}.
+
+@31024
+A rebellion in {v14} would be like holding a sword to Lord {v04}'s throat.
+
+@31024.1
+If Lord {v03} declares independence now, we can pin Lord {v04} down.
+
+@31024.2
+If {v14} rebels, a joint operation with Lord {v03} becomes possible{C46}.
+
+@31025
+You can stir that person up, {C9}{C26}.
+
+@31026
+If we make Lord {v03} independent, I'd like to plan a joint operation too{C46}.
+
+@31027
+Rumor says that one has long aimed to rule a realm. Let us await good news.
+
+@31028
+Lord {v03} was entrusted with a key post and is well trusted. It'll come to nothing.
+
+@31028.1
+I can't imagine Lord {v04}'s trusted right hand falling for such a scheme{C32}.
+
+@31028.2
+I think persuading that person is beyond Lord {v02}{C22}.
+
+@31029
+Please don't{C19}. Instead of driving the tiger, we'll become its prey{C48}.
+
+@31030
+I consulted the oracle and this scheme came out ill-omened. Unlucky{C23}.
+
+@31031
+That one is timid{C23}. I can't imagine them plotting independence{C32}.
+
+@31032
+I can't imagine the honorable Lord {v03} taking such bait{C32}.
+
+@31033
+Let us stir up the people and start a revolt at once.
+
+@31033.1
+A clever plan{C23}. They'll never dream their own people would turn on them...
+
+@31033.2
+Let us teach them the price of neglecting domestic affairs. Don't you neglect them either, my lord.
+
+@31033.3
+A fine plan. Let us seize the moment and crush them in one stroke.
+
+@31034
+If {C9} speaks before the people, their hearts will be moved{C26}.
+
+@31035
+Leave the scheme to me...
+
+@31036
+The people of {v14} seem unhappy with their rule. A rare chance{C46}.
+
+@31037
+The people of that realm are all gentle souls. I doubt the scheme will work.
+
+@31037.1
+I think stirring up the people under that rule is impossible{C22}.
+
+@31037.2
+In {v14}, soldiers and people alike are united{C27}. There's no opening to incite{C32}.
+
+@31038
+They hate you there, {C9}. You mustn't go.
+
+@31039
+Forgive me, but {C0} cannot use the people that way{C32}.
+
+@31040
+The people of that realm are devoted to Lord {v04}. It'll come to nothing.
+
+@31040.1
+The people of {v14} are content with their rule{C27}. That plan is pointless{C26}.
+
+@31041
+A clever plan. Let us wreck their fortifications at once and gain the upper hand.
+
+@31041.1
+Their guard seems thin right now. A golden opportunity{C46}.
+
+@31041.2
+That's no trouble for Lord {v02}. Let us await good news.
+
+@31041.3
+That realm's sturdy castle stands in our way{C30}. I'll sabotage it at once.
+
+@31041.4
+Sabotage before battle... well done, my lord{C46}. A fine plan, I think{C50}.
+
+@31042
+You seem to have some plan in mind. Let me see what you can do.
+
+@31043
+I looked at that castle and found one weak point. Leave it to me{C19}.
+
+@31044
+I think sabotage under {v14}'s tight guard will be difficult.
+
+@31044.1
+Sabotaging that sturdy castle is a drop in the ocean. A poor move...
+
+@31044.2
+I can't agree{C32}. Sabotage under the guards' eyes is extremely hard.
+
+@31044.3
+If the castle is strong, think about how to lure out the troops inside. That is strategy{C55}.
+
+@31044.4
+Sadly, it would fail. Why not try another scheme?
+
+@31045
+I can't agree. Another scheme would work better on that castle, I think{C22}.
+
+@31046
+That castle has no weak points{C32}. Sadly, let us rethink our plans.
+
+@31047
+Lord {v02} has fine spies under direct command. I'll await good news.
+
+@31047.1
+As {v14} is now, rumors will spread easily.
+
+@31047.2
+Rumors about {v04}{C24}? Lord {v02} could pull it off.
+
+@31047.3
+I'll give Lord {v02} a sure-fire plan. Now, lend me your ear...
+
+@31047.4
+Lord {v02} is right for the job{C26}. I have high hopes{C27}.
+
+@31048
+You intend to lead the scheme personally, {C9}{C24}... Then I'll trust your confidence.
+
+@31049
+Leave it to me. I'll prove the title of Adjutant isn't just for show.
+
+@31050
+In that realm, people and officers alike are devoted to {v04}; rumors won't sway them.
+
+@31050.1
+{v04} is popular in {v14}. Rumors are a poor move; "Plant Agent" would be better here.
+
+@31050.2
+I have another request for Lord {v02}. Please don't this time.
+
+@31050.3
+{v14} is a land {v04} rules with great care. Petty tricks won't work{C32}.
+
+@31050.4
+I think it's beyond Lord {v02}... Everyone has their strengths and weaknesses{C21}.
+
+@31051
+Surely you have other things to do, {C9}. Leave this to your officers...
+
+@31052
+I have no confidence{C28}. Could you at least target another realm{C32}?
+
