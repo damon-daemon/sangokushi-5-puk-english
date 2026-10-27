@@ -124,8 +124,7 @@ the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 ## Known issues
 
 - The movies are unchanged (not checked for on-screen Japanese text).
-- Battles have been checked from the war confirmation to the unit cards, but no battle
-  has been played to the end yet.
+- Only a few battles have been played; battle screens are less tested than the map.
 - Name entry opens on the Japanese kana grid; picking a kana there leads to an empty kanji
   list (press × to go back). Use the A–Z / a–z buttons on the left.
 - New officer names hold up to 8 letters, item names up to 12.

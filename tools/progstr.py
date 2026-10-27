@@ -2,7 +2,7 @@
 
 tl/progstr/*.txt: "key<TAB>English" lines, key = PROG:<vaddr hex> (SLPS_014.66; S5 has no
 overlays, the tag is kept for the S6 key format); \\n = newline;
-ASCII text ({fw} prefix = written full-width); English "-" = keep the Japanese (a literal minus sign alone: "\\-") (debug output never shown); '#' starts a
+ASCII text ({fw} prefix = written full-width; {col:N} = column tab to pixel N, vwf TAB); English "-" = keep the Japanese (a literal minus sign alone: "\\-") (debug output never shown); '#' starts a
 comment line. A string without English takes the English of another string with the
 same Japanese (translation memory).
 
@@ -23,7 +23,7 @@ conversions must match.
 import collections, json, os, re, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import fmtlimit, iso, text
+import fmtlimit, iso, text, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'progstr')
@@ -295,7 +295,8 @@ def encode(en):
         return b''.join(t.encode('ascii') if i % 2 else
                         ''.join('\u3000' if c == ' ' else chr(ord(c) + 0xFEE0) for c in t).encode('cp932')
                         for i, t in enumerate(parts))
-    return en.replace('\\-', '-').encode('ascii')
+    return re.sub(r'\{col:(\d+)\}', lambda m: '%c%c%c' % (vwf.TAB, vwf.TAB_HI + (int(m[1]) >> 5), vwf.TAB_LO + (int(m[1]) & 31)),
+                  en.replace('\\-', '-')).encode('ascii')
 
 
 def apply(files, clean, heap, tl=None):

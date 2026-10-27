@@ -9,8 +9,8 @@ Japanese; the text is expanded right before it is drawn or measured:
       English, no hit -> the 2 bytes are copied; ESC sequences (0x1A/0x1B + letter + 1 byte unless
       'W') are copied as they are, so an argument byte is never taken for a lead byte.
   Columns: padded formats (%-8s, %8s, %5d, ...) line up at 8 px a source byte. A name hit followed
-      by >= 2 spaces and more text on the line, spaces before digits (>= 2, or 1 on a line that has
-      a tab already), or >= 2 spaces before more text on a line with a tab; no ESC on the line (one space is prose) -> the spaces become TAB 0x1F,
+      by >= 2 spaces and more text on the line, spaces before digits (>= 2, or 1 at the line start before a lone
+      number, or 1 on a line that has a tab already), or >= 2 spaces before more text on a line with a tab; no ESC on the line (one space is prose) -> the spaces become TAB 0x1F,
       0x30 + (px >> 5), 0x40 + (px & 31) (never '%', a space or a lead byte: the text is a format
       again); digits after it are right-aligned on their Japanese end column; px = column
       base + 8 x (source bytes since the line start), base = a3 & 0xFFFF on the first line (where the
@@ -88,6 +88,12 @@ class Dict:
             tabbed = True
             return True
 
+        def lone(j):
+            """digits from s[j] to the end of the text or line (a list cell number)"""
+            while j < len(s) and 0x30 <= s[j] <= 0x39:
+                j += 1
+            return j == len(s) or s[j] == 0x0A
+
         def rtab(i, j):
             """spaces s[i:j] before a name hit -> tab that right-aligns its English (True)"""
             nonlocal tabbed
@@ -120,7 +126,7 @@ class Dict:
                     dig = j < len(s) and 0x30 <= s[j] <= 0x39
                     more = j < len(s) and s[j] not in (0x0A, 0x0D)
                     if not dig and j - i >= 2 and rtab(i, j) or \
-                            (dig and (j - i >= 2 or tabbed) or more and j - i >= 2 and tabbed) and tab(j):
+                            (dig and (j - i >= 2 or tabbed or i == start and lone(j)) or more and j - i >= 2 and tabbed) and tab(j):
                         i = j
                         continue
                 out.append(c)
@@ -311,6 +317,19 @@ def expand_lines(state, widths):
         ('beqz', 't2', 'temit'),              # >= 2 spaces before digits
         ('andi', 't2', 's4', 4),
         ('bnez', 't2', 'temit'),              # one, on a line with columns
+        ('nop',),
+        ('bne', 's0', 's3', 'single'),        # one, at the line start before a lone number (list cell
+        ('addu', 't5', 't1', 'zero'),         # " 100" under "  98"; not " 1/ 2")
+        'lsd:',
+        ('lbu', 't3', 0, 't5'),
+        ('nop',),
+        ('addiu', 't6', 't3', -0x30),
+        ('sltiu', 't6', 't6', 10),
+        ('bnez', 't6', 'lsd'),
+        ('addiu', 't5', 't5', 1),
+        ('beqz', 't3', 'temit'),
+        ('addiu', 't6', 't3', -0x0A),
+        ('beqz', 't6', 'temit'),
         ('nop',),
         ('b', 'single'),
         ('nop',),

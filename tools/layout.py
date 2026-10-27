@@ -401,7 +401,26 @@ def apply_labels(exe, heap, meas, expand, widths):
     vwf.asm_put(exe, LETTER_CALL, [('jal', heap.code(letter_wrap, expand, widths))])
 
 
+LIST_PRINT, MOR_TYPE = 0x800c79e0, 11     # column types 11 (morale) and 12 (formation)
+
+def form_col(at):
+    """Officer lists: the morale and formation columns (types 11-12, s2) print one cell left (formation: at its
+    clear rect's start) so "Crescent" fits before the window edge. a0 = col; tail-call printf_at."""
+    return asm.assemble(at, [
+        ('addiu', 't0', 's2', -MOR_TYPE),
+        ('sltiu', 't0', 't0', 2),
+        ('beqz', 't0', 'go'),
+        ('nop',),
+        ('addiu', 'a0', 'a0', -1),
+        'go:',
+        ('j', 0x800c4188),
+        ('nop',),
+    ])
+
+
 def apply(exe, heap):
+    assert word(exe, LIST_PRINT) == 0x0c000000 | 0x800c4188 >> 2 & 0x3FFFFFF
+    vwf.asm_put(exe, LIST_PRINT, [('jal', heap.code(form_col))])
     for va, old, new in PATCHES:
         assert word(exe, va) == old, hex(va)
         put_words(exe, va, new)

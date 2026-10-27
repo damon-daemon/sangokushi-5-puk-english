@@ -62,7 +62,7 @@ PROG:800106e0	Officers
 PROG:800106ec	Items
 PROG:800106f8	Register anew
 PROG:8001070c	Keep using
-PROG:80010720	%-12s  %4s  %4s%s Rank
+PROG:80010720	%-12s{col:112}%s{col:160}%s %s Rank
 PROG:80010738	Switch item
 PROG:80010748	%s Rank
 PROG:80010754	Skills:
@@ -73,8 +73,8 @@ PROG:800107a0	Picture
 PROG:800107ac	Skill
 PROG:800107b8	Effect
 PROG:800107c4	Name
-PROG:800107d0	%s%s Rank
-PROG:800107dc	Effect
+PROG:800107d0	%s %s Rank
+PROG:800107dc	Special
 PROG:800108f8	Page  Back
 PROG:80010908	Enter the gender.
 PROG:80010c18	All China is at peace.
@@ -347,7 +347,7 @@ PROG:80012dc0	Gold need
 PROG:80012dcc	Gold held
 PROG:80012e00	Cancel            OK
 PROG:80012e10	Days to fight
-PROG:80012e20	Duel record
+PROG:80012e20	Duels W/L/D
 PROG:80012e30	Rank
 PROG:80012ff4	Days to fight
 PROG:80013004	Rank
