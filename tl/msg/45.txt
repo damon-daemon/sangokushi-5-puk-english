@@ -323,7 +323,7 @@ Low Support... could bandits be loose in the town? Shouldn't we go on Patrol?
 They say an officer who senses death approaching will sometimes teach a formation to their child.
 
 @45001.108
-The higher an Adjutant's Intelligence, the surer the advice. I would like some books...
+The higher an Advisor's Intelligence, the surer the advice. I would like some books...
 
 @45001.109
 With four different ministers and me, a council can be held in the first month.

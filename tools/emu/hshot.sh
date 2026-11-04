@@ -2,7 +2,7 @@
 # hshot.sh out.png : native-resolution screenshot of the headless DuckStation (Screenshot
 # hotkey = vpad Mode button -> build/dsh/duckstation/screenshots/, moved to out.png)
 D=$(cd "$(dirname "$0")" && pwd); PY="$D/../../.venv/bin/python"
-S="$D/../../build/dsh/duckstation/screenshots"
+S="${S5_DSH:-$D/../../build/dsh}/duckstation/screenshots"
 out=$(realpath -m "$1"); rm -f "$out"
 before=$(ls -t "$S" 2>/dev/null | head -1)
 "$PY" "$D/vpad.py" hold Mode 150 >/dev/null

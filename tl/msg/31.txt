@@ -278,7 +278,7 @@ Lord {v02} is right for the job{C26}. I have high hopes{C27}.
 You intend to lead the scheme personally, {C9}{C24}... Then I'll trust your confidence.
 
 @31049
-Leave it to me. I'll prove the title of Adjutant isn't just for show.
+Leave it to me. I'll prove the title of Advisor isn't just for show.
 
 @31050
 In that realm, people and officers alike are devoted to {v04}; rumors won't sway them.

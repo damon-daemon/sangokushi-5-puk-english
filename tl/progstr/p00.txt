@@ -26,42 +26,42 @@ PROG:80010378	Now the game begins.
 PROG:800103ac	Tourney
 PROG:800103c4	Skills
 PROG:800103d0	Fictional Mode
-PROG:800103e0	Set
-PROG:800103ec	Fiction
-PROG:800103f8	History
-PROG:80010404	Hard
-PROG:80010410	Normal
-PROG:8001041c	Easy
-PROG:80010428	Absent
-PROG:80010438	Appears
-PROG:80010448	Skip
-PROG:80010468	Mute
-PROG:80010488	Mono
-PROG:80010498	Stereo
-PROG:800104a8	Long
-PROG:800104b4	Normal
-PROG:800104c0	Short
+PROG:800103e0	        Set
+PROG:800103ec	      Fiction
+PROG:800103f8	     History
+PROG:80010404	       Hard
+PROG:80010410	     Normal
+PROG:8001041c	       Easy
+PROG:80010428	          Absent
+PROG:80010438	         Appears
+PROG:80010448	             Skip
+PROG:80010468	            Mute
+PROG:80010488	            Mono
+PROG:80010498	           Stereo
+PROG:800104a8	       Long
+PROG:800104b4	     Normal
+PROG:800104c0	      Short
 PROG:800104cc	Officers
 PROG:800104d8	Sound
 PROG:800104e4	Display
 PROG:800105f4	No    OK
-PROG:80010600	Brawn
-PROG:8001060c	Brains
-PROG:80010618	All-round
+PROG:80010600	      Brawn
+PROG:8001060c	      Brains
+PROG:80010618	   All-round
 PROG:80010624	No officer can become\n%s.
 PROG:80010640	Cut ties
 PROG:80010650	Change parent
 PROG:80010660	Cut ties.\nIs that\nOK?
 PROG:80010680	Officers
 PROG:8001068c	Edit Stats
-PROG:800106a4	Load
-PROG:800106b0	Delete
+PROG:800106a4	       Load
+PROG:800106b0	      Delete
 PROG:800106bc	Edit
 PROG:800106c8	Register
 PROG:800106e0	Officers
 PROG:800106ec	Items
 PROG:800106f8	Register anew
-PROG:8001070c	Keep using
+PROG:8001070c	               Keep using
 PROG:80010720	%-12s{col:112}%s{col:160}%s %s Rank
 PROG:80010738	Switch item
 PROG:80010748	%s Rank
@@ -69,10 +69,10 @@ PROG:80010754	Skills:
 PROG:80010760	Choose up to 6.
 PROG:8001077c	Choose a picture.
 PROG:80010794	OK
-PROG:800107a0	Picture
+PROG:800107a0	     Picture
 PROG:800107ac	Skill
-PROG:800107b8	Effect
-PROG:800107c4	Name
+PROG:800107b8	      Effect
+PROG:800107c4	      Name
 PROG:800107d0	%s %s Rank
 PROG:800107dc	Special
 PROG:800108f8	Page  Back
@@ -212,7 +212,7 @@ PROG:80012230	Duels  %3d W  %3d L  %3d D
 PROG:80012254	Troops:%5u
 PROG:80012264	Wounded:%5u
 PROG:80012274	Stam:%3u
-PROG:80012280	%s's town
+PROG:80012280	City of %s
 PROG:8001228c	Target dead; no goal.
 PROG:800122b0	%s, goal this year?
 PROG:800122c8	Hmm,\nwhat to do...
@@ -239,28 +239,28 @@ PROG:800123e8	Target:
 PROG:800123f4	Within %u mo.
 PROG:80012400	Joint Res.
 PROG:8001240c	In %2u mo.
-PROG:80012418	Formation
-PROG:80012424	Disaster
-PROG:80012430	Ruler
-PROG:8001243c	City
-PROG:80012448	Officer
+PROG:80012418	   Formation
+PROG:80012424	    Disaster
+PROG:80012430	      Ruler
+PROG:8001243c	        City
+PROG:80012448	     Officer
 PROG:80012454	OK
-PROG:80012460	Defense
-PROG:8001246c	Flood
-PROG:80012478	Support
-PROG:80012484	Trade
-PROG:80012490	Spare Mor
-PROG:8001249c	Farm
-PROG:800124a8	Spare Drl
-PROG:800124b4	Spare
-PROG:800124c0	Pop
+PROG:80012460	       Defense
+PROG:8001246c	         Flood
+PROG:80012478	       Support
+PROG:80012484	         Trade
+PROG:80012490	     Spare Mor
+PROG:8001249c	         Farm
+PROG:800124a8	      Spare Drl
+PROG:800124b4	         Spare
+PROG:800124c0	          Pop
 PROG:800124cc	Can't change.
-PROG:800124dc	Catapult
-PROG:800124e8	Tower Ship
-PROG:800124f4	Heavy Cav
-PROG:80012500	Repeater
-PROG:8001250c	Sleeved Armor
-PROG:80012518	Chariot
+PROG:800124dc	       Catapult
+PROG:800124e8	    Tower Ship
+PROG:800124f4	     Heavy Cav
+PROG:80012500	      Repeater
+PROG:8001250c	 Sleeved Armor
+PROG:80012518	        Chariot
 PROG:80012524	Formations
 PROG:80012534	Skills
 PROG:80012540	Max 6 skills.
@@ -278,10 +278,10 @@ PROG:80012714	Target Officer
 PROG:80012724	Item needed
 PROG:80012734	%12s  #%2d
 PROG:8001274c	#%2d %-8s %5d
-PROG:8001275c	Valor
-PROG:80012768	Formation
-PROG:80012780	City
-PROG:8001278c	Officer
+PROG:8001275c	      Valor
+PROG:80012768	   Formation
+PROG:80012780	        City
+PROG:8001278c	     Officer
 PROG:80012798	Each ruler's progress
 PROG:800127d8	There are no win terms!
 PROG:800127f0	%s tactics
@@ -346,11 +346,11 @@ PROG:80012db0	Food%7lu
 PROG:80012dc0	Gold need
 PROG:80012dcc	Gold held
 PROG:80012e00	Cancel            OK
-PROG:80012e10	Days to fight
-PROG:80012e20	Duels W/L/D
-PROG:80012e30	Rank
-PROG:80012ff4	Days to fight
-PROG:80013004	Rank
+PROG:80012e10	   Days to fight
+PROG:80012e20	   Duels W/L/D
+PROG:80012e30	     Rank
+PROG:80012ff4	   Days to fight
+PROG:80013004	     Rank
 PROG:80013010	Switch
 PROG:8001301c	Spare:%8ld  Drl:%3d Mor:%3d
 PROG:8001303c	Troops changed, so\nit can't be undone.
@@ -360,8 +360,8 @@ PROG:80013078	----
 PROG:80013084	Q&A
 PROG:80013090	No related weapon
 PROG:800130a0	Settle on this\nformation. Is that OK?
-PROG:800130c4	Rich harvest
-PROG:800130d4	Hit by disaster
+PROG:800130c4	         Rich harvest
+PROG:800130d4	               Hit by disaster
 PROG:80013104	7 Flower Drgn
 PROG:80013110	6 Sea Dragon
 PROG:8001311c	5 Thunder Drgn
@@ -369,17 +369,17 @@ PROG:80013128	4 Winter Stars
 PROG:80013134	3 Phoenix
 PROG:80013140	2 Old Mountain
 PROG:8001314c	1 Spring
-PROG:800131b4	Liu Bei: Shu
+PROG:800131b4	     Liu Bei: Shu
 PROG:800131c0	Guandu
 PROG:800131cc	Turbans/South
 PROG:800131d8	Wandering Sage
 PROG:800131e4	Star Falls
-PROG:800131f0	Three Kingdoms
-PROG:800131fc	Dragon Rises
-PROG:80013208	Hebei Storm
+PROG:800131f0	 Three Kingdoms
+PROG:800131fc	   Dragon Rises
+PROG:80013208	    Hebei Storm
 PROG:80013214	Cao Cao Rises
-PROG:80013220	Luoyang Burns
-PROG:8001322c	Yellow Turbans
+PROG:80013220	 Luoyang Burns
+PROG:8001322c	 Yellow Turbans
 PROG:80013238	%3dy %2dmo %s %s
 PROG:8001324c	Unused
 PROG:80013264	Which slot to use?
@@ -391,12 +391,12 @@ PROG:801098c4	Executor
 PROG:801098d0	Mover
 PROG:801098dc	Fighter
 PROG:801098e8	Envoy
-PROG:8010990c	Troops
-PROG:80109918	Spare
-PROG:80109924	Amount
-PROG:80109930	Gift
+PROG:8010990c	     Troops
+PROG:80109918	      Spare
+PROG:80109924	     Amount
+PROG:80109930	        Gift
 PROG:8010993c	Alliance
-PROG:80109948	Terms
+PROG:80109948	      Terms
 PROG:80109954	Joint Ruler
 PROG:80109960	Weapon
 PROG:8010996c	It will surely go well.\n\n
@@ -407,7 +407,7 @@ PROG:8010d9a0	Points are still\nleft to assign.\nIs that OK?
 PROG:8010da74	Registered data was changed.\n"Start New Game" applies the\nchanged data to the game.\nSaving in-game stores the\nchanged data in the save.\n"Load Data" discards the\nchanged data, so take care.
 PROG:8010db88	Loading will discard\nthe current registered\ndata, so please\ntake care.
 PROG:8010dbd8	The registered %s data holds %3u %s of %s.\nKeep using this registered %s data,\nor register anew?
-PROG:80112b60	Food
+PROG:80112b60	       Food
 PROG:80112b6c	Attack City
 PROG:80112b78	Battle City
 PROG:80112b84	Formation

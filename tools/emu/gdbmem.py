@@ -1,8 +1,9 @@
 """Minimal GDB remote-protocol client for DuckStation's GDB server.
 usage: gdbmem.py read ADDR LEN | regs | cont   (port 2345)"""
-import socket, sys, time
+import os, socket, sys, time
 class G:
-    def __init__(s, port=2345):
+    def __init__(s, port=None):
+        port = port or int(os.environ.get('S5_GDB_PORT', 2345))
         s.s = socket.create_connection(('127.0.0.1', port), timeout=5); s.buf = b''
     def _recv(s):
         while True:

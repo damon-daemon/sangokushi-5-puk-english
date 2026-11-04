@@ -27,7 +27,7 @@ BUSY = [(0x80018860, 0x80019720), FONT]       # blits .. print_string; heap code
 BASE = 0x80010000
 MSG_LBA = 0x80142b78                         # MESSAGE.BIN LBA (CdSearchFile at boot)
 MSG_BLOCK = 0x801429f0                       # gp+0x99c: block in the current-block buffer
-LOG = os.path.join(ROOT, 'build', 'dsh', 'headless.log')
+LOG = os.path.join(os.environ.get('S5_DSH') or os.path.join(ROOT, 'build', 'dsh'), 'headless.log')
 
 
 def on_build():

@@ -6,7 +6,7 @@
 # Stop: tools/emu/headless.sh stop
 ROOT=$(cd "$(dirname "$0")/../.." && pwd)
 PY="$ROOT/.venv/bin/python"
-T="$ROOT/build/dsh"
+T="${S5_DSH:-$ROOT/build/dsh}"
 if [ "$1" = stop ]; then
   pkill -TERM -x AppRun; timeout 3 tail -f /dev/null; pkill -x gamescope; pkill -x gamescopereaper
   "$PY" "$ROOT/tools/emu/vpad.py" stop 2>/dev/null; exit 0

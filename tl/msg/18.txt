@@ -248,13 +248,13 @@ After all my loyalty to {C9}, to be treated like this...
 {v01} has left your service!
 
 @18061
-There is no officer who can be appointed Adjutant.
+There is no officer who can be appointed Advisor.
 
 @18062
-Whom will you appoint as Adjutant?
+Whom will you appoint as Advisor?
 
 @18063
-Replace the Adjutant with {v01}.\nIs that OK?
+Replace the Advisor with {v01}.\nIs that OK?
 
 @18064
 I'm deeply grateful. I humbly accept this honorable post.
@@ -281,7 +281,7 @@ Eh, me...? Not that I object, but you should think this over carefully.
 W-wait{C19}. Am {C0} really right for such a post{C24}?
 
 @18066.2
-Really{C24}? Yay, yay{C55}! {C0} am Adjutant{C45}!
+Really{C24}? Yay, yay{C55}! {C0} am Advisor{C45}!
 
 @18067
 There is no officer who can be appointed Strategist.
