@@ -13,7 +13,7 @@ PROG:800118c8	    Training
 PROG:800118d4	       Options
 PROG:800118e0	         Save
 PROG:800118ec	          Load
-PROG:800118f8	Edit
+PROG:800118f8	          Edit
 PROG:80011904	          Quit
 PROG:80011910	     Search
 PROG:8001191c	     Recruit

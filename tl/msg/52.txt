@@ -209,7 +209,7 @@ What does appointing an Advisor mean?
 What is compatibility?
 
 @52070
-Who makes a good scheme minister?
+Who makes a good plot minister?
 
 @52071
 What is "Rumor"?
@@ -518,13 +518,13 @@ The "Council" is a meeting that sets your goals for the year. You can hold it ev
 To hold the Council, at least 1 minister must be appointed in 4 of the 5 departments.\nWith that done, each January your Advisor will say "Shall we hold the Council?" and you decide whether to hold it.
 
 @52173
-No officer, however able, can do every job alone.\nThe minister system sets what kind of work each officer does: "this one handles Domestic", "that one is the Diplomacy specialist".\nThere are 5 departments: Domestic, Personnel, Schemes, Diplomacy and Military. An officer who does a job is chosen from that department's ministers. You cannot have, say, a Domestic minister lead the Military, so take care.\nMinisters can be appointed only in January, April, July and October.
+No officer, however able, can do every job alone.\nThe minister system sets what kind of work each officer does: "this one handles Domestic", "that one is the Diplomacy specialist".\nThere are 5 departments: Domestic, Personnel, Plot, Diplomacy and Military. An officer who does a job is chosen from that department's ministers. You cannot have, say, a Domestic minister lead the Military, so take care.\nMinisters can be appointed only in January, April, July and October.
 
 @52174
 "Strength" is an officer's fighting power. An officer with high Strength can be expected to do well in war.\nMilitary commands like "Training" also give better results with high Strength.
 
 @52175
-"Intelligence" is an officer's cleverness.\nWith high Intelligence your schemes succeed more often, and you are more likely to block enemy schemes.\nAdvisors and Schemes ministers need high Intelligence.
+"Intelligence" is an officer's cleverness.\nWith high Intelligence your schemes succeed more often, and you are more likely to block enemy schemes.\nAdvisors and Plot ministers need high Intelligence.
 
 @52176
 "Politics" is the ability for steady political work such as Domestic and Diplomacy.\nAn officer with high Politics makes a reliable Domestic or Diplomacy minister.\nIt also affects whether Personnel commands like "Recruit" succeed.
@@ -680,7 +680,7 @@ The Advisor is a welcome presence, telling you the odds of success when you try 
 Not displayed, but officers have temperaments. Those with similar ones get on well; those very different do not. This is called "Affinity".\nIt affects every situation involving two officers. For example, an officer who suits his ruler poorly is easy to lure away.\nIf you know the tale of the Three Kingdoms well, you can guess who suits whom.
 
 @52227
-A scheme's success rate depends on the "Intelligence" of the officer who carries it out.\nSo officers with high Intelligence suit the Schemes minister.\nPolitics and Strength matter a little, but appointing high-Intelligence officers is basically safe.
+A scheme's success rate depends on the "Intelligence" of the officer who carries it out.\nSo officers with high Intelligence suit the Plot minister.\nPolitics and Strength matter a little, but appointing high-Intelligence officers is basically safe.
 
 @52228
 Of all schemes, "Rumor" is the one you will use most.\nIt spreads bad rumors about the ruler in an enemy city, lowering the city's Support and the Loyalty of its officers.\nOne try has little effect, so repeat it several times.

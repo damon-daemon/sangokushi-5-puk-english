@@ -20,15 +20,15 @@ SMENU.scen.9	Jan 200^Battle of Guandu
 SMENU.scen.10	May 213^Liu Bei Enters Shu
 # CMDWIN.tabs: command window tabs, top row 0-4, second row 5-9 (~26 px, tinyfont)
 CMDWIN.tabs.0	Ruler
-CMDWIN.tabs.1	Staff
+CMDWIN.tabs.1	Offcrs
 CMDWIN.tabs.2	Move
 CMDWIN.tabs.3	War
 CMDWIN.tabs.4	Opts
-CMDWIN.tabs.5	Admin
-CMDWIN.tabs.6	Pers.
+CMDWIN.tabs.5	Dom
+CMDWIN.tabs.6	Pers
 CMDWIN.tabs.7	Plot
-CMDWIN.tabs.8	Dipl.
-CMDWIN.tabs.9	Army
+CMDWIN.tabs.8	Dipl
+CMDWIN.tabs.9	Mil
 # CELL.tabs: officer/city panel buttons (48x24)
 CELL.tabs.0	Profile
 CELL.tabs.1	Items
@@ -91,6 +91,8 @@ IKKIMODE.champ.1	Team Champ
 OPENING.logo.0	Power-Up Kit
 # SMAP.ok: ruler select confirm button (48x24)
 SMAP.ok.0	OK
+# SMAP.spirit: officer card Spirit plate (32x16, next to the strongman icon)
+SMAP.spirit.0	Spirit
 # HEX.panel: battle status panel labels (units 32x16; troops / food 16x16, letters like CMDWIN.icons)
 HEX.panel.0	Units
 HEX.panel.1	T

@@ -566,9 +566,12 @@ def cell_stats():
     white = dict(kind='pixel', ink=1, shadow=(8, 1, 1), flat='rows', font=['pix', 'mid', 'small'])
     bare = dict(white, shadow=None, also=(8,))
     plain = dict(kind='pixel', ink=10, flat='rows', font=['pix', 'mid', 'small'])
-    row1 = [(0, 32, white), (32, 32, white), (64, 32, plain), (96, 40, dict(plain, ink=11)), (136, 24, plain),
+    # white plates: one background index (dense kanji fool the per-row guess -> grey/dark lines):
+    # red plates (勇名, 忠) 5, brown plates 6
+    red, brown = dict(white, flat=5), dict(white, flat=6)
+    row1 = [(0, 32, red), (32, 32, brown), (64, 32, plain), (96, 40, dict(plain, ink=11)), (136, 24, plain),
             (160, 56, plain), (216, 56, plain), (272, 32, plain), (304, 48, plain), (352, 32, plain)]
-    row2 = [(k * 16, 16, white) for k in range(9)] + [(160, 16, dict(plain, ink=8)), (176, 16, plain), (192, 16, plain),
+    row2 = [(k * 16, 16, red if k == 4 else brown) for k in range(9)] + [(160, 16, dict(plain, ink=8, flat=6)), (176, 16, plain), (192, 16, plain),
             (208, 16, bare), (224, 16, bare), (240, 16, bare), (288, 56, plain)]
     return [dict(o, img=CELL_STAT, box=(x + 1, r * 16 + 1, x + w - 2, r * 16 + 14))
             for r, row in enumerate((row1, row2)) for x, w, o in row]
@@ -622,6 +625,10 @@ ITEMS = {
     # ruler select 決定 button (48x24, normal + lit side by side, lit = 1 px lower; CLUT 640,496)
     'SMAP.ok': [[dict(kind='pixel', img=(512, 256, 0, 152, 96, 24, 8, (640, 496)), box=(x + 5, 5, x + 42, 17 + dy), ink=8,
                       shadow=(4, 1, 1), flat='rows', font=['pix', 'mid']) for x, dy in ((0, 0), (48, 1))]],
+    # officer card 気力 plate (32x16 at SMAP 160,112, under the two arrows; CLUT 640,496): frame 13/4,
+    # field 2, kanji 14 + shadow 12
+    'SMAP.spirit': [[dict(kind='pixel', img=(512, 256, 160, 112, 32, 16, 8, (640, 496)), box=(1, 1, 30, 14), ink=14,
+                          shadow=(12, 1, 1), flat=2, font=['pix', 'mid', 'small'])]],
     # battle status panel labels (HEX page 576,0, CLUT HEX +0xec00): 0 部隊 (32x16) 1 兵 2 米 (16x16)
     'HEX.panel': [dict(kind='pixel', img=(576, 0, u, v, w, 16, 8, ('HEX', 0xec00)), box=(1, 2, w - 2, 13), ink=15,
                        shadow=(9, 1, 1), also=(0,), flat='rows', font=['pix', 'mid', 'small']) for u, v, w in ((32, 32, 32), (80, 0, 16), (96, 0, 16))],
