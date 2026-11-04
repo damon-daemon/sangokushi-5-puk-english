@@ -53,6 +53,8 @@ PATCHES = [
     (0x800847d0, 0x24c62fcc, 0x24c62fd1),   # unit card reading (2): same
     (0x80085554, 0x24c62fcc, 0x24c62fd1),   # unit card reading: same
     (0x80086320, 0x24c62fcc, 0x24c62fd1),   # city panel reading (0x80086314, row 1): same
+    (0x8001b898, 0x24c623ac, 0x24c623b1),   # city reading (getter 0x8005de88, row 1): same
+    (0x80088d6c, 0x24c62fcc, 0x24c62fd1),   # city reading, Edit > City (getter 0x8005de88, row 1): same
     (0x800c78c4, 0x24070005, 0x24070006),   # officer lists, string columns (0x800c78bc): clear/clip rect 5 -> 6 cells
                                             # (the header plates are 6 cells: 'Xiangyang' 52 px was cut at 40 px)
     (0x8004f68c, 0x0c010316, 0x0c01027d),   # msg variable 0xC9 reading -> jal name getter 0x800409f4

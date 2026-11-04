@@ -1,5 +1,5 @@
 @22000
-No Schemes officer has been appointed.
+No Plot officer has been appointed.
 
 @22001
 Choose an envoy. Spirit needed: 40

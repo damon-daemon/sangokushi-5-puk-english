@@ -13,7 +13,7 @@ TAG = b'GPU-VRAM'
 
 def load(path):
     d = open(path, 'rb').read()
-    assert d[:5] == b'DUCCW'
+    assert d[:4] == b'DUCC'   # version byte varies (W, \\ ...)
     # header u32s from 0xa8: media path len/off, subimage, shot type, w, h, shot off? ...
     h = struct.unpack_from('<12I', d, 0xa8)
     off, size = h[11], h[9]
