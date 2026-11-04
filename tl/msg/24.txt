@@ -266,7 +266,7 @@ Explain the importance of this joint project well{C19}. Then you can't fail{C28}
 You can explain the merits of joint development, {C9}{C26}.
 
 @24047
-"Leave it to me"? Are you sure you can? An Adjutant doesn't lie{C32}.
+"Leave it to me"? Are you sure you can? An Advisor doesn't lie{C32}.
 
 @24048
 With Lord {v02}'s eloquence, they'll see the benefits of this project too{C26}.

@@ -5,9 +5,9 @@ expands a glyph to two 4bpp buffers (shadow colour, main colour) and blits the s
 opaque one row lower, then the main colour transparent, at a position in 8-px cells;
 the blits (LoadImage, or StoreImage + byte merge + LoadImage) work in whole VRAM
 halfwords, i.e. 4-px steps. This patch
-  - replaces both blits with blit4 (any pixel x: StoreImage the covering halfwords,
-    merge nibble by nibble, LoadImage; opaque = every nibble, transparent = ink only);
-    a halfword-aligned opaque blit stays a plain LoadImage;
+  - replaces both blits with blit4 (any pixel x: merge nibble by nibble into a RAM copy of
+    the text line being drawn, LoadImage the covering halfwords from it; opaque = every
+    nibble, transparent = ink only; no VRAM readback, see blit4);
   - makes draw_cell take a pixel x (its 3 other callers pass cells: scaled by 8 there);
     the direct-to-VRAM mode (ctx mode 0x800: ClearImage of the cell + main pass) becomes
     one opaque blit of the main buffer;
@@ -70,60 +70,107 @@ MEASURE_CALLS = [0x8001e400, 0x80022998, 0x8007a108, 0x800c5b90]
 MEASURE_W = 256
 
 
-def blit4(at, tmp):
-    """blit_o / blit_t (a0 = px, a1 = py, a2 = w, a3 = h, 0x10(sp) = src 4bpp, pitch w)."""
+CACHE_W, CACHE_ROWS = 320, 17          # px, rows: glyph rows 0..15 + the shadow's row 16
+CACHE_PITCH = CACHE_W // 2             # bytes per cached row (4bpp)
+S_CV, S_CX, S_CY = 28, 30, 32          # line cache: valid, x0 (px, multiple of 4), VRAM y of row 0
+
+
+def blit4(at, tmp, state, cache):
+    """blit_o / blit_t (a0 = px, a1 = py, a2 = w, a3 = h, 0x10(sp) = src 4bpp, pitch w).
+
+    No VRAM readback (a StoreImage per glyph stalls DuckStation's hardware renderers: music
+    stutter on every redraw): the pixels of the text line being drawn are kept in `cache`
+    (CACHE_W px x CACHE_ROWS rows, 4bpp, from x0 = state S_CX at VRAM y = S_CY); a blit
+    merges into the cache (opaque: all w columns; transparent: ink nibbles only) and uploads
+    the covering halfwords of its rows from the cache. A blit outside the cache, or S_CV = 0
+    (the cursor moved, a cell was cleared: vwf_cell / rect_hook), restarts the cache at the
+    blit, zeroed: row 0 = py for a transparent blit, py - 1 for an opaque one (the shadow is
+    drawn first, one row lower) so the main pass that follows lands in the same cache."""
     hi, lo = asm.hi, asm.lo
     return asm.assemble(at, [
         ('b', 'common'),                     # blit_t = at
         ('addiu', 't0', 'zero', 1),
         ('addu', 't0', 'zero', 'zero'),      # blit_o = at + 8
         'common:',
-        ('addiu', 'sp', 'sp', -0x40),
-        ('sw', 'ra', 0x38, 'sp'),
+        ('addiu', 'sp', 'sp', -0x48),
+        ('sw', 'ra', 0x40, 'sp'),
         ('sw', 's0', 0x20, 'sp'),
         ('sw', 's1', 0x24, 'sp'),
         ('sw', 's2', 0x28, 'sp'),
         ('sw', 's3', 0x2c, 'sp'),
         ('sw', 's4', 0x30, 'sp'),
         ('sw', 's5', 0x34, 'sp'),
-        ('lw', 's5', 0x50, 'sp'),
-        ('addu', 's2', 'a2', 'zero'),
-        ('addu', 's3', 'a3', 'zero'),
-        ('addu', 's4', 't0', 'zero'),
-        ('andi', 's1', 'a0', 3),
-        ('subu', 'v0', 'a0', 's1'),
+        ('sw', 's6', 0x38, 'sp'),
+        ('lw', 's5', 0x58, 'sp'),            # src
+        ('addu', 's6', 'a0', 'zero'),        # px
+        ('addu', 's1', 'a1', 'zero'),        # py
+        ('addu', 's2', 'a2', 'zero'),        # w
+        ('addu', 's3', 'a3', 'zero'),        # h
+        ('addu', 's4', 't0', 'zero'),        # 1 = transparent
+        ('blez', 's2', 'done'),
+        ('nop',),
+        ('blez', 's3', 'done'),
+        ('nop',),
+        # VRAM rect: x = 0x380 + px / 4, y, halfwords = (px % 4 + w + 3) / 4, h
+        ('andi', 't1', 'a0', 3),
+        ('subu', 'v0', 'a0', 't1'),
         ('sra', 'v0', 'v0', 2),
         ('addiu', 'v0', 'v0', 0x380),
         ('sh', 'v0', 0x18, 'sp'),
         ('sh', 'a1', 0x1a, 'sp'),
-        ('addu', 'v1', 's1', 'a2'),
+        ('addu', 'v1', 't1', 'a2'),
         ('addiu', 'v1', 'v1', 3),
         ('sra', 'v1', 'v1', 2),
         ('sh', 'v1', 0x1c, 'sp'),
         ('sh', 'a3', 0x1e, 'sp'),
-        ('sll', 's0', 'v1', 2),              # covered width in pixels (dst pitch)
-        ('andi', 't1', 'a2', 3),
-        ('or', 'v0', 's1', 's4'),
-        ('or', 'v0', 'v0', 't1'),
-        ('bnez', 'v0', 'slow'),
-        ('addiu', 'a0', 'sp', 0x18),
-        ('jal', LOADIMAGE),
-        ('addu', 'a1', 's5', 'zero'),
-        ('b', 'done'),
+        # inside the cache?  t4 = row (py - y0), t7 = cx (px - x0)
+        ('lui', 't0', hi(state)),
+        ('lh', 't2', lo(state + S_CV), 't0'),
+        ('lh', 't3', lo(state + S_CY), 't0'),
+        ('lh', 't6', lo(state + S_CX), 't0'),
+        ('beqz', 't2', 'reset'),
+        ('subu', 't4', 's1', 't3'),
+        ('bltz', 't4', 'reset'),
+        ('addu', 't5', 't4', 's3'),
+        ('sltiu', 't5', 't5', CACHE_ROWS + 1),
+        ('beqz', 't5', 'reset'),
+        ('subu', 't7', 's6', 't6'),
+        ('bltz', 't7', 'reset'),
+        ('addu', 't8', 't7', 's2'),
+        ('sltiu', 't8', 't8', CACHE_W + 1),
+        ('bnez', 't8', 'merge'),
         ('nop',),
-        'slow:',
-        ('lui', 'a1', hi(tmp)),
-        ('jal', STOREIMAGE),
-        ('addiu', 'a1', 'a1', lo(tmp)),
-        ('jal', DRAWSYNC),
-        ('addu', 'a0', 'zero', 'zero'),
-        ('blez', 's3', 'load'),
+        'reset:',
+        ('addiu', 't1', 'zero', 1),
+        ('sh', 't1', lo(state + S_CV), 't0'),
+        ('andi', 't2', 's6', 3),
+        ('subu', 't6', 's6', 't2'),
+        ('sh', 't6', lo(state + S_CX), 't0'),
+        ('xori', 't2', 's4', 1),
+        ('subu', 't3', 's1', 't2'),
+        ('sh', 't3', lo(state + S_CY), 't0'),
+        ('lui', 't9', hi(cache)),
+        ('addiu', 't9', 't9', lo(cache)),
+        ('addiu', 't8', 'zero', CACHE_ROWS * CACHE_PITCH // 4),
+        'zero:',
+        ('sw', 'zero', 0, 't9'),
+        ('addiu', 't8', 't8', -1),
+        ('bnez', 't8', 'zero'),
+        ('addiu', 't9', 't9', 4),
+        ('subu', 't4', 's1', 't3'),
+        ('subu', 't7', 's6', 't6'),
+        'merge:',
+        ('lui', 't9', hi(cache)),
+        ('addiu', 't9', 't9', lo(cache)),
+        ('sll', 't0', 't4', 7),
+        ('sll', 't1', 't4', 5),
+        ('addu', 't0', 't0', 't1'),          # row * CACHE_PITCH
+        ('addu', 's0', 't9', 't0'),          # s0 = first cached row
+        ('addu', 't9', 's0', 'zero'),
         ('addu', 't5', 'zero', 'zero'),      # src pixel index
-        ('blez', 's2', 'load'),
-        ('addu', 't6', 's1', 'zero'),        # dst index of the row's first pixel
-        ('addu', 't4', 's3', 'zero'),        # rows left
+        ('addu', 't8', 's3', 'zero'),        # rows left
         'row:',
-        ('addu', 't7', 'zero', 'zero'),      # column
+        ('addu', 't6', 'zero', 'zero'),      # column
         'pix:',
         ('srl', 't0', 't5', 1),
         ('addu', 't0', 't0', 's5'),
@@ -133,51 +180,71 @@ def blit4(at, tmp):
         ('srlv', 't1', 't1', 't2'),
         ('andi', 't1', 't1', 0xf),
         ('bnez', 't1', 'set'),
-        ('nop',),
+        ('addu', 't3', 't7', 't6'),          # dst pixel index in the row
         ('bnez', 's4', 'next'),
         ('nop',),
         'set:',
-        ('addu', 't3', 't6', 't7'),
         ('srl', 't0', 't3', 1),
-        ('lui', 'at', hi(tmp)),
-        ('addu', 't0', 't0', 'at'),
-        ('lbu', 't2', lo(tmp), 't0'),
+        ('addu', 't0', 't0', 't9'),
+        ('lbu', 't2', 0, 't0'),
         ('andi', 't3', 't3', 1),
         ('sll', 't3', 't3', 2),
-        ('addiu', 't9', 'zero', 0xf),
-        ('sllv', 't9', 't9', 't3'),
-        ('nor', 't9', 't9', 'zero'),
-        ('and', 't2', 't2', 't9'),
+        ('addiu', 'v0', 'zero', 0xf),
+        ('sllv', 'v0', 'v0', 't3'),
+        ('nor', 'v0', 'v0', 'zero'),
+        ('and', 't2', 't2', 'v0'),
         ('sllv', 't1', 't1', 't3'),
         ('or', 't2', 't2', 't1'),
-        ('sb', 't2', lo(tmp), 't0'),
+        ('sb', 't2', 0, 't0'),
         'next:',
         ('addiu', 't5', 't5', 1),
-        ('addiu', 't7', 't7', 1),
-        ('bne', 't7', 's2', 'pix'),
+        ('addiu', 't6', 't6', 1),
+        ('bne', 't6', 's2', 'pix'),
         ('nop',),
-        ('addiu', 't4', 't4', -1),
-        ('bnez', 't4', 'row'),
-        ('addu', 't6', 't6', 's0'),
-        'load:',
+        ('addiu', 't8', 't8', -1),
+        ('bnez', 't8', 'row'),
+        ('addiu', 't9', 't9', CACHE_PITCH),
+        # upload: the covering halfwords of the rows, copied into tmp (pitch = halfwords * 2)
+        ('srl', 't0', 't7', 2),
+        ('sll', 't0', 't0', 1),
+        ('addu', 's0', 's0', 't0'),
+        ('lhu', 't1', 0x1c, 'sp'),
+        ('lui', 't2', hi(tmp)),
+        ('addiu', 't2', 't2', lo(tmp)),
+        ('sll', 't1', 't1', 1),              # bytes per row
+        ('addu', 't8', 's3', 'zero'),
+        'crow:',
+        ('addu', 't3', 'zero', 'zero'),
+        'cbyte:',
+        ('addu', 't0', 's0', 't3'),
+        ('lbu', 't4', 0, 't0'),
+        ('addu', 't5', 't2', 't3'),
+        ('addiu', 't3', 't3', 1),
+        ('sb', 't4', 0, 't5'),
+        ('bne', 't3', 't1', 'cbyte'),
+        ('nop',),
+        ('addu', 't2', 't2', 't1'),
+        ('addiu', 't8', 't8', -1),
+        ('bnez', 't8', 'crow'),
+        ('addiu', 's0', 's0', CACHE_PITCH),
         ('addiu', 'a0', 'sp', 0x18),
         ('lui', 'a1', hi(tmp)),
         ('jal', LOADIMAGE),
         ('addiu', 'a1', 'a1', lo(tmp)),
-        'done:',
         ('jal', DRAWSYNC),
         ('addu', 'a0', 'zero', 'zero'),
-        ('lw', 'ra', 0x38, 'sp'),
+        'done:',
+        ('lw', 'ra', 0x40, 'sp'),
         ('lw', 's0', 0x20, 'sp'),
         ('lw', 's1', 0x24, 'sp'),
         ('lw', 's2', 0x28, 'sp'),
         ('lw', 's3', 0x2c, 'sp'),
         ('lw', 's4', 0x30, 'sp'),
         ('lw', 's5', 0x34, 'sp'),
+        ('lw', 's6', 0x38, 'sp'),
         ('jr', 'ra'),
-        ('addiu', 'sp', 'sp', 0x40),
+        ('addiu', 'sp', 'sp', 0x48),
     ])
-
 
 def vwf_cell(at, state, widths):
     """vwf_cell(a0 = ctx, a1 = cursor col, a2 = row, a3 = code); state = s16 col, row, px."""
@@ -196,6 +263,7 @@ def vwf_cell(at, state, widths):
         ('beq', 't2', 'a2', 'keep'),
         ('nop',),
         'reset:',
+        ('sh', 'zero', lo(state + S_CV), 't0'),   # cursor moved: drop blit4's line cache
         ('sll', 's1', 'a1', 3),
         'keep:',
         ('lh', 't3', lo(state + S_TAB), 't0'),
@@ -626,6 +694,7 @@ def rect_hook(at, state):
     hi, lo = asm.hi, asm.lo
     return asm.assemble(at, [
         ('lui', 't0', hi(state)),
+        ('sh', 'zero', lo(state + S_CV), 't0'),   # cleared cell: drop blit4's line cache
         ('lhu', 't1', GP_LEFT, 'gp'),
         ('andi', 't2', 'a1', 0xFFFF),
         ('addu', 't1', 't1', 't2'),
@@ -823,9 +892,10 @@ def apply(exe, heap):
     font = heap.put(b''.join(g[chr(c)][0] for c in ASCII))
     widths = heap.put(bytes(g[chr(c)][1] for c in ASCII))
     tmp = heap.alloc(256)
-    state = heap.put(struct.pack('<14h', -1, -1, *[0] * 12))
-    assert asm.hi(state) == asm.hi(state + S_TABHI)
-    blit = heap.code(blit4, tmp)
+    state = heap.put(struct.pack('<17h', -1, -1, *[0] * 15))
+    assert asm.hi(state) == asm.hi(state + S_CY)
+    cache = heap.alloc(CACHE_ROWS * CACHE_PITCH)
+    blit = heap.code(blit4, tmp, state, cache)
     cell = heap.code(vwf_cell, state, widths)
     wbuf = heap.alloc(WRAP_CAP)
     wrap = heap.code(wrap_fmt, state, widths, wbuf)
@@ -864,4 +934,5 @@ def apply(exe, heap):
     asm_put(exe, CLEAR_RECT, [('j', heap.code(rect_hook, state)), ('nop',)])
     for a in MEASURE_CALLS:
         asm_put(exe, a, [('jal', meas)])
-    return {'cell': cell, 'wrap': wrap, 'measure': meas, 'widths': widths, 'state': state}
+    return {'cell': cell, 'wrap': wrap, 'measure': meas, 'widths': widths, 'state': state,
+            'blit': blit, 'cache': cache}

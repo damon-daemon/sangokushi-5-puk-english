@@ -9,7 +9,8 @@ import glob, os, struct, sys
 
 
 def shm():
-    fs = sorted(glob.glob('/dev/shm/duckstation_*'), key=os.path.getmtime)
+    fs = [os.environ['S5_SHM']] if os.environ.get('S5_SHM') else \
+        sorted(glob.glob('/dev/shm/duckstation_*'), key=os.path.getmtime)
     if not fs:
         sys.exit('no /dev/shm/duckstation_* (is the headless emulator running?)')
     with open(fs[-1], 'rb') as f:

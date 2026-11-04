@@ -52,6 +52,9 @@ PATCHES = [
     (0x8001c150, 0x24c623ac, 0x24c623b1),   # officer card reading: fmt "%-10s" -> its NUL
     (0x800847d0, 0x24c62fcc, 0x24c62fd1),   # unit card reading (2): same
     (0x80085554, 0x24c62fcc, 0x24c62fd1),   # unit card reading: same
+    (0x80086320, 0x24c62fcc, 0x24c62fd1),   # city panel reading (0x80086314, row 1): same
+    (0x800c78c4, 0x24070005, 0x24070006),   # officer lists, string columns (0x800c78bc): clear/clip rect 5 -> 6 cells
+                                            # (the header plates are 6 cells: 'Xiangyang' 52 px was cut at 40 px)
     (0x8004f68c, 0x0c010316, 0x0c01027d),   # msg variable 0xC9 reading -> jal name getter 0x800409f4
     # ruler-select header 0x800c52fc: city "%4s" (right-aligned) at col 6 + ruler centred at col 15 - strlen/2
     # overlapped for long English ("Hanzhor" + "Zixu Shangren") -> city left-aligned at col 5, ruler at col 12
