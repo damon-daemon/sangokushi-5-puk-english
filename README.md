@@ -13,7 +13,7 @@ editor, a duel and tournament mode and more. It was only released in Japan.
 > game terms follow the English translation of *Sangokushi DS 3* (a port of this game,
 > also a fan machine translation by the same author).
 
-> **This is a beta (v0.9.2).** All of the game's text is in English and the main screens
+> **This is a beta.** All of the game's text is in English and the main screens
 > have been played through, but not every battle screen and event has been seen yet.
 > Expect some text that is squeezed, cut short or wrapped oddly.
 
@@ -98,8 +98,8 @@ done
 from your disc. `script/` and `build/` are never committed.
 The build is reproducible: the same disc and sources give a byte-identical patch.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.2` after building:
-it writes `release/Sangokushi_V_PUK_English_v0.9.2.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py <version>` after building:
+it writes `release/Sangokushi_V_PUK_English_v<version>.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout
